@@ -1,0 +1,314 @@
+acronym	ontology_name	acceptance_score	match_count	coverage	names	class_counts	number_of_releases	first_release_year	last_release_year	overlap
+LOINC	Logical Observation Identifier Names and Codes	0.5	57	0.11198428290766209	listening to music#diet#heavy metal poisoning#psychological therapy#activity level#pesticide poisoning#tobacco use#watching TV#oral health#outdoor activity#anaerobic exercise#eating patterns#employment status#vigorous physical activity#chemical exposure#occupational exposure#sleep#fluid intake#calorie intake#dioxin#exercise intensity#sleep duration#activity intensity#education#nutrition#malnutrition#fruits#smoking#energy#physical activity#radiation#exercise frequency#housing#employment#exercise activity#vegetables#sports#oral care#food#exercising#tobacco#illegal drug#smoking tobacco#plastic surgery#drug use#leisure#exercise type#smokeless tobacco#vitamin#job position#aerobic exercise#watching television#alcohol use#hygiene#social life#occupational activity#personal hygiene	285529	25	2009	2023	0.00019962945970461844
+MESH	Medical Subject Headings	0.5	125	0.2455795677799607	pesticide residues#physical activities#processed foods#video games#tobacco use#employment status#physical exercise#occupational status#sleep#dietary habits#sleep duration#vegetable products#fruits#beverages#illicit drug#developing country#eating behavior#tobacco#sedentary lifestyle#social context#phytochemical#economic factors#leisure#literacy#education level#sleep quantity#team sport#dream#occupational activity#physical fitness#dental hygiene#diet#heavy metal poisoning#radiation exposure#delta sleep#dietary fiber#physical inactivity#lower middle income country#alcohol consumption#dietary carbohydrate#psychological interventions#hand hygiene#developed country#alcoholic beverages#recreational drug#calorie intake#dioxin#education#housing#malnutrition#sleeping habits#sports#income#food#personal care products#paradoxical sleep#mobile phone use#performance-enhancing substance#smokeless tobacco#food habit#social environment#sleep habits#deep sleep#slavery#oral hygiene#socioeconomic factors#cognitive behavioral therapy#phytonutrient#xenobiotics#ionizing radiation#economic status#dietary fat#REM sleep#labor exploitation#household work#employment#radiation#housework#vegetables#processed food#food packaging#salary#illegal drug#developed nation#social factors#aerobic exercise#eating habits#hygiene#electromagnetic radiation#oral health#developing nation#socioeconomic status#macronutrient#household activities#recreational drug use#sleep quality#sanitation#micronutrient#sleep stage#cosmetic surgery#housing condition#social networking#environmental exposures#psychotherapy#psychoanalytic therapy#occupational exposure#performance-enhancing drug#food containers#smoking#physical activity#slow-wave sleep#social conditions#meditation#performance enhancing substance#gambling#household activity#caloric intake#working conditions#plastic surgery#dental implant#vitamin#food additive#social status#substance use#wage	352426	26	2009	2023	0.00035468438764449844
+NCIT	National Cancer Institute Thesaurus	0.5	81	0.15913555992141454	dietary mineral#tobacco use#calorie#employment status#sleep#exercise intensity#illicit drug use#pesticide exposure#household income#tobacco#sedentary lifestyle#exposure to radiation#phytochemical#leisure#exercise type#literacy#education level#dream#dental hygiene#diet#radiation exposure#dietary fiber#alcohol consumption#dietary carbohydrate#watching TV#household wealth#dust exposure#recreational drug#dioxin#environmental factors#education#nutrition#malnutrition#housing#energy#sports#income#food#smoking tobacco#rapid eye movement sleep#smokeless tobacco#alcohol use#oral hygiene#socioeconomic factors#ionizing radiation#dietary fat#chemical exposure#REM sleep#employment#radiation#housework#recreational activities#bedtime#aerobic exercise#hygiene#leisure time#electromagnetic radiation#urbanized area#socioeconomic status#macronutrient#socializing#recreational drug use#sleep quality#micronutrient#sleep stage#cosmetic surgery#social networking#environmental exposures#psychotherapy#occupational exposure#CBT#physical activity#smoking#meditation#household activity#caloric intake#plastic surgery#dental implant#vitamin#substance use#wage	188862	140	2007	2023	0.00042888458239349366
+APAONTO	Psychology Ontology	0.0	37	0.07269155206286837	dental health#socioeconomic status#slavery#activity level#traveling#NREM sleep#oral health#employment status#occupational status#chemical exposure#REM sleep#psychotherapy#alcoholic beverages#occupational exposure#sleep#fluid intake#education#nutrition#physical activity#housing#radiation#television viewing#religiosity#sports#eating behavior#meditation#food#gambling#working conditions#plastic surgery#literacy#smokeless tobacco#drug usage#aerobic exercise#hygiene#leisure time#physical fitness	6037	4	2014	2014	0.00612887195626967
+ASDPTO	Autism Spectrum Disorder Phenotype Ontology	0.0	2	0.003929273084479371	hygiene#smoking	284	1	2014	2014	0.0
+OCHV	Ontology of Consumer Health Vocabulary	0.0	144	0.2829076620825147	pesticide residues#physical activities#dietary mineral#video games#tobacco use#calorie#physical exercise#occupational status#mineral supplement#sleep#dietary habits#sleep duration#illicit drug use#fruits#beverages#environmental risk factors#illicit drug#exercise activity#urban area#developing country#eating behavior#tobacco#exposure to radiation#social context#phytochemical#toxic chemical#economic factors#environmental hazards#leisure#literacy#education level#drug usage#urban environment#dream#occupational activity#dental hygiene#personal hygiene#physical fitness#dental health#diet#heavy metal poisoning#radiation exposure#delta sleep#dietary fiber#activity level#psychological therapy#alcohol consumption#dietary carbohydrate#traveling#dust exposure#developed country#dietary fibre#alcoholic beverages#active sleep#recreational drug#dioxin#environmental factors#education#nutrition#malnutrition#housing#energy#exercise frequency#religiosity#betting#sports#income#mental health care#food#paradoxical sleep#smoking tobacco#socioeconomic#rapid eye movement sleep#ionising radiation exposure#smokeless tobacco#alcohol use#food habit#deep sleep#doping#drinking alcohol#oral hygiene#socioeconomic factors#cognitive behavioral therapy#NREM sleep#xenobiotics#eating patterns#ionizing radiation#economic status#dietary fat#chemical exposure#REM sleep#fluid intake#employment#radiation#housework#vegetables#hard drug#processed food#salary#cleanliness#illegal drug#drug use#bedtime#aerobic exercise#eating habits#hygiene#vitamin intake#dieting#leisure time#chemical poisoning#oral health#electromagnetic radiation#poor nutrition#socioeconomic status#pesticide poisoning#recreational drug use#sleep quality#sanitation#micronutrient#sleep stage#cosmetic surgery#environmental exposures#sweets#psychotherapy#occupational exposure#jobs#food containers#smoking#physical activity#television viewing#meditation#pet ownership#gambling#caloric intake#working conditions#plastic surgery#dental implant#vitamin#food additive#social status#substance use#social life#individual sport#wage	115645	2	2016	2016	0.0012451900211855247
+IOBC	Interlinking Ontology for Biological Concepts	0.0	98	0.1925343811394892	fat content#pesticide residues#cognitive-behavioural therapy#anaerobic exercise#physical exercise#aesthetic surgery#sleep#exercise intensity#vegetable products#pesticide exposure#beverages#illicit drug#developing country#eating behavior#tobacco#phytochemical#environmental hazards#dream#physical fitness#dental hygiene#personal hygiene#dental health#diet#heavy metal poisoning#radiation exposure#dietary fiber#physical inactivity#alcohol consumption#psychological interventions#hand hygiene#dietary fibre#alcoholic beverages#recreational drug#education#nutrition#malnutrition#sleeping habits#housing#sleep environment#energy#exercise frequency#heavy metal toxicity#sports#eating behaviour#oral care#food#mental health care#paradoxical sleep#rapid eye movement sleep#smokeless tobacco#alcohol use#food habit#oral hygiene#cognitive behavioral therapy#NREM sleep#xenobiotics#dietary fat#REM sleep#sleep time#environmental chemical#employment#metropolitan area#radiation#vegetables#chronic exposure#processed food#food packaging#illegal drug#drug use#bedtime#hygiene#dieting#chemical poisoning#oral health#electromagnetic radiation#poor nutrition#macronutrient#pesticide poisoning#sleep quality#sanitation#micronutrient#cosmetic surgery#psychotherapy#psychoanalytic therapy#occupational exposure#high-intensity exercise#physical activity#smoking#slow-wave sleep#meditation#radioactive contamination#caloric intake#plastic surgery#dental implant#vitamin#food additive#environmental risk#non-REM sleep	126847	11	2018	2021	0.0007725842944649854
+GSSO	Gender, Sex, and Sexual Orientation Ontology	0.0	31	0.060903732809430254	socioeconomic status#slavery#cognitive behavioral therapy#recreational drug use#social networking#chemical exposure#psychotherapy#recreational drug#performance-enhancing drug#education#housing#physical activity#employment#metropolitan area#urban area#food#salary#performance-enhancing substance#electronic game#religious practice#plastic surgery#drug use#leisure#literacy#social status#substance use#alcohol use#hygiene#dream#personal hygiene#wage	13192	74	2019	2022	0.00234990903577926
+BERO	Biological and Environmental Research Ontology	0.0	47	0.09233791748526522	pesticide residues#radiation exposure#dietary fiber#macronutrient#oral hygiene#dietary mineral#video games#sanitation#physical fitness#phytonutrient#micronutrient#dietary carbohydrate#xenobiotics#hand hygiene#ionizing radiation#chemical exposure#environmental condition#occupational exposure#sleep#dioxin#vegetable products#nutrition#malnutrition#pesticide exposure#physical activity#energy#housing#radiation#urban area#vegetables#sports#eating behavior#eating behaviour#food#paradoxical sleep#tobacco#smoking tobacco#phytochemical#leisure#dental implant#smokeless tobacco#vitamin#food additive#hygiene#toxic agent#electromagnetic radiation#dental hygiene	392307	3	2022	2022	0.00011980413298768566
+COVID-19	COVID-19 Ontology	0.0	2	0.003929273084479371	hand hygiene#hygiene	2270	4	2020	2020	0.0
+PLOSTHES	PLOS Thesaurus	0.0	33	0.06483300589390963	diet#radiation exposure#video games#alcohol consumption#recreational drug use#sanitation#physical fitness#ionizing radiation#psychotherapy#alcoholic beverages#sleep#jobs#education#nutrition#malnutrition#fruits#beverages#physical activity#housing#radiation#employment#vegetables#sports#food#gambling#tobacco#literacy#aerobic exercise#relaxation time#eating habits#hygiene#electromagnetic radiation#oral health	4	4	2015	2017	0.0
+MDM	Mapping of Drug Names and MeSH 2022	0.0	117	0.22986247544204322	pesticide residues#physical activities#video games#tobacco use#employment status#physical exercise#occupational status#sleep#dietary habits#vegetable products#fruits#beverages#illicit drug#developing country#eating behavior#tobacco#sedentary lifestyle#social context#phytochemical#economic factors#leisure#literacy#team sport#dream#physical fitness#dental hygiene#diet#heavy metal poisoning#radiation exposure#delta sleep#dietary fiber#physical inactivity#alcohol consumption#dietary carbohydrate#psychological interventions#hand hygiene#developed country#alcoholic beverages#recreational drug#calorie intake#dioxin#education#housing#malnutrition#sleeping habits#sports#income#food#personal care products#paradoxical sleep#mobile phone use#performance-enhancing substance#smokeless tobacco#food habit#social environment#sleep habits#deep sleep#slavery#oral hygiene#socioeconomic factors#cognitive behavioral therapy#phytonutrient#xenobiotics#ionizing radiation#economic status#dietary fat#REM sleep#labor exploitation#household work#employment#radiation#housework#vegetables#food packaging#salary#illegal drug#developed nation#social factors#aerobic exercise#eating habits#hygiene#electromagnetic radiation#oral health#developing nation#socioeconomic status#macronutrient#household activities#recreational drug use#sleep quality#sanitation#micronutrient#sleep stage#cosmetic surgery#housing condition#social networking#environmental exposures#psychotherapy#psychoanalytic therapy#occupational exposure#performance-enhancing drug#food containers#smoking#physical activity#slow-wave sleep#social conditions#meditation#performance enhancing substance#gambling#household activity#caloric intake#plastic surgery#dental implant#vitamin#food additive#social status#substance use#wage	44789	5	2021	2022	0.0026122485431690815
+ADAR	Autism DSM-ADI-R ontology	0.0	1	0.0019646365422396855	hygiene	791	1	2015	2015	0.0
+RH-MESH	Robert Hoehndorf Version of MeSH	0.0	40	0.07858546168958742	pesticide residues#diet#slavery#dietary fiber#oral hygiene#socioeconomic factors#video games#tobacco use#sanitation#physical fitness#xenobiotics#hand hygiene#social networking#psychotherapy#alcoholic beverages#occupational exposure#psychoanalytic therapy#sleep#education#housing#malnutrition#smoking#beverages#employment#radiation#vegetables#heavy metal toxicity#sports#income#social conditions#food packaging#food#meditation#gambling#tobacco#sedentary lifestyle#hygiene#social environment#electromagnetic radiation#oral health	305349	3	2012	2014	0.00013099764531732542
+OMIT	Ontology for MicroRNA Target	0.0	42	0.0825147347740668	pesticide residues#diet#slavery#radiation exposure#dietary fiber#oral hygiene#socioeconomic factors#video games#tobacco use#sanitation#physical fitness#xenobiotics#hand hygiene#social networking#psychotherapy#alcoholic beverages#occupational exposure#psychoanalytic therapy#sleep#vegetable products#education#malnutrition#smoking#beverages#housing#employment#radiation#vegetables#sports#income#social conditions#food packaging#food#meditation#gambling#tobacco#sedentary lifestyle#literacy#hygiene#social environment#electromagnetic radiation#oral health	90916	41	2010	2021	0.0004619648906683092
+EPIO	EpilepsyOntology	0.0	7	0.0137524557956778	REM sleep#psychotherapy#alcohol consumption#paradoxical sleep#hygiene#CBT#rapid eye movement sleep	1916	1	2021	2021	0.0036534446764091857
+UPHENO	Combined Phenotype Ontology	0.0	21	0.0412573673870334	macronutrient#alcohol consumption#micronutrient#xenobiotics#sleeping behavior#REM sleep#environmental condition#sleep#sleep duration#malnutrition#radiation#eating behavior#eating behaviour#food#paradoxical sleep#rapid eye movement sleep#vitamin#food additive#hygiene#toxic agent#electromagnetic radiation	172043	4	2012	2021	0.00012206250762890672
+NBO	Neuro Behavior Ontology	0.0	13	0.025540275049115914	sleeping behavior#macronutrient#food additive#eating behavior#eating behaviour#REM sleep#food#alcohol consumption#sleep#hygiene#paradoxical sleep#sleep duration#rapid eye movement sleep	4548	38	2011	2023	0.0028583992963940193
+NIFSTD	Neuroscience Information Framework (NIF) Standard Ontology	0.0	21	0.0412573673870334	macronutrient#micronutrient#xenobiotics#sleep#education#smoking#energy#eating behavior#eating behaviour#food#tobacco#social context#drug use#vitamin#food additive#drug usage#substance use#relaxation time#hygiene#toxic agent#dream	177630	24	2007	2018	0.00011822327309576085
+UBERON	Uber Anatomy Ontology	0.0	8	0.015717092337917484	macronutrient#food additive#eating behaviour#food#sleep#hygiene#toxic agent#micronutrient	26365	325	2008	2024	0.00030343258107339276
+MEDDRA	Medical Dictionary for Regulatory Activities Terminology (MedDRA)	0.5	21	0.0412573673870334	heavy metal poisoning#radiation exposure#oral hygiene#pesticide poisoning#cognitive behavioral therapy#tobacco use#recreational drug use#exposure to toxic agent#chemical exposure#psychotherapy#malnutrition#food#gambling#exposure to radiation#plastic surgery#chemical poisoning#vitamin#substance use#alcohol use#occupational activity#personal hygiene	78822	22	2013	2023	0.00026642307985080306
+SYN	Sage Bionetworks Synapse Ontology	0.0	12	0.023575638506876228	leisure#social networking#vitamin#oral hygiene#aerobic exercise#psychotherapy#alcohol consumption#tobacco use#socializing#sedentary lifestyle#household activity#physical activity	14462	3	2011	2012	0.0008297607523164155
+SNOMEDCT	SNOMED CT	0.5	67	0.13163064833005894	occupational activity#diet#oral hygiene#pesticide poisoning#tobacco use#deep sleep#traveling#cosmetic surgery#calorie#travelling#NREM sleep#ionizing radiation#economic status#employment status#physical exercise#cognitive-behaviour therapy#mineral supplement#sweets#REM sleep#lack of physical exercise#active sleep#psychotherapy#sleep#fluid intake#calorie intake#dioxin#illicit drug use#exposure to ionizing radiation#education#nutrition#malnutrition#smoking#physical activity#physical environment#household income#radiation#housework#religiosity#cognitive-behavior therapy#sports#processed food#mental health care#food#pet ownership#gambling#paradoxical sleep#tobacco#sedentary lifestyle#exposure to radiation#social context#phytochemical#toxic chemical#rapid eye movement sleep#financial status#plastic surgery#exposure to vibration#chemical poisoning#vitamin#food additive#bedtime#social status#urban environment#vitamin intake#exposed to vibration#dream#electromagnetic radiation#dental hygiene	367827	27	2009	2023	0.00018215084808891136
+NPI	Non-Pharmacological Interventions (NPIs)	0.0	6	0.011787819253438114	physical exercise#oral hygiene#aerobic exercise#psychotherapy#cognitive-behavioural therapy#physical activity	45	5	2016	2018	0.0
+MEDLINEPLUS	MedlinePlus Health Topics	0.5	19	0.03732809430255403	dental health#radiation exposure#dietary fiber#alcohol consumption#cosmetic surgery#oral health#carbs#nutrition#malnutrition#smoking#cleaning products#food#gambling#sedentary lifestyle#smokeless tobacco#vitamin#dieting#occupational activity#physical fitness	2266	21	2013	2023	0.008384819064430714
+CRISP	Computer Retrieval of Information on Scientific Projects Thesaurus	0.5	49	0.0962671905697446	occupational activity#dental health#diet#drinking alcohol#dietary fiber#dietary mineral#sanitation#physical fitness#dietary carbohydrate#cosmetic surgery#ionizing radiation#dietary fat#REM sleep#psychotherapy#sleep#dioxin#CBT#education#nutrition#malnutrition#smoking#housing#employment#radiation#urban area#sports#income#meditation#food#gambling#paradoxical sleep#tobacco#salary#smoking tobacco#food chain contamination#rapid eye movement sleep#plastic surgery#leisure#literacy#dental implant#smokeless tobacco#vitamin#food additive#social status#aerobic exercise#social environment#dream#electromagnetic radiation#oral health	9039	22	2013	2023	0.005420953645314747
+ONTOAD	Bilingual Ontology of Alzheimer's Disease and Related Diseases	0.0	56	0.1100196463654224	dental health#poor nutrition#diet#drinking alcohol#physical activities#dietary mineral#cognitive behavioral therapy#tobacco use#recreational drug use#micronutrient#calorie#carbs#physical exercise#developed country#dietary fat#mineral supplement#psychotherapy#active sleep#occupational exposure#CBT#environmental factors#education#nutrition#malnutrition#smoking#beverages#environmental risk factors#pesticide exposure#radiation#physical activity#betting#developing country#sports#eating behavior#food#paradoxical sleep#tobacco#household activity#social context#phytochemical#caloric intake#toxic chemical#rapid eye movement sleep#drug use#leisure#vitamin#education level#social status#aerobic exercise#urban environment#environmental risk#alcohol use#vitamin intake#social environment#occupational activity#oral health	5899	2	2013	2013	0.009493134429564332
+OLAM	Ontology of Laboratory Animal Medicine	0.0	1	0.0019646365422396855	sanitation	209	6	2019	2021	0.0
+OPMI	Ontology of Precision Medicine and Investigation	0.0	9	0.01768172888015717	household income#socioeconomic status#radiation#employment status#urban area#education level#income#socioeconomic factors#sanitation	3149	26	2018	2022	0.0028580501746586218
+PDRO	The Prescription of Drugs Ontology	0.0	17	0.03339882121807466	household income#energy#xenobiotics#radiation#socioeconomic status#employment status#urban area#vitamin#macronutrient#food additive#socioeconomic factors#education level#income#sanitation#toxic agent#micronutrient#calorie	691364	9	2016	2020	2.458907319443882e-05
+KTAO	Kidney Tissue Atlas Ontology	0.0	19	0.03732809430255403	socioeconomic status#radiation exposure#macronutrient#socioeconomic factors#sanitation#micronutrient#employment status#malnutrition#household income#radiation#urban area#income#food#exposure to radiation#vitamin#food additive#education level#toxic agent#electromagnetic radiation	11040	19	2018	2023	0.0017210144927536232
+GFF-M4M	GoFair M4M	0.0	6	0.011787819253438114	employment status#physical exercise#income#education level#alcohol consumption#personal hygiene	10	32	2023	2024	0.0
+GALEN	Galen Ontology	0.0	11	0.021611001964636542	energy#radiation#bedtime#vitamin#food#tobacco#cleanliness#dream#calorie#malnutrition#smoking	23141	1	2007	2007	0.0004753467870878527
+DERMLEX	Dermatology Lexicon	0.0	6	0.011787819253438114	non-ionizing radiation exposure#vitamin#meditation#psychotherapy#cosmetic surgery#nutrition	6106	1	2009	2009	0.000982640026203734
+RCTV2	Read Clinical Terminology Version 2	0.0	7	0.0137524557956778	plastic surgery#cognitive-behaviour therapy#alcohol consumption#fluid intake#exposure to radiation#illicit drug use#physical activity	88854	1	2016	2016	7.878092151169334e-05
+HIO	Hearing Impairment Ontology	0.0	5	0.009823182711198428	plastic surgery#socioeconomic status#physical environment#socioeconomic factors#social environment	496	3	2019	2019	0.010080645161290322
+MAXO	Medical Action Ontology	0.0	12	0.023575638506876228	plastic surgery#diet#radiation#vitamin#macronutrient#food additive#aerobic exercise#cognitive behavioral therapy#psychotherapy#food#toxic agent#micronutrient	13988	51	2020	2023	0.0008578781812982557
+DOVES	Digital medicine Outcomes Value Set (DOVeS) Ontology	0.0	4	0.007858546168958742	plastic surgery#heavy metal toxicity#heavy metal poisoning#malnutrition	27531	1	2023	2023	0.0
+OHD	The Oral Health and Disease Ontology	0.0	1	0.0019646365422396855	dental implant	2914	5	2016	2023	0.0
+NDFRT	National Drug File - Reference Terminology	0.5	8	0.015717092337917484	dental implant#vitamin#food#gambling#phytonutrient#phytochemical#occupational activity#malnutrition	36202	13	2008	2018	0.0002209822661731396
+PHENX	PhenX Phenotypic Terms	0.0	3	0.005893909626719057	personal care products#environmental exposures#oral health	533	13	2012	2016	0.0
+HHEAR	Human Health Exposure Analysis Resource	0.0	18	0.03536345776031434	household income#energy#socioeconomic status#diet#radiation exposure#vitamin#macronutrient#food additive#employment#eating behaviour#chemical exposure#alcohol use#toxic agent#micronutrient#calorie#education#oral health#physical activity	46100	14	2019	2023	0.0003904555314533623
+CHEAR	Children's Health Exposure Analysis Resource	0.0	14	0.0275049115913556	household income#energy#socioeconomic status#radiation exposure#eating behaviour#chemical exposure#video games#alcohol use#sleep#social context#dream#calorie#education#oral health	14845	15	2017	2019	0.0009430784776018862
+PMA	Portfolio Management Application	0.0	13	0.025540275049115914	radiation#vitamin#income#sleep#tobacco#social environment#social context#cooking method#economic factors#employment#education#nutrition#smoking	2084	3	2010	2010	0.006238003838771593
+MEDEON	Medical Error Ontology	0.0	1	0.0019646365422396855	nutrition	71	1	2016	2016	0.0
+MELLO-D	MEdical LifeLog Ontology for people with Disability	0.0	4	0.007858546168958742	sports#workout#nutrition#meditation	0	5	2023	2023	0.0
+ICPS	International Classification for Patient Safety	0.0	2	0.003929273084479371	education#nutrition	398	5	2010	2010	0.0
+PSO_2	PatientSafetyOntologyRevisted	0.0	1	0.0019646365422396855	nutrition	291	3	2020	2020	0.0
+AURA	KB_Bio_101	0.0	10	0.019646365422396856	energy#diet#radiation#vitamin#macronutrient#food#sleep#micronutrient#phytochemical#nutrition	27396	1	2014	2014	0.00036501679077237555
+PSO	PatientSafetyOntology	0.0	1	0.0019646365422396855	nutrition	567	2	2017	2017	0.0
+MHMO	Mental Health Management Ontology	0.0	3	0.005893909626719057	psychotherapy#nutrition#smoking	373	9	2019	2019	0.0
+ZONMW-CONTENT	ZonMW COVID-19	0.0	3	0.005893909626719057	education#nutrition#neighbourhood	2	37	2021	2022	0.0
+PARTUMDO	postpartum depression ontology	0.0	5	0.009823182711198428	sleep#education#nutrition#malnutrition#smoking	734	1	2021	2021	0.006811989100817439
+AO	Asthma Ontology	0.0	3	0.005893909626719057	food#occupational exposure#nutrition	289	2	2016	2016	0.0
+SHR	Student Health Record Ontology	0.0	1	0.0019646365422396855	nutrition	295	3	2011	2011	0.0
+PEDTERM	Pediatric Terminology	0.0	2	0.003929273084479371	sleep#nutrition	1771	4	2011	2013	0.0
+PESONT	Preposition_enabled Spatial Ontology	0.0	1	0.0019646365422396855	nutrition	160	1	2021	2021	0.0
+ONTRISCAL	Ontology of Risk Stratification in Mental Health	0.0	3	0.005893909626719057	sleep#tobacco#nutrition	0	1	2023	2023	0.0
+EMIF-AD	EMIF-AD ontology	0.0	8	0.015717092337917484	employment status#vegetables#income#alcohol use#sleep#nutrition#physical activity#smoking	700	3	2020	2020	0.011428571428571429
+RCD	Read Codes, Clinical Terms Version 3 (CTV3) 	0.5	28	0.0550098231827112	alcohol consumption#calorie#employment status#sweets#psychotherapy#sleep#fluid intake#dioxin#illicit drug use#nutrition#malnutrition#smoking#household income#energy#physical environment#radiation#housework#sports#processed food#food#pet ownership#tobacco#phytochemical#vitamin#food additive#urban environment#vitamin intake#occupational activity	140065	22	2013	2023	0.00019990718594938066
+EDAM	EDAM - Bioscientific data analysis ontology	0.0	1	0.0019646365422396855	nutrition	3502	37	2010	2023	0.0
+ITO	Intelligence Task Ontology	0.0	1	0.0019646365422396855	nutrition	16283	17	2020	2022	0.0
+NEOMARK4	Neomark Oral Cancer Ontology, version 4	0.0	3	0.005893909626719057	ionizing radiation#eating habits#tobacco	325	1	2011	2011	0.0
+GAZ	Gazetteer	0.0	2	0.003929273084479371	dieting#wage	668838	14	2009	2014	0.0
+EUPATH	VEuPathDB Ontology	0.0	8	0.015717092337917484	diet#employment status#bedtime#education level#drug usage#socioeconomic factors#employment#malnutrition	5110	19	2017	2023	0.0015655577299412916
+PMR	Physical Medicine and Rehabilitation	0.0	4	0.007858546168958742	sports#diet#education#psychotherapy	1597	4	2012	2017	0.0
+ZECO	Zebrafish Experimental Conditions Ontology	0.0	4	0.007858546168958742	fat content#radiation#diet#electromagnetic radiation	161	10	2016	2022	0.0
+EXO	Exposure Ontology	0.0	8	0.015717092337917484	socioeconomic status#diet#socioeconomic factors#alcohol consumption#tobacco use#alcohol use#education#physical activity	152	11	2015	2022	0.05263157894736842
+CRENO	Culture, Race, Ethnicity and Nationality Ontology	0.0	8	0.015717092337917484	radiation#diet#slavery#meditation#education#salary#tobacco#housing	1106	1	2023	2023	0.007233273056057866
+CMDO	Clinical MetaData Ontology	0.0	3	0.005893909626719057	diet#education#psychotherapy	188	10	2019	2019	0.0
+SOPHARM	Suggested Ontology for Pharmacogenomics	0.0	1	0.0019646365422396855	diet	117	13	2007	2017	0.0
+FISHO	Fish Ontology	0.0	1	0.0019646365422396855	diet	386	1	2017	2017	0.0
+CDPEO	Chronic Disease Patient Education Ontology	0.0	3	0.005893909626719057	diet#education#smoking	40	1	2019	2019	0.0
+SCHEMA	Schema.org core and all extension vocabularies	0.0	3	0.005893909626719057	energy#videogame#diet	822	4	2014	2018	0.0
+ENVTHES	Thesaurus for long-term ecological research, monitoring, experiments	0.0	10	0.019646365422396856	environmental risk factors#energy#environmental hazards#diet#pesticide residues#urban area#environmental risk#food#electromagnetic radiation#environmental quality	3	31	2022	2023	0.0
+COID	Combined Ontology for Inflammatory Diseases	0.0	3	0.005893909626719057	ionizing radiation#radiation#diet	1185	1	2022	2022	0.0
+FNS-H	FNS-Harmony	0.0	3	0.005893909626719057	beverages#diet#tobacco	31464	2	2022	2023	0.0
+HL7	Health Level Seven Reference Implementation Model, Version 3	0.0	8	0.015717092337917484	diet#drug use#vitamin#education level#income#meditation#food#occupational activity	9083	22	2010	2023	0.0008807662666519872
+ONS	Ontology for Nutritional Studies	0.0	5	0.009823182711198428	diet#processed food#food#dietary carbohydrate#physical activity	6056	35	2017	2023	0.0008256274768824307
+MIDO	Medical Imaging and Diagnostic Ontology	0.0	6	0.011787819253438114	diet#physical exercise#activity level#aerobic exercise#calorie#physical activity	51838	1	2022	2022	0.00011574520621937575
+ICW	International Classification of Wellness	0.0	1	0.0019646365422396855	diet	121	4	2016	2017	0.0
+FOODON	The FoodOn Food Ontology	0.0	8	0.015717092337917484	energy#diet#food additive#eating behavior#dietary fibre#sweets#food packaging#food	35305	97	2017	2023	0.0002265967993202096
+BCLION	Breast Cancer Lifestyle Ontology	0.0	3	0.005893909626719057	meditation#diet#smoking	30	1	2024	2024	0.0
+EFO	Experimental Factor Ontology	0.0	26	0.05108055009823183	diet#heavy metal poisoning#radiation exposure#physical activities#alcohol consumption#sleep quality#sleep depth#micronutrient#xenobiotics#employment status#sleep#sleep time#dioxin#sleep duration#CBT#physical activity#malnutrition#smoking#household income#heavy metal toxicity#eating behaviour#gambling#tobacco#caloric intake#vitamin#drug usage	51936	256	2008	2024	0.0005006161429451633
+XCO	Experimental Conditions Ontology	0.0	9	0.01768172888015717	diet#radiation exposure#housing condition#non-ionizing radiation exposure#vitamin#tobacco use#sleep#toxic chemical#physical activity	1252	164	2011	2024	0.00718849840255591
+ONTOPARON	Ontology of Amyotrophic Lateral Sclerosis, all modules	0.0	7	0.0137524557956778	diet#housework#vitamin#socializing#social context#caloric intake#malnutrition	2464	9	2018	2020	0.002840909090909091
+BIODIVTHES	Biodiversity Thesaurus	0.0	6	0.011787819253438114	xenobiotics#diet#eating behavior#environmental condition#radioactive contamination#environmental quality	4	1	2023	2023	0.0
+BAO	BioAssay Ontology	0.0	4	0.007858546168958742	food#macronutrient#food additive#micronutrient	7772	49	2010	2023	0.0
+CIDO	Coronavirus Infectious Disease Ontology	0.0	9	0.01768172888015717	xenobiotics#vitamin#macronutrient#eating behavior#food additive#eating behaviour#toxic agent#micronutrient#malnutrition	31620	41	2020	2023	0.0002846299810246679
+NMDCO	NMDC Ontology	0.0	12	0.023575638506876228	energy#radiation#ionizing radiation#leisure#urban area#macronutrient#eating behavior#food additive#environmental condition#food#micronutrient#electromagnetic radiation	7766	4	2021	2021	0.001545197012619109
+PORO	Porifera Ontology	0.0	3	0.005893909626719057	smoking#macronutrient#food additive	896	9	2013	2021	0.0
+CHIRO	CHEBI Integrated Role Ontology	0.0	7	0.0137524557956778	xenobiotics#vitamin#macronutrient#food additive#food#toxic agent#micronutrient	13286	1	2015	2015	0.0005268703898840885
+BIOMODELS	BioModels Ontology	0.0	8	0.015717092337917484	energy#radiation exposure#vitamin#macronutrient#eating behavior#food#sleep#micronutrient	187520	1	2012	2012	4.266211604095563e-05
+AISM	Ontology for the Anatomy of the Insect SkeletoMuscular system	0.0	4	0.007858546168958742	macronutrient#toxic agent#food additive#micronutrient	7443	6	2021	2023	0.0
+CLO	Cell Line Ontology	0.0	5	0.009823182711198428	macronutrient#food additive#toxic agent#micronutrient#malnutrition	43325	65	2008	2022	0.0001154068090017311
+CARO	Common Anatomy Reference Ontology	0.0	3	0.005893909626719057	macronutrient#toxic agent#food additive	721	16	2010	2023	0.0
+DINTO	The Drug-Drug Interactions Ontology	0.0	8	0.015717092337917484	xenobiotics#dietary fat#macronutrient#food additive#vitamin#food#toxic agent#micronutrient	28178	5	2014	2015	0.0002839094328909078
+ONSTR	Ontology for Newborn Screening Follow-up and Translational Research	0.0	5	0.009823182711198428	dietary fiber#macronutrient#processed food#food#micronutrient	1866	5	2012	2014	0.0026795284030010718
+NIFDYS	Neuroscience Information Framework (NIF) Dysfunction Ontlogy	0.0	5	0.009823182711198428	energy#macronutrient#food additive#toxic agent#micronutrient	11251	16	2010	2018	0.00044440494178295264
+PECO	Plant Experimental Conditions Ontology	0.0	10	0.019646365422396856	xenobiotics#radiation exposure#vitamin#macronutrient#food additive#chemical exposure#environmental condition#toxic agent#micronutrient#pesticide exposure	3135	31	2008	2023	0.003189792663476874
+AGRO	AGRonomy Ontology	0.0	9	0.01768172888015717	energy#radiation#macronutrient#food additive#environmental condition#food#toxic agent#micronutrient#electromagnetic radiation	4163	6	2016	2022	0.002161902474177276
+OCE	Ontology of Chemical Elements	0.0	2	0.003929273084479371	macronutrient#micronutrient	249	2	2020	2020	0.0
+ENVO	Environment Ontology	0.0	14	0.0275049115913556	energy#radiation#ionizing radiation#leisure#urban area#smokeless tobacco#macronutrient#eating behavior#food additive#environmental condition#food#toxic agent#micronutrient#electromagnetic radiation	6997	56	2008	2023	0.0020008575103615837
+PATO	Phenotypic Quality Ontology	0.0	5	0.009823182711198428	energy#macronutrient#food additive#toxic agent#micronutrient	10589	184	2008	2023	0.0004721881197469072
+MCO	Microbial Conditions Ontology	0.0	6	0.011787819253438114	xenobiotics#vitamin#macronutrient#food additive#toxic agent#micronutrient	3384	1	2019	2019	0.0017730496453900709
+XPO	Xenopus Phenotype Ontology	0.0	4	0.007858546168958742	macronutrient#toxic agent#food additive#micronutrient	30657	10	2019	2022	0.0
+ZP	Zebrafish Phenotype Ontology	0.0	10	0.019646365422396856	xenobiotics#vitamin#macronutrient#eating behavior#food additive#eating behaviour#food#sleep#toxic agent#micronutrient	63473	3	2019	2022	0.00015754730357789927
+INBANCIDO	Assessment of Indian Economy During Covid-19 	0.0	8	0.015717092337917484	xenobiotics#macronutrient#eating behavior#food additive#eating behaviour#toxic agent#micronutrient#malnutrition	7834	1	2021	2021	0.0010211896859841716
+BNO	Bionutrition Ontology	0.0	3	0.005893909626719057	macronutrient#education#micronutrient	100	2	2013	2013	0.0
+OCMR	Ontology of Chinese Medicine for Rheumatism	0.0	5	0.009823182711198428	vitamin#macronutrient#food additive#toxic agent#micronutrient	3359	3	2017	2017	0.0014885382554331646
+PHIPO	Pathogen Host Interaction Phenotype Ontology	0.0	6	0.011787819253438114	xenobiotics#vitamin#macronutrient#food additive#toxic agent#micronutrient	3946	26	2019	2023	0.0015205271160669033
+DPO	Drosophila Phenotype Ontology	0.0	7	0.0137524557956778	radiation#macronutrient#food additive#environmental condition#sleep#micronutrient#electromagnetic radiation	1424	29	2019	2023	0.0049157303370786515
+FB-CV	FlyBase Controlled Vocabulary	0.0	7	0.0137524557956778	xenobiotics#ionizing radiation#vitamin#macronutrient#food additive#toxic agent#micronutrient	2299	46	2008	2023	0.003044802087864289
+FOVT	FuTRES Ontology of Vertebrate Traits	0.0	4	0.007858546168958742	macronutrient#toxic agent#food additive#micronutrient	11322	7	2020	2023	0.0
+DRON	The Drug Ontology	0.0	6	0.011787819253438114	xenobiotics#vitamin#macronutrient#food additive#toxic agent#micronutrient	679237	20	2014	2023	8.833441052239498e-06
+PCL	Provisional Cell Ontology	0.0	6	0.011787819253438114	macronutrient#food additive#toxic agent#micronutrient#CBT#dream	182113	22	2018	2024	3.29465771251915e-05
+CHEBI	Chemical Entities of Biological Interest Ontology	0.0	8	0.015717092337917484	xenobiotics#vitamin#macronutrient#food additive#food#toxic agent#dioxin#micronutrient	216255	190	2008	2024	3.699336431527595e-05
+FYPO	Fission Yeast Phenotype Ontology	0.0	6	0.011787819253438114	xenobiotics#vitamin#macronutrient#food additive#toxic agent#micronutrient	16559	467	2011	2024	0.0003623407210580349
+OBA	Ontology of Biological Attributes	0.0	12	0.023575638506876228	energy#heavy metal poisoning#sleeping behavior#macronutrient#food additive#eating behavior#food#alcohol consumption#sleep quality#sleep#sleep duration#micronutrient	63337	17	2017	2024	0.0001894627153164817
+RBO	Radiation Biology Ontology	0.0	8	0.015717092337917484	energy#radiation#ionizing radiation#radiation exposure#macronutrient#environmental condition#toxic agent#electromagnetic radiation	5751	25	2020	2024	0.0013910624239262736
+GO-PLUS	go-plus	0.0	7	0.0137524557956778	macronutrient#eating behavior#food additive#eating behaviour#sleep#tobacco#micronutrient	83671	691	2015	2024	8.366100560528738e-05
+INBIO	Invasion Biology Ontology	0.0	5	0.009823182711198428	urbanized area#energy#radiation#environmental condition#micronutrient	458	2	2022	2023	0.010917030567685589
+VANDF	Veterans Health Administration National Drug File	0.5	4	0.007858546168958742	food#vitamin#tobacco#occupational activity	30481	22	2013	2023	0.0
+NCBITAXON	National Center for Biotechnology Information (NCBI) Organismal Classification	0.5	4	0.007858546168958742	food#vitamin#tobacco#occupational activity	696599	22	2008	2023	0.0
+COSTART	Coding Symbols for a Thesaurus of Adverse Reaction Terms	0.5	5	0.009823182711198428	vitamin#food#sleep#dream#occupational activity	1707	22	2013	2023	0.0029291154071470417
+NDDF	National Drug Data File	0.5	3	0.005893909626719057	food#vitamin#occupational activity	31518	22	2013	2023	0.0
+HCPCS	Healthcare Common Procedure Coding System	0.5	3	0.005893909626719057	food#vitamin#occupational activity	7454	22	2013	2023	0.0
+ICD10CM	International Classification of Diseases, Version 10 - Clinical Modification	0.5	7	0.0137524557956778	vitamin#lack of physical exercise#food#tobacco use#gambling and betting#exposure to ionizing radiation#occupational activity	97191	24	2010	2023	7.202312971365662e-05
+AI-RHEUM	Artificial Intelligence Rheumatology Consultant System Ontology	0.5	3	0.005893909626719057	food#vitamin#occupational activity	808	22	2013	2023	0.0
+ICPC2P	International Classification of Primary Care - 2 PLUS	0.5	6	0.011787819253438114	vitamin#cognitive behavioral therapy#psychotherapy#food#occupational activity#malnutrition	7537	22	2013	2023	0.000796072707973995
+ICD10	International Classification of Diseases, Version 10	0.5	10	0.019646365422396856	drug use#vitamin#lack of physical exercise#food#tobacco use#alcohol use#exposure to radiation#gambling and betting#occupational activity#malnutrition	12445	22	2013	2023	0.0008035355564483728
+WHO-ART	World Health Organization (WHO) Adverse Reaction Terminology	0.5	3	0.005893909626719057	food#vitamin#occupational activity	1851	22	2013	2023	0.0
+ICD10PCS	International Classification of Diseases, Version 10 - Procedure Coding System	0.5	4	0.007858546168958742	food#vitamin#occupational activity#meditation	191404	23	2009	2023	0.0
+ICD9CM	International Classification of Diseases, Version 9 - Clinical Modification	0.5	6	0.011787819253438114	vitamin#lack of physical exercise#food#exposure to radiation#gambling and betting#occupational activity	22533	24	2008	2023	0.00026627612834509385
+MDDB	Master Drug Data Base Clinical Drugs	0.5	3	0.005893909626719057	food#vitamin#occupational activity	13817	10	2013	2017	0.0
+PDQ	Physician Data Query	0.5	7	0.0137524557956778	smokeless tobacco#vitamin#meditation#food#phytochemical#occupational activity#malnutrition	13452	24	2007	2023	0.0005203687184061849
+OMIM	Online Mendelian Inheritance in Man	0.5	6	0.011787819253438114	vitamin#food#CBT#dream#occupational activity#malnutrition	104872	24	2007	2023	5.7212602029140285e-05
+RXNORM	RxNORM	0.5	3	0.005893909626719057	food#vitamin#occupational activity	107690	25	2009	2023	0.0
+FMPM	Food Matrix for Predictive Microbiology	0.0	1	0.0019646365422396855	food	162	5	2018	2018	0.0
+ROO	Radiation Oncology Ontology	0.0	3	0.005893909626719057	food#vitamin#occupational activity	1307	8	2014	2018	0.0
+STY	Semantic Types Ontology	0.0	3	0.005893909626719057	food#vitamin#occupational activity	127	21	2013	2023	0.0
+ICNP	International Classification for Nursing Practice	0.0	8	0.015717092337917484	energy#radiation#literacy#vitamin#neighbourhood#meditation#food#malnutrition	4476	6	2009	2019	0.0017873100983020554
+COGPO	Cognitive Paradigm Ontology	0.0	1	0.0019646365422396855	food	199	1	2010	2010	0.0
+MSTDE-FRE	Minimal Standard Terminology of Digestive Endoscopy, French	0.0	3	0.005893909626719057	food#vitamin#occupational activity	1827	22	2013	2023	0.0
+ADW	Animal Natural History and Life History Ontology	0.0	1	0.0019646365422396855	food	364	1	2010	2010	0.0
+CSTD	Clinical smell and taste disorders	0.0	1	0.0019646365422396855	food	98	1	2019	2019	0.0
+HPIO	Host Pathogen Interactions Ontology	0.0	2	0.003929273084479371	food#eating behaviour	275	1	2011	2011	0.0
+GENEPIO	Genomic Epidemiology Application Ontology 	0.0	4	0.007858546168958742	food#urban area#malnutrition#smoking	7208	1	2023	2023	0.0
+MSTDE	Minimal Standard Terminology of Digestive Endoscopy	0.0	3	0.005893909626719057	food#vitamin#occupational activity	1826	22	2013	2023	0.0
+CASE-BASE-ONTO	Case-base ontology for gastric dystemperament in Persian medicine	0.0	1	0.0019646365422396855	food	71	1	2021	2021	0.0
+SWEET	Semantic Web for Earth and Environment Technology Ontology	0.0	8	0.015717092337917484	energy#metropolitan area#radiation#ionizing radiation#urban area#activity level#food#electromagnetic radiation	10239	13	2011	2022	0.0007813263013966208
+ATC	Anatomical Therapeutic Chemical Classification	0.0	3	0.005893909626719057	food#vitamin#occupational activity	6691	20	2011	2023	0.0
+SNMI	Systematized Nomenclature of Medicine, International Version	0.0	22	0.043222003929273084	drinking alcohol#physical activities#NREM sleep#ionizing radiation#economic status#REM sleep#lack of physical exercise#active sleep#dioxin#radiation#food#gambling#paradoxical sleep#tobacco#social context#caloric intake#rapid eye movement sleep#bedtime#vitamin#electromagnetic radiation#deep sleep#occupational activity	109150	22	2013	2023	0.00020155748969308293
+CPT	CPT - Current Procedural Terminology	0.0	3	0.005893909626719057	food#vitamin#occupational activity	14403	3	2020	2020	0.0
+OFSMR	Open Predictive Microbiology Ontology	0.0	1	0.0019646365422396855	food	159	19	2015	2015	0.0
+BIOLINK	Biolink Model	0.0	3	0.005893909626719057	food#food additive#chemical exposure	464	53	2022	2023	0.0
+ICF	International Classification of Functioning, Disability and Health	0.0	6	0.011787819253438114	sports#food#socializing#environmental factors#amount of sleep#education	1596	3	2009	2012	0.0037593984962406013
+ENM	eNanoMapper	0.0	9	0.01768172888015717	employment status#radiation exposure#food additive#food#sleep quality#sleep time#sleep duration#sleep depth#calorie	25794	34	2015	2023	0.0003489183531053733
+SCO	Study Cohort Ontology	0.0	6	0.011787819253438114	energy#radiation exposure#chemical exposure#alcohol use#calorie#education	2712	5	2019	2019	0.0022123893805309734
+OBIB	Ontology for Biobanking	0.0	2	0.003929273084479371	alcohol use#tobacco	1804	12	2014	2023	0.0
+MIO	Myocardial Infarction Ontology	0.0	26	0.05108055009823183	socioeconomic status#alcohol consumption#employment status#dust exposure#sleeping behavior#sleep duration#vibration exposure#exposure to dust#education#employment#physical activity#smoking#household income#urban area#consumption of alcohol#sports#income#sedentary lifestyle#household activity#caloric intake#education level#urban environment#alcohol use#vitamin intake#leisure time physical activity#physical fitness	0	3	2022	2023	0.0
+HFO	Heart Failure Ontology	0.0	7	0.0137524557956778	activity level#alcohol consumption#tobacco use#fluid intake#tobacco#illicit drug use#malnutrition	1652	1	2015	2015	0.00423728813559322
+NIO	Neuropsychological Integrative Ontology	0.0	7	0.0137524557956778	sleeping behavior#eating behavior#REM sleep#eating behaviour#alcohol consumption#paradoxical sleep#rapid eye movement sleep	3303	2	2020	2020	0.002119285498032092
+PDON	Parkinson's Disease Ontology	0.0	3	0.005893909626719057	alcohol consumption#exposure to pesticide#vitamin intake	632	1	2015	2015	0.0
+SATO	SATO (IDEAS expAnded wiTh BCIO): workflow for designers of patient-centered mobile health behaviour change intervention applications	0.0	3	0.005893909626719057	alcohol consumption#travel behaviour#urban area	1195	2	2022	2022	0.0
+SCDO	Sickle Cell Disease Ontology	0.0	16	0.03143418467583497	physical environment#socioeconomic status#employment status#urban area#socioeconomic factors#urban environment#cognitive behavioral therapy#meditation#alcohol consumption#psychotherapy#sedentary lifestyle#social environment#CBT#education#employment#smoking	2072	15	2017	2021	0.007722007722007722
+MEPO	Mapping of Epilepsy Ontologies	0.0	5	0.009823182711198428	alcohol consumption#deep sleep#sleep stage#dream#environmental factors	5687	6	2020	2021	0.0008791981712678037
+OCD	OCD ontology	0.0	7	0.0137524557956778	drinking alcohol#social networking#physical work#eating behavior#smoking tobacco#rapid eye movement sleep#physical activity	2475	6	2022	2022	0.0028282828282828283
+GO-EXT	Gene Ontology Extension	0.5	3	0.005893909626719057	sleep#eating behavior#eating behaviour	35873	2	2010	2011	0.0
+GO	Gene Ontology	0.5	3	0.005893909626719057	sleep#eating behavior#eating behaviour	51375	1510	2008	2024	0.0
+NIGO	Neural-Immune Gene Ontology	0.0	3	0.005893909626719057	sleep#eating behavior#eating behaviour	4842	2	2010	2010	0.0
+PLANP	Planarian Phenotype Ontology	0.0	3	0.005893909626719057	sleep#eating behavior#eating behaviour	3562	5	2019	2020	0.0
+LIFO	Life Ontology	0.0	2	0.003929273084479371	eating behavior#eating behaviour	215	1	2018	2018	0.0
+VEO	Visualized Emotion Ontology	0.0	2	0.003929273084479371	eating behavior#rapid eye movement sleep	730	1	2017	2017	0.0
+MFOMD	MFO Mental Disease Ontology	0.0	2	0.003929273084479371	eating behavior#rapid eye movement sleep	879	2	2017	2020	0.0
+PHAGE	Phylogenetics Ontology	0.0	3	0.005893909626719057	sleep#eating behavior#eating behaviour	51403	5	2016	2016	0.0
+REGN_GO	REGN_GO	0.0	3	0.005893909626719057	sleep#eating behavior#eating behaviour	51063	1	2023	2023	0.0
+MFOEM	Emotion Ontology	0.0	2	0.003929273084479371	eating behavior#rapid eye movement sleep	620	40	2011	2022	0.0
+PMAPP-PMO	PMO Precision Medicine Ontology	0.0	7	0.0137524557956778	pesticide residues#xenobiotics#heavy metal poisoning#dietary fiber#eating behavior#sleep#malnutrition	76155	1	2020	2020	9.191779922526427e-05
+CMO	Clinical Measurement Ontology	0.0	1	0.0019646365422396855	eating behaviour	3969	122	2011	2024	0.0
+CDNO	Compositional Dietary Nutrition Ontology	0.0	1	0.0019646365422396855	dietary fibre	2060	9	2022	2022	0.0
+FLOPO	Flora Phenotype Ontology	0.0	2	0.003929273084479371	energy#radiation exposure	26873	8	2014	2016	0.0
+OM	Ontology of units of Measure	0.0	1	0.0019646365422396855	energy	814	24	2020	2023	0.0
+OBOE	The Extensible Observation Ontology	0.0	1	0.0019646365422396855	energy	292	4	2016	2019	0.0
+RO	Radiomics Ontology	0.0	1	0.0019646365422396855	energy	458	6	2017	2017	0.0
+ECOSIM	ecosim ontology	0.0	2	0.003929273084479371	energy#radiation	1684	1	2023	2023	0.0
+HHEARP	HHEAR Properties	0.0	4	0.007858546168958742	energy#calorie#chemical exposure#radiation exposure	2489	3	2022	2023	0.0
+HASCO	Human-Aware Science Ontology	0.0	4	0.007858546168958742	energy#calorie#chemical exposure#radiation exposure	2489	4	2019	2023	0.0
+M4M19-SUBS	M4M19 Subjects	0.0	1	0.0019646365422396855	energy	2	3	2021	2021	0.0
+HUPSON	Human Physiology Simulation Ontology	0.0	4	0.007858546168958742	energy#radiation#sleep patterns#radiation exposure	2920	1	2014	2014	0.0
+EXMO	Exercise Medicine Ontology	0.0	11	0.021611001964636542	energy#physical exercise#anaerobic exercise#type of exercise#vigorous-intensity activity#vigorous physical activity#aerobic exercise#sleep#exercise intensity#physical fitness#physical activity	407	2	2022	2022	0.02702702702702703
+NPO	NanoParticle Ontology	0.0	3	0.005893909626719057	energy#radiation#electromagnetic radiation	1904	22	2008	2011	0.0
+ACGT-MO	Cancer Research and Management ACGT Master Ontology	0.0	1	0.0019646365422396855	energy	1770	2	2008	2010	0.0
+OBOE-SBC	Santa Barbara Coastal Observation Ontology	0.0	1	0.0019646365422396855	energy	631	1	2010	2010	0.0
+CBO	Cell Behavior Ontology	0.0	1	0.0019646365422396855	energy	246	22	2010	2021	0.0
+MS	Mass Spectrometry Ontology	0.0	1	0.0019646365422396855	energy	7310	222	2009	2023	0.0
+AFO	Allotrope Merged Ontology Suite	0.0	2	0.003929273084479371	energy#electromagnetic radiation	3139	33	2019	2023	0.0
+OPB	Ontology of Physics for Biology	0.0	1	0.0019646365422396855	energy	858	18	2008	2023	0.0
+UO	Units of Measurement Ontology	0.0	1	0.0019646365422396855	calorie	572	220	2008	2023	0.0
+TEO	Time Event Ontology	0.0	1	0.0019646365422396855	calorie	965	4	2012	2012	0.0
+FIDEO	Food Interactions with Drugs Evidence Ontology	0.0	1	0.0019646365422396855	mineral supplement	3543	8	2020	2024	0.0
+DILON	Dietary lifestyle ontology	0.0	3	0.005893909626719057	vitamin#malnutrition#smoking	262	2	2021	2021	0.0
+PE-O	Pre-eclampsia Ontology	0.0	4	0.007858546168958742	social context#vitamin#economic status#chemical exposure	1251	3	2015	2016	0.0
+ADO	Alzheimer's disease ontology	0.0	1	0.0019646365422396855	vitamin	1565	3	2013	2013	0.0
+PHARE	Pharmacogenomic Relationships Ontology	0.0	1	0.0019646365422396855	vitamin	229	2	2012	2011	0.0
+WC	Whole-cell modeling ontology	0.0	2	0.003929273084479371	vitamin#activity level	272	13	2019	2020	0.0
+GRO	Gene Regulation Ontology	0.0	1	0.0019646365422396855	vitamin	507	5	2008	2015	0.0
+TXPO	Toxic Process Ontology	0.0	3	0.005893909626719057	vitamin#toxic agent#xenobiotics	9407	6	2020	2022	0.0
+GMO	Growth Medium Ontology	0.0	1	0.0019646365422396855	vitamin	1029	8	2013	2021	0.0
+HOIP	Homeostasis imbalance process ontology	0.0	3	0.005893909626719057	vitamin#toxic agent#xenobiotics	13389	35	2020	2023	0.0
+STO-DRAFT	The Stroke Ontology	0.0	6	0.011787819253438114	psychological therapy#tobacco use#vitamin intake#sedentary lifestyle#education#smoking	1712	1	2018	2018	0.0035046728971962616
+CVAO	STO	0.0	6	0.011787819253438114	psychological therapy#tobacco use#vitamin intake#sedentary lifestyle#education#smoking	1712	2	2016	2017	0.0035046728971962616
+ACVD_ONTOLOGY	Atherosclerotic Cerebrovascular Disease Ontology	0.0	7	0.0137524557956778	psychological therapy#aerobic exercise#sedentary lifestyle#vitamin intake#education#malnutrition#smoking	1715	2	2023	2023	0.004081632653061225
+FGNHNS	FoodGroupNHNS	0.0	5	0.009823182711198428	beverages#vegetables#alcoholic beverages#milk and dairy products#fruits	1779	17	2022	2022	0.002810567734682406
+MEO	Metagenome and Microbes Environmental Ontology	0.0	3	0.005893909626719057	heavy metal contamination#urban area#fruits	2518	9	2012	2017	0.0
+N-CDOH	Non Clinical Determinants of Health	0.0	1	0.0019646365422396855	malnutrition	361	4	2023	2023	0.0
+COVIDCRFRAPID	WHO COVID-19 Rapid Version CRF semantic data model	0.0	1	0.0019646365422396855	malnutrition	396	12	2020	2020	0.0
+GAMUTS	Radiology Gamuts Ontology	0.0	7	0.0137524557956778	poor nutrition#radiation#heavy metal poisoning#tobacco use#chemical poisoning#malnutrition#smoking	18001	23	2017	2018	0.000388867285150825
+DREAMDNPTO	Dementia-Related Emotional And Mood Disturbance Non-Pharmacological Treatment Ontology	0.0	6	0.011787819253438114	card game#bedtime#aerobic exercise#watching television#psychotherapy#malnutrition	1258	1	2022	2022	0.0047694753577106515
+SSE	Surgical Secondary Events	0.0	1	0.0019646365422396855	malnutrition	244	1	2013	2013	0.0
+DRPSNPTO	Dementia-Related Psychotic Symptoms Non-Pharmacological Treatment Ontology	0.0	4	0.007858546168958742	watching TV#bedtime#malnutrition#psychotherapy	610	1	2021	2021	0.0
+DRANPTO	Dementia-Related Agitation Non-Pharmacological Treatment Ontology	0.0	4	0.007858546168958742	occupational activity#card game#physical activity#malnutrition	569	1	2020	2020	0.0
+IFAR	Fanconi Anemia Ontology	0.0	2	0.003929273084479371	chemical exposure#malnutrition	4530	5	2013	2013	0.0
+PCAO	Prostate Cancer Ontology	0.0	6	0.011787819253438114	education level#sleep#leisure time#malnutrition#education#physical activity	633	2	2019	2023	0.009478672985781991
+CSEO	Cigarette Smoke Exposure Ontology	0.0	6	0.011787819253438114	housing condition#tobacco use#tobacco#education#malnutrition#smoking	20085	2	2014	2014	0.0002987303958177745
+NEO	Neurologic Examination Ontology	0.0	1	0.0019646365422396855	malnutrition	1610	90	2019	2022	0.0
+HP	Human Phenotype Ontology	0.0	2	0.003929273084479371	physical inactivity#malnutrition	21707	559	2008	2024	0.0
+PATMHC	Placental Maternal Health Conditions	0.0	2	0.003929273084479371	poor nutrition#malnutrition	228	1	2020	2020	0.0
+CSSO	Clinical Signs and Symptoms Ontology	0.0	1	0.0019646365422396855	malnutrition	303	6	2013	2016	0.0
+MONDO	Mondo Disease Ontology	0.0	3	0.005893909626719057	heavy metal toxicity#heavy metal poisoning#malnutrition	27730	59	2017	2024	0.0
+CONDOR	Liver Cancer Ontology Diagnosis Treatment	0.0	1	0.0019646365422396855	tobacco use	55	1	2023	2023	0.0
+DEB	Devices, Experimental scaffolds and Biomaterials Ontology	0.0	1	0.0019646365422396855	doping	601	7	2019	2021	0.0
+MI	Molecular Interactions	0.0	1	0.0019646365422396855	illicit drug	1635	65	2017	2023	0.0
+PLANTSO	Plant Stress Ontology	0.0	1	0.0019646365422396855	tobacco	3933	3	2020	2023	0.0
+BIRNLEX	Biomedical Informatics Research Network Project Lexicon	0.0	3	0.005893909626719057	relaxation time#education#smoking	3580	1	2007	2007	0.0
+PINO	Pregnancy Information Needs Ontology	0.0	2	0.003929273084479371	sleep#smoking	267	2	2022	2022	0.0
+TCO	Thyroid Cancer Ontology	0.0	1	0.0019646365422396855	smoking	578	2	2019	2020	0.0
+EPO	Early Pregnancy Ontology	0.0	1	0.0019646365422396855	smoking	1388	1	2016	2016	0.0
+BT-ONTOLOGY	BrainTeaser Ontology (BTO)	0.0	2	0.003929273084479371	physical activity#smoking	118	1	2023	2023	0.0
+VDOT	Viral Disease Ontology Trunk	0.0	1	0.0019646365422396855	radiation exposure	519	35	2018	2021	0.0
+DCM	DICOM Controlled Terminology	0.0	1	0.0019646365422396855	radiation exposure	4723	43	2014	2024	0.0
+ECSO	The Ecosystem Ontology	0.0	1	0.0019646365422396855	electromagnetic radiation	2094	63	2015	2019	0.0
+XEO	XEML Environment Ontology	0.0	1	0.0019646365422396855	radiation	145	4	2012	2012	0.0
+BT	BioTop Ontology	0.0	1	0.0019646365422396855	radiation	390	11	2008	2014	0.0
+MELO	Melanoma Ontology	0.0	1	0.0019646365422396855	radiation	528	2	2021	2021	0.0
+SIO	Semanticscience Integrated Ontology	0.0	1	0.0019646365422396855	chemical exposure	1584	93	2010	2023	0.0
+BIOMO	Biological Observation Matrix Ontology	0.0	1	0.0019646365422396855	chemical exposure	1596	1	2014	2014	0.0
+FIRE	Fire Ontology	0.0	1	0.0019646365422396855	environmental condition	53	7	2013	2014	0.0
+APOLLO-SV	Apollo Structured Vocabulary	0.0	1	0.0019646365422396855	environmental condition	1693	61	2017	2023	0.0
+CCON	Cerrado concepts and plant community dynamics	0.0	1	0.0019646365422396855	environmental condition	86	8	2013	2014	0.0
+I2SV	Integration and Implementation Sciences Vocabulary	0.0	2	0.003929273084479371	physical environment#education	2	1	2021	2021	0.0
+DERMO	Human Dermatological Disease Ontology	0.0	1	0.0019646365422396855	heavy metal poisoning	3521	10	2013	2015	0.0
+HINO	Human Interaction Network Ontology	0.0	1	0.0019646365422396855	xenobiotics	37630	6	2013	2014	0.0
+PW	Pathway Ontology	0.0	1	0.0019646365422396855	xenobiotics	2688	109	2008	2023	0.0
+ONTOPARON_SOCIAL	Ontology of amyotrophic  lateral sclerosis, social module	0.0	3	0.005893909626719057	social context#socializing#housework	1282	3	2017	2018	0.0
+REGN_BRO	REGN_BRO	0.0	2	0.003929273084479371	social networking#education	486	1	2023	2023	0.0
+BRO	Biomedical Resource Ontology	0.0	2	0.003929273084479371	social networking#education	488	13	2008	2010	0.0
+BRO_ACRONYM	Bro_Name	0.0	2	0.003929273084479371	social networking#education	486	1	2016	2016	0.0
+NLMVS	NIH NLM Value Sets	0.0	1	0.0019646365422396855	gambling and betting	5	1	2015	2015	0.0
+LEGALAPA	legalapa	0.0	1	0.0019646365422396855	gambling	227	1	2014	2014	0.0
+LEGALAPATEST2	apalegal	0.0	1	0.0019646365422396855	gambling	227	1	2014	2014	0.0
+MWLA	Medical Web Lifestyle Aggregator	0.0	2	0.003929273084479371	sports#gambling	32	1	2015	2015	0.0
+FAST-FORMGENRE	FAST (Faceted Application of Subject Terminology) FormGenre facet	0.0	1	0.0019646365422396855	video games	3	1	2017	2017	0.0
+COGAT	Cognitive Atlas Ontology	0.0	5	0.009823182711198428	meditation#video games#sleep#social context#dream	4053	8	2011	2012	0.001233654083395016
+FAST-GENREFORM	FAST (Faceted Access of Subject Terminology) GenreForm	0.0	1	0.0019646365422396855	video games	4	3	2017	2017	0.0
+RAO	Rheumatoid Arthritis ontology	0.0	3	0.005893909626719057	education#aerobic exercise#physical activity	280	1	2015	2015	0.0
+FRMO	Fall Risk Management Ontology 	0.0	3	0.005893909626719057	household chores#physical activity#education level	890	18	2022	2023	0.0
+TRAK	Taxonomy for Rehabilitation of Knee Conditions	0.0	2	0.003929273084479371	aerobic exercise#physical fitness	1619	5	2013	2015	0.0
+TOCWWE	Treatment of Childbearing-age Women with Epilepsy 	0.0	3	0.005893909626719057	cognitive behavioral therapy#physical exercise#psychotherapy	264	1	2021	2021	0.0
+APAOCUEMPLOY	APA Occupational and Employment cluster	0.0	3	0.005893909626719057	sports#education#psychotherapy	448	1	2015	2015	0.0
+TIMEBANK	Timebank Ontology	0.0	1	0.0019646365422396855	sports	133	2	2020	2020	0.0
+APAEDUCLUSTER	Educational Cluster	0.0	3	0.005893909626719057	literacy#sports#education	509	1	2015	2015	0.0
+NETFLIX	Netflix Class Ontology 	0.0	1	0.0019646365422396855	sports	20	1	2023	2023	0.0
+HORD	Holistic Ontology of Rare Diseases	0.0	1	0.0019646365422396855	sports	14558	4	2017	2019	0.0
+CCTOO	Cancer Care: Treatment Outcome Ontology	0.0	2	0.003929273084479371	sleep quality#household activity	1133	2	2018	2018	0.0
+CWD	Consumer Wearable Device	0.0	1	0.0019646365422396855	sleep	46	1	2018	2018	0.0
+PMDO	Parkinson and Movement Disorder Ontology	0.0	1	0.0019646365422396855	sleep	629	4	2021	2023	0.0
+G4-DSIP	Group 4-Data Science in Practice	0.0	1	0.0019646365422396855	sleep	2	6	2023	2024	0.0
+ATOL	Animal Trait Ontology for Livestock	0.0	1	0.0019646365422396855	sleep duration	2352	2	2014	2014	0.0
+CCO	Cell Cycle Ontology	0.0	2	0.003929273084479371	CBT#dream	264891	6	2009	2014	0.0
+PR	Protein Ontology	0.0	1	0.0019646365422396855	dream	334916	77	2008	2023	0.0
+RETO	Regulation of Transcription Ontology	0.0	2	0.003929273084479371	CBT#dream	147738	8	2012	2015	0.0
+GEXO	Gene Expression Ontology	0.0	2	0.003929273084479371	CBT#dream	166254	2	2012	2015	0.0
+HENEGEO	Head and Neck Cancer - Clinical and Gene Ontology	0.0	2	0.003929273084479371	CBT#dream	29996	1	2023	2023	0.0
+REXO	Regulation of Gene Expression Ontolology	0.0	2	0.003929273084479371	CBT#dream	158239	6	2012	2015	0.0
+OGG-MM	Ontology of Genes and Genomes - Mouse	0.0	1	0.0019646365422396855	dream	69433	5	2014	2018	0.0
+HGNC-NR	HGNC New Releases Ontology	0.0	2	0.003929273084479371	CBT#dream	48897	8	2021	2023	0.0
+OGG	Ontology of Genes and Genomes	0.0	2	0.003929273084479371	CBT#dream	69689	3	2014	2016	0.0
+SDO	Sleep Domain Ontology	0.0	2	0.003929273084479371	deep sleep#rapid eye movement (REM) sleep	1382	4	2010	2015	0.0
+BIRTHONTO	BirthOnto: Birth Data Analysis	0.0	1	0.0019646365422396855	education	87	1	2023	2023	0.0
+COVID19-IBO	Covid19 Impact on Banking Ontology	0.0	1	0.0019646365422396855	education	159	6	2021	2021	0.0
+ADCAD	Arctic Data Center Academic Disciplines Ontology	0.0	1	0.0019646365422396855	education	67	1	2021	2021	0.0
+ECG	Electrocardiography Ontology	0.0	1	0.0019646365422396855	education	1124	10	2009	2014	0.0
+INBIODIV	An Ontology for Indian Biodiversity Knowledge Management	0.0	1	0.0019646365422396855	education	628	1	2021	2021	0.0
+MODSCI	Modern Science Ontology	0.0	1	0.0019646365422396855	education	245	3	2019	2019	0.0
+PREMEDONTO	Precision Medicine Ontology	0.0	1	0.0019646365422396855	education	543	1	2018	2018	0.0
+PATEL	Archana Patel	0.0	1	0.0019646365422396855	education	123	1	2021	2021	0.0
+DSEO	Data Science Education Ontology	0.0	1	0.0019646365422396855	education	131	4	2017	2018	0.0
+HOME	Health Ontology for Minority Equity	0.0	1	0.0019646365422396855	education	82	1	2022	2022	0.0
+STMSO	symptomatic treatment of multiple sclerosis ontology	0.0	3	0.005893909626719057	psychotherapy#education#meditation	626	1	2022	2022	0.0
+RADLEX	Radiology Lexicon	0.0	1	0.0019646365422396855	education	46761	40	2007	2020	0.0
+GECKO	Genomics Cohorts Knowledge Ontology	0.0	1	0.0019646365422396855	education level	154	11	2020	2021	0.0
+NEUROBRG	NeuroBridge Ontology	0.0	1	0.0019646365422396855	education level	667	2	2023	2023	0.0
+HSO	Health Surveillance Ontology	0.0	1	0.0019646365422396855	urban area	426	9	2019	2021	0.0
+FLU	Influenza Ontology	0.0	1	0.0019646365422396855	urban environment	585	27	2010	2015	0.0
+HSPO	Health & Social Person-centric Ontology	0.0	3	0.005893909626719057	social context#housing#employment	52	3	2023	2023	0.0
+suicideo	suicideonto	0.0	3	0.005893909626719057	social context#economic status#employment	311	1	2013	2013	0.0
+ACESO	Adverse Childhood Experiences Ontology	0.0	1	0.0019646365422396855	social context	296	2	2018	2018	0.0
+APATREATMENT	APA Treatment Cluster	0.0	2	0.003929273084479371	psychotherapy#meditation	480	1	2014	2014	0.0
+WWECA	Women with Epilepsy of Child-bearing Age Ontology	0.0	2	0.003929273084479371	psychotherapy#meditation	609	3	2022	2022	0.0
+ISPO	Integrated Ontology for Symptom Phenotype Terminologies	0.0	1	0.0019646365422396855	CBT	3148	1	2023	2023	0.0
+CCF	Human Reference Atlas Common Coordinate Framework Ontology	0.0	1	0.0019646365422396855	CBT	9265	15	2020	2023	0.0
+ORDO	Orphanet Rare Disease Ontology	0.0	1	0.0019646365422396855	CBT	15349	28	2014	2023	0.0
