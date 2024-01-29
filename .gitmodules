@@ -7,3 +7,6 @@
 [submodule "S1000_Transformer_Tagger"]
 	path = S1000_Transformer_Tagger
 	url = https://github.com/jouniluoma/S1000-transformer-tagger.git
+[submodule "standoff2conll"]
+	path = standoff2conll
+	url = https://github.com/spyysalo/standoff2conll.git
