@@ -1,3 +1,6 @@
 [submodule "S1000"]
 	path = S1000
 	url = https://github.com/EsmaeilNourani/S1000-transformer-ner.git
+[submodule "LSFC"]
+	path = LSFC
+	url = https://github.com/EsmaeilNourani/Lifestyle-factors-classification.git
