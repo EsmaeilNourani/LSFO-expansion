@@ -4,3 +4,6 @@
 [submodule "LSFC"]
 	path = LSFC
 	url = https://github.com/EsmaeilNourani/Lifestyle-factors-classification.git
+[submodule "S1000_Transformer_Tagger"]
+	path = S1000_Transformer_Tagger
+	url = https://github.com/jouniluoma/S1000-transformer-tagger.git
