@@ -1,0 +1,24 @@
+T1	Lifestyle_factor 0 8	Religion
+A1	Socioeconomic_factors T1
+T2	Lifestyle_factor 78 86	religion
+A2	Socioeconomic_factors T2
+T3	Lifestyle_factor 171 179	religion
+A3	Socioeconomic_factors T3
+T4	Lifestyle_factor 31 42	alcohol use
+A4	Nutrition T4
+T5	Lifestyle_factor 273 284	alcohol use
+A5	Nutrition T5
+T6	Lifestyle_factor 91 98	alcohol
+A6	Nutrition T6
+T7	Lifestyle_factor 184 203	alcohol consumption
+A7	Nutrition T7
+T8	Lifestyle_factor 600 608	drinking
+A8	Nutrition T8
+T9	Lifestyle_factor 640 651	drunkenness
+A9	Nutrition T9
+T10	Lifestyle_factor 780 790	alcoholism
+A10	Nutrition T10
+T11	Lifestyle_factor 378 403	Western Isles of Scotland
+A11	Geographical_Feature T11
+T12	Lifestyle_factor 50 63	Western Isles
+A12	Geographical_Feature T12

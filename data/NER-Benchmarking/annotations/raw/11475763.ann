@@ -1,0 +1,20 @@
+T6	Lifestyle_factor 101 118	Dental hygienists
+T7	Lifestyle_factor 402 419	dental hygienists
+T8	Lifestyle_factor 310 327	dental hygienists
+T9	Lifestyle_factor 608 625	dental hygienists
+T10	Lifestyle_factor 941 969	Automated self-care products
+A10	Beauty_and_Cleaning T10
+T1	Lifestyle_factor 0 40	Automated oral hygiene self-care devices
+A1	Beauty_and_Cleaning T1
+T3	Lifestyle_factor 245 272	automated self-care devices
+A3	Beauty_and_Cleaning T3
+T2	Lifestyle_factor 720 760	automated oral hygiene self-care devices
+A2	Beauty_and_Cleaning T2
+A4	Occupations T6
+A5	Occupations T8
+A6	Occupations T9
+A7	Occupations T7
+T4	Lifestyle_factor 1188 1197	education
+A8	Socioeconomic_factors T4
+A9	LSF_out_of_context T4
+T5	Out-of-scope 1127 1134	reading

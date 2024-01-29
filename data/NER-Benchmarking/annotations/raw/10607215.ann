@@ -1,0 +1,35 @@
+T1	Lifestyle_factor 18 25	napping
+A1	Sleep T1
+T3	Lifestyle_factor 132 139	napping
+A3	Sleep T3
+T4	Lifestyle_factor 471 478	napping
+A4	Sleep T4
+T5	Lifestyle_factor 901 908	napping
+A5	Sleep T5
+T10	Lifestyle_factor 540 551	sleep stage
+A10	Sleep T10
+T11	Lifestyle_factor 147 157	work place
+T13	Lifestyle_factor 603 606	nap
+A12	Sleep T13
+T14	Lifestyle_factor 608 623	duration of nap
+A13	Sleep T14
+T15	Lifestyle_factor 628 639	wakefulness
+A14	Sleep T15
+T16	Lifestyle_factor 985 998	night workers
+T6	Lifestyle_factor 319 342	sleep for short periods
+A6	Sleep T6
+T12	Lifestyle_factor 215 230	Very short naps
+A11	Sleep T12
+A16	Socioeconomic_factors T11
+A15	Socioeconomic_factors T16
+T7	Lifestyle_factor 400 413	Sleep inertia
+A7	Sleep T7
+T8	Lifestyle_factor 489 502	Sleep inertia
+A8	Sleep T8
+T9	Lifestyle_factor 674 687	sleep inertia
+A9	Sleep T9
+T2	Lifestyle_factor 57 70	sleep inertia
+A2	Sleep T2
+T17	Out-of-scope 566 575	awakening
+T18	Out-of-scope 793 802	awakening
+T19	Out-of-scope 299 307	Training

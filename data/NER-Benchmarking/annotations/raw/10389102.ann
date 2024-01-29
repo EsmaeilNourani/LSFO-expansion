@@ -1,0 +1,20 @@
+T1	Lifestyle_factor 25 30	sleep
+A1	LSF_out_of_context T1
+T2	Lifestyle_factor 128 138	Sleep-wake
+A2	LSF_out_of_context T2
+T4	Lifestyle_factor 439 455	sleep-wake cycle
+A4	Sleep T4
+T5	Lifestyle_factor 555 563	sleeping
+A5	Sleep T5
+T3	Lifestyle_factor 1164 1187	normal sleep regulation
+A3	Sleep T3
+T6	Lifestyle_factor 1027 1044	sleep disturbance
+A6	Sleep T6
+A7	Sleep T1
+A8	Sleep T2
+T7	Out-of-scope 645 652	protein
+T8	Lifestyle_factor 568 574	waking
+A11	Sleep T8
+T9	Lifestyle_factor 1069 1087	daytime sleepiness
+A12	Sleep T9
+T10	Out-of-scope 1152 1160	products

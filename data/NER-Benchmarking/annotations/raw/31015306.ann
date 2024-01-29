@@ -1,0 +1,12 @@
+T1	Lifestyle_factor 41 65	West Virginia Appalachia
+A1	Geographical_Feature T1
+T2	Lifestyle_factor 89 102	West Virginia
+A2	Geographical_Feature T2
+T3	Lifestyle_factor 318 331	West Virginia
+A3	Geographical_Feature T3
+T4	Lifestyle_factor 1133 1146	West Virginia
+A4	Geographical_Feature T4
+T5	Lifestyle_factor 425 438	West Virginia
+A5	Geographical_Feature T5
+T6	Lifestyle_factor 1311 1322	dental care
+A6	Beauty_and_Cleaning T6

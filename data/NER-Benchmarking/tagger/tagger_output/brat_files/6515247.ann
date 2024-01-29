@@ -1,0 +1,7 @@
+T1	Sleep 26 31	sleep
+T2	Sleep 33 52	sleep fragmentation
+T3	Sleep 58 63	sleep
+T4	Sleep 119 124	sleep
+T5	Sleep 138 143	sleep
+T6	Sleep 185 190	sleep
+T7	Sleep 641 654	stage 1 sleep

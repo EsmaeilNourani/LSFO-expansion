@@ -1,0 +1,22 @@
+T1	Drugs 43 50	Tobacco
+T2	Drugs 74 81	tobacco
+T3	Drugs 135 144	cigarette
+T4	Socioeconomic_factors 217 238	high-income countries
+T5	Drugs 275 284	cigarette
+T6	Socioeconomic_factors 388 398	low-income
+T7	Socioeconomic_factors 403 416	middle-income
+T8	Drugs 495 505	cigarettes
+T9	Nutrition 511 517	snacks
+T10	Nutrition 519 525	sweets
+T11	Drugs 562 571	cigarette
+T12	Drugs 663 673	cigarettes
+T13	Socioeconomic_factors 690 696	single
+T14	Drugs 707 717	cigarettes
+T15	Drugs 822 829	tobacco
+T16	Drugs 874 884	cigarettes
+T17	Drugs 1026 1033	tobacco
+T18	Drugs 1173 1180	Tobacco
+T19	Drugs 1219 1226	tobacco
+T20	Socioeconomic_factors 1285 1291	single
+T21	Drugs 1292 1301	cigarette
+T22	Drugs 1411 1418	tobacco

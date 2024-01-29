@@ -1,0 +1,54 @@
+T1	Lifestyle_factor 34 43	nutrition
+A1	Nutrition T1
+T3	Lifestyle_factor 71 80	nutrition
+A3	Nutrition T3
+T6	Lifestyle_factor 204 208	bean
+A6	Nutrition T6
+T8	Lifestyle_factor 613 622	jack bean
+A8	Nutrition T8
+T14	Lifestyle_factor 230 237	protein
+A14	Nutrition T14
+T17	Lifestyle_factor 715 721	cowpea
+A16	Nutrition T17
+T18	Lifestyle_factor 723 729	peanut
+A17	Nutrition T18
+T19	Lifestyle_factor 731 741	pigeon pea
+A18	Nutrition T19
+T20	Lifestyle_factor 746 753	soybean
+A19	Nutrition T20
+T21	Lifestyle_factor 783 790	protein
+A20	Nutrition T21
+T23	Lifestyle_factor 818 824	starch
+A22	Nutrition T23
+T24	Lifestyle_factor 826 832	flakes
+A23	Nutrition T24
+T25	Lifestyle_factor 834 839	grits
+A24	Nutrition T25
+T26	Lifestyle_factor 844 850	flours
+A25	Nutrition T26
+T27	Lifestyle_factor 876 880	bean
+A26	Nutrition T27
+T28	Lifestyle_factor 936 948	high protein
+A27	Nutrition T28
+T30	Lifestyle_factor 993 1024	highly nutritious food products
+A29	Nutrition T30
+T31	Lifestyle_factor 1043 1062	processed jack bean
+A30	Nutrition T31
+T2	Lifestyle_factor 0 9	Jack bean
+A2	Nutrition T2
+T5	Lifestyle_factor 953 972	nutritional quality
+A9	Nutrition T5
+T7	Lifestyle_factor 327 336	Jack bean
+A7	Nutrition T7
+T9	Lifestyle_factor 255 267	carbohydrate
+A10	Nutrition T9
+T10	Lifestyle_factor 337 344	protein
+A5	Nutrition T10
+T11	Lifestyle_factor 1034 1039;1053 1062	whole jack bean
+A11	Nutrition T11
+T12	Lifestyle_factor 755 774	Industrial products
+A12	Nutrition T12
+T4	Lifestyle_factor 128 156	food potentials of jack bean
+A4	Nutrition T4
+T13	Lifestyle_factor 633 652	processed jack bean
+A13	Nutrition T13

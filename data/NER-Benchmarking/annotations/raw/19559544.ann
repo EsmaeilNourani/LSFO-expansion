@@ -1,0 +1,14 @@
+T1	Lifestyle_factor 177 183	opioid
+A1	Drugs T1
+A2	LSF_out_of_context T1
+T2	Lifestyle_factor 1265 1271	opioid
+A4	Drugs T2
+A5	LSF_out_of_context T2
+T4	Lifestyle_factor 1135 1141	opioid
+A6	Drugs T4
+A7	LSF_out_of_context T4
+T5	Lifestyle_factor 1408 1414	opioid
+A8	Drugs T5
+A9	LSF_out_of_context T5
+T3	Out-of-scope 217 221	play
+T6	Out-of-scope 577 585	activity

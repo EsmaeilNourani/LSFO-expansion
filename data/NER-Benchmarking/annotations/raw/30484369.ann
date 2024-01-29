@@ -1,0 +1,20 @@
+T1	Lifestyle_factor 0 8	Bullying
+A1	Socioeconomic_factors T1
+T2	Lifestyle_factor 219 227	bullying
+A2	Socioeconomic_factors T2
+T3	Lifestyle_factor 675 683	bullying
+A3	Socioeconomic_factors T3
+T4	Lifestyle_factor 1279 1287	bullying
+A4	Socioeconomic_factors T4
+T5	Lifestyle_factor 688 701	victimization
+A5	Socioeconomic_factors T5
+T6	Lifestyle_factor 26 39	Victimization
+A6	Socioeconomic_factors T6
+T7	Lifestyle_factor 228 241	victimization
+A7	Socioeconomic_factors T7
+T8	Lifestyle_factor 425 432	Germany
+A8	Geographical_Feature T8
+T9	Lifestyle_factor 405 412	schools
+A9	Socioeconomic_factors T9
+A10	LSF_out_of_context T9
+T10	Out-of-scope 1009 1013	work

@@ -1,0 +1,41 @@
+T1	Lifestyle_factor 0 26	Toothpaste use by children
+A1	Beauty_and_Cleaning T1
+T5	Lifestyle_factor 1317 1331	toothpaste use
+T6	Lifestyle_factor 28 40	oral hygiene
+A5	Beauty_and_Cleaning T6
+T7	Lifestyle_factor 364 376	oral hygiene
+A6	Beauty_and_Cleaning T7
+T9	Lifestyle_factor 279 292	West Virginia
+A8	Geographical_Feature T9
+T10	Lifestyle_factor 383 387;401 412	food consumption
+A9	Nutrition T10
+T11	Lifestyle_factor 392 412	beverage consumption
+A10	Nutrition T11
+T2	Lifestyle_factor 938 942	soda
+A2	Nutrition T2
+T3	Lifestyle_factor 944 956	sweet drinks
+A3	Nutrition T3
+T4	Lifestyle_factor 962 973	fruit juice
+A4	Nutrition T4
+T12	Lifestyle_factor 1074 1090	sugary beverages
+A11	Nutrition T12
+T13	Lifestyle_factor 1114 1122	brushing
+A12	Beauty_and_Cleaning T13
+T14	Lifestyle_factor 1206 1212	fruits
+A13	Nutrition T14
+T15	Lifestyle_factor 1271 1286	skipping a meal
+A14	Nutrition T15
+T16	Lifestyle_factor 469 479	toothpaste
+A15	Beauty_and_Cleaning T16
+T17	Lifestyle_factor 640 650	toothpaste
+A16	Beauty_and_Cleaning T17
+T18	Lifestyle_factor 520 530	Toothpaste
+A17	Beauty_and_Cleaning T18
+T19	Lifestyle_factor 157 175	oral health habits
+A18	Beauty_and_Cleaning T19
+A19	Beauty_and_Cleaning T5
+T8	Lifestyle_factor 46 67	nutritional education
+A7	Nutrition T8
+T20	Lifestyle_factor 1217 1227	vegetables
+A20	Nutrition T20
+T21	Out-of-scope 669 677	brushing

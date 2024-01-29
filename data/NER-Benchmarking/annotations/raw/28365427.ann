@@ -1,0 +1,22 @@
+T1	Lifestyle_factor 18 30	maltreatment
+A1	Socioeconomic_factors T1
+T2	Lifestyle_factor 142 154	maltreatment
+A2	Socioeconomic_factors T2
+T3	Lifestyle_factor 265 277	maltreatment
+A3	Socioeconomic_factors T3
+T4	Lifestyle_factor 665 677	maltreatment
+A4	Socioeconomic_factors T4
+T5	Lifestyle_factor 746 758	maltreatment
+A5	Socioeconomic_factors T5
+T6	Lifestyle_factor 1161 1173	maltreatment
+A6	Socioeconomic_factors T6
+T7	Lifestyle_factor 620 632	maltreatment
+A7	Socioeconomic_factors T7
+T8	Lifestyle_factor 544 557	child welfare
+A8	Socioeconomic_factors T8
+T10	Lifestyle_factor 824 834	negligence
+A10	Socioeconomic_factors T10
+T11	Lifestyle_factor 885 894	unmarried
+A11	Socioeconomic_factors T11
+T9	Lifestyle_factor 795 800	abuse
+A9	Socioeconomic_factors T9

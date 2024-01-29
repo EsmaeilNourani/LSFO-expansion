@@ -1,0 +1,18 @@
+T1	Nutrition 0 4	Food
+T2	Nutrition 6 11	water
+T4	Nutrition 79 83	food
+T5	Nutrition 147 151	food
+T7	Nutrition 300 305	water
+T8	Drugs 310 317	ethanol
+T6	Drugs 236 243	ethanol
+T10	Nutrition 403 417	caloric intake
+T12	Drugs 466 485	ethanol consumption
+T13	Nutrition 655 669	caloric intake
+T18	Drugs 809 816	ethanol
+T20	Nutrition 906 914	calories
+T21	Drugs 929 945	ethanol drinking
+T9	Drugs 764 771	ethanol
+T16	Drugs 347 354	ethanol
+T11	Nutrition 746 760	caloric intake
+T14	Drugs 872 879	ethanol
+T3	Drugs 16 35	ethanol consumption

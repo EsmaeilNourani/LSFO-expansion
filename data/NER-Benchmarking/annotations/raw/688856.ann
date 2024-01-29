@@ -1,0 +1,45 @@
+T1	Lifestyle_factor 0 4	Food
+A1	Nutrition T1
+T2	Lifestyle_factor 6 11	water
+A2	Nutrition T2
+T4	Lifestyle_factor 79 83	food
+A5	Nutrition T4
+T5	Lifestyle_factor 147 151	food
+A6	Nutrition T5
+T7	Lifestyle_factor 300 305	water
+A8	Nutrition T7
+T8	Lifestyle_factor 310 317	ethanol
+T6	Lifestyle_factor 236 243	ethanol
+T10	Lifestyle_factor 403 417	caloric intake
+A11	Nutrition T10
+T12	Lifestyle_factor 466 485	ethanol consumption
+T13	Lifestyle_factor 655 669	caloric intake
+A15	Nutrition T13
+T18	Lifestyle_factor 809 816	ethanol
+T20	Lifestyle_factor 906 914	calories
+A24	Nutrition T20
+T21	Lifestyle_factor 929 945	ethanol drinking
+T9	Lifestyle_factor 764 771	ethanol
+A7	Drugs T6
+A10	LSF_out_of_context T6
+A4	Drugs T8
+A18	LSF_out_of_context T8
+A13	Drugs T12
+A19	Drugs T18
+A20	LSF_out_of_context T18
+A21	Drugs T21
+A22	LSF_out_of_context T21
+A9	Drugs T9
+A23	LSF_out_of_context T9
+T16	Lifestyle_factor 347 354	ethanol
+A26	Drugs T16
+A27	LSF_out_of_context T16
+T11	Lifestyle_factor 746 760	caloric intake
+A12	Nutrition T11
+T14	Lifestyle_factor 872 879	ethanol
+A14	Drugs T14
+A16	LSF_out_of_context T14
+A17	LSF_out_of_context T12
+T3	Lifestyle_factor 16 35	ethanol consumption
+A3	Drugs T3
+A25	LSF_out_of_context T3

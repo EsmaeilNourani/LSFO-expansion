@@ -1,0 +1,10 @@
+T1	Lifestyle_factor 77 82	sleep
+A1	Sleep T1
+T2	Lifestyle_factor 247 277	rapid eye movement (REM) sleep
+A2	Sleep T2
+T3	Lifestyle_factor 532 541	REM sleep
+A3	Sleep T3
+T4	Lifestyle_factor 578 581	REM
+A4	Sleep T4
+T5	Lifestyle_factor 587 594	stage 2
+A5	Sleep T5

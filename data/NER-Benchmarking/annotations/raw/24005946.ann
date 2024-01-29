@@ -1,0 +1,14 @@
+T1	Lifestyle_factor 33 53	lingual orthodontics
+A1	Beauty_and_Cleaning T1
+T2	Lifestyle_factor 56 75	Lingual orthodontic
+A2	Beauty_and_Cleaning T2
+T3	Lifestyle_factor 534 554	lingual orthodontics
+A3	Beauty_and_Cleaning T3
+T4	Lifestyle_factor 125 127	UK
+A4	Geographical_Feature T4
+T5	Lifestyle_factor 386 399	orthodontists
+T6	Lifestyle_factor 759 761	UK
+A6	Geographical_Feature T6
+T7	Lifestyle_factor 738 751	orthodontists
+A7	Occupations T7
+A5	Occupations T5

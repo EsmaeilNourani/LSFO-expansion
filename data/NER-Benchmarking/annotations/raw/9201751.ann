@@ -1,0 +1,55 @@
+T1	Lifestyle_factor 18 32	grain amaranth
+A1	Nutrition T1
+T2	Lifestyle_factor 87 101	grain amaranth
+A2	Nutrition T2
+T4	Lifestyle_factor 504 524	amaranth-wheat flour
+A4	Nutrition T4
+T11	Lifestyle_factor 363 368	diets
+A11	Nutrition T11
+T15	Lifestyle_factor 485 494	rice diet
+A15	Nutrition T15
+T22	Lifestyle_factor 103 108	wheat
+A22	Nutrition T22
+T23	Lifestyle_factor 34 39	wheat
+A23	Nutrition T23
+T24	Lifestyle_factor 44 48	rice
+A24	Nutrition T24
+T25	Lifestyle_factor 113 117	rice
+A25	Nutrition T25
+T7	Lifestyle_factor 608 616	amaranth
+A7	Nutrition T7
+T17	Lifestyle_factor 661 672	low GI food
+A17	Nutrition T17
+T3	Lifestyle_factor 680 694	grain amaranth
+A3	Nutrition T3
+T18	Lifestyle_factor 705 719	medium GI food
+A18	Nutrition T18
+T5	Lifestyle_factor 724 739	popped amaranth
+A5	Nutrition T5
+T9	Lifestyle_factor 761 773	high GI food
+A9	Nutrition T9
+T10	Lifestyle_factor 387 422	amaranth-wheat composite flour diet
+A10	Nutrition T10
+T6	Lifestyle_factor 544 559	popped amaranth
+A6	Nutrition T6
+T8	Lifestyle_factor 209 221	carbohydrate
+A8	Nutrition T8
+T12	Lifestyle_factor 628 633	wheat
+A12	Nutrition T12
+T13	Lifestyle_factor 638 642	rice
+A13	Nutrition T13
+T16	Lifestyle_factor 187 192	Diets
+A16	Nutrition T16
+T19	Lifestyle_factor 268 275	glucose
+A19	Nutrition T19
+A20	LSF_out_of_context T19
+T20	Lifestyle_factor 563 567	milk
+A21	Nutrition T20
+T21	Lifestyle_factor 621 626	wheat
+A26	Nutrition T21
+T26	Lifestyle_factor 699 704	wheat
+A27	Nutrition T26
+T27	Lifestyle_factor 744 748	milk
+A28	Nutrition T27
+T14	Lifestyle_factor 465 475	wheat diet
+A14	Nutrition T14

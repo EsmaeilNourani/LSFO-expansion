@@ -1,0 +1,29 @@
+T3	Lifestyle_factor 297 302	foods
+A3	Nutrition T3
+T6	Lifestyle_factor 449 460	fresh fruit
+A6	Nutrition T6
+T7	Lifestyle_factor 469 482	Dietary fiber
+A7	Nutrition T7
+T8	Lifestyle_factor 593 598	fruit
+A8	Nutrition T8
+T9	Lifestyle_factor 643 652	kiwifruit
+A9	Nutrition T9
+T10	Lifestyle_factor 727 736	Kiwifruit
+A10	Nutrition T10
+T11	Lifestyle_factor 983 992	kiwifruit
+A11	Nutrition T11
+T12	Lifestyle_factor 943 956	dietary fiber
+A12	Nutrition T12
+T1	Lifestyle_factor 0 9	Kiwifruit
+A1	Nutrition T1
+T2	Lifestyle_factor 186 195	kiwifruit
+A2	Nutrition T2
+T4	Lifestyle_factor 348 363	fresh kiwifruit
+A4	Nutrition T4
+T5	Lifestyle_factor 920 932	fermentation
+A5	Nutrition T5
+A13	LSF_out_of_context T5
+T13	Lifestyle_factor 849 861	Fermentation
+A14	Nutrition T13
+A15	LSF_out_of_context T13
+T14	Out-of-scope 895 899	play

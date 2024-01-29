@@ -1,0 +1,68 @@
+11813678 FP: T1	Beauty_and_Cleaning 54 70	oral health care
+11813678 FP: T10	Beauty_and_Cleaning 778 789	Oral health
+17266427 FP: T3	Socioeconomic_factors 1017 1028	educational
+35641117 FP: T13	Socioeconomic_factors 690 696	single
+35641117 FP: T20	Socioeconomic_factors 1285 1291	single
+9201744 FP: T3	Nutrition 96 107	nutritional
+25461415 FP: T6	Nutrition 1071 1075	acid
+25461415 FP: T4	Nutrition 468 472	acid
+25461415 FP: T3	Nutrition 375 379	acid
+14634166 FP: T2	Beauty_and_Cleaning 229 240	orthodontic
+14634166 FP: T1	Beauty_and_Cleaning 0 11	Orthodontic
+19723433 19723433 19723433 19723433 FP: T8	Nutrition 383 387	food
+19723433 FP: T6	Socioeconomic_factors 180 191	educational
+19723433 FP: T4	Socioeconomic_factors 58 67	education
+9777681 FP: T4	Socioeconomic_factors 409 415	single
+9777681 FP: T5	Socioeconomic_factors 669 675	single
+9777681 FP: T2	Socioeconomic_factors 19 25	Single
+31770466 31770466 31770466 31770466 31770466 31770466 31770466 FP: T8	Socioeconomic_factors 624 630	single
+31770466 FP: T7	Nutrition 556 560	acid
+31770466 FP: T5	Nutrition 467 474	nitrate
+31770466 FP: T3	Nutrition 237 244	nitrate
+31770466 FP: T1	Nutrition 80 87	nitrate
+31770466 FP: T10	Nutrition 769 776	nitrate
+32510685 FP: T1	Nutrition 160 165	fungi
+9602551 FP: T2	Physical_activity 1039 1048	traveling
+9602551 FP: T3	Physical_activity 1263 1270	driving
+9602551 FP: T1	Physical_activity 976 985	traveling
+18815990 FP: T1	Mental_health_practices 640 658	student counseling
+3227224 FP: T2	Sleep 173 178	dream
+15789183 FP: T2	Socioeconomic_factors 232 236	City
+11980101 11980101 11980101 FP: T8	Environmental_exposures 409 412	ETS
+11980101 FP: T9	Environmental_exposures 485 488	ETS
+11980101 FP: T7	Environmental_exposures 380 407	environmental tobacco smoke
+11980101 FP: T2	Environmental_exposures 61 88	environmental tobacco smoke
+11980101 FP: T15	Environmental_exposures 1063 1066	ETS
+11980101 FP: T10	Environmental_exposures 567 570	ETS
+11980101 FP: T13	Environmental_exposures 694 697	ETS
+28116804 FP: T5	Sleep 498 505	bedtime
+16626805 FP: T6	Socioeconomic_factors 352 356	City
+16626805 FP: T4	Socioeconomic_factors 108 112	City
+16626805 FP: T2	Socioeconomic_factors 40 44	City
+32848077 FP: T12	Socioeconomic_factors 755 765	low-income
+28142298 FP: T6	Nutrition 424 435	Nutritional
+9470567 FP: T2	Beauty_and_Cleaning 510 525	oral healthcare
+11055166 FP: T3	Socioeconomic_factors 617 623	single
+21719896 FP: T7	Socioeconomic_factors 946 952	single
+27805877 27805877 27805877 27805877 FP: T4	Beauty_and_Cleaning 908 919	orthodontic
+11072454 FP: T15	Drugs 836 843	smoking
+24521749 FP: T1	Beauty_and_Cleaning 741 752	orthodontic
+1312238 FP: T7	Nutrition 609 620	nutritional
+1312238 FP: T5	Beauty_and_Cleaning 414 423	detergent
+1312238 FP: T3	Beauty_and_Cleaning 382 391	detergent
+22491891 FP: T11	Socioeconomic_factors 533 539	single
+21487131 FP: T6	1000000001 438 455	lifestyle factors
+21487131 FP: T1	Physical_activity 13 30	physical activity
+11709596 FP: T1	Socioeconomic_factors 292 298	Single
+24158583 FP: T3	Socioeconomic_factors 1140 1146	Single
+23575456 FP: T7	Socioeconomic_factors 1042 1061	parenting practices
+23575456 FP: T2	Socioeconomic_factors 39 58	parenting practices
+15658217 FP: T4	Nutrition 578 581	PVC
+15658217 FP: T2	Nutrition 204 207	PVC
+15658217 FP: T1	Nutrition 184 202	polyvinyl chloride
+688856 FP: T7	Nutrition 677 689	fluid intake
+688856 FP: T5	Nutrition 428 440	fluid intake
+33512698 FP: T3	Socioeconomic_factors 212 218	single
+23515164 FP: T6	Nutrition 826 842	drinking alcohol
+23515164 FP: T4	Socioeconomic_factors 477 495	sexually assaulted
+9853208 9853208 FP: T4	Socioeconomic_factors 782 795	birth control

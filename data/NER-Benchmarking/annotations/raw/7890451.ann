@@ -1,0 +1,8 @@
+T1	Lifestyle_factor 69 90	general practitioners
+T3	Lifestyle_factor 168 188	health professionals
+T4	Lifestyle_factor 948 967	group psychotherapy
+A3	Mental_health_practices T4
+A1	Occupations T1
+A2	Occupations T3
+T2	Out-of-scope 486 494	training
+T5	Out-of-scope 287 291	work

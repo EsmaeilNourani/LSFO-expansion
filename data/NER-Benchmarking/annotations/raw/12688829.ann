@@ -1,0 +1,14 @@
+T1	Lifestyle_factor 21 26	sport
+A1	Physical_activity T1
+T2	Lifestyle_factor 89 95	sports
+A2	Physical_activity T2
+T3	Lifestyle_factor 120 122	US
+T5	Lifestyle_factor 804 819	ophthalmologist
+T6	Lifestyle_factor 823 843	oculoplastic surgeon
+T7	Lifestyle_factor 1227 1232	sport
+A6	Physical_activity T7
+T4	Lifestyle_factor 253 260	athlete
+A3	Occupations T4
+A4	Occupations T5
+A5	Occupations T6
+A7	Geographical_Feature T3

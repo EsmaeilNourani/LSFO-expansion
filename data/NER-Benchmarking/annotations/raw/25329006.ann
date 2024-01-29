@@ -1,0 +1,29 @@
+T1	Lifestyle_factor 261 278	prolonged sitting
+A1	Physical_activity T1
+T2	Lifestyle_factor 400 426	meal replacement beverages
+A2	Nutrition T2
+T3	Lifestyle_factor 1286 1303	prolonged sitting
+A3	Physical_activity T3
+T4	Lifestyle_factor 115 129	sedentary time
+A4	Physical_activity T4
+T5	Lifestyle_factor 154 161	glucose
+A5	Nutrition T5
+T6	Lifestyle_factor 206 214	activity
+A6	Physical_activity T6
+T7	Lifestyle_factor 647 654	glucose
+A7	Nutrition T7
+A8	LSF_out_of_context T7
+A9	LSF_out_of_context T5
+T8	Lifestyle_factor 751 769	Energy expenditure
+A10	Nutrition T8
+T9	Lifestyle_factor 982 989	glucose
+A11	Nutrition T9
+A12	LSF_out_of_context T9
+T10	Lifestyle_factor 1353 1360	glucose
+A13	Nutrition T10
+A14	LSF_out_of_context T10
+T11	Lifestyle_factor 1381 1386	lipid
+A15	Nutrition T11
+A16	LSF_out_of_context T11
+T12	Lifestyle_factor 69 87	Low-Level Activity
+A17	Physical_activity T12

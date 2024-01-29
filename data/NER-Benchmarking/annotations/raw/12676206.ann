@@ -1,0 +1,22 @@
+T1	Lifestyle_factor 0 30	Atmospheric nitrogen compounds
+A1	Environmental_exposures T1
+T2	Lifestyle_factor 260 290	atmospheric nitrogen compounds
+A2	Environmental_exposures T2
+T5	Lifestyle_factor 472 483	rural areas
+A5	Socioeconomic_factors T5
+T9	Lifestyle_factor 729 735	Europe
+T10	Lifestyle_factor 744 747	USA
+T3	Lifestyle_factor 81 109	pollution abatement policies
+A3	Environmental_exposures T3
+T4	Lifestyle_factor 707 725	deposited nitrogen
+A4	Environmental_exposures T4
+T6	Lifestyle_factor 550 576	organic nitrogen compounds
+A6	Environmental_exposures T6
+T7	Lifestyle_factor 621 639	deposited nitrogen
+A7	Environmental_exposures T7
+A8	Geographical_Feature T9
+A9	Geographical_Feature T10
+T8	Lifestyle_factor 294 299	crops
+A10	Nutrition T8
+T11	Lifestyle_factor 447 457	pollutants
+A11	Environmental_exposures T11

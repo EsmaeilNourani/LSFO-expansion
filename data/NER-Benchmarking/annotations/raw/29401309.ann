@@ -1,0 +1,35 @@
+T1	Lifestyle_factor 31 39	Nicotine
+A1	Drugs T1
+T2	Lifestyle_factor 50 60	Cigarettes
+A2	Drugs T2
+T3	Lifestyle_factor 170 178	nicotine
+A3	Drugs T3
+T4	Lifestyle_factor 189 211	combustible cigarettes
+A4	Drugs T4
+T5	Lifestyle_factor 273 298	cigarette filler nicotine
+A5	Drugs T5
+T6	Lifestyle_factor 347 355	nicotine
+A6	Drugs T6
+T7	Lifestyle_factor 599 607	nicotine
+A7	Drugs T7
+T8	Lifestyle_factor 618 639	cured tobacco leaves.
+A8	Drugs T8
+T10	Lifestyle_factor 1137 1145	nicotine
+A10	Drugs T10
+T9	Lifestyle_factor 958 978	plant-based nicotine
+A9	Drugs T9
+T11	Lifestyle_factor 88 92	Food
+A11	Nutrition T11
+A12	LSF_out_of_context T11
+T12	Lifestyle_factor 97 101	Drug
+A13	Drugs T12
+A14	LSF_out_of_context T12
+T13	Lifestyle_factor 64 69	Plant
+A15	Nutrition T13
+A16	LSF_out_of_context T13
+T14	Lifestyle_factor 1073 1081	toxicant
+A17	Environmental_exposures T14
+A18	LSF_out_of_context T14
+T15	Lifestyle_factor 691 699	toxicant
+A19	Environmental_exposures T15
+A20	LSF_out_of_context T15

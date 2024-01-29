@@ -1,0 +1,20 @@
+T1	Nutrition 0 15	Sugar replacers
+T2	Nutrition 176 191	sugar replacers
+T3	Nutrition 274 284	sweeteners
+T6	Nutrition 473 481	starches
+T7	Nutrition 498 504	snacks
+T9	Nutrition 588 598	sugar-free
+T10	Nutrition 630 658	noncariogenic sugar replacer
+T12	Occupations 928 945	Dental hygienists
+T13	Nutrition 994 1009	sugar replacers
+T14	Occupations 1166 1183	dental hygienists
+T15	Nutrition 1204 1219	sugar replacers
+T17	LSF_out_of_context 71 75	Food
+T19	Nutrition 448 468	foods high in sugars
+T4	Nutrition 846 865	sugar-free products
+T5	Nutrition 1260 1277	nutrition choices
+T8	LSF_out_of_context 80 84	Drug
+T11	Geographical_Feature 66 70	U.S.
+T16	Nutrition 561 569	products
+T18	Nutrition 918 926	products
+T20	Out-of-scope 249 257	products

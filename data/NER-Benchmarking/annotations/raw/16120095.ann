@@ -1,0 +1,24 @@
+T1	Lifestyle_factor 11 28	sleep deprivation
+A1	Sleep T1
+T2	Lifestyle_factor 48 65	Sleep deprivation
+A2	Sleep T2
+T3	Lifestyle_factor 643 660	sleep deprivation
+A3	Sleep T3
+T4	Lifestyle_factor 341 383	rapid eye-movement (REM) sleep deprivation
+A4	Sleep T4
+T5	Lifestyle_factor 164 187	Severely sleep-deprived
+A5	Sleep T5
+T6	Lifestyle_factor 679 697	REM sleep-deprived
+A6	Sleep T6
+T7	Lifestyle_factor 769 772	RSD
+A7	Sleep T7
+T8	Lifestyle_factor 871 874	RSD
+A8	Sleep T8
+T9	Lifestyle_factor 385 388	RSD
+A9	Sleep T9
+T10	Lifestyle_factor 525 530	punch
+A10	Nutrition T10
+A11	LSF_out_of_context T10
+T11	Lifestyle_factor 864 869	punch
+A12	Nutrition T11
+A13	LSF_out_of_context T11

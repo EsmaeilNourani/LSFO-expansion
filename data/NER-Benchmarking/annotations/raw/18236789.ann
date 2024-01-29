@@ -1,0 +1,37 @@
+T6	Lifestyle_factor 468 479	air quality
+A10	Environmental_exposures T6
+T1	Lifestyle_factor 11 28	vehicle emissions
+A1	Environmental_exposures T1
+T2	Lifestyle_factor 97 114	Vehicle Emissions
+A2	Environmental_exposures T2
+A3	LSF_out_of_context T2
+T3	Lifestyle_factor 194 211	Vehicle Emissions
+A4	Environmental_exposures T3
+A5	LSF_out_of_context T3
+T4	Lifestyle_factor 277 294	vehicle emissions
+A6	Environmental_exposures T4
+A7	LSF_out_of_context T4
+T5	Lifestyle_factor 484 492	emission
+A8	Environmental_exposures T5
+A9	LSF_out_of_context T5
+T7	Lifestyle_factor 564 586	mobile source emission
+A11	Environmental_exposures T7
+A12	LSF_out_of_context T7
+T8	Lifestyle_factor 606 634	heavy-duty vehicle emissions
+A13	Environmental_exposures T8
+A14	LSF_out_of_context T8
+T10	Lifestyle_factor 595 601;612 634	light- duty vehicle emissions
+A17	Environmental_exposures T10
+A18	LSF_out_of_context T10
+T9	Lifestyle_factor 666 675	emissions
+A15	Environmental_exposures T9
+A16	LSF_out_of_context T9
+T11	Lifestyle_factor 701 706	fuels
+A19	Environmental_exposures T11
+T12	Lifestyle_factor 711 727	lubricating oils
+A20	Environmental_exposures T12
+T13	Lifestyle_factor 731 740	emissions
+A21	Environmental_exposures T13
+T14	Out-of-scope 341 345	work
+T15	Lifestyle_factor 351 362	researchers
+A22	Occupations T15

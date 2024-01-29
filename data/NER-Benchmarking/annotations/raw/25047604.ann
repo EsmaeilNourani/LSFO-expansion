@@ -1,0 +1,28 @@
+T1	Lifestyle_factor 7 23	psychotherapists
+A1	Occupations T1
+T2	Lifestyle_factor 247 263	psychotherapists
+A2	Occupations T2
+T3	Lifestyle_factor 176 192	psychotherapists
+A3	Occupations T3
+T4	Lifestyle_factor 39 52	psychotherapy
+A4	Mental_health_practices T4
+T5	Lifestyle_factor 103 116	Psychotherapy
+A5	Mental_health_practices T5
+T6	Lifestyle_factor 206 219	Psychotherapy
+A6	Mental_health_practices T6
+T7	Lifestyle_factor 398 411	Psychotherapy
+T8	Lifestyle_factor 1012 1025	psychotherapy
+A7	Mental_health_practices T7
+A8	Mental_health_practices T8
+T9	Lifestyle_factor 1085 1095	therapists
+A9	Occupations T9
+T10	Lifestyle_factor 575 585	therapists
+A10	Occupations T10
+A11	LSF_out_of_context T5
+A12	LSF_out_of_context T7
+T11	Lifestyle_factor 654 662	Internet
+A13	Non_physical_leisure_time_activities T11
+A14	LSF_out_of_context T11
+T12	Lifestyle_factor 932 938	school
+A15	Socioeconomic_factors T12
+A16	LSF_out_of_context T12

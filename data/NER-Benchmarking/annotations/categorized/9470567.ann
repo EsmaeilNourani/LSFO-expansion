@@ -1,0 +1,14 @@
+T1	Geographical_Feature 40 57	rural Appalachian
+T3	Geographical_Feature 379 396	rural Appalachian
+T4	LSF_out_of_context 607 621	dental hygiene
+T5	Geographical_Feature 800 806	Lisbon
+T6	Geographical_Feature 808 812	Ohio
+T7	Beauty_and_Cleaning 847 858	oral health
+T8	Beauty_and_Cleaning 1082 1093	oral health
+T9	Socioeconomic_factors 1103 1122	low-income families
+T10	LSF_out_of_context 276 287	dental care
+T2	Occupations 204 221	dental hygienists
+T11	LSF_out_of_context 423 432	education
+T12	Geographical_Feature 152 162	Youngstown
+T13	Occupations 715 722	dentist
+T14	Out-of-scope 675 679	work

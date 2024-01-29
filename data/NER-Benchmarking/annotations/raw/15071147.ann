@@ -1,0 +1,10 @@
+T1	Lifestyle_factor 86 107	Orthodontic Treatment
+A1	Beauty_and_Cleaning T1
+T2	Lifestyle_factor 167 188	orthodontic treatment
+A2	Beauty_and_Cleaning T2
+T3	Lifestyle_factor 765 786	Orthodontic Treatment
+A3	Beauty_and_Cleaning T3
+T4	Lifestyle_factor 200 202	UK
+A4	Geographical_Feature T4
+T5	Lifestyle_factor 37 39	UK
+A5	Geographical_Feature T5

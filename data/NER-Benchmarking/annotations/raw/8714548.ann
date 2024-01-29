@@ -1,0 +1,8 @@
+T1	Lifestyle_factor 13 32	group psychotherapy
+A1	Mental_health_practices T1
+T2	Lifestyle_factor 1071 1090	group psychotherapy
+A2	Mental_health_practices T2
+T3	Lifestyle_factor 227 240	psychotherapy
+A3	Mental_health_practices T3
+T4	Lifestyle_factor 804 813	therapist
+A4	Occupations T4

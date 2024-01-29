@@ -1,0 +1,18 @@
+T1	Lifestyle_factor 26 31	sleep
+A1	Sleep T1
+T6	Lifestyle_factor 33 52	sleep fragmentation
+A6	Sleep T6
+T9	Lifestyle_factor 138 154	sleep continuity
+A9	Sleep T9
+T12	Lifestyle_factor 581 593	slept longer
+A12	Sleep T12
+T13	Lifestyle_factor 641 654	stage 1 sleep
+A13	Sleep T13
+T2	Lifestyle_factor 185 190	sleep
+A2	Sleep T2
+T3	Lifestyle_factor 119 124	sleep
+A3	Sleep T3
+T7	Lifestyle_factor 58 63	sleep
+A7	Sleep T7
+T4	Lifestyle_factor 463 481	daytime sleepiness
+A4	Sleep T4

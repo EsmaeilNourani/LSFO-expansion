@@ -1,0 +1,14 @@
+T1	Lifestyle_factor 48 68	orthodontic brackets
+A1	Beauty_and_Cleaning T1
+T3	Lifestyle_factor 348 370	multibracket appliance
+A3	Beauty_and_Cleaning T3
+T4	Out-of-scope 1285 1307	multibracket treatment
+T5	Out-of-scope 233 255	multibracket treatment
+T6	Out-of-scope 830 852	multibracket treatment
+T2	Out-of-scope 1140 1146	Single
+T7	Lifestyle_factor 308 319	orthodontic
+A8	Beauty_and_Cleaning T7
+A9	LSF_out_of_context T7
+#1	AnnotatorNotes T5	treatment
+#2	AnnotatorNotes T6	treatment
+#3	AnnotatorNotes T4	treatment

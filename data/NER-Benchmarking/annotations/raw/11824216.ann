@@ -1,0 +1,15 @@
+T1	Lifestyle_factor 3 17	couple therapy
+A1	Mental_health_practices T1
+T2	Lifestyle_factor 238 252	couple therapy
+A2	Mental_health_practices T2
+T3	Lifestyle_factor 386 400	couple therapy
+A3	Mental_health_practices T3
+T4	Lifestyle_factor 614 628	couple therapy
+A4	Mental_health_practices T4
+T5	Lifestyle_factor 737 751	couple therapy
+A5	Mental_health_practices T5
+T6	Lifestyle_factor 89 111	intimate relationships
+A6	Socioeconomic_factors T6
+T7	Lifestyle_factor 136 146	therapists
+A7	Occupations T7
+T8	Out-of-scope 822 826	work

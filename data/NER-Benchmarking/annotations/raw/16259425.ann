@@ -1,0 +1,66 @@
+T3	Lifestyle_factor 31 36	China
+T4	Lifestyle_factor 59 64	China
+T8	Lifestyle_factor 177 190	air pollution
+A9	Environmental_exposures T8
+T9	Lifestyle_factor 206 220	China's cities
+T10	Lifestyle_factor 251 262	air quality
+A11	Environmental_exposures T10
+T11	Lifestyle_factor 287 310	urban residential areas
+A13	Socioeconomic_factors T11
+T14	Lifestyle_factor 431 443	coal burning
+A16	Environmental_exposures T14
+T17	Lifestyle_factor 524 526	PM
+A19	Environmental_exposures T17
+T18	Lifestyle_factor 531 534	SO2
+A20	Environmental_exposures T18
+T24	Lifestyle_factor 912 923	air quality
+A26	Environmental_exposures T24
+T25	Lifestyle_factor 927 941	Chinese cities
+T26	Lifestyle_factor 971 978	Beijing
+T27	Lifestyle_factor 38 45	Beijing
+T28	Lifestyle_factor 1008 1033	rapidly developing cities
+A30	Socioeconomic_factors T28
+T29	Lifestyle_factor 1088 1107	urban air pollution
+A31	Environmental_exposures T29
+T30	Lifestyle_factor 1192 1203	air quality
+A33	Environmental_exposures T30
+T33	Lifestyle_factor 1117 1126	Beijing's
+T1	Lifestyle_factor 10 27	urban air quality
+A1	Environmental_exposures T1
+A2	Geographical_Feature T3
+A3	Geographical_Feature T27
+A4	Geographical_Feature T4
+T2	Lifestyle_factor 79 97	rapid urbanization
+A5	Socioeconomic_factors T2
+A6	Geographical_Feature T9
+T5	Lifestyle_factor 323 341	Particulate matter
+A7	Environmental_exposures T5
+T6	Lifestyle_factor 360 374	sulfur dioxide
+A8	Environmental_exposures T6
+T7	Lifestyle_factor 447 469	mixed source pollution
+A10	Environmental_exposures T7
+A12	Geographical_Feature T33
+T12	Lifestyle_factor 1234 1255	explosive development
+A14	Socioeconomic_factors T12
+A15	Geographical_Feature T26
+A17	Geographical_Feature T25
+T13	Out-of-scope 773 791	rapid motorization
+T15	Lifestyle_factor 597 612	Nitrogen oxides
+A21	Environmental_exposures T15
+T16	Lifestyle_factor 123 138	economic growth
+A18	Socioeconomic_factors T16
+T19	Lifestyle_factor 343 345	PM
+A24	Environmental_exposures T19
+T20	Lifestyle_factor 376 379	SO2
+A25	Environmental_exposures T20
+T22	Lifestyle_factor 614 617	NOx
+A27	Environmental_exposures T22
+T23	Lifestyle_factor 868 883	economic growth
+A28	Socioeconomic_factors T23
+T31	Lifestyle_factor 888 906	energy consumption
+A29	Socioeconomic_factors T31
+T32	Out-of-scope 1260 1272	motorization
+T21	Lifestyle_factor 813 832	pollutants emission
+A22	Environmental_exposures T21
+T34	Lifestyle_factor 395 404	pollutant
+A23	Environmental_exposures T34

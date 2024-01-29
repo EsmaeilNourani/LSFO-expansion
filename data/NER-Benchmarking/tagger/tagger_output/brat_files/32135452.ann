@@ -1,0 +1,12 @@
+T1	Sleep 0 5	Sleep
+T2	Sleep 155 160	sleep
+T3	Sleep 228 233	sleep
+T4	Sleep 612 622	sleep time
+T5	Sleep 624 629	sleep
+T6	Sleep 657 672	slow wave sleep
+T7	Sleep 674 698	rapid eye movement sleep
+T8	Sleep 750 755	sleep
+T9	Sleep 925 930	sleep
+T10	Sleep 945 950	sleep
+T11	Sleep 1001 1010	REM sleep
+T12	Sleep 1082 1095	sleep quality

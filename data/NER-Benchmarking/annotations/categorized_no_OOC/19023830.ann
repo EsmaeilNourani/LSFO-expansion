@@ -1,0 +1,15 @@
+T5	Geographical_Feature 256 264	Scotland
+T7	Drugs 676 683	smoking
+T8	Drugs 851 868	smoking cessation
+T6	Drugs 282 299	smoking cessation
+T1	Drugs 67 75	nicotine
+T2	Drugs 146 154	nicotine
+T3	Geographical_Feature 361 369	Scotland
+T4	Geographical_Feature 562 570	Scotland
+T9	Environmental_exposures 32 42	smoke-free
+T10	Environmental_exposures 230 240	smoke-free
+T11	Geographical_Feature 443 445	UK
+T12	Environmental_exposures 932 942	smoke-free
+T13	Out-of-scope 88 95	therapy
+T14	Out-of-scope 167 174	therapy
+T15	Geographical_Feature 737 739	UK

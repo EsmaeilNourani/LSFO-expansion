@@ -1,0 +1,18 @@
+T1	Lifestyle_factor 105 132	mental health professionals
+T6	Lifestyle_factor 182 190	gambling
+A6	Non_physical_leisure_time_activities T6
+T7	Lifestyle_factor 291 299	gamblers
+T8	Lifestyle_factor 519 527	Gambling
+T9	Lifestyle_factor 658 666	gambling
+A1	Occupations T1
+T2	Lifestyle_factor 17 25	gamblers
+A4	Non_physical_leisure_time_activities T8
+A8	Non_physical_leisure_time_activities T9
+A2	Non_physical_leisure_time_activities T7
+A5	Non_physical_leisure_time_activities T2
+T3	Lifestyle_factor 588 598	clinicians
+A3	Occupations T3
+T4	Lifestyle_factor 225 231	Quebec
+A7	Geographical_Feature T4
+T5	Lifestyle_factor 603 614	researchers
+A9	Occupations T5

@@ -1,0 +1,32 @@
+T9	Lifestyle_factor 37 45	exercise
+A9	Physical_activity T9
+T10	Lifestyle_factor 48 56	Exercise
+A10	Physical_activity T10
+T11	Lifestyle_factor 1038 1046	exercise
+A11	Physical_activity T11
+T12	Lifestyle_factor 795 803	exercise
+A12	Physical_activity T12
+T13	Lifestyle_factor 487 495	exercise
+A13	Physical_activity T13
+T14	Lifestyle_factor 91 99	exercise
+A14	Physical_activity T14
+T24	Lifestyle_factor 1252 1269	relative humidity
+A23	Environmental_exposures T24
+T23	Lifestyle_factor 1217 1227	work rates
+T26	Lifestyle_factor 1229 1242	large airflow
+A25	Environmental_exposures T26
+A22	Physical_activity T23
+T1	Lifestyle_factor 368 385	warm environments
+A1	Environmental_exposures T1
+T2	Out-of-scope 0 8	Clothing
+T3	Out-of-scope 220 235	use of clothing
+T4	Out-of-scope 398 406	clothing
+T5	Out-of-scope 549 557	clothing
+T6	Out-of-scope 713 721	clothing
+T7	Out-of-scope 730 738	clothing
+T8	Out-of-scope 878 886	clothing
+T15	Out-of-scope 967 975	Clothing
+T16	Out-of-scope 108 132	warm and cold conditions
+#9	AnnotatorNotes T16	warm and cold condition doesn't necessarily imply the environment
+T17	Lifestyle_factor 206 214	activity
+A2	Physical_activity T17

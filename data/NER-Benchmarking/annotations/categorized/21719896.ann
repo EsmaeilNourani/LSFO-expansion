@@ -1,0 +1,14 @@
+T2	Out-of-scope 0 7	Menthol
+T4	Drugs 233 248	nicotine intake
+T5	Drugs 267 274	smoking
+T6	Out-of-scope 302 309	Menthol
+T7	Out-of-scope 562 569	menthol
+T9	Out-of-scope 645 652	menthol
+T12	Drugs 790 807	smoking cessation
+T13	Geographical_Feature 811 825	North Carolina
+T14	Geographical_Feature 861 869	Maryland
+T15	Drugs 1072 1082	cigarettes
+T18	Out-of-scope 1287 1294	menthol
+T1	Drugs 833 848	substance abuse
+T8	Out-of-scope 946 952	single
+T3	Drugs 97 123	smoking menthol cigarettes

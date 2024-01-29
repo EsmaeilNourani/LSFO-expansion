@@ -1,0 +1,8 @@
+T1	Lifestyle_factor 0 13	Daily walking
+A1	Physical_activity T1
+T2	Lifestyle_factor 185 202	physical activity
+T3	Lifestyle_factor 929 946	physical activity
+A2	Physical_activity T3
+T4	Lifestyle_factor 1060 1077	physical activity
+A3	Physical_activity T4
+A4	Physical_activity T2

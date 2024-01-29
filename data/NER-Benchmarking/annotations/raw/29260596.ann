@@ -1,0 +1,4 @@
+T1	Lifestyle_factor 478 482	drug
+A1	Drugs T1
+A2	LSF_out_of_context T1
+T2	Out-of-scope 748 752	work

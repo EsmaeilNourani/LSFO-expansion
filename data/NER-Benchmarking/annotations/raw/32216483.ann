@@ -1,0 +1,20 @@
+T1	Lifestyle_factor 38 64	hormonal contraception use
+A1	Socioeconomic_factors T1
+T7	Lifestyle_factor 240 262	hormonal contraception
+A6	Socioeconomic_factors T7
+T8	Lifestyle_factor 395 418	hormonal contraceptives
+A7	Socioeconomic_factors T8
+T11	Lifestyle_factor 835 852	contraceptive use
+A10	Socioeconomic_factors T11
+T13	Lifestyle_factor 878 895	Contraceptive use
+A12	Socioeconomic_factors T13
+T15	Lifestyle_factor 1044 1070	non-hormonal contraceptive
+A14	Socioeconomic_factors T15
+T2	Lifestyle_factor 954 967	contraceptive
+A2	Socioeconomic_factors T2
+A3	LSF_out_of_context T2
+T3	Lifestyle_factor 591 604	contraceptive
+A4	Socioeconomic_factors T3
+A5	LSF_out_of_context T3
+T4	Lifestyle_factor 1032 1040;1057 1070	hormonal contraceptive
+A8	Socioeconomic_factors T4

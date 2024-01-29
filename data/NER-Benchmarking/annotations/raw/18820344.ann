@@ -1,0 +1,56 @@
+T1	Lifestyle_factor 24 43	exercise counseling
+A1	Physical_activity T1
+T2	Lifestyle_factor 148 167	exercise counseling
+A2	Physical_activity T2
+T4	Lifestyle_factor 271 288	exercise behavior
+A4	Physical_activity T4
+T6	Lifestyle_factor 337 358	environmental factors
+T7	Lifestyle_factor 550 569	exercise specialist
+T8	Lifestyle_factor 672 695	residential environment
+A7	Socioeconomic_factors T8
+T9	Lifestyle_factor 709 726	physical activity
+A8	Physical_activity T9
+T10	Lifestyle_factor 752 775	face-to-face counseling
+A9	Mental_health_practices T10
+T11	Lifestyle_factor 780 799	exercising outdoors
+A10	Physical_activity T11
+T12	Lifestyle_factor 838 852	exercise alone
+A11	Physical_activity T12
+T13	Lifestyle_factor 880 894	social support
+A12	Socioeconomic_factors T13
+T14	Lifestyle_factor 896 918	Low-intensity exercise
+A13	Physical_activity T14
+T15	Lifestyle_factor 1007 1015	exercise
+A14	Physical_activity T15
+T16	Lifestyle_factor 1069 1083	social support
+A15	Socioeconomic_factors T16
+T3	Lifestyle_factor 216 224	Internet
+A3	Non_physical_leisure_time_activities T3
+T17	Lifestyle_factor 1103 1111	Internet
+A16	Non_physical_leisure_time_activities T17
+T18	Lifestyle_factor 1152 1165	higher income
+A17	Socioeconomic_factors T18
+T19	Lifestyle_factor 1170 1192	greater social support
+A18	Socioeconomic_factors T19
+T20	Lifestyle_factor 1229 1245;1265 1272	social cognitive factors
+A19	Socioeconomic_factors T20
+T21	Lifestyle_factor 1251 1272	environmental factors
+T22	Lifestyle_factor 1289 1309	exercise preferences
+A20	Physical_activity T22
+T23	Lifestyle_factor 1314 1322	Internet
+A21	Non_physical_leisure_time_activities T23
+T5	Lifestyle_factor 315 331;351 358	social cognitive factors
+A6	Occupations T7
+A22	Environmental_exposures T6
+A23	Environmental_exposures T21
+T24	Lifestyle_factor 206 215	telephone
+A24	Non_physical_leisure_time_activities T24
+A25	LSF_out_of_context T24
+A26	LSF_out_of_context T3
+A5	Socioeconomic_factors T5
+T25	Lifestyle_factor 838 846;857 864	exercise at home
+A27	Physical_activity T25
+A28	LSF_out_of_context T17
+A29	LSF_out_of_context T23
+T26	Lifestyle_factor 958 967	sedentary
+A30	Physical_activity T26

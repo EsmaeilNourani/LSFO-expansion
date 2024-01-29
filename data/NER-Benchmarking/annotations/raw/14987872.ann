@@ -1,0 +1,22 @@
+T7	Lifestyle_factor 117 121	milk
+A7	Nutrition T7
+T8	Lifestyle_factor 241 262	aromatic hydrocarbons
+A8	Environmental_exposures T8
+T9	Lifestyle_factor 609 621	hydrocarbons
+A9	Environmental_exposures T9
+T10	Lifestyle_factor 693 698	foods
+A10	Nutrition T10
+T5	Lifestyle_factor 50 60	human milk
+A5	Nutrition T5
+T6	Lifestyle_factor 87 97	human milk
+A6	Nutrition T6
+T1	Lifestyle_factor 18 25	benzene
+A1	Environmental_exposures T1
+T2	Lifestyle_factor 30 37	toluene
+A2	Environmental_exposures T2
+T3	Lifestyle_factor 264 271	benzene
+A3	Environmental_exposures T3
+T4	Lifestyle_factor 276 283	toluene
+A4	Environmental_exposures T4
+T11	Lifestyle_factor 478 490	hydrocarbons
+A11	Environmental_exposures T11

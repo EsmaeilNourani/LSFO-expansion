@@ -1,0 +1,77 @@
+T1	Lifestyle_factor 0 8	Nicotine
+A1	Drugs T1
+T5	Lifestyle_factor 649 666	3-ethenylpyridine
+T6	Lifestyle_factor 810 827	3-ethenylpyridine
+T7	Lifestyle_factor 61 88	environmental tobacco smoke
+A4	Drugs T7
+T10	Lifestyle_factor 485 488	ETS
+A7	Drugs T10
+T11	Lifestyle_factor 1063 1066	ETS
+A8	Drugs T11
+T12	Lifestyle_factor 694 697	ETS
+A9	Drugs T12
+T15	Lifestyle_factor 628 644	Gaseous nicotine
+A2	Drugs T15
+T2	Lifestyle_factor 1102 1112	nightclubs
+A13	Non_physical_leisure_time_activities T2
+T16	Lifestyle_factor 1222 1232	nightclubs
+A14	Non_physical_leisure_time_activities T16
+T17	Lifestyle_factor 1091 1097	discos
+A15	Non_physical_leisure_time_activities T17
+T18	Lifestyle_factor 1211 1217	discos
+A16	Non_physical_leisure_time_activities T18
+T19	Lifestyle_factor 1250 1266	smoke generators
+A17	Environmental_exposures T19
+T20	Lifestyle_factor 1162 1194	total volatile organic compounds
+A18	Environmental_exposures T20
+T22	Lifestyle_factor 916 920	TVOC
+A19	Environmental_exposures T22
+T23	Lifestyle_factor 923 925	CO
+A21	Environmental_exposures T23
+T24	Lifestyle_factor 930 933	CO2
+A22	Environmental_exposures T24
+T26	Lifestyle_factor 258 265	Tobacco
+A24	Drugs T26
+T28	Lifestyle_factor 225 235	workplaces
+A26	Socioeconomic_factors T28
+T29	Lifestyle_factor 616 626	workplaces
+A27	Socioeconomic_factors T29
+T21	Lifestyle_factor 882 914	total volatile organic compounds
+A20	Environmental_exposures T21
+T13	Lifestyle_factor 567 570	ETS
+A10	Drugs T13
+T3	Lifestyle_factor 762 770	nicotine
+A3	Drugs T3
+T4	Lifestyle_factor 13 30	3-ethenylpyridine
+A29	LSF_out_of_context T26
+T27	Lifestyle_factor 145 169	smoking in public places
+A25	Drugs T27
+T25	Lifestyle_factor 118 125	Tobacco
+A23	Drugs T25
+A28	LSF_out_of_context T25
+A30	Drugs T4
+T8	Lifestyle_factor 380 407	environmental tobacco smoke
+A5	Drugs T8
+T9	Lifestyle_factor 409 412	ETS
+A6	Drugs T9
+A11	LSF_out_of_context T17
+A12	LSF_out_of_context T2
+A31	LSF_out_of_context T18
+A32	LSF_out_of_context T16
+T14	Lifestyle_factor 1127 1138	restaurants
+A33	Non_physical_leisure_time_activities T14
+A34	LSF_out_of_context T14
+T30	Lifestyle_factor 92 103	restaurants
+A35	Non_physical_leisure_time_activities T30
+A36	LSF_out_of_context T30
+T31	Lifestyle_factor 298 309	restaurants
+A37	Non_physical_leisure_time_activities T31
+A38	LSF_out_of_context T31
+T32	Lifestyle_factor 417 428	restaurants
+A39	Non_physical_leisure_time_activities T32
+A40	LSF_out_of_context T32
+T33	Lifestyle_factor 726 737	restaurants
+A41	Non_physical_leisure_time_activities T33
+A42	LSF_out_of_context T33
+A43	Environmental_exposures T6
+A44	Environmental_exposures T5

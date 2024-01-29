@@ -1,0 +1,15 @@
+T6	Environmental_exposures 468 479	air quality
+T1	Environmental_exposures 11 28	vehicle emissions
+T2	Environmental_exposures 97 114	Vehicle Emissions
+T3	Environmental_exposures 194 211	Vehicle Emissions
+T4	Environmental_exposures 277 294	vehicle emissions
+T5	Environmental_exposures 484 492	emission
+T7	Environmental_exposures 564 586	mobile source emission
+T8	Environmental_exposures 606 634	heavy-duty vehicle emissions
+T10	Environmental_exposures 595 601;612 634	light- duty vehicle emissions
+T9	Environmental_exposures 666 675	emissions
+T11	Environmental_exposures 701 706	fuels
+T12	Environmental_exposures 711 727	lubricating oils
+T13	Environmental_exposures 731 740	emissions
+T14	Out-of-scope 341 345	work
+T15	Occupations 351 362	researchers

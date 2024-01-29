@@ -1,0 +1,41 @@
+T1	Lifestyle_factor 57 74	Physical Activity
+A1	Physical_activity T1
+T4	Lifestyle_factor 361 363	PA
+A4	Physical_activity T4
+T5	Lifestyle_factor 1100 1102	PA
+A5	Physical_activity T5
+T6	Lifestyle_factor 931 933	PA
+A6	Physical_activity T6
+T7	Lifestyle_factor 474 476	PA
+A7	Physical_activity T7
+T8	Lifestyle_factor 285 287	PA
+A8	Physical_activity T8
+T9	Lifestyle_factor 39 52	Pet Ownership
+T10	Lifestyle_factor 137 150	Pet ownership
+T11	Lifestyle_factor 430 443	pet ownership
+T12	Lifestyle_factor 333 346	pet ownership
+T14	Lifestyle_factor 532 534	PA
+A10	Physical_activity T14
+T15	Lifestyle_factor 665 687	pet-related activities
+A11	Physical_activity T15
+T16	Lifestyle_factor 713 729	daily step count
+A12	Physical_activity T16
+T17	Lifestyle_factor 770 784	sedentary time
+A13	Physical_activity T17
+T18	Lifestyle_factor 986 1022	socially interacting with their pets
+T19	Lifestyle_factor 1043 1062	sedentary behaviors
+A14	Physical_activity T19
+T2	Lifestyle_factor 190 207	physical activity
+A2	Physical_activity T2
+A3	Non_physical_leisure_time_activities T9
+A9	Non_physical_leisure_time_activities T10
+A15	Non_physical_leisure_time_activities T11
+A16	Non_physical_leisure_time_activities T12
+A17	Non_physical_leisure_time_activities T18
+T3	Lifestyle_factor 292 303	dog walking
+A18	Physical_activity T3
+T13	Lifestyle_factor 209 211	PA
+A19	Physical_activity T13
+A20	LSF_out_of_context T16
+T20	Lifestyle_factor 973 981	pet care
+A21	Non_physical_leisure_time_activities T20

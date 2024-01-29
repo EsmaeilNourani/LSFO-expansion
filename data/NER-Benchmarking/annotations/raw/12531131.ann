@@ -1,0 +1,8 @@
+T1	Lifestyle_factor 272 288	circadian rhythm
+A1	Sleep T1
+T2	Lifestyle_factor 347 352	sleep
+A2	Sleep T2
+T3	Lifestyle_factor 444 462	sleep disturbances
+A3	Sleep T3
+T4	Lifestyle_factor 576 592	sleep continuity
+A4	Sleep T4

@@ -1,0 +1,9 @@
+T1	Lifestyle_factor 224 237	group therapy
+A1	Mental_health_practices T1
+T2	Lifestyle_factor 281 296	group therapist
+A2	Occupations T2
+T3	Lifestyle_factor 552 561	therapist
+A3	Occupations T3
+T4	Out-of-scope 130 134	work
+T5	Out-of-scope 17 21	work
+T6	Out-of-scope 519 523	work

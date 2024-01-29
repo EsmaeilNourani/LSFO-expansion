@@ -1,0 +1,28 @@
+T1	Lifestyle_factor 81 95	Dietary plants
+A1	Nutrition T1
+T2	Lifestyle_factor 164 184	developing countries
+A2	Socioeconomic_factors T2
+T3	Lifestyle_factor 225 238	United States
+A3	Geographical_Feature T3
+T4	Lifestyle_factor 243 249	Europe
+A4	Geographical_Feature T4
+T5	Lifestyle_factor 336 363	traditional medicine plants
+A5	Nutrition T5
+T6	Lifestyle_factor 71 78	pumpkin
+A6	Nutrition T6
+T7	Lifestyle_factor 379 386	pumpkin
+A7	Nutrition T7
+T8	Lifestyle_factor 1130 1137	pumpkin
+A8	Nutrition T8
+T9	Lifestyle_factor 1045 1052	pumpkin
+A9	Nutrition T9
+T10	Lifestyle_factor 100 119	herbal preparations
+A10	Nutrition T10
+T11	Lifestyle_factor 653 658	plant
+A11	Nutrition T11
+T13	Lifestyle_factor 948 960	fermentation
+A14	Nutrition T13
+T14	Lifestyle_factor 932 943	germination
+A15	Nutrition T14
+A16	LSF_out_of_context T14
+A17	LSF_out_of_context T13

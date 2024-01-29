@@ -1,0 +1,14 @@
+T1	Lifestyle_factor 93 118	sexual abuse in childhood
+A1	Socioeconomic_factors T1
+T2	Lifestyle_factor 419 456	Sexual abuse experiences in childhood
+A2	Socioeconomic_factors T2
+T3	Lifestyle_factor 782 820	traumatic experiences in relationships
+A3	Socioeconomic_factors T3
+T4	Lifestyle_factor 270 275	Abuse
+A4	Socioeconomic_factors T4
+T5	Lifestyle_factor 21 27	incest
+A5	Socioeconomic_factors T5
+T6	Lifestyle_factor 251 268	victims of incest
+A6	Socioeconomic_factors T6
+T7	Lifestyle_factor 664 674	aggression
+A7	Socioeconomic_factors T7

@@ -1,0 +1,15 @@
+T1	Lifestyle_factor 11 26	Manisa propolis
+A1	Nutrition T1
+T2	Lifestyle_factor 918 933	Manisa propolis
+A2	Nutrition T2
+T3	Lifestyle_factor 121 129	Propolis
+A3	Nutrition T3
+T4	Lifestyle_factor 308 316	propolis
+A4	Nutrition T4
+T5	Lifestyle_factor 573 581	propolis
+A5	Nutrition T5
+T6	Lifestyle_factor 893 901	propolis
+A6	Nutrition T6
+T7	Lifestyle_factor 1044 1051	chrysin
+A7	Nutrition T7
+T8	Out-of-scope 41 49	activity

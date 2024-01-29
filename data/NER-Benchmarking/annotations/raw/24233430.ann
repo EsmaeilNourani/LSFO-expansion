@@ -1,0 +1,15 @@
+T1	Lifestyle_factor 14 34	behavioral therapies
+A1	Mental_health_practices T1
+T2	Lifestyle_factor 52 60	gambling
+A2	Non_physical_leisure_time_activities T2
+T3	Lifestyle_factor 457 465	gambling
+A3	Non_physical_leisure_time_activities T3
+T4	Lifestyle_factor 198 206	gambling
+A4	Non_physical_leisure_time_activities T4
+A5	LSF_out_of_context T4
+T5	Lifestyle_factor 133 152	cognitive treatment
+A6	Mental_health_practices T5
+T6	Lifestyle_factor 0 9;25 34	Cognitive therapies
+A7	Mental_health_practices T6
+T7	Lifestyle_factor 118 128;143 152	behavioral treatment
+A8	Mental_health_practices T7

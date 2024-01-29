@@ -1,0 +1,20 @@
+T1	Lifestyle_factor 221 226	sleep
+A1	Sleep T1
+T2	Lifestyle_factor 370 375	sleep
+A2	Sleep T2
+T3	Lifestyle_factor 1136 1141	sleep
+A3	Sleep T3
+T4	Lifestyle_factor 952 957	sleep
+A4	Sleep T4
+T5	Lifestyle_factor 1006 1034	non-rapid eye movement sleep
+A5	Sleep T5
+A6	LSF_out_of_context T4
+T6	Lifestyle_factor 407 412	sleep
+A7	Sleep T6
+A8	LSF_out_of_context T6
+T7	Lifestyle_factor 142 172	drugs with sedative properties
+A9	Drugs T7
+T8	Lifestyle_factor 704 711	placebo
+A10	Drugs T8
+T9	Lifestyle_factor 1174 1181	placebo
+A11	Drugs T9

@@ -1,0 +1,19 @@
+T1	Lifestyle_factor 676 686	friendship
+A1	Socioeconomic_factors T1
+T3	Lifestyle_factor 895 919	individual psychotherapy
+A2	Mental_health_practices T3
+T4	Lifestyle_factor 19 29	therapists
+A3	Occupations T4
+T2	Lifestyle_factor 813 822	therapist
+A4	Occupations T2
+T5	Lifestyle_factor 385 394	Therapist
+A5	Occupations T5
+T6	Lifestyle_factor 156 166	therapists
+A6	Occupations T6
+T7	Lifestyle_factor 506 516	therapists
+A7	Occupations T7
+T8	Lifestyle_factor 649 659	therapists
+A8	Occupations T8
+T9	Lifestyle_factor 606 613	therapy
+A9	Mental_health_practices T9
+#1	AnnotatorNotes T9	psychotherapy

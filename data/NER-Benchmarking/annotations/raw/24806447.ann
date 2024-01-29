@@ -1,0 +1,7 @@
+T1	Lifestyle_factor 223 229	Europe
+A1	Geographical_Feature T1
+T2	Lifestyle_factor 748 765	organic chemicals
+A2	Environmental_exposures T2
+T3	Lifestyle_factor 1249 1252	web
+A3	Non_physical_leisure_time_activities T3
+A4	LSF_out_of_context T3

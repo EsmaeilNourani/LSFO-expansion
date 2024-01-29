@@ -1,0 +1,26 @@
+T2	Out-of-scope 60 80	transmeridian flight
+T3	Out-of-scope 323 343	transmeridian flight
+T4	Out-of-scope 500 520	transmeridian flight
+T5	Out-of-scope 760 780	transmeridian flight
+T6	Lifestyle_factor 112 120	athletes
+T7	Lifestyle_factor 156 166	air travel
+T8	Lifestyle_factor 1194 1204	air travel
+T10	Lifestyle_factor 298 303	sleep
+A2	Sleep T10
+T11	Lifestyle_factor 1013 1030	sleep deprivation
+A3	Sleep T11
+T9	Lifestyle_factor 816 826	air travel
+T12	Lifestyle_factor 918 934	circadian rhythm
+A4	Sleep T12
+T13	Lifestyle_factor 1064 1080	circadian system
+A5	Sleep T13
+T1	Lifestyle_factor 17 27	air travel
+A1	Occupations T6
+#1	AnnotatorNotes T2	TODO: check
+#2	AnnotatorNotes T3	TODO: check
+#3	AnnotatorNotes T4	TODO: check
+#4	AnnotatorNotes T5	TODO: check
+A8	Non_physical_leisure_time_activities T9
+A7	Non_physical_leisure_time_activities T7
+A6	Non_physical_leisure_time_activities T1
+A9	Non_physical_leisure_time_activities T8

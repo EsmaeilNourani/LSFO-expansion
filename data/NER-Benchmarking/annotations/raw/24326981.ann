@@ -1,0 +1,33 @@
+T1	Lifestyle_factor 14 36	antioxidant vitamins E
+A1	Nutrition T1
+T2	Lifestyle_factor 126 130	Iran
+A2	Geographical_Feature T2
+T3	Lifestyle_factor 315 319	Iran
+A3	Geographical_Feature T3
+T4	Lifestyle_factor 117 124	Isfahan
+A4	Geographical_Feature T4
+T5	Lifestyle_factor 252 262	vitamins E
+A5	Nutrition T5
+T6	Lifestyle_factor 417 426	vitamin E
+A6	Nutrition T6
+T7	Lifestyle_factor 442 451	vitamin C
+A7	Nutrition T7
+T8	Lifestyle_factor 455 462	placebo
+A8	Nutrition T8
+T9	Lifestyle_factor 160 167	placebo
+A9	Nutrition T9
+T10	Lifestyle_factor 1226 1255	antioxidants' supplementation
+A10	Nutrition T10
+T11	Lifestyle_factor 1009 1036	antioxidant supplementation
+A11	Nutrition T11
+T12	Lifestyle_factor 698 725	Antioxidant supplementation
+A12	Nutrition T12
+T13	Lifestyle_factor 785 796	antioxidant
+A13	Nutrition T13
+A14	LSF_out_of_context T13
+T14	Lifestyle_factor 552 568	food consumption
+A15	Nutrition T14
+T15	Lifestyle_factor 14 34;41 42	antioxidant vitamins C
+A16	Nutrition T15
+T16	Lifestyle_factor 252 260;267 268	vitamins C
+A17	Nutrition T16

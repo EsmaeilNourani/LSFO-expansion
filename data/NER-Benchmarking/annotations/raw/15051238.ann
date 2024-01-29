@@ -1,0 +1,40 @@
+T1	Lifestyle_factor 45 66	occupational exposure
+A1	Environmental_exposures T1
+T2	Lifestyle_factor 153 158	radon
+A2	Environmental_exposures T2
+T3	Lifestyle_factor 196 212	progeny exposure
+A3	Environmental_exposures T3
+T4	Lifestyle_factor 390 418	(222)Rn concentration in air
+A4	Environmental_exposures T4
+T5	Lifestyle_factor 791 807	progeny exposure
+A5	Environmental_exposures T5
+T7	Lifestyle_factor 183 188	water
+A8	Nutrition T7
+A9	LSF_out_of_context T7
+T8	Lifestyle_factor 879 884	water
+A10	Nutrition T8
+A11	LSF_out_of_context T8
+T9	Lifestyle_factor 666 671	water
+A12	Nutrition T9
+A13	LSF_out_of_context T9
+T10	Lifestyle_factor 339 344	water
+A14	Nutrition T10
+A15	LSF_out_of_context T10
+T11	Lifestyle_factor 1047 1052	water
+A16	Nutrition T11
+A17	LSF_out_of_context T11
+T12	Lifestyle_factor 266 277	Polichnitos
+A18	Geographical_Feature T12
+T13	Lifestyle_factor 160 167	(222)Rn
+A19	Environmental_exposures T13
+T14	Lifestyle_factor 439 446	(222)Rn
+A20	Environmental_exposures T14
+T15	Lifestyle_factor 377 384	(222)Rn
+A21	Environmental_exposures T15
+T16	Lifestyle_factor 16 37	(222)Rn-bearing water
+A22	Environmental_exposures T16
+T17	Lifestyle_factor 739 746	(222)Rn
+A23	Environmental_exposures T17
+T18	Lifestyle_factor 841 848	(222)Rn
+A24	Environmental_exposures T18
+T6	Out-of-scope 256 260	work

@@ -1,0 +1,60 @@
+T1	Lifestyle_factor 12 29	trans-resveratrol
+A1	Nutrition T1
+T2	Lifestyle_factor 34 46	trans-piceid
+A2	Nutrition T2
+T3	Lifestyle_factor 50 65	vegetable foods
+A3	Nutrition T3
+T4	Lifestyle_factor 113 130	Trans-resveratrol
+A4	Nutrition T4
+T5	Lifestyle_factor 539 556	trans-resveratrol
+A5	Nutrition T5
+T6	Lifestyle_factor 1142 1159	trans-resveratrol
+A6	Nutrition T6
+T7	Lifestyle_factor 1045 1062	trans-resveratrol
+A7	Nutrition T7
+T8	Lifestyle_factor 827 844	trans-resveratrol
+A8	Nutrition T8
+T9	Lifestyle_factor 862 879	trans-resveratrol
+A9	Nutrition T9
+T10	Lifestyle_factor 169 187	phenolic compounds
+T11	Lifestyle_factor 135 156	resveratrol glucoside
+A10	Nutrition T11
+T12	Lifestyle_factor 326 332	grapes
+A11	Nutrition T12
+T13	Lifestyle_factor 376 391	vegetable foods
+A12	Nutrition T13
+T14	Lifestyle_factor 427 442	vegetable foods
+A13	Nutrition T14
+T15	Lifestyle_factor 583 598	vegetable foods
+A14	Nutrition T15
+T16	Lifestyle_factor 751 766	vegetable foods
+A15	Nutrition T16
+T17	Lifestyle_factor 967 982	vegetable foods
+A16	Nutrition T17
+T18	Lifestyle_factor 1092 1107	vegetable foods
+A17	Nutrition T18
+T19	Lifestyle_factor 602 607	China
+T20	Lifestyle_factor 458 472	principal food
+A18	Nutrition T20
+T21	Lifestyle_factor 477 493	nutrient origins
+A19	Nutrition T21
+T22	Lifestyle_factor 561 573	trans-piceid
+A20	Nutrition T22
+T23	Lifestyle_factor 702 714	Trans-piceid
+A21	Nutrition T23
+T24	Lifestyle_factor 884 896	trans-piceid
+A22	Nutrition T24
+T25	Lifestyle_factor 1164 1176	trans-piceid
+A23	Nutrition T25
+T26	Lifestyle_factor 1067 1079	trans-piceid
+A24	Nutrition T26
+T27	Lifestyle_factor 809 821	trans-piceid
+A25	Nutrition T27
+T28	Lifestyle_factor 1188 1193	foods
+A26	Nutrition T28
+A27	Geographical_Feature T19
+A28	Nutrition T10
+T29	Lifestyle_factor 217 222	plant
+A29	Nutrition T29
+T30	Lifestyle_factor 343 351	products
+A30	Nutrition T30

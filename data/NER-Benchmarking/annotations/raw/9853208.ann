@@ -1,0 +1,14 @@
+T1	Lifestyle_factor 18 31	contraceptive
+A1	Socioeconomic_factors T1
+T2	Lifestyle_factor 181 194	contraceptive
+A2	Socioeconomic_factors T2
+T3	Lifestyle_factor 581 601	pregnancy prevention
+A3	Socioeconomic_factors T3
+T4	Lifestyle_factor 656 680	emergency contraceptives
+A4	Socioeconomic_factors T4
+T5	Lifestyle_factor 4 10	FemCap
+A5	Socioeconomic_factors T5
+T6	Lifestyle_factor 407 413	FemCap
+A6	Socioeconomic_factors T6
+T7	Lifestyle_factor 693 699	FemCap
+A7	Socioeconomic_factors T7

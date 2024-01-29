@@ -1,0 +1,14 @@
+T1	Lifestyle_factor 71 96	ammonium nitrate aerosols
+A1	Environmental_exposures T1
+T2	Lifestyle_factor 228 253	ammonium nitrate aerosols
+A2	Environmental_exposures T2
+T3	Lifestyle_factor 458 483	ammonium nitrate aerosols
+A3	Environmental_exposures T3
+T4	Lifestyle_factor 760 785	ammonium nitrate aerosols
+A4	Environmental_exposures T4
+T6	Lifestyle_factor 858 866	aerosols
+A7	Environmental_exposures T6
+T5	Lifestyle_factor 640 647	aerosol
+A5	Environmental_exposures T5
+A6	LSF_out_of_context T5
+T7	Out-of-scope 613 621	employed

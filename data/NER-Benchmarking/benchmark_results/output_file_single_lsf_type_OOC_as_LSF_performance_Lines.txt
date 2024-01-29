@@ -1,0 +1,595 @@
+Note: filtering out: T9	Occupations 778 803	Oral health professionals
+Note: filtering out: T12	Occupations 928 945	Dental hygienists
+Note: filtering out: T14	Occupations 1166 1183	dental hygienists
+Note: filtering out: T11	Geographical_Feature 66 70	U.S.
+Note: filtering out: T20	Out-of-scope 249 257	products
+Note: filtering out: T1	Occupations 12 33	group psychotherapist
+Note: filtering out: T2	Occupations 113 134	group psychotherapist
+Note: filtering out: T3	Occupations 229 250	group psychotherapist
+Note: filtering out: T4	Occupations 555 576	group psychotherapist
+Note: filtering out: T7	Occupations 405 414	therapist
+Note: filtering out: T8	Occupations 981 1004	individual practitioner
+Note: filtering out: T9	Out-of-scope 1033 1041	training
+Note: filtering out: T8	Out-of-scope 41 49	activity
+Note: filtering out: T1	Out-of-scope 228 262	offline face-to-face communication
+Note: filtering out: T2	Out-of-scope 270 301	computer-mediated communication
+Note: filtering out: T3	Out-of-scope 389 392	F2F
+Note: filtering out: T4	Out-of-scope 523 526	CMC
+Note: filtering out: T5	Out-of-scope 539 542	F2F
+Note: replace discontinuous "Communication Online" with "Online"
+Note: filtering out: T6	Out-of-scope 93 99	Online
+Note: filtering out: T7	Out-of-scope 104 125	Offline Communication
+Note: filtering out: T8	Out-of-scope 264 267	F2F
+Note: filtering out: T9	Out-of-scope 303 306	CMC
+Note: filtering out: T7	Occupations 136 146	therapists
+Note: filtering out: T8	Out-of-scope 822 826	work
+Note: filtering out: T1	Geographical_Feature 42 46	U.S.
+Note: filtering out: T2	Geographical_Feature 287 291	U.S.
+Note: filtering out: T7	Out-of-scope 847 854	protein
+Note: filtering out: T14	Out-of-scope 542 550	proteins
+Note: filtering out: T15	Out-of-scope 135 143	activity
+Note: filtering out: T3	Occupations 376 388	orthodontist
+Note: filtering out: T5	Occupations 1171 1191	dental professionals
+Note: filtering out: T7	Occupations 1293 1313	dental professionals
+Note: filtering out: T8	Occupations 1125 1158	dental and surgical professionals
+Note: filtering out: T9	Out-of-scope 1269 1277	training
+Note: replace discontinuous "whole jack bean" with "jack bean"
+Note: filtering out: T1	Occupations 69 90	general practitioners
+Note: filtering out: T3	Occupations 168 188	health professionals
+Note: filtering out: T2	Out-of-scope 486 494	training
+Note: filtering out: T5	Out-of-scope 287 291	work
+Note: filtering out: T15	Out-of-scope 337 345	employed
+Note: filtering out: T30	Out-of-scope 1144 1152	products
+Note: filtering out: T19	Out-of-scope 1020 1028	products
+Note: filtering out: T6	Geographical_Feature 96 104	Ethiopia
+Note: filtering out: T13	Geographical_Feature 88 94	Awassa
+Note: filtering out: T7	Occupations 550 569	exercise specialist
+Note: replace discontinuous "social cognitive factors" with "factors"
+Note: replace discontinuous "social cognitive factors" with "factors"
+Note: replace discontinuous "exercise at home" with "at home"
+Note: replace discontinuous "Orthodontic management" with "management"
+Note: replace discontinuous "orthodontic treatment" with "treatment"
+Note: filtering out: T1	Geographical_Feature 60 67	China's
+Note: filtering out: T3	Geographical_Feature 746 753	China's
+Note: filtering out: T2	Geographical_Feature 126 130	Iran
+Note: filtering out: T3	Geographical_Feature 315 319	Iran
+Note: filtering out: T4	Geographical_Feature 117 124	Isfahan
+Note: replace discontinuous "antioxidant vitamins C" with "C"
+Note: replace discontinuous "vitamins C" with "C"
+Note: filtering out: T2	Out-of-scope 0 8	Clothing
+Note: filtering out: T3	Out-of-scope 220 235	use of clothing
+Note: filtering out: T4	Out-of-scope 398 406	clothing
+Note: filtering out: T5	Out-of-scope 549 557	clothing
+Note: filtering out: T6	Out-of-scope 713 721	clothing
+Note: filtering out: T7	Out-of-scope 730 738	clothing
+Note: filtering out: T8	Out-of-scope 878 886	clothing
+Note: filtering out: T15	Out-of-scope 967 975	Clothing
+Note: filtering out: T16	Out-of-scope 108 132	warm and cold conditions
+Note: replace discontinuous "Low- intensity exercise training" with "intensity exercise training"
+Note: replace discontinuous "Exercise intensity" with "intensity"
+Note: filtering out: T12	Out-of-scope 323 327	play
+Note: replace discontinuous "Cognitive therapies" with "therapies"
+Note: replace discontinuous "behavioral treatment" with "treatment"
+Note: filtering out: T8	Out-of-scope 458 462	work
+Note: filtering out: T6	Occupations 101 118	Dental hygienists
+Note: filtering out: T7	Occupations 402 419	dental hygienists
+Note: filtering out: T8	Occupations 310 327	dental hygienists
+Note: filtering out: T9	Occupations 608 625	dental hygienists
+Note: filtering out: T5	Out-of-scope 1127 1134	reading
+Note: filtering out: T9	Geographical_Feature 279 292	West Virginia
+Note: replace discontinuous "food consumption" with "consumption"
+Note: filtering out: T21	Out-of-scope 669 677	brushing
+Note: filtering out: T6	Out-of-scope 409 415	single
+Note: filtering out: T7	Out-of-scope 669 675	single
+Note: filtering out: T8	Out-of-scope 19 25	Single
+Note: filtering out: T7	Out-of-scope 613 621	employed
+Note: filtering out: T2	Out-of-scope 599 603	work
+Note: replace discontinuous "Artificial infestations" with "infestations"
+Note: replace discontinuous "Artificial infestation" with "infestation"
+Note: filtering out: T6	Occupations 359 368	therapist
+Note: filtering out: T2	Out-of-scope 748 752	work
+Note: filtering out: T6	Occupations 428 441	video sharers
+Note: filtering out: T10	Out-of-scope 869 881	social norms
+Note: filtering out: T11	Out-of-scope 937 956	interpersonal norms
+Note: filtering out: T7	Out-of-scope 280 284	work
+Note: replace discontinuous "hormonal contraceptive" with "contraceptive"
+Note: filtering out: T14	Out-of-scope 895 899	play
+Note: filtering out: T17	Out-of-scope 566 575	awakening
+Note: filtering out: T18	Out-of-scope 793 802	awakening
+Note: filtering out: T19	Out-of-scope 299 307	Training
+Note: filtering out: T3	Occupations 410 419	therapist
+Note: filtering out: T2	Occupations 899 908	therapist
+Note: filtering out: T3	Out-of-scope 71 78	therapy
+Note: filtering out: T3	Out-of-scope 154 162	products
+Note: filtering out: T1	Geographical_Feature 41 65	West Virginia Appalachia
+Note: filtering out: T2	Geographical_Feature 89 102	West Virginia
+Note: filtering out: T3	Geographical_Feature 318 331	West Virginia
+Note: filtering out: T4	Geographical_Feature 1133 1146	West Virginia
+Note: filtering out: T5	Geographical_Feature 425 438	West Virginia
+Note: replace discontinuous "sieved maize mash" with "maize mash"
+Note: replace discontinuous "sieved maize mash" with "maize mash"
+Note: filtering out: T1	Occupations 54 70	psychotherapists
+Note: filtering out: T2	Occupations 657 673	psychotherapists
+Note: filtering out: T12	Geographical_Feature 266 277	Polichnitos
+Note: filtering out: T6	Out-of-scope 256 260	work
+Note: filtering out: T3	Out-of-scope 217 221	play
+Note: filtering out: T6	Out-of-scope 577 585	activity
+Note: filtering out: T1	Geographical_Feature 422 428	Canada
+Note: filtering out: T2	Geographical_Feature 407 416	Vancouver
+Note: replace discontinuous "urban assisted living sites" with "assisted living sites"
+Note: filtering out: T2	Occupations 281 296	group therapist
+Note: filtering out: T3	Occupations 552 561	therapist
+Note: filtering out: T4	Out-of-scope 130 134	work
+Note: filtering out: T5	Out-of-scope 17 21	work
+Note: filtering out: T6	Out-of-scope 519 523	work
+Note: filtering out: T1	Occupations 105 132	mental health professionals
+Note: filtering out: T3	Occupations 588 598	clinicians
+Note: filtering out: T4	Geographical_Feature 225 231	Quebec
+Note: filtering out: T5	Occupations 603 614	researchers
+Note: replace discontinuous "child physical abuse" with "abuse"
+Note: filtering out: T15	Geographical_Feature 286 290	U.S.
+Note: replace discontinuous "child sexual abuse" with "sexual abuse"
+Note: filtering out: T3	Out-of-scope 79 96	social competence
+Note: filtering out: T8	Out-of-scope 444 461	social competence
+precision 90.91% (10/11) recall 90.91% (10/11) F 90.91%
+precision 100.00% (3/3) recall 50.00% (3/6) F 66.67%
+precision 100.00% (12/12) recall 75.00% (12/16) F 85.71%
+precision 66.67% (2/3) recall 100.00% (2/2) F 80.00%
+precision 0.00% (0/0) recall 0.00% (0/7) F 0.00%
+precision 0.00% (0/0) recall 0.00% (0/0) F 0.00%
+precision 0.00% (0/0) recall 0.00% (0/8) F 0.00%
+precision 0.00% (0/0) recall 0.00% (0/6) F 0.00%
+precision 0.00% (0/0) recall 0.00% (0/18) F 0.00%
+precision 100.00% (8/8) recall 80.00% (8/10) F 88.89%
+precision 100.00% (8/8) recall 40.00% (8/20) F 57.14%
+precision 100.00% (3/3) recall 25.00% (3/12) F 40.00%
+precision 100.00% (4/4) recall 100.00% (4/4) F 100.00%
+precision 100.00% (12/12) recall 75.00% (12/16) F 85.71%
+precision 100.00% (22/22) recall 86.96% (20/23) F 93.02%
+precision 83.33% (5/6) recall 18.52% (5/27) F 30.30%
+precision 100.00% (1/1) recall 100.00% (1/1) F 100.00%
+precision 100.00% (7/7) recall 26.92% (7/26) F 42.42%
+precision 100.00% (7/7) recall 87.50% (7/8) F 93.33%
+precision 100.00% (2/2) recall 100.00% (2/2) F 100.00%
+precision 100.00% (2/2) recall 40.00% (2/5) F 57.14%
+precision 100.00% (9/9) recall 44.00% (11/25) F 61.11%
+precision 100.00% (2/2) recall 40.00% (2/5) F 57.14%
+precision 100.00% (4/4) recall 66.67% (4/6) F 80.00%
+precision 33.33% (1/3) recall 20.00% (1/5) F 25.00%
+precision 100.00% (1/1) recall 11.11% (1/9) F 20.00%
+precision 100.00% (10/10) recall 69.23% (9/13) F 81.82%
+precision 100.00% (17/17) recall 55.56% (15/27) F 71.43%
+precision 0.00% (0/0) recall 0.00% (0/11) F 0.00%
+precision 100.00% (9/9) recall 90.91% (10/11) F 95.24%
+precision 100.00% (2/2) recall 16.67% (2/12) F 28.57%
+precision 100.00% (4/4) recall 71.43% (5/7) F 83.33%
+precision 100.00% (1/1) recall 6.67% (1/15) F 12.50%
+precision 100.00% (4/4) recall 30.77% (4/13) F 47.06%
+precision 100.00% (8/8) recall 72.73% (8/11) F 84.21%
+precision 100.00% (3/3) recall 60.00% (3/5) F 75.00%
+precision 0.00% (0/0) recall 0.00% (0/0) F 0.00%
+precision 86.67% (13/15) recall 63.16% (12/19) F 73.07%
+precision 100.00% (5/5) recall 21.74% (5/23) F 35.71%
+precision 100.00% (2/2) recall 22.22% (2/9) F 36.36%
+precision 40.00% (2/5) recall 25.00% (2/8) F 30.77%
+precision 83.33% (10/12) recall 100.00% (6/6) F 90.91%
+precision 100.00% (3/3) recall 75.00% (3/4) F 85.71%
+precision 50.00% (1/2) recall 5.00% (1/20) F 9.09%
+precision 100.00% (5/5) recall 83.33% (5/6) F 90.91%
+precision 0.00% (0/0) recall 0.00% (0/1) F 0.00%
+precision 0.00% (0/0) recall 0.00% (0/5) F 0.00%
+precision 100.00% (8/8) recall 100.00% (9/9) F 100.00%
+precision 100.00% (2/2) recall 15.38% (2/13) F 26.67%
+precision 100.00% (12/12) recall 75.00% (12/16) F 85.71%
+precision 0.00% (0/3) recall 0.00% (0/10) F 0.00%
+precision 100.00% (5/5) recall 100.00% (5/5) F 100.00%
+precision 0.00% (0/0) recall 0.00% (0/0) F 0.00%
+precision 0.00% (0/0) recall 0.00% (0/5) F 0.00%
+precision 100.00% (1/1) recall 50.00% (1/2) F 66.67%
+precision 100.00% (2/2) recall 100.00% (2/2) F 100.00%
+precision 0.00% (0/0) recall 0.00% (0/3) F 0.00%
+precision 100.00% (3/3) recall 60.00% (3/5) F 75.00%
+precision 100.00% (1/1) recall 33.33% (1/3) F 50.00%
+precision 0.00% (0/0) recall 0.00% (0/1) F 0.00%
+precision 0.00% (0/0) recall 0.00% (0/7) F 0.00%
+precision 100.00% (4/4) recall 50.00% (4/8) F 66.67%
+precision 100.00% (1/1) recall 3.70% (1/27) F 7.14%
+precision 0.00% (0/0) recall 0.00% (0/1) F 0.00%
+precision 100.00% (8/8) recall 87.50% (7/8) F 93.33%
+precision 100.00% (2/2) recall 12.50% (2/16) F 22.22%
+precision 75.00% (3/4) recall 60.00% (3/5) F 66.67%
+precision 100.00% (4/4) recall 100.00% (4/4) F 100.00%
+precision 100.00% (3/3) recall 50.00% (3/6) F 66.67%
+precision 100.00% (2/2) recall 15.38% (2/13) F 26.67%
+precision 100.00% (2/2) recall 50.00% (2/4) F 66.67%
+precision 100.00% (1/1) recall 100.00% (1/1) F 100.00%
+precision 75.00% (3/4) recall 60.00% (3/5) F 66.67%
+precision 100.00% (3/3) recall 50.00% (3/6) F 66.67%
+precision 100.00% (7/7) recall 50.00% (8/16) F 66.67%
+precision 100.00% (3/3) recall 33.33% (3/9) F 50.00%
+precision 100.00% (17/17) recall 51.52% (17/33) F 68.00%
+Note: filtering out: T4	Geographical_Feature 125 127	UK
+Note: filtering out: T5	Occupations 386 399	orthodontists
+Note: filtering out: T6	Geographical_Feature 759 761	UK
+Note: filtering out: T7	Occupations 738 751	orthodontists
+Note: filtering out: T12	Geographical_Feature 265 279	European Union
+Note: filtering out: T11	Geographical_Feature 518 525	Windsor
+Note: filtering out: T12	Geographical_Feature 551 558	Windsor
+Note: filtering out: T13	Geographical_Feature 560 567	Ontario
+Note: filtering out: T14	Geographical_Feature 569 575	Canada
+Note: filtering out: T16	Geographical_Feature 682 689	Windsor
+Note: filtering out: T17	Geographical_Feature 721 728	Windsor
+Note: filtering out: T3	Geographical_Feature 225 238	United States
+Note: filtering out: T4	Geographical_Feature 243 249	Europe
+Note: filtering out: T6	Out-of-scope 98 122	Sao Paulo City residents
+Note: filtering out: T10	Out-of-scope 320 356	individuals living in Sao Paulo City
+Note: filtering out: T14	Geographical_Feature 660 669	Sao Paulo
+Note: filtering out: T3	Out-of-scope 30 54	Sao Paulo City residents
+Note: filtering out: T13	Geographical_Feature 98 112	Sao Paulo City
+Note: filtering out: T15	Geographical_Feature 342 356	Sao Paulo City
+Note: filtering out: T16	Geographical_Feature 30 44	Sao Paulo City
+Note: filtering out: T2	Geographical_Feature 28 34	Serbia
+Note: filtering out: T6	Geographical_Feature 298 304	Serbia
+Note: filtering out: T7	Geographical_Feature 318 324	Serbia
+Note: filtering out: T12	Geographical_Feature 644 650	Serbia
+Note: filtering out: T16	Geographical_Feature 846 852	Serbia
+Note: filtering out: T19	Geographical_Feature 947 953	Serbia
+Note: replace discontinuous "low-income countries" with "countries"
+Note: filtering out: T3	Out-of-scope 359 363	work
+Note: filtering out: T4	Out-of-scope 625 632	cooling
+Note: filtering out: T5	Out-of-scope 424 435	Nutritional
+Note: filtering out: T1	Geographical_Feature 40 57	rural Appalachian
+Note: filtering out: T3	Geographical_Feature 379 396	rural Appalachian
+Note: filtering out: T5	Geographical_Feature 800 806	Lisbon
+Note: filtering out: T6	Geographical_Feature 808 812	Ohio
+Note: filtering out: T2	Occupations 204 221	dental hygienists
+Note: filtering out: T12	Geographical_Feature 152 162	Youngstown
+Note: filtering out: T13	Occupations 715 722	dentist
+Note: filtering out: T14	Out-of-scope 675 679	work
+Note: filtering out: T2	Geographical_Feature 232 238	Europe
+Note: filtering out: T1	Geographical_Feature 135 148	United States
+Note: filtering out: T2	Geographical_Feature 337 341	U.S.
+Note: filtering out: T3	Geographical_Feature 1282 1295	United States
+Note: filtering out: T4	Geographical_Feature 150 154	U.S.
+Note: filtering out: T5	Out-of-scope 372 387	social networks
+Note: filtering out: T2	Geographical_Feature 56 72	rural Bangladesh
+Note: filtering out: T14	Geographical_Feature 353 369	rural Bangladesh
+Note: filtering out: T6	Out-of-scope 763 771	employed
+Note: filtering out: T7	Out-of-scope 552 560	employed
+Note: filtering out: T8	Occupations 573 584	researchers
+Note: filtering out: T9	Out-of-scope 38 46	activity
+Note: replace discontinuous "light- duty vehicle emissions" with "duty vehicle emissions"
+Note: filtering out: T14	Out-of-scope 341 345	work
+Note: filtering out: T15	Occupations 351 362	researchers
+Note: filtering out: T3	Occupations 864 874	Clinicians
+Note: filtering out: T3	Geographical_Feature 120 122	US
+Note: filtering out: T5	Occupations 804 819	ophthalmologist
+Note: filtering out: T6	Occupations 823 843	oculoplastic surgeon
+Note: filtering out: T4	Occupations 253 260	athlete
+Note: filtering out: T2	Out-of-scope 617 623	single
+Note: replace discontinuous "emissions in moving vehicles" with "in moving vehicles"
+Note: filtering out: T2	Occupations 188 197	therapist
+Note: filtering out: T4	Geographical_Feature 528 538	Pittsburgh
+Note: filtering out: T5	Geographical_Feature 540 552	Pennsylvania
+Note: replace discontinuous "child neglect" with "neglect"
+Note: replace discontinuous "Child Neglect" with "Neglect"
+Note: filtering out: T4	Occupations 319 328	therapist
+Note: filtering out: T5	Occupations 530 539	therapist
+Note: filtering out: T6	Occupations 898 907	therapist
+Note: filtering out: T7	Occupations 44 53	therapist
+Note: filtering out: T4	Occupations 804 813	therapist
+Note: filtering out: T3	Occupations 426 436	therapists
+Note: filtering out: T7	Occupations 438 447	therapist
+Note: filtering out: T12	Occupations 561 571	therapists
+Note: filtering out: T13	Occupations 495 505	therapists
+Note: filtering out: T16	Out-of-scope 531 539	training
+Note: replace discontinuous "aerobic exercise training" with "exercise training"
+Note: filtering out: T2	Out-of-scope 0 7	Menthol
+Note: filtering out: T6	Out-of-scope 302 309	Menthol
+Note: filtering out: T7	Out-of-scope 562 569	menthol
+Note: filtering out: T9	Out-of-scope 645 652	menthol
+Note: filtering out: T13	Geographical_Feature 811 825	North Carolina
+Note: filtering out: T14	Geographical_Feature 861 869	Maryland
+Note: filtering out: T18	Out-of-scope 1287 1294	menthol
+Note: filtering out: T8	Out-of-scope 946 952	single
+Note: filtering out: T3	Occupations 71 88	dental hygienists
+Note: filtering out: T4	Occupations 154 171	dental hygienists
+Note: filtering out: T5	Occupations 196 206	hygienists
+Note: filtering out: T6	Occupations 528 536	dentists
+Note: filtering out: T7	Occupations 736 753	dental hygienists
+Note: filtering out: T8	Occupations 913 921	dentists
+Note: filtering out: T9	Occupations 976 993	dental hygienists
+Note: filtering out: T11	Occupations 1194 1211	dental hygienists
+Note: filtering out: T13	Out-of-scope 615 622	protein
+Note: filtering out: T17	Out-of-scope 1168 1175	therapy
+Note: filtering out: T13	Geographical_Feature 78 83	India
+Note: filtering out: T14	Geographical_Feature 242 247	India
+Note: filtering out: T15	Geographical_Feature 346 351	India
+Note: filtering out: T3	Geographical_Feature 31 36	China
+Note: filtering out: T4	Geographical_Feature 59 64	China
+Note: filtering out: T9	Geographical_Feature 206 220	China's cities
+Note: filtering out: T25	Geographical_Feature 927 941	Chinese cities
+Note: filtering out: T26	Geographical_Feature 971 978	Beijing
+Note: filtering out: T27	Geographical_Feature 38 45	Beijing
+Note: filtering out: T33	Geographical_Feature 1117 1126	Beijing's
+Note: filtering out: T13	Out-of-scope 773 791	rapid motorization
+Note: filtering out: T32	Out-of-scope 1260 1272	motorization
+Note: filtering out: T5	Occupations 908 933	orthodontic practitioners
+Note: filtering out: T5	Geographical_Feature 315 325	New Jersey
+Note: replace discontinuous "middle school students" with "school students"
+Note: replace discontinuous "middle school students" with "school students"
+Note: filtering out: T1	Geographical_Feature 469 471	UK
+Note: replace discontinuous "orthodontic dentistry" with "dentistry"
+Note: filtering out: T5	Geographical_Feature 256 264	Scotland
+Note: filtering out: T3	Geographical_Feature 361 369	Scotland
+Note: filtering out: T4	Geographical_Feature 562 570	Scotland
+Note: filtering out: T11	Geographical_Feature 443 445	UK
+Note: filtering out: T13	Out-of-scope 88 95	therapy
+Note: filtering out: T14	Out-of-scope 167 174	therapy
+Note: filtering out: T15	Geographical_Feature 737 739	UK
+Note: replace discontinuous "physical parental violence" with "parental violence"
+Note: replace discontinuous "low socioeconomic areas" with "socioeconomic areas"
+Note: filtering out: T7	Out-of-scope 6 14	activity
+Note: filtering out: T11	Occupations 1489 1499	Clinicians
+Note: replace discontinuous "denicotinized (denic) cigarettes" with "cigarettes"
+Note: filtering out: T14	Out-of-scope 533 539	single
+Note: replace discontinuous "denic cigarettes" with "cigarettes"
+Note: filtering out: T4	Occupations 416 425	therapist
+Note: filtering out: T5	Occupations 773 782	therapist
+Note: filtering out: T8	Out-of-scope 1125 1147	relationship mutuality
+Note: filtering out: T1	Out-of-scope 52 60	gamblers
+Note: filtering out: T3	Out-of-scope 295 302	gambler
+Note: filtering out: T4	Out-of-scope 539 547	gamblers
+Note: filtering out: T5	Out-of-scope 724 732	gamblers
+Note: filtering out: T5	Out-of-scope 461 469	gamblers
+Note: filtering out: T12	Out-of-scope 609 617	gamblers
+Note: filtering out: T15	Out-of-scope 69 77	gamblers
+Note: filtering out: T16	Out-of-scope 312 320	gamblers
+Note: filtering out: T17	Out-of-scope 988 996	gamblers
+Note: filtering out: T18	Out-of-scope 760 768	activity
+Note: filtering out: T1	Geographical_Feature 223 229	Europe
+Note: filtering out: T2	Out-of-scope 60 80	transmeridian flight
+Note: filtering out: T3	Out-of-scope 323 343	transmeridian flight
+Note: filtering out: T4	Out-of-scope 500 520	transmeridian flight
+Note: filtering out: T5	Out-of-scope 760 780	transmeridian flight
+Note: filtering out: T6	Occupations 112 120	athletes
+Note: filtering out: T1	Occupations 20 43	child protection worker
+Note: filtering out: T2	Occupations 84 108	Child protection workers
+Note: filtering out: T3	Geographical_Feature 142 150	Columbia
+Note: filtering out: T5	Occupations 1005 1029	child protection workers
+Note: replace discontinuous "Child Neglect" with "Neglect"
+Note: replace discontinuous "xenobiotic compounds" with "compounds"
+Note: filtering out: T17	Out-of-scope 634 642	activity
+Note: filtering out: T2	Out-of-scope 334 342	employed
+Note: filtering out: T3	Out-of-scope 64 77	working women
+Note: filtering out: T5	Out-of-scope 269 282	working women
+Note: filtering out: T6	Out-of-scope 341 354	working women
+Note: filtering out: T12	Out-of-scope 789 806	sedentary workers
+Note: replace discontinuous "moderately active work" with "work"
+Note: filtering out: T21	Geographical_Feature 88 100	North Dakota
+Note: replace discontinuous "moderate working occupations" with "working occupations"
+Note: filtering out: T28	Out-of-scope 922 930	employed
+% (12/12) recall 73.33% (11/15) F 84.62%
+precision 100.00% (3/3) recall 100.00% (3/3) F 100.00%
+precision 100.00% (10/10) recall 90.91% (10/11) F 95.24%
+precision 87.50% (7/8) recall 77.78% (7/9) F 82.35%
+precision 100.00% (4/4) recall 80.00% (4/5) F 88.89%
+precision 100.00% (10/10) recall 83.33% (10/12) F 90.91%
+precision 100.00% (5/5) recall 45.45% (5/11) F 62.50%
+precision 50.00% (3/6) recall 33.33% (3/9) F 40.00%
+precision 100.00% (10/10) recall 83.33% (10/12) F 90.91%
+precision 94.44% (17/18) recall 100.00% (18/18) F 97.14%
+precision 0.00% (0/0) recall 0.00% (0/0) F 0.00%
+precision 100.00% (1/1) recall 50.00% (1/2) F 66.67%
+precision 92.31% (12/13) recall 100.00% (12/12) F 96.00%
+precision 100.00% (8/8) recall 53.33% (8/15) F 69.57%
+precision 83.33% (5/6) recall 83.33% (5/6) F 83.33%
+precision 100.00% (1/1) recall 100.00% (1/1) F 100.00%
+precision 0.00% (0/0) recall 0.00% (0/0) F 0.00%
+precision 100.00% (8/8) recall 57.14% (8/14) F 72.73%
+precision 0.00% (0/0) recall 0.00% (0/0) F 0.00%
+precision 100.00% (5/5) recall 100.00% (5/5) F 100.00%
+precision 100.00% (2/2) recall 8.33% (2/24) F 15.38%
+precision 100.00% (1/1) recall 7.69% (1/13) F 14.29%
+precision 0.00% (0/0) recall 0.00% (0/8) F 0.00%
+precision 0.00% (0/0) recall 0.00% (0/0) F 0.00%
+precision 100.00% (2/2) recall 100.00% (2/2) F 100.00%
+precision 100.00% (1/1) recall 33.33% (1/3) F 50.00%
+precision 0.00% (0/0) recall 0.00% (0/0) F 0.00%
+precision 75.00% (3/4) recall 30.00% (3/10) F 42.86%
+precision 100.00% (1/1) recall 100.00% (1/1) F 100.00%
+precision 100.00% (1/1) recall 100.00% (1/1) F 100.00%
+precision 100.00% (2/2) recall 40.00% (2/5) F 57.14%
+precision 100.00% (4/4) recall 100.00% (4/4) F 100.00%
+precision 100.00% (3/3) recall 100.00% (3/3) F 100.00%
+precision 100.00% (3/3) recall 100.00% (3/3) F 100.00%
+precision 100.00% (1/1) recall 9.09% (1/11) F 16.67%
+precision 100.00% (1/1) recall 14.29% (1/7) F 25.00%
+precision 100.00% (2/2) recall 100.00% (2/2) F 100.00%
+precision 100.00% (9/9) recall 75.00% (9/12) F 85.71%
+precision 100.00% (5/5) recall 100.00% (5/5) F 100.00%
+precision 0.00% (0/0) recall 0.00% (0/2) F 0.00%
+precision 0.00% (0/0) recall 0.00% (0/8) F 0.00%
+precision 87.50% (7/8) recall 100.00% (6/6) F 93.33%
+precision 100.00% (5/5) recall 50.00% (5/10) F 66.67%
+precision 100.00% (6/6) recall 100.00% (6/6) F 100.00%
+precision 100.00% (8/8) recall 100.00% (8/8) F 100.00%
+precision 100.00% (1/1) recall 25.00% (1/4) F 40.00%
+precision 100.00% (4/4) recall 100.00% (4/4) F 100.00%
+precision 100.00% (8/8) recall 46.67% (7/15) F 63.64%
+precision 100.00% (9/9) recall 25.93% (7/27) F 41.18%
+precision 100.00% (16/16) recall 84.21% (16/19) F 91.43%
+precision 100.00% (2/2) recall 28.57% (2/7) F 44.44%
+precision 100.00% (10/10) recall 40.00% (10/25) F 57.14%
+precision 75.00% (3/4) recall 100.00% (3/3) F 85.71%
+precision 100.00% (4/4) recall 36.36% (4/11) F 53.33%
+precision 100.00% (7/7) recall 87.50% (7/8) F 93.33%
+precision 100.00% (20/20) recall 95.65% (22/23) F 97.78%
+precision 0.00% (0/1) recall 0.00% (0/2) F 0.00%
+precision 100.00% (5/5) recall 62.50% (5/8) F 76.92%
+precision 100.00% (13/13) recall 93.75% (15/16) F 96.77%
+precision 100.00% (5/5) recall 83.33% (5/6) F 90.91%
+precision 87.50% (7/8) recall 28.57% (6/21) F 43.08%
+precision 100.00% (6/6) recall 40.00% (6/15) F 57.14%
+precision 100.00% (2/2) recall 66.67% (2/3) F 80.00%
+precision 96.43% (27/28) recall 90.91% (20/22) F 93.59%
+precision 100.00% (1/1) recall 20.00% (1/5) F 33.33%
+precision 100.00% (2/2) recall 66.67% (2/3) F 80.00%
+precision 100.00% (4/4) recall 20.00% (4/20) F 33.33%
+precision 100.00% (1/1) recall 100.00% (1/1) F 100.00%
+precision 100.00% (7/7) recall 58.33% (7/12) F 73.68%
+precision 0.00% (0/0) recall 0.00% (0/2) F 0.00%
+precision 100.00% (3/3) recall 37.50% (3/8) F 54.55%
+precision 100.00% (4/4) recall 100.00% (4/4) F 100.00%
+precision 100.00% (1/1) recall 33.33% (1/3) F 50.00%
+precision 100.00% (14/14) recall 87.50% (14/16) F 93.33%
+precision 0.00% (0/0) recall 0.00% (0/2) F 0.00%
+precision 0.00% (0/0) recall 0.00% (0/2) F 0.00%
+Note: replace discontinuous "moderate physical activity" with "physical activity"
+Note: filtering out: T3	Out-of-scope 292 298	Single
+Note: filtering out: T4	Geographical_Feature 569 571	UK
+Note: filtering out: T7	Out-of-scope 645 652	protein
+Note: filtering out: T10	Out-of-scope 1152 1160	products
+Note: filtering out: T1	Geographical_Feature 796 802	Taiwan
+Note: filtering out: T6	Out-of-scope 646 653	product
+Note: filtering out: T7	Out-of-scope 1260 1267	product
+Note: filtering out: T4	Out-of-scope 1285 1307	multibracket treatment
+Note: filtering out: T5	Out-of-scope 233 255	multibracket treatment
+Note: filtering out: T6	Out-of-scope 830 852	multibracket treatment
+Note: filtering out: T2	Out-of-scope 1140 1146	Single
+Note: filtering out: T3	Geographical_Feature 597 602	Chile
+Note: filtering out: T5	Out-of-scope 683 691	products
+Note: filtering out: T8	Out-of-scope 548 556	products
+Note: filtering out: T9	Out-of-scope 726 733	product
+Note: filtering out: T10	Out-of-scope 842 847	light
+Note: filtering out: T10	Occupations 380 386	nurses
+Note: filtering out: T11	Occupations 388 398	physicians
+Note: filtering out: T12	Occupations 400 414	social workers
+Note: filtering out: T13	Occupations 433 453	health professionals
+Note: filtering out: T14	Occupations 0 21	Health care providers
+Note: filtering out: T15	Occupations 101 122	health care providers
+Note: filtering out: T16	Occupations 357 378	health care providers
+Note: filtering out: T18	Occupations 1047 1055	provider
+Note: filtering out: T3	Geographical_Feature 204 210	Taiwan
+Note: filtering out: T8	Geographical_Feature 177 184	Taoyuan
+Note: filtering out: T7	Out-of-scope 513 526	Internet user
+Note: filtering out: T11	Occupations 888 898	nonworkers
+Note: filtering out: T4	Occupations 861 883	skilled computer users
+Note: filtering out: T14	Out-of-scope 399 407	activity
+Note: filtering out: T27	Out-of-scope 147 151	work
+Note: filtering out: T4	Geographical_Feature 499 502	USA
+Note: filtering out: T10	Geographical_Feature 615 617	US
+Note: filtering out: T11	Occupations 30 50	Wall Street analysts
+Note: filtering out: T12	Occupations 128 148	Wall Street analysts
+Note: filtering out: T15	Occupations 367 387	Wall Street analysts
+Note: filtering out: T16	Occupations 580 587	analyst
+Note: filtering out: T17	Occupations 778 798	Wall Street analysts
+Note: filtering out: T18	Occupations 849 868	research scientists
+Note: filtering out: T19	Occupations 873 882	academics
+Note: filtering out: T1	Occupations 7 23	psychotherapists
+Note: filtering out: T2	Occupations 247 263	psychotherapists
+Note: filtering out: T3	Occupations 176 192	psychotherapists
+Note: filtering out: T9	Occupations 1085 1095	therapists
+Note: filtering out: T10	Occupations 575 585	therapists
+Note: filtering out: T5	Occupations 688 700	orthodontist
+Note: filtering out: T11	Geographical_Feature 378 403	Western Isles of Scotland
+Note: filtering out: T12	Geographical_Feature 50 63	Western Isles
+Note: replace discontinuous "Physical abuse" with "abuse"
+Note: replace discontinuous "abuse physical" with "physical"
+Note: replace discontinuous "physical abuse" with "abuse"
+Note: replace discontinuous "physical abuse" with "abuse"
+Note: replace discontinuous "lettuce green" with "green"
+Note: replace discontinuous "lettuce red romaine" with "red romaine"
+Note: replace discontinuous "lettuce green" with "green"
+Note: filtering out: T9	Geographical_Feature 729 735	Europe
+Note: filtering out: T10	Geographical_Feature 744 747	USA
+Note: filtering out: T3	Out-of-scope 43 51	activity
+Note: filtering out: T4	Out-of-scope 236 244	activity
+Note: filtering out: T8	Geographical_Feature 425 432	Germany
+Note: filtering out: T10	Out-of-scope 1009 1013	work
+Note: filtering out: T2	Geographical_Feature 166 199	Eastern Anatolia region of Turkey
+Note: replace discontinuous "Chlorogenic acids" with "acids"
+Note: replace discontinuous "hydroxybenzoic acids" with "acids"
+Note: replace discontinuous "caffeic acids" with "acids"
+Note: replace discontinuous "ferulic acids" with "acids"
+Note: filtering out: T13	Out-of-scope 319 326	protein
+Note: filtering out: T10	Out-of-scope 176 195	postassault actions
+Note: filtering out: T12	Out-of-scope 477 495	sexually assaulted
+Note: filtering out: T4	Occupations 19 29	therapists
+Note: filtering out: T2	Occupations 813 822	therapist
+Note: filtering out: T5	Occupations 385 394	Therapist
+Note: filtering out: T6	Occupations 156 166	therapists
+Note: filtering out: T7	Occupations 506 516	therapists
+Note: filtering out: T8	Occupations 649 659	therapists
+Note: filtering out: T19	Geographical_Feature 602 607	China
+Note: filtering out: T8	Out-of-scope 239 247	proteins
+Note: filtering out: T20	Geographical_Feature 78 84	Mexico
+Note: filtering out: T21	Geographical_Feature 132 138	Mexico
+Note: filtering out: T22	Geographical_Feature 517 523	Mexico
+Note: filtering out: T23	Geographical_Feature 679 685	Mexico
+Note: filtering out: T24	Geographical_Feature 1365 1371	Mexico
+Note: filtering out: T13	Out-of-scope 699 707	products
+Note: filtering out: T14	Out-of-scope 890 898	products
+Note: filtering out: T1	Occupations 66 83	dental hygienists
+Note: filtering out: T2	Occupations 726 743	dental hygienists
+Note: filtering out: T3	Occupations 479 496	dental hygienists
+Note: filtering out: T4	Occupations 1042 1059	dental hygienists
+Note: filtering out: T5	Occupations 1236 1253	Dental hygienists
+Note: filtering out: T6	Geographical_Feature 102 115	United States
+Note: filtering out: T8	Occupations 902 918	dental hygienist
+Note: filtering out: T9	Occupations 1065 1073	dentists
+Note: filtering out: T10	Occupations 1077 1094	dental assistants
+Note: filtering out: T11	Occupations 924 940	dental assistant
+Note: filtering out: T21	Occupations 893 900	dentist
+Note: filtering out: T10	Geographical_Feature 893 901	DOrtmund
+Note: filtering out: T4	Geographical_Feature 200 202	UK
+Note: filtering out: T5	Geographical_Feature 37 39	UK
+2) F 70.59%
+precision 100.00% (7/7) recall 44.44% (8/18) F 61.54%
+precision 100.00% (2/2) recall 100.00% (2/2) F 100.00%
+precision 66.67% (2/3) recall 100.00% (2/2) F 80.00%
+precision 100.00% (9/9) recall 81.82% (9/11) F 90.00%
+precision 100.00% (5/5) recall 71.43% (5/7) F 83.33%
+precision 100.00% (5/5) recall 62.50% (5/8) F 76.92%
+precision 100.00% (1/1) recall 9.09% (1/11) F 16.67%
+precision 0.00% (0/0) recall 0.00% (0/4) F 0.00%
+precision 66.67% (2/3) recall 66.67% (2/3) F 66.67%
+precision 0.00% (0/0) recall 0.00% (0/1) F 0.00%
+precision 100.00% (7/7) recall 100.00% (7/7) F 100.00%
+precision 0.00% (0/0) recall 0.00% (0/5) F 0.00%
+precision 77.78% (7/9) recall 87.50% (7/8) F 82.35%
+precision 100.00% (8/8) recall 80.00% (8/10) F 88.89%
+precision 100.00% (4/4) recall 66.67% (4/6) F 80.00%
+precision 100.00% (4/4) recall 40.00% (4/10) F 57.14%
+precision 100.00% (6/6) recall 23.08% (6/26) F 37.50%
+precision 100.00% (11/11) recall 84.62% (11/13) F 91.67%
+precision 100.00% (1/1) recall 10.00% (1/10) F 18.18%
+precision 100.00% (4/4) recall 22.22% (4/18) F 36.36%
+precision 100.00% (5/5) recall 71.43% (5/7) F 83.33%
+precision 100.00% (4/4) recall 100.00% (4/4) F 100.00%
+precision 100.00% (6/6) recall 60.00% (6/10) F 75.00%
+precision 100.00% (4/4) recall 63.64% (7/11) F 77.78%
+precision 77.78% (7/9) recall 38.89% (7/18) F 51.85%
+precision 0.00% (0/0) recall 0.00% (0/0) F 0.00%
+precision 100.00% (9/9) recall 45.00% (9/20) F 62.07%
+precision 100.00% (7/7) recall 35.00% (7/20) F 51.85%
+precision 100.00% (2/2) recall 22.22% (2/9) F 36.36%
+precision 100.00% (2/2) recall 100.00% (2/2) F 100.00%
+precision 100.00% (7/7) recall 87.50% (7/8) F 93.33%
+precision 100.00% (9/9) recall 34.62% (9/26) F 51.43%
+precision 100.00% (11/11) recall 62.50% (10/16) F 76.92%
+precision 85.71% (6/7) recall 75.00% (6/8) F 80.00%
+precision 100.00% (2/2) recall 8.33% (1/12) F 15.38%
+precision 100.00% (2/2) recall 66.67% (2/3) F 80.00%
+precision 100.00% (2/2) recall 6.90% (2/29) F 12.90%
+precision 100.00% (7/7) recall 100.00% (7/7) F 100.00%
+precision 100.00% (11/11) recall 44.00% (11/25) F 61.11%
+precision 100.00% (2/2) recall 16.67% (2/12) F 28.57%
+precision 100.00% (7/7) recall 77.78% (7/9) F 87.50%
+precision 100.00% (10/10) recall 100.00% (10/10) F 100.00%
+precision 75.00% (3/4) recall 42.86% (3/7) F 54.55%
+precision 100.00% (7/7) recall 77.78% (7/9) F 87.50%
+precision 100.00% (3/3) recall 100.00% (3/3) F 100.00%
+precision 100.00% (11/11) recall 91.67% (11/12) F 95.65%
+TOTAL:
+precision 96.01% (938/977) recall 49.39% (927/1877) F 65.22%

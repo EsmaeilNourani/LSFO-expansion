@@ -1,0 +1,24 @@
+T1	Lifestyle_factor 11 20	vitamin D
+A1	Nutrition T1
+T2	Lifestyle_factor 114 123	Vitamin D
+A2	Nutrition T2
+T3	Lifestyle_factor 213 222	vitamin D
+A3	Nutrition T3
+T4	Lifestyle_factor 442 451	vitamin D
+A4	Nutrition T4
+T5	Lifestyle_factor 289 298	vitamin D
+A5	Nutrition T5
+T6	Lifestyle_factor 751 760	vitamin D
+A6	Nutrition T6
+T7	Lifestyle_factor 33 38	sleep
+A7	Sleep T7
+T8	Lifestyle_factor 550 555	sleep
+A8	Sleep T8
+T9	Lifestyle_factor 648 653	sleep
+A9	Sleep T9
+T10	Lifestyle_factor 464 469	sleep
+A10	Sleep T10
+T11	Lifestyle_factor 344 349	sleep
+A11	Sleep T11
+T12	Lifestyle_factor 871 888	supplement intake
+A12	Nutrition T12

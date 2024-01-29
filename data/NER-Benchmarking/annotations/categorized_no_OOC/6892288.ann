@@ -1,0 +1,7 @@
+T1	Socioeconomic_factors 170 187	troubled families
+T2	Socioeconomic_factors 385 396	child abuse
+T3	Socioeconomic_factors 465 476	Child Abuse
+T4	Geographical_Feature 528 538	Pittsburgh
+T5	Geographical_Feature 540 552	Pennsylvania
+T6	Socioeconomic_factors 385 390;401 408	child neglect
+T7	Socioeconomic_factors 465 470;481 488	Child Neglect

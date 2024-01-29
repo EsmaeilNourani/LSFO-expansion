@@ -1,0 +1,6 @@
+T1	Lifestyle_factor 1051 1064	contraception
+A1	Socioeconomic_factors T1
+T2	Lifestyle_factor 540 553	contraception
+A2	Socioeconomic_factors T2
+T3	Lifestyle_factor 864 874	Clinicians
+A3	Occupations T3

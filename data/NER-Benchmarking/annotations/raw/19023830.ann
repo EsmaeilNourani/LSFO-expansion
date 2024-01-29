@@ -1,0 +1,33 @@
+T5	Lifestyle_factor 256 264	Scotland
+T7	Lifestyle_factor 676 683	smoking
+A10	Drugs T7
+T8	Lifestyle_factor 851 868	smoking cessation
+A12	Drugs T8
+T6	Lifestyle_factor 282 299	smoking cessation
+A8	Drugs T6
+A7	Geographical_Feature T5
+T1	Lifestyle_factor 67 75	nicotine
+A1	Drugs T1
+T2	Lifestyle_factor 146 154	nicotine
+A2	Drugs T2
+T3	Lifestyle_factor 361 369	Scotland
+A3	Geographical_Feature T3
+T4	Lifestyle_factor 562 570	Scotland
+A4	Geographical_Feature T4
+T9	Lifestyle_factor 32 42	smoke-free
+A5	Environmental_exposures T9
+A6	LSF_out_of_context T9
+A11	LSF_out_of_context T1
+A13	LSF_out_of_context T2
+T10	Lifestyle_factor 230 240	smoke-free
+A14	Environmental_exposures T10
+A15	LSF_out_of_context T10
+T11	Lifestyle_factor 443 445	UK
+A16	Geographical_Feature T11
+T12	Lifestyle_factor 932 942	smoke-free
+A9	Environmental_exposures T12
+A17	LSF_out_of_context T12
+T13	Out-of-scope 88 95	therapy
+T14	Out-of-scope 167 174	therapy
+T15	Lifestyle_factor 737 739	UK
+A18	Geographical_Feature T15

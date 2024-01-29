@@ -1,0 +1,34 @@
+T2	Lifestyle_factor 73 90	Exercise training
+A2	Physical_activity T2
+T3	Lifestyle_factor 119 138	nutritional support
+A3	Nutrition T3
+T6	Lifestyle_factor 423 448	resistance-based training
+A6	Physical_activity T6
+T7	Lifestyle_factor 532 540	exercise
+A7	Physical_activity T7
+T1	Lifestyle_factor 4 36	High-Intensity Interval Training
+A1	Physical_activity T1
+T10	Lifestyle_factor 832 851	resistance exercise
+A10	Physical_activity T10
+T11	Lifestyle_factor 859 863	HIIT
+A11	Physical_activity T11
+T12	Lifestyle_factor 953 957	HIIT
+A12	Physical_activity T12
+T14	Lifestyle_factor 1158 1162	HIIT
+A14	Physical_activity T14
+T15	Lifestyle_factor 1230 1234	HIIT
+A15	Physical_activity T15
+T5	Lifestyle_factor 263 279	adequate protein
+A5	Nutrition T5
+T4	Lifestyle_factor 212 246	single bout of resistance exercise
+A4	Physical_activity T4
+T9	Lifestyle_factor 636 659	short bouts of exercise
+A9	Physical_activity T9
+T8	Lifestyle_factor 586 618	High-intensity interval training
+A8	Physical_activity T8
+T13	Out-of-scope 319 326	protein
+T16	Lifestyle_factor 405 410	fiber
+A17	Nutrition T16
+A18	LSF_out_of_context T16
+T17	Lifestyle_factor 620 624	HIIT
+A19	Physical_activity T17

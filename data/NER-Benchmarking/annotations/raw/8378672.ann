@@ -1,0 +1,16 @@
+T10	Lifestyle_factor 1018 1033	mountain climbs
+A10	Physical_activity T10
+T1	Lifestyle_factor 11 19	altitude
+A1	Environmental_exposures T1
+T2	Lifestyle_factor 177 185	altitude
+A2	Environmental_exposures T2
+T3	Lifestyle_factor 610 618	altitude
+A3	Environmental_exposures T3
+T4	Lifestyle_factor 795 803	altitude
+A4	Environmental_exposures T4
+T5	Lifestyle_factor 924 932	altitude
+A5	Environmental_exposures T5
+T6	Lifestyle_factor 1106 1114	altitude
+A6	Environmental_exposures T6
+T7	Lifestyle_factor 1192 1200	altitude
+A7	Environmental_exposures T7

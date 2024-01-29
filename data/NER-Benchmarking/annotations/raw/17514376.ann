@@ -1,0 +1,29 @@
+T6	Lifestyle_factor 462 464	PJ
+A6	Nutrition T6
+T9	Lifestyle_factor 1085 1087	PJ
+T10	Lifestyle_factor 1257 1259	PJ
+A8	Nutrition T10
+T1	Lifestyle_factor 10 52	pomegranate (Punica granatum) juice intake
+A1	Nutrition T1
+T2	Lifestyle_factor 83 100	Pomegranate juice
+A2	Nutrition T2
+T3	Lifestyle_factor 123 134	antioxidant
+A3	Nutrition T3
+T4	Lifestyle_factor 388 390	PJ
+A4	Nutrition T4
+T5	Lifestyle_factor 807 818	antioxidant
+A5	Nutrition T5
+A7	LSF_out_of_context T5
+A9	Nutrition T9
+T7	Out-of-scope 847 854	protein
+T8	Lifestyle_factor 469 474	water
+A12	Nutrition T8
+T11	Lifestyle_factor 886 888	PJ
+A13	Nutrition T11
+T12	Lifestyle_factor 102 104	PJ
+A14	Nutrition T12
+T13	Lifestyle_factor 534 540	lipids
+A15	Nutrition T13
+A16	LSF_out_of_context T13
+T14	Out-of-scope 542 550	proteins
+T15	Out-of-scope 135 143	activity

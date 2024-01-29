@@ -1,0 +1,19 @@
+T1	Lifestyle_factor 0 17	Strength training
+A1	Physical_activity T1
+T2	Lifestyle_factor 95 112	strength training
+A2	Physical_activity T2
+T3	Lifestyle_factor 1094 1113	low-volume exercise
+A3	Physical_activity T3
+T4	Lifestyle_factor 258 266	exercise
+A4	Physical_activity T4
+T5	Lifestyle_factor 928 954	greater volume of exercise
+A5	Physical_activity T5
+T6	Out-of-scope 409 415	single
+T7	Out-of-scope 669 675	single
+T8	Out-of-scope 19 25	Single
+T9	Lifestyle_factor 395 403	training
+A12	Physical_activity T9
+T10	Lifestyle_factor 526 544	training durations
+A6	Physical_activity T10
+T11	Lifestyle_factor 655 663	training
+A7	Physical_activity T11

@@ -1,0 +1,17 @@
+T1	Lifestyle_factor 53 66	using YouTube
+A1	Non_physical_leisure_time_activities T1
+T6	Lifestyle_factor 428 441	video sharers
+T10	Out-of-scope 869 881	social norms
+T11	Out-of-scope 937 956	interpersonal norms
+T4	Lifestyle_factor 569 580	use YouTube
+A4	Non_physical_leisure_time_activities T4
+T5	Lifestyle_factor 685 696	use YouTube
+A5	Non_physical_leisure_time_activities T5
+A2	Occupations T6
+T2	Lifestyle_factor 222 229	YouTube
+A3	Non_physical_leisure_time_activities T2
+A6	LSF_out_of_context T2
+T3	Lifestyle_factor 445 452	YouTube
+A7	Non_physical_leisure_time_activities T3
+A8	LSF_out_of_context T3
+T7	Out-of-scope 280 284	work

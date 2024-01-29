@@ -1,0 +1,13 @@
+T1	Lifestyle_factor 38 45	smoking
+A1	Drugs T1
+T2	Lifestyle_factor 401 408	smoking
+A2	Drugs T2
+T3	Lifestyle_factor 1057 1064	smoking
+A3	Drugs T3
+T4	Lifestyle_factor 1182 1189	smoking
+A4	Drugs T4
+T5	Lifestyle_factor 885 892	smoking
+A6	Drugs T5
+T6	Lifestyle_factor 1304 1313	addiction
+A5	Drugs T6
+T7	Out-of-scope 6 14	activity

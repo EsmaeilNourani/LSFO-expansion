@@ -1,0 +1,9 @@
+T1	Lifestyle_factor 135 148	United States
+A1	Geographical_Feature T1
+T2	Lifestyle_factor 337 341	U.S.
+A2	Geographical_Feature T2
+T3	Lifestyle_factor 1282 1295	United States
+A3	Geographical_Feature T3
+T4	Lifestyle_factor 150 154	U.S.
+A4	Geographical_Feature T4
+T5	Out-of-scope 372 387	social networks

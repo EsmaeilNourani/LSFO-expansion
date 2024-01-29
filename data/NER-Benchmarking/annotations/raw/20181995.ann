@@ -1,0 +1,32 @@
+T1	Lifestyle_factor 26 43	physical activity
+A1	Physical_activity T1
+T4	Lifestyle_factor 370 372	PA
+A4	Physical_activity T4
+T5	Lifestyle_factor 763 765	PA
+A5	Physical_activity T5
+T6	Lifestyle_factor 945 947	PA
+A6	Physical_activity T6
+T7	Lifestyle_factor 374 376	PA
+A7	Physical_activity T7
+T2	Lifestyle_factor 189 206	physical activity
+A2	Physical_activity T2
+T3	Lifestyle_factor 846 853	walking
+A3	Physical_activity T3
+T8	Lifestyle_factor 508 515	walking
+A8	Physical_activity T8
+T9	Lifestyle_factor 645 652	walking
+A9	Physical_activity T9
+T10	Lifestyle_factor 961 968	walking
+A10	Physical_activity T10
+T11	Lifestyle_factor 208 210	PA
+A11	Physical_activity T11
+T12	Lifestyle_factor 524 536	time on feet
+A12	Physical_activity T12
+#1	AnnotatorNotes T12	TODO: discuss
+T13	Lifestyle_factor 858 870	time on feet
+A13	Physical_activity T13
+#2	AnnotatorNotes T13	TODO: discuss
+T15	Lifestyle_factor 660 672	time on feet
+A15	Physical_activity T15
+T14	Lifestyle_factor 979 991	time on feet
+A14	Physical_activity T14

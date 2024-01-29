@@ -1,0 +1,46 @@
+T1	Lifestyle_factor 0 12	Home smoking
+A1	Drugs T1
+T2	Lifestyle_factor 30 48	adolescent smoking
+A2	Drugs T2
+T3	Lifestyle_factor 69 87	adolescent smoking
+A3	Drugs T3
+T4	Lifestyle_factor 231 238	smoking
+A4	Drugs T4
+T5	Lifestyle_factor 279 286	smoking
+A5	Drugs T5
+T6	Lifestyle_factor 324 342	adolescent smoking
+A6	Drugs T6
+T7	Lifestyle_factor 368 382	indoor smoking
+A7	Drugs T7
+T8	Lifestyle_factor 432 439	smoking
+A8	Drugs T8
+T9	Lifestyle_factor 495 513	adolescent smoking
+A9	Drugs T9
+T10	Lifestyle_factor 517 529	home smoking
+A10	Drugs T10
+T11	Lifestyle_factor 583 600	smoke in the home
+A11	Drugs T11
+T12	Lifestyle_factor 635 647	home smoking
+A12	Drugs T12
+T13	Lifestyle_factor 705 712	smoking
+A13	Drugs T13
+T14	Lifestyle_factor 733 753	high school students
+A14	Socioeconomic_factors T14
+T15	Lifestyle_factor 768 788	high school students
+A15	Socioeconomic_factors T15
+T16	Lifestyle_factor 832 851	non-smoking parents
+A16	Socioeconomic_factors T16
+T17	Lifestyle_factor 853 865	Home smoking
+A17	Drugs T17
+T18	Lifestyle_factor 908 923	regular smoking
+A18	Drugs T18
+T19	Lifestyle_factor 945 965	high school students
+A19	Socioeconomic_factors T19
+T20	Lifestyle_factor 967 979	Home smoking
+A20	Drugs T20
+T21	Lifestyle_factor 1017 1035	adolescent smoking
+A21	Drugs T21
+T22	Lifestyle_factor 722 728;738 753	middle school students
+A22	Socioeconomic_factors T22
+T23	Lifestyle_factor 935 941;950 965	middle school students
+A23	Socioeconomic_factors T23

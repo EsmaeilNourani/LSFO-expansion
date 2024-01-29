@@ -1,0 +1,8 @@
+T4	Lifestyle_factor 295 308	psychotherapy
+A4	Mental_health_practices T4
+T5	Lifestyle_factor 612 625	psychotherapy
+A5	Mental_health_practices T5
+T11	Lifestyle_factor 1489 1499	Clinicians
+A6	Occupations T11
+T1	Lifestyle_factor 1480 1487	therapy
+A1	Mental_health_practices T1

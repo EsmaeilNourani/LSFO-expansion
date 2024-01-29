@@ -1,0 +1,6 @@
+T1	Lifestyle_factor 648 665	counseling center
+A1	Socioeconomic_factors T1
+T2	Lifestyle_factor 899 908	therapist
+A2	Occupations T2
+T3	Lifestyle_factor 615 624	therapies
+A3	Mental_health_practices T3

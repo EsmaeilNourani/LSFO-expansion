@@ -1,0 +1,6 @@
+T8	Lifestyle_factor 757 776	aesthetic dentistry
+T1	Lifestyle_factor 469 471	UK
+A1	Geographical_Feature T1
+T2	Lifestyle_factor 741 752;767 776	orthodontic dentistry
+A4	Beauty_and_Cleaning T2
+A5	Beauty_and_Cleaning T8

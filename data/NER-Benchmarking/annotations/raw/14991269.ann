@@ -1,0 +1,21 @@
+T1	Lifestyle_factor 68 77	Nutrition
+A1	Nutrition T1
+T2	Lifestyle_factor 632 641	nutrition
+A2	Nutrition T2
+T3	Lifestyle_factor 209 233	industrialised countries
+A3	Socioeconomic_factors T3
+T4	Lifestyle_factor 646 664	nutritional status
+A4	Nutrition T4
+T6	Lifestyle_factor 373 386	overnutrition
+A6	Nutrition T6
+T7	Lifestyle_factor 391 405	food selection
+A7	Nutrition T7
+T8	Lifestyle_factor 253 285	countries of economic transition
+A8	Socioeconomic_factors T8
+T9	Lifestyle_factor 902 913	Nutritional
+A9	Nutrition T9
+A10	LSF_out_of_context T9
+T5	Lifestyle_factor 321 342	nutrient deficiencies
+A5	Nutrition T5
+T10	Lifestyle_factor 893 901	DOrtmund
+A11	Geographical_Feature T10

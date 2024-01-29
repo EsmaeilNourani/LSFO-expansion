@@ -1,0 +1,14 @@
+T1	Lifestyle_factor 2 15	psychotherapy
+A1	Mental_health_practices T1
+T2	Lifestyle_factor 246 259	psychotherapy
+A2	Mental_health_practices T2
+T3	Lifestyle_factor 838 849	mindfulness
+A3	Mental_health_practices T3
+T4	Lifestyle_factor 319 328	therapist
+A4	Occupations T4
+T5	Lifestyle_factor 530 539	therapist
+T6	Lifestyle_factor 898 907	therapist
+A5	Occupations T5
+A6	Occupations T6
+T7	Lifestyle_factor 44 53	therapist
+A7	Occupations T7

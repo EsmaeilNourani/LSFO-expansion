@@ -1,0 +1,42 @@
+T2	Lifestyle_factor 42 47	drugs
+T4	Lifestyle_factor 762 766	drug
+T5	Lifestyle_factor 771 778	alcohol
+T6	Lifestyle_factor 779 788	education
+A6	LSF_out_of_context T6
+T8	Lifestyle_factor 276 281	drugs
+A8	Drugs T8
+T9	Lifestyle_factor 283 289	Heroin
+A9	Drugs T9
+T10	Lifestyle_factor 294 297	LSD
+A10	Drugs T10
+T11	Lifestyle_factor 330 335	drugs
+A11	Drugs T11
+T12	Lifestyle_factor 341 348	alcohol
+A12	Drugs T12
+T13	Lifestyle_factor 353 363	cigarettes
+A13	Drugs T13
+T14	Lifestyle_factor 424 429	drugs
+A14	Drugs T14
+T15	Lifestyle_factor 450 458	cannabis
+A15	Drugs T15
+T16	Lifestyle_factor 460 472	amphetamines
+A16	Drugs T16
+T17	Lifestyle_factor 474 481	alcohol
+A17	Drugs T17
+T18	Lifestyle_factor 486 493	tobacco
+A18	Drugs T18
+A4	Drugs T4
+A5	LSF_out_of_context T5
+T19	Lifestyle_factor 662 670	cannabis
+A19	Drugs T19
+T20	Lifestyle_factor 628 633	drugs
+A20	Drugs T20
+T3	Lifestyle_factor 548 552	drug
+A3	Drugs T3
+T1	Lifestyle_factor 0 4	Drug
+A1	Drugs T1
+A2	Drugs T2
+A21	Drugs T5
+A22	Socioeconomic_factors T6
+T7	Lifestyle_factor 198 211	illegal drugs
+A7	Drugs T7

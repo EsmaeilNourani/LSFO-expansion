@@ -1,0 +1,15 @@
+T1	Lifestyle_factor 54 59	sleep
+A1	Sleep T1
+T2	Lifestyle_factor 168 173	sleep
+A2	Sleep T2
+T3	Lifestyle_factor 263 268	sleep
+A3	Sleep T3
+T4	Lifestyle_factor 471 476	sleep
+A4	Sleep T4
+T5	Lifestyle_factor 732 737	sleep
+A5	Sleep T5
+T6	Out-of-scope 763 771	employed
+T7	Out-of-scope 552 560	employed
+T8	Lifestyle_factor 573 584	researchers
+A10	Occupations T8
+T9	Out-of-scope 38 46	activity

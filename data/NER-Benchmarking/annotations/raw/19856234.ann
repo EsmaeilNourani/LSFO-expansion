@@ -1,0 +1,31 @@
+T4	Lifestyle_factor 466 469	EBT
+A4	Mental_health_practices T4
+T5	Lifestyle_factor 875 878	EBT
+A5	Mental_health_practices T5
+T6	Lifestyle_factor 678 681	EBT
+A6	Mental_health_practices T6
+T8	Lifestyle_factor 803 806	EBT
+A8	Mental_health_practices T8
+T9	Lifestyle_factor 588 591	EBT
+A9	Mental_health_practices T9
+T1	Lifestyle_factor 16 46	evidence-based psychotherapies
+A1	Mental_health_practices T1
+T10	Lifestyle_factor 905 909	EBTs
+A10	Mental_health_practices T10
+T2	Lifestyle_factor 248 287	evidence-based psychological treatments
+A2	Mental_health_practices T2
+T3	Lifestyle_factor 426 436	therapists
+A3	Occupations T3
+T7	Lifestyle_factor 438 447	therapist
+A7	Occupations T7
+T11	Lifestyle_factor 557 560	EBT
+A11	Mental_health_practices T11
+T12	Lifestyle_factor 561 571	therapists
+A12	Occupations T12
+T13	Lifestyle_factor 495 505	therapists
+A13	Occupations T13
+T14	Lifestyle_factor 289 293	EBTs
+A14	Mental_health_practices T14
+T15	Lifestyle_factor 379 386	therapy
+A15	Mental_health_practices T15
+T16	Out-of-scope 531 539	training

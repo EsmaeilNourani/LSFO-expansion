@@ -1,0 +1,20 @@
+T3	Out-of-scope 79 96	social competence
+T1	Lifestyle_factor 0 23	Structured Play Therapy
+T8	Out-of-scope 444 461	social competence
+T13	Lifestyle_factor 1022 1031	preschool
+A13	Socioeconomic_factors T13
+T14	Lifestyle_factor 1035 1047	kindergarten
+A14	Socioeconomic_factors T14
+T6	Lifestyle_factor 346 355	preschool
+A6	Socioeconomic_factors T6
+T2	Lifestyle_factor 152 175	Structured Play Therapy
+A2	Mental_health_practices T2
+A1	Mental_health_practices T1
+T4	Lifestyle_factor 385 392	therapy
+A3	Mental_health_practices T4
+T5	Lifestyle_factor 557 564	therapy
+A4	Mental_health_practices T5
+T7	Lifestyle_factor 883 890	therapy
+A5	Mental_health_practices T7
+T9	Lifestyle_factor 1105 1119	social milieus
+A7	Socioeconomic_factors T9

@@ -1,0 +1,22 @@
+T2	Out-of-scope 0 7	Menthol
+T4	Lifestyle_factor 233 248	nicotine intake
+A4	Drugs T4
+T5	Lifestyle_factor 267 274	smoking
+A5	Drugs T5
+T6	Out-of-scope 302 309	Menthol
+T7	Out-of-scope 562 569	menthol
+T9	Out-of-scope 645 652	menthol
+T12	Lifestyle_factor 790 807	smoking cessation
+A19	Drugs T12
+T13	Lifestyle_factor 811 825	North Carolina
+T14	Lifestyle_factor 861 869	Maryland
+T15	Lifestyle_factor 1072 1082	cigarettes
+A24	Drugs T15
+T18	Out-of-scope 1287 1294	menthol
+A18	Geographical_Feature T13
+A20	Geographical_Feature T14
+T1	Lifestyle_factor 833 848	substance abuse
+A1	Drugs T1
+T8	Out-of-scope 946 952	single
+T3	Lifestyle_factor 97 123	smoking menthol cigarettes
+A3	Drugs T3

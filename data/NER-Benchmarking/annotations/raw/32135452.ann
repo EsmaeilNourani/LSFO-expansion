@@ -1,0 +1,36 @@
+T1	Lifestyle_factor 0 5	Sleep
+A1	Sleep T1
+T2	Lifestyle_factor 155 168	sleep changes
+A2	Sleep T2
+T3	Lifestyle_factor 228 246	sleep disturbances
+A3	Sleep T3
+T4	Lifestyle_factor 606 622	total sleep time
+A4	Sleep T4
+T5	Lifestyle_factor 624 640	sleep efficiency
+A5	Sleep T5
+T6	Lifestyle_factor 657 672	slow wave sleep
+A6	Sleep T6
+T7	Lifestyle_factor 674 698	rapid eye movement sleep
+A7	Sleep T7
+T8	Lifestyle_factor 750 761	sleep onset
+A8	Sleep T8
+T9	Lifestyle_factor 925 941	sleep continuity
+A9	Sleep T9
+T10	Lifestyle_factor 945 962	sleep architectur
+A10	Sleep T10
+T11	Lifestyle_factor 1001 1019	REM sleep behavior
+A11	Sleep T11
+T12	Lifestyle_factor 1077 1108	poor sleep quality and quantity
+A12	Sleep T12
+A13	LSF_out_of_context T11
+T13	Lifestyle_factor 642 644	N2
+A14	Sleep T13
+T14	Lifestyle_factor 763 765	N1
+A15	Sleep T14
+T15	Lifestyle_factor 778 781	REM
+A16	Sleep T15
+T16	Lifestyle_factor 700 703	REM
+A17	Sleep T16
+A18	LSF_out_of_context T13
+A19	LSF_out_of_context T14
+A20	LSF_out_of_context T15

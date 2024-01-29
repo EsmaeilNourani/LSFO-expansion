@@ -1,0 +1,4 @@
+T1	Lifestyle_factor 112 125	psychotherapy
+A1	Mental_health_practices T1
+T2	Lifestyle_factor 188 197	therapist
+A2	Occupations T2

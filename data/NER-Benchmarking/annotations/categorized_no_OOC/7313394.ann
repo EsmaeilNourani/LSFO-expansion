@@ -1,0 +1,4 @@
+T1	Sleep 456 467	wakefulness
+T2	Sleep 505 510	sleep
+T3	Out-of-scope 43 51	activity
+T4	Out-of-scope 236 244	activity

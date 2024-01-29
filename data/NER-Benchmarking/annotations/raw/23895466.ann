@@ -1,0 +1,16 @@
+T1	Lifestyle_factor 796 802	Taiwan
+A1	Geographical_Feature T1
+T2	Lifestyle_factor 410 413	Web
+A2	Non_physical_leisure_time_activities T2
+A3	LSF_out_of_context T2
+T3	Lifestyle_factor 658 661	Web
+A4	Non_physical_leisure_time_activities T3
+A5	LSF_out_of_context T3
+T4	Lifestyle_factor 926 929	Web
+A6	Non_physical_leisure_time_activities T4
+A7	LSF_out_of_context T4
+T5	Lifestyle_factor 1272 1275	Web
+A8	Non_physical_leisure_time_activities T5
+A9	LSF_out_of_context T5
+T6	Out-of-scope 646 653	product
+T7	Out-of-scope 1260 1267	product

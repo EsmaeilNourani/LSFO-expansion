@@ -1,0 +1,44 @@
+T9	Lifestyle_factor 662 683	environmental factors
+A9	Environmental_exposures T9
+T1	Lifestyle_factor 237 242	water
+A1	Nutrition T1
+A2	LSF_out_of_context T1
+T2	Lifestyle_factor 61 70	mycotoxin
+A3	Environmental_exposures T2
+T3	Lifestyle_factor 359 375	mold infestation
+A4	Environmental_exposures T3
+T4	Lifestyle_factor 383 392	mycotoxin
+A5	Environmental_exposures T4
+T5	Lifestyle_factor 450 460	mycotoxins
+A6	Environmental_exposures T5
+T6	Lifestyle_factor 471 482	satratoxins
+A7	Environmental_exposures T6
+T7	Lifestyle_factor 484 503	phenylspirodrimanes
+A8	Environmental_exposures T7
+T8	Lifestyle_factor 529 549	stachybotrychromenes
+A10	Environmental_exposures T8
+T10	Lifestyle_factor 606 626	natural infestations
+A11	Environmental_exposures T10
+T11	Lifestyle_factor 591 601;614 626	Artificial infestations
+A12	Environmental_exposures T11
+T12	Lifestyle_factor 794 803	mycotoxin
+A13	Environmental_exposures T12
+T13	Lifestyle_factor 833 842	mycotoxin
+A14	Environmental_exposures T13
+T14	Lifestyle_factor 929 935	paints
+A15	Environmental_exposures T14
+T15	Lifestyle_factor 975 980	toxin
+A16	Environmental_exposures T15
+T16	Lifestyle_factor 1031 1043	gypsum board
+A17	Environmental_exposures T16
+T17	Lifestyle_factor 1122 1127	toxin
+A18	Environmental_exposures T17
+T18	Lifestyle_factor 1314 1319	light
+A19	Environmental_exposures T18
+A20	LSF_out_of_context T18
+T19	Lifestyle_factor 14 46	natural Stachybotrys infestation
+A21	Environmental_exposures T19
+T20	Lifestyle_factor 0 10;35 46	Artificial infestation
+A22	Environmental_exposures T20
+A23	LSF_out_of_context T12
+A24	LSF_out_of_context T13

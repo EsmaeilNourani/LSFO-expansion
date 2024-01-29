@@ -1,0 +1,16 @@
+T1	Lifestyle_factor 0 17	Polyvictimization
+A1	Socioeconomic_factors T1
+T4	Lifestyle_factor 465 482	polyvictimization
+A4	Socioeconomic_factors T4
+T6	Lifestyle_factor 847 864	polyvictimization
+A6	Socioeconomic_factors T6
+T7	Lifestyle_factor 956 984	exposure to traumatic events
+A7	Socioeconomic_factors T7
+T8	Lifestyle_factor 1203 1220	Polyvictimization
+A8	Socioeconomic_factors T8
+T5	Lifestyle_factor 1438 1466	exposure to multiple traumas
+A5	Socioeconomic_factors T5
+T2	Lifestyle_factor 184 221	exposure to multiple traumatic events
+A2	Socioeconomic_factors T2
+T3	Lifestyle_factor 223 240	polyvictimization
+A3	Socioeconomic_factors T3

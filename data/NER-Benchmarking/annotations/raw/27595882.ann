@@ -1,0 +1,17 @@
+T1	Lifestyle_factor 30 50	orthodontic practice
+A1	Beauty_and_Cleaning T1
+T2	Lifestyle_factor 274 295	orthodontic treatment
+A2	Beauty_and_Cleaning T2
+T3	Lifestyle_factor 376 388	orthodontist
+T4	Lifestyle_factor 451 463	orthodontics
+T5	Lifestyle_factor 1171 1191	dental professionals
+T6	Lifestyle_factor 400 411	orthodontic
+T7	Lifestyle_factor 1293 1313	dental professionals
+T8	Lifestyle_factor 1125 1158	dental and surgical professionals
+A7	Occupations T8
+A4	Occupations T5
+A6	Occupations T7
+A8	Beauty_and_Cleaning T4
+A3	Occupations T3
+A5	Beauty_and_Cleaning T6
+T9	Out-of-scope 1269 1277	training

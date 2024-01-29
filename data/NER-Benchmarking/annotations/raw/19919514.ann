@@ -1,0 +1,46 @@
+T1	Lifestyle_factor 50 64	Kuwaiti dishes
+A1	Nutrition T1
+T2	Lifestyle_factor 597 609	Carbohydrate
+A2	Nutrition T2
+T3	Lifestyle_factor 667 679	carbohydrate
+A3	Nutrition T3
+T4	Lifestyle_factor 948 960	carbohydrate
+A4	Nutrition T4
+T5	Lifestyle_factor 695 701	sweets
+A5	Nutrition T5
+T6	Lifestyle_factor 706 723	rice-based dishes
+A6	Nutrition T6
+T7	Lifestyle_factor 757 761	soup
+A7	Nutrition T7
+T8	Lifestyle_factor 766 779	cheese dishes
+A8	Nutrition T8
+T9	Lifestyle_factor 962 969	protein
+A9	Nutrition T9
+T10	Lifestyle_factor 974 977	fat
+A10	Nutrition T10
+T12	Lifestyle_factor 785 799	energy content
+A13	Nutrition T12
+T13	Lifestyle_factor 286 297	fat content
+A14	Nutrition T13
+T14	Lifestyle_factor 244 259	protein content
+A15	Nutrition T14
+T15	Lifestyle_factor 4 19	nutritive value
+A16	Nutrition T15
+T16	Lifestyle_factor 71 86	nutritive value
+A17	Nutrition T16
+T17	Lifestyle_factor 324 335	crude fiber
+A18	Nutrition T17
+T18	Lifestyle_factor 433 441	Samsamia
+A19	Nutrition T18
+T19	Lifestyle_factor 451 456	Harda
+A20	Nutrition T19
+T20	Lifestyle_factor 465 482	Hameesat Mushroom
+A21	Nutrition T20
+T21	Lifestyle_factor 491 505	Hameesat Fagae
+A22	Nutrition T21
+T22	Lifestyle_factor 528 533	fiber
+A23	Nutrition T22
+T23	Lifestyle_factor 557 568	ash content
+A24	Nutrition T23
+T24	Lifestyle_factor 931 942	food energy
+A25	Nutrition T24

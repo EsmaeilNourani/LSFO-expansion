@@ -1,0 +1,26 @@
+T1	Lifestyle_factor 5 22	physical activity
+A1	Physical_activity T1
+T2	Lifestyle_factor 133 150	physical activity
+A2	Physical_activity T2
+T3	Lifestyle_factor 367 369	PA
+A3	Physical_activity T3
+T4	Lifestyle_factor 251 253	PA
+A4	Physical_activity T4
+T5	Lifestyle_factor 667 669	PA
+A5	Physical_activity T5
+T6	Lifestyle_factor 691 693	PA
+A6	Physical_activity T6
+T7	Lifestyle_factor 997 999	PA
+A7	Physical_activity T7
+T9	Lifestyle_factor 915 917	PA
+A9	Physical_activity T9
+T10	Lifestyle_factor 1054 1056	PA
+A10	Physical_activity T10
+T11	Lifestyle_factor 86 93	walking
+A11	Physical_activity T11
+T12	Lifestyle_factor 339 346	walking
+A12	Physical_activity T12
+T8	Lifestyle_factor 760 768	PA level
+A8	Physical_activity T8
+T13	Lifestyle_factor 152 154	PA
+A13	Physical_activity T13

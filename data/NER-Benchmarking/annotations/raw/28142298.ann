@@ -1,0 +1,28 @@
+T1	Lifestyle_factor 0 8	Palm oil
+A1	Nutrition T1
+T2	Lifestyle_factor 50 59	Nutrition
+A2	Nutrition T2
+T3	Lifestyle_factor 103 111	palm oil
+A3	Nutrition T3
+T4	Lifestyle_factor 334 343	Nutrition
+A4	Nutrition T4
+T5	Out-of-scope 424 435	Nutritional
+T6	Lifestyle_factor 643 674	saturated fatty acids-rich fats
+A6	Nutrition T6
+T7	Lifestyle_factor 601 609	palm oil
+A7	Nutrition T7
+T8	Lifestyle_factor 711 732	saturated fatty acids
+A8	Nutrition T8
+T9	Lifestyle_factor 768 776	palm oil
+A9	Nutrition T9
+T10	Lifestyle_factor 873 901	saturated fatty acids intake
+A10	Nutrition T10
+T11	Lifestyle_factor 948 961	balanced diet
+A11	Nutrition T11
+T12	Lifestyle_factor 997 1005	palm oil
+A12	Nutrition T12
+A13	LSF_out_of_context T2
+A15	LSF_out_of_context T4
+T13	Lifestyle_factor 119 123	food
+A16	Nutrition T13
+A17	LSF_out_of_context T13

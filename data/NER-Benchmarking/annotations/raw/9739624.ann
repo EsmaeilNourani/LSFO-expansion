@@ -1,0 +1,4 @@
+T1	Lifestyle_factor 40 57	radioactive waste
+A1	Environmental_exposures T1
+T2	Lifestyle_factor 95 112	radioactive waste
+A2	Environmental_exposures T2

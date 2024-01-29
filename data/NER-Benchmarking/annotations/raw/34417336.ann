@@ -1,0 +1,55 @@
+T1	Lifestyle_factor 31 35	food
+A1	Nutrition T1
+A2	LSF_out_of_context T1
+T2	Lifestyle_factor 48 74	smokeless tobacco products
+A3	Drugs T2
+T3	Lifestyle_factor 524 550	smokeless tobacco products
+A4	Drugs T3
+T4	Lifestyle_factor 1040 1066	smokeless tobacco products
+A5	Drugs T4
+T5	Lifestyle_factor 153 157	food
+A6	Nutrition T5
+A7	LSF_out_of_context T5
+T6	Lifestyle_factor 333 337	food
+A8	Nutrition T6
+A9	LSF_out_of_context T6
+T7	Lifestyle_factor 729 733	food
+A10	Nutrition T7
+A11	LSF_out_of_context T7
+T8	Lifestyle_factor 791 795	food
+A12	Nutrition T8
+A13	LSF_out_of_context T8
+T9	Lifestyle_factor 996 1000	food
+A14	Nutrition T9
+A15	LSF_out_of_context T9
+T10	Lifestyle_factor 593 597	food
+A16	Nutrition T10
+A17	LSF_out_of_context T10
+T11	Lifestyle_factor 554 558	food
+A18	Nutrition T11
+T12	Lifestyle_factor 223 238	chewing tobacco
+A19	Drugs T12
+T13	Lifestyle_factor 78 83	India
+T14	Lifestyle_factor 242 247	India
+T15	Lifestyle_factor 346 351	India
+T16	Lifestyle_factor 296 303	tobacco
+A20	Drugs T16
+T17	Lifestyle_factor 433 440	tobacco
+A21	Drugs T17
+A22	LSF_out_of_context T17
+T18	Lifestyle_factor 704 720	tobacco products
+A23	Drugs T18
+T19	Lifestyle_factor 954 961	tobacco
+A24	Drugs T19
+A25	LSF_out_of_context T19
+T20	Lifestyle_factor 871 878	tobacco
+A26	Drugs T20
+A27	LSF_out_of_context T20
+T21	Lifestyle_factor 1103 1110	tobacco
+A28	Drugs T21
+A29	LSF_out_of_context T21
+A30	Geographical_Feature T13
+A31	Geographical_Feature T14
+A32	Geographical_Feature T15
+T22	Lifestyle_factor 624 632	products
+A33	Drugs T22

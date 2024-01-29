@@ -1,0 +1,12 @@
+T3	Lifestyle_factor 1067 1080	contraceptive
+A3	Socioeconomic_factors T3
+T2	Lifestyle_factor 271 303	combined hormonal contraceptives
+A2	Socioeconomic_factors T2
+T4	Lifestyle_factor 1117 1121	CHCs
+A4	Socioeconomic_factors T4
+T5	Lifestyle_factor 1275 1278	CHC
+A5	Socioeconomic_factors T5
+T1	Lifestyle_factor 30 52	hormonal contraception
+A1	Socioeconomic_factors T1
+T6	Lifestyle_factor 305 309	CHCs
+A6	Socioeconomic_factors T6

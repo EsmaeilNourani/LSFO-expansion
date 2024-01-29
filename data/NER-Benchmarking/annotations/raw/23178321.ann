@@ -1,0 +1,18 @@
+T1	Lifestyle_factor 76 83	Smoking
+A1	Drugs T1
+T2	Lifestyle_factor 609 626	smoking cessation
+A2	Drugs T2
+T3	Lifestyle_factor 708 725	smoking cessation
+A3	Drugs T3
+T4	Lifestyle_factor 234 253	nicotine dependence
+A4	Drugs T4
+T5	Lifestyle_factor 332 339	smoking
+A5	Drugs T5
+T6	Lifestyle_factor 457 464	Smoking
+A6	Drugs T6
+A7	LSF_out_of_context T6
+A8	LSF_out_of_context T1
+T8	Lifestyle_factor 1248 1255	smoking
+A10	Drugs T8
+T7	Lifestyle_factor 876 883	Smoking
+A9	Drugs T7

@@ -1,0 +1,24 @@
+T1	Lifestyle_factor 60 67	China's
+A1	Geographical_Feature T1
+T2	Lifestyle_factor 186 193	climate
+A2	Environmental_exposures T2
+T3	Lifestyle_factor 746 753	China's
+A4	Geographical_Feature T3
+T4	Lifestyle_factor 917 930	CO2 emissions
+A5	Environmental_exposures T4
+T5	Lifestyle_factor 805 817	CO2 emission
+A6	Environmental_exposures T5
+T6	Lifestyle_factor 490 510	developing countries
+A8	Socioeconomic_factors T6
+T7	Lifestyle_factor 36 39	CO2
+A9	Environmental_exposures T7
+T8	Lifestyle_factor 722 725	CO2
+A11	Environmental_exposures T8
+T9	Lifestyle_factor 1438 1441	CO2
+A13	Environmental_exposures T9
+A14	LSF_out_of_context T9
+T10	Lifestyle_factor 1326 1335	emissions
+A3	Environmental_exposures T10
+T11	Lifestyle_factor 137 145	emission
+A7	Environmental_exposures T11
+A10	LSF_out_of_context T11

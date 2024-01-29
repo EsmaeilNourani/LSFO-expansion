@@ -1,0 +1,24 @@
+T1	Lifestyle_factor 4 11	tobacco
+A1	Drugs T1
+T2	Lifestyle_factor 66 73	tobacco
+A2	Drugs T2
+T3	Lifestyle_factor 234 241	tobacco
+A3	Drugs T3
+T4	Lifestyle_factor 145 152	tobacco
+A4	Drugs T4
+T5	Lifestyle_factor 415 422	tobacco
+A5	Drugs T5
+T6	Lifestyle_factor 621 628	tobacco
+A6	Drugs T6
+T8	Lifestyle_factor 287 294	tobacco
+A8	Drugs T8
+T9	Lifestyle_factor 446 453	tobacco
+A9	Drugs T9
+T7	Lifestyle_factor 554 561	tobacco
+A7	Drugs T7
+T10	Lifestyle_factor 116 133	chemical industry
+A13	Environmental_exposures T10
+T11	Lifestyle_factor 174 181	tobacco
+A14	Drugs T11
+T12	Lifestyle_factor 265 279	European Union
+A10	Geographical_Feature T12

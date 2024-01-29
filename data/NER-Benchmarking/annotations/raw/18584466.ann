@@ -1,0 +1,29 @@
+T1	Lifestyle_factor 0 8	Nicotine
+A1	Drugs T1
+T2	Lifestyle_factor 139 147	nicotine
+A2	Drugs T2
+T3	Lifestyle_factor 329 345	nicotine patches
+A3	Drugs T3
+T4	Lifestyle_factor 591 599	nicotine
+A4	Drugs T4
+T5	Lifestyle_factor 688 696	Nicotine
+A5	Drugs T5
+T6	Lifestyle_factor 905 913	nicotine
+A6	Drugs T6
+T7	Lifestyle_factor 1006 1014	Nicotine
+A7	Drugs T7
+T8	Lifestyle_factor 209 232	smoking-related stimuli
+A8	Drugs T8
+T9	Lifestyle_factor 485 492	smoking
+A9	Drugs T9
+A10	LSF_out_of_context T9
+T10	Lifestyle_factor 350 365	placebo patches
+A11	Drugs T10
+T11	Lifestyle_factor 613 620	placebo
+A12	Drugs T11
+T12	Lifestyle_factor 724 731	smoking
+A13	Drugs T12
+A14	LSF_out_of_context T12
+T13	Lifestyle_factor 1114 1121	smoking
+A15	Drugs T13
+A16	LSF_out_of_context T13

@@ -1,0 +1,14 @@
+T3	Lifestyle_factor 109 126	physical activity
+A3	Physical_activity T3
+T6	Lifestyle_factor 338 355	exercise training
+A6	Physical_activity T6
+T7	Lifestyle_factor 861 887	combined exercise training
+A7	Physical_activity T7
+T1	Lifestyle_factor 17 47	Prison-Based Exercise Training
+A1	Physical_activity T1
+T2	Lifestyle_factor 505 535	prison-based exercise training
+A2	Physical_activity T2
+T4	Lifestyle_factor 1184 1205	prison-based exercise
+A4	Physical_activity T4
+T5	Lifestyle_factor 850 857;870 887	aerobic exercise training
+A5	Physical_activity T5

@@ -1,0 +1,12 @@
+T1	Lifestyle_factor 90 107	Physical Activity
+A1	Physical_activity T1
+T2	Lifestyle_factor 328 338	workplaces
+A2	Socioeconomic_factors T2
+T3	Lifestyle_factor 1020 1037	physical activity
+A3	Physical_activity T3
+T4	Lifestyle_factor 772 781	education
+A4	Socioeconomic_factors T4
+T5	Lifestyle_factor 318 327	sedentary
+A5	Physical_activity T5
+T6	Lifestyle_factor 786 798	time at work
+A6	Socioeconomic_factors T6

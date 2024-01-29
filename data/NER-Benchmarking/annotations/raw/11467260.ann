@@ -1,0 +1,14 @@
+T1	Lifestyle_factor 28 40	play therapy
+A1	Mental_health_practices T1
+T2	Lifestyle_factor 162 174	play therapy
+A2	Mental_health_practices T2
+T3	Lifestyle_factor 410 419	therapist
+A3	Occupations T3
+T4	Lifestyle_factor 297 312	adjunct therapy
+A4	Mental_health_practices T4
+T5	Lifestyle_factor 506 510	play
+A5	Non_physical_leisure_time_activities T5
+#1	AnnotatorNotes T5	TODO: check attribute
+T6	Lifestyle_factor 564 571	therapy
+A6	Mental_health_practices T6
+#2	AnnotatorNotes T6	Psychotherapy

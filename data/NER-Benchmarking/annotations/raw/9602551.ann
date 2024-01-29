@@ -1,0 +1,23 @@
+T1	Lifestyle_factor 0 20	Particulate emission
+A1	Environmental_exposures T1
+T2	Lifestyle_factor 121 139	particle emissions
+A2	Environmental_exposures T2
+T4	Lifestyle_factor 443 462	PM10 mass emissions
+A4	Environmental_exposures T4
+T7	Lifestyle_factor 997 1010	PM10 emission
+A7	Environmental_exposures T7
+T8	Lifestyle_factor 1316 1330	PM10 emissions
+A8	Environmental_exposures T8
+T3	Lifestyle_factor 1205 1210	sport
+A3	Physical_activity T3
+A5	LSF_out_of_context T3
+T5	Lifestyle_factor 338 350	suspend dust
+A6	Environmental_exposures T5
+T6	Lifestyle_factor 1147 1156	Emissions
+A9	Environmental_exposures T6
+T9	Lifestyle_factor 231 239	emission
+A10	Environmental_exposures T9
+A11	LSF_out_of_context T9
+T10	Lifestyle_factor 481 489	emission
+A12	Environmental_exposures T10
+A13	LSF_out_of_context T10

@@ -1,0 +1,53 @@
+T1	Lifestyle_factor 0 30	Occupational physical activity
+A1	Physical_activity T1
+A2	Socioeconomic_factors T1
+T3	Out-of-scope 64 77	working women
+T5	Out-of-scope 269 282	working women
+T6	Out-of-scope 341 354	working women
+T7	Lifestyle_factor 414 418	OCPA
+A9	Physical_activity T7
+A10	Socioeconomic_factors T7
+T8	Lifestyle_factor 423 427	LTPA
+A11	Physical_activity T8
+T9	Lifestyle_factor 546 550	OCPA
+A12	Physical_activity T9
+A13	Socioeconomic_factors T9
+T10	Lifestyle_factor 593 597	LTPA
+A14	Physical_activity T10
+T11	Lifestyle_factor 719 721	PA
+A15	Physical_activity T11
+T12	Out-of-scope 789 806	sedentary workers
+T13	Lifestyle_factor 825 829	LTPA
+A17	Physical_activity T13
+T14	Lifestyle_factor 871 875	LTPA
+A18	Physical_activity T14
+T15	Lifestyle_factor 934 951;961 965	moderately active work
+A19	Socioeconomic_factors T15
+T16	Lifestyle_factor 955 965	heavy work
+A20	Socioeconomic_factors T16
+T17	Lifestyle_factor 994 998	LTPA
+A21	Physical_activity T17
+T18	Lifestyle_factor 1036 1040	LTPA
+A22	Physical_activity T18
+T19	Lifestyle_factor 1070 1091	sedentary occupations
+A23	Socioeconomic_factors T19
+T20	Lifestyle_factor 1116 1120	LTPA
+A24	Physical_activity T20
+T23	Lifestyle_factor 1259 1261	PA
+A27	Physical_activity T23
+T24	Lifestyle_factor 438 455	lifestyle factors
+T2	Lifestyle_factor 183 213	occupational physical activity
+A3	Physical_activity T2
+T4	Lifestyle_factor 225 255	leisure-time physical activity
+A4	Physical_activity T4
+T21	Lifestyle_factor 88 100	North Dakota
+A5	Geographical_Feature T21
+T22	Lifestyle_factor 215 219	OCPA
+A6	Physical_activity T22
+T25	Lifestyle_factor 257 261	LTPA
+A7	Physical_activity T25
+T26	Lifestyle_factor 1196 1221	heavy working occupations
+A8	Socioeconomic_factors T26
+T27	Lifestyle_factor 1184 1192;1202 1221	moderate working occupations
+A16	Socioeconomic_factors T27
+T28	Out-of-scope 922 930	employed

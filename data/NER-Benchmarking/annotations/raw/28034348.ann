@@ -1,0 +1,7 @@
+T2	Lifestyle_factor 87 101	couple therapy
+A2	Mental_health_practices T2
+T5	Lifestyle_factor 328 341	psychotherapy
+A5	Mental_health_practices T5
+T8	Out-of-scope 1125 1147	relationship mutuality
+T7	Lifestyle_factor 628 653	relationship satisfaction
+A7	Socioeconomic_factors T7

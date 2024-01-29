@@ -1,0 +1,46 @@
+T1	Lifestyle_factor 24 41	Physical Activity
+A1	Physical_activity T1
+T2	Lifestyle_factor 195 212	physical activity
+A2	Physical_activity T2
+T3	Lifestyle_factor 275 292	physical activity
+A3	Physical_activity T3
+T4	Lifestyle_factor 621 647	vigorous physical activity
+A4	Physical_activity T4
+T5	Lifestyle_factor 1142 1159	physical activity
+A5	Physical_activity T5
+T6	Lifestyle_factor 48 61	Middle School
+A6	Socioeconomic_factors T6
+T7	Lifestyle_factor 807 820	middle school
+A7	Socioeconomic_factors T7
+T8	Lifestyle_factor 13 19	School
+A8	Socioeconomic_factors T8
+T9	Lifestyle_factor 264 270	school
+A9	Socioeconomic_factors T9
+T10	Lifestyle_factor 609 617;630 647	moderate physical activity
+A10	Physical_activity T10
+T11	Lifestyle_factor 675 681	school
+A11	Socioeconomic_factors T11
+A12	LSF_out_of_context T11
+A13	LSF_out_of_context T9
+A14	LSF_out_of_context T8
+T12	Lifestyle_factor 499 505	school
+A15	Socioeconomic_factors T12
+A16	LSF_out_of_context T12
+T13	Lifestyle_factor 749 755	school
+A17	Socioeconomic_factors T13
+A18	LSF_out_of_context T13
+T14	Lifestyle_factor 870 877	schools
+A19	Socioeconomic_factors T14
+A20	LSF_out_of_context T14
+T15	Lifestyle_factor 974 980	school
+A21	Socioeconomic_factors T15
+A22	LSF_out_of_context T15
+T16	Lifestyle_factor 1082 1088	school
+A23	Socioeconomic_factors T16
+A24	LSF_out_of_context T16
+T17	Lifestyle_factor 406 414	Activity
+A25	Physical_activity T17
+A26	LSF_out_of_context T17
+T18	Lifestyle_factor 82 90	Activity
+A27	Physical_activity T18
+A28	LSF_out_of_context T18

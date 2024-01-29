@@ -1,0 +1,23 @@
+T1	Lifestyle_factor 46 78	High-Intensity Interval Training
+A1	Physical_activity T1
+T2	Lifestyle_factor 421 453	high-intensity interval training
+A2	Physical_activity T2
+T3	Lifestyle_factor 513 517	HIIT
+A3	Physical_activity T3
+T4	Lifestyle_factor 593 597	HIIT
+A4	Physical_activity T4
+T5	Lifestyle_factor 1128 1132	HIIT
+A5	Physical_activity T5
+T6	Lifestyle_factor 1245 1249	HIIT
+A6	Physical_activity T6
+T7	Lifestyle_factor 124 160	moderate-intensity exercise training
+T8	Lifestyle_factor 271 289	Exercise frequency
+A8	Physical_activity T8
+A7	Physical_activity T7
+T9	Lifestyle_factor 115 119;133 160	Low- intensity exercise training
+A9	Physical_activity T9
+T10	Lifestyle_factor 271 279;294 303	Exercise intensity
+A10	Physical_activity T10
+T11	Lifestyle_factor 455 459	HIIT
+A11	Physical_activity T11
+T12	Out-of-scope 323 327	play

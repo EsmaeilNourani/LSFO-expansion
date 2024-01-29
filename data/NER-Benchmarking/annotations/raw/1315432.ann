@@ -1,0 +1,49 @@
+T1	Lifestyle_factor 14 39	biodegraded cashew pomace
+A1	Nutrition T1
+T2	Lifestyle_factor 69 94	biodegraded cashew pomace
+A2	Nutrition T2
+T3	Lifestyle_factor 719 731	cashew flour
+A3	Nutrition T3
+T4	Lifestyle_factor 120 124	cake
+A4	Nutrition T4
+T5	Lifestyle_factor 265 279	composite cake
+A5	Nutrition T5
+T6	Lifestyle_factor 568 580	cashew flour
+A6	Nutrition T6
+T7	Lifestyle_factor 619 631	carbohydrate
+A7	Nutrition T7
+T8	Lifestyle_factor 657 671	composite cake
+A8	Nutrition T8
+T9	Lifestyle_factor 784 788	cake
+A9	Nutrition T9
+T10	Lifestyle_factor 924 928	cake
+A10	Nutrition T10
+T11	Lifestyle_factor 1023 1045	low carbohydrate foods
+A11	Nutrition T11
+T12	Lifestyle_factor 590 601	crude fibre
+A12	Nutrition T12
+T13	Lifestyle_factor 339 354	protein content
+A13	Nutrition T13
+T14	Lifestyle_factor 44 48	cake
+A14	Nutrition T14
+T15	Lifestyle_factor 110 115	flour
+A15	Nutrition T15
+T16	Lifestyle_factor 220 226	pomace
+A16	Nutrition T16
+T17	Lifestyle_factor 362 368	pomace
+A17	Nutrition T17
+T18	Lifestyle_factor 867 873	batter
+A18	Nutrition T18
+T19	Lifestyle_factor 935 948	calorie value
+A19	Nutrition T19
+T20	Lifestyle_factor 732 743	wheat flour
+A20	Nutrition T20
+T21	Lifestyle_factor 506 519	organic acids
+A21	Nutrition T21
+#1	AnnotatorNotes T21	TODO: check is this OOC?
+T22	Lifestyle_factor 383 395	fermentation
+A22	Nutrition T22
+T23	Lifestyle_factor 200 212	fermentation
+A23	Nutrition T23
+T24	Lifestyle_factor 550 562	fermentation
+A24	Nutrition T24

@@ -1,0 +1,11 @@
+T1	Lifestyle_factor 20 28	beverage
+A1	Nutrition T1
+T2	Lifestyle_factor 551 559	beverage
+A2	Nutrition T2
+T11	Lifestyle_factor 1224 1233	beverages
+A9	Nutrition T11
+T8	Lifestyle_factor 291 295	food
+A7	Nutrition T8
+T9	Lifestyle_factor 394 398	food
+A8	Nutrition T9
+T3	Out-of-scope 154 162	products

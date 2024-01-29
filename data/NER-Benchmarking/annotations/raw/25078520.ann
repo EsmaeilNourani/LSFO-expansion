@@ -1,0 +1,21 @@
+T1	Lifestyle_factor 63 72	treadmill
+A1	Physical_activity T1
+T2	Lifestyle_factor 340 354	treadmill-desk
+A2	Physical_activity T2
+T3	Lifestyle_factor 155 185	walking at self-selected speed
+A3	Physical_activity T3
+T4	Lifestyle_factor 960 973	sedentariness
+T5	Lifestyle_factor 653 660	walking
+A4	Physical_activity T5
+T6	Lifestyle_factor 355 362	walking
+A5	Physical_activity T6
+T7	Lifestyle_factor 844 851	walking
+A6	Physical_activity T7
+A7	Physical_activity T4
+T8	Lifestyle_factor 26 47	low-intensity walking
+A8	Physical_activity T8
+T9	Lifestyle_factor 545 552	reading
+A9	Non_physical_leisure_time_activities T9
+A10	LSF_out_of_context T9
+T10	Lifestyle_factor 665 672	sitting
+A11	Physical_activity T10

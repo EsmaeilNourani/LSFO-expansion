@@ -1,0 +1,19 @@
+T1	Lifestyle_factor 32 46	sexual assault
+A1	Socioeconomic_factors T1
+T2	Lifestyle_factor 157 171	sexual assault
+A2	Socioeconomic_factors T2
+T3	Lifestyle_factor 613 627	sexual assault
+A3	Socioeconomic_factors T3
+T4	Lifestyle_factor 1135 1149	sexual assault
+A4	Socioeconomic_factors T4
+T10	Out-of-scope 176 195	postassault actions
+T12	Out-of-scope 477 495	sexually assaulted
+T11	Lifestyle_factor 826 842	drinking alcohol
+A11	Drugs T11
+T5	Lifestyle_factor 288 291	web
+A5	Non_physical_leisure_time_activities T5
+A6	LSF_out_of_context T5
+T6	Lifestyle_factor 421 429	assaults
+A7	Socioeconomic_factors T6
+T7	Lifestyle_factor 511 518	college
+A8	Socioeconomic_factors T7

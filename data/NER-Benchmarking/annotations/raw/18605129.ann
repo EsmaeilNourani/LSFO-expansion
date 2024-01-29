@@ -1,0 +1,14 @@
+T1	Lifestyle_factor 123 136	psychotherapy
+A1	Mental_health_practices T1
+T2	Lifestyle_factor 63 85	interpersonal behavior
+A2	Socioeconomic_factors T2
+T3	Lifestyle_factor 816 838	interpersonal behavior
+A3	Socioeconomic_factors T3
+T4	Lifestyle_factor 416 425	therapist
+A4	Occupations T4
+T5	Lifestyle_factor 773 782	therapist
+A5	Occupations T5
+T6	Lifestyle_factor 447 456	therapies
+A6	Mental_health_practices T6
+T7	Lifestyle_factor 762 769	therapy
+A7	Mental_health_practices T7

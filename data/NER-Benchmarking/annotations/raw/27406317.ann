@@ -1,0 +1,54 @@
+T1	Lifestyle_factor 11 38	salicylic acid-induced wine
+A1	Nutrition T1
+T2	Lifestyle_factor 170 212	Syrah red wine treated with salicylic acid
+A2	Nutrition T2
+T3	Lifestyle_factor 237 245	red wine
+A3	Nutrition T3
+T4	Lifestyle_factor 368 389	Grape treated with SA
+A4	Nutrition T4
+T5	Lifestyle_factor 781 783	RW
+A5	Nutrition T5
+T6	Lifestyle_factor 857 862	RW SA
+A6	Nutrition T6
+T7	Lifestyle_factor 122 130	fructose
+A7	Nutrition T7
+T8	Lifestyle_factor 214 219	RW SA
+A8	Nutrition T8
+T9	Lifestyle_factor 247 249	RW
+A9	Nutrition T9
+T10	Lifestyle_factor 345 353	fructose
+A10	Nutrition T10
+T11	Lifestyle_factor 355 356	F
+A11	Nutrition T11
+T12	Lifestyle_factor 404 415	anthocyanin
+A12	Nutrition T12
+T13	Lifestyle_factor 417 421	ANTs
+A13	Nutrition T13
+T14	Lifestyle_factor 433 435	RW
+A14	Nutrition T14
+T15	Lifestyle_factor 437 438	F
+A15	Nutrition T15
+T16	Lifestyle_factor 529 530	F
+A16	Nutrition T16
+T17	Lifestyle_factor 709 710	F
+A17	Nutrition T17
+T18	Lifestyle_factor 549 551	RW
+A18	Nutrition T18
+T19	Lifestyle_factor 600 605	RW SA
+A19	Nutrition T19
+T20	Lifestyle_factor 627 640	triglycerides
+A20	Nutrition T20
+T21	Lifestyle_factor 788 793	RW SA
+A21	Nutrition T21
+T22	Lifestyle_factor 931 933	RW
+A22	Nutrition T22
+T23	Lifestyle_factor 946 948	RW
+A23	Nutrition T23
+T24	Lifestyle_factor 953 958	RW SA
+A24	Nutrition T24
+T25	Lifestyle_factor 1067 1080	SA-induced RW
+A25	Nutrition T25
+T26	Lifestyle_factor 1089 1093	ANTs
+A26	Nutrition T26
+T27	Lifestyle_factor 47 59	anthocyanins
+A27	Nutrition T27

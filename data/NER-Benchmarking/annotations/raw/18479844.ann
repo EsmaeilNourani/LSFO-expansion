@@ -1,0 +1,27 @@
+T1	Lifestyle_factor 833 862	substance self-administration
+A1	Drugs T1
+T3	Lifestyle_factor 99 105	wealth
+A3	Socioeconomic_factors T3
+A7	LSF_out_of_context T3
+T2	Lifestyle_factor 20 39	addictive behaviors
+A2	Drugs T2
+T4	Lifestyle_factor 155 174	addictive behaviors
+A4	Drugs T4
+T5	Lifestyle_factor 1308 1327	addictive behaviors
+A5	Drugs T5
+T6	Lifestyle_factor 219 228	substance
+A6	Drugs T6
+A8	LSF_out_of_context T6
+T7	Lifestyle_factor 392 401	addiction
+A9	Drugs T7
+T8	Lifestyle_factor 478 487	substance
+A10	Drugs T8
+A11	LSF_out_of_context T8
+T9	Lifestyle_factor 529 538	substance
+A12	Drugs T9
+T10	Lifestyle_factor 606 615	substance
+A13	Drugs T10
+A14	LSF_out_of_context T10
+T11	Lifestyle_factor 1081 1090	addiction
+A15	Drugs T11
+A16	LSF_out_of_context T11

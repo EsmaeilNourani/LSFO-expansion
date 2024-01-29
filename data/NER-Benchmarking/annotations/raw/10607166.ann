@@ -1,0 +1,6 @@
+T1	Lifestyle_factor 157 162	sleep
+A1	Sleep T1
+T2	Lifestyle_factor 527 546	rhythmic activities
+A2	Physical_activity T2
+T3	Out-of-scope 359 363	work
+T4	Out-of-scope 625 632	cooling

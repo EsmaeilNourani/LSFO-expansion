@@ -1,0 +1,5 @@
+T3	Lifestyle_factor 840 857	airborne exposure
+A3	Environmental_exposures T3
+T1	Lifestyle_factor 501 511	air change
+A1	Environmental_exposures T1
+T2	Out-of-scope 334 342	employed

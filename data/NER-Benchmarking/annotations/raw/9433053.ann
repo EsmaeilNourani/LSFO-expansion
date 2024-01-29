@@ -1,0 +1,10 @@
+T3	Lifestyle_factor 86 107	orthodontic treatment
+A3	Beauty_and_Cleaning T3
+T4	Lifestyle_factor 180 203	coordinated orthodontic
+A4	Beauty_and_Cleaning T4
+T5	Lifestyle_factor 1209 1230	orthodontic treatment
+A5	Beauty_and_Cleaning T5
+T1	Lifestyle_factor 618 624	School
+A1	Socioeconomic_factors T1
+A2	LSF_out_of_context T1
+T2	Out-of-scope 599 603	work

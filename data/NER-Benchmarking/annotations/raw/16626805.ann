@@ -1,0 +1,31 @@
+T6	Out-of-scope 98 122	Sao Paulo City residents
+T7	Lifestyle_factor 225 249	typical adult food items
+A7	Nutrition T7
+T10	Out-of-scope 320 356	individuals living in Sao Paulo City
+T14	Lifestyle_factor 660 669	Sao Paulo
+A17	Geographical_Feature T14
+T3	Out-of-scope 30 54	Sao Paulo City residents
+T4	Lifestyle_factor 75 82	uranium
+A4	Environmental_exposures T4
+T1	Lifestyle_factor 0 7	Uranium
+A1	Environmental_exposures T1
+T2	Lifestyle_factor 293 316	daily intake of uranium
+A2	Environmental_exposures T2
+T5	Lifestyle_factor 22 26	diet
+A5	Nutrition T5
+T8	Lifestyle_factor 90 94	diet
+A8	Nutrition T8
+T9	Lifestyle_factor 435 442	Uranium
+A9	Environmental_exposures T9
+A11	LSF_out_of_context T9
+T11	Lifestyle_factor 467 474	uranium
+A12	Environmental_exposures T11
+T12	Lifestyle_factor 592 599	uranium
+A13	Environmental_exposures T12
+A14	LSF_out_of_context T12
+T13	Lifestyle_factor 98 112	Sao Paulo City
+A3	Geographical_Feature T13
+T15	Lifestyle_factor 342 356	Sao Paulo City
+A6	Geographical_Feature T15
+T16	Lifestyle_factor 30 44	Sao Paulo City
+A10	Geographical_Feature T16

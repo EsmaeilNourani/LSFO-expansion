@@ -1,0 +1,18 @@
+T1	Lifestyle_factor 54 71	Physical Activity
+A1	Physical_activity T1
+T4	Lifestyle_factor 596 598	PA
+A4	Physical_activity T4
+T5	Lifestyle_factor 611 613	PA
+A5	Physical_activity T5
+T6	Lifestyle_factor 704 706	PA
+A6	Physical_activity T6
+T2	Lifestyle_factor 222 239	physical activity
+A2	Physical_activity T2
+T3	Lifestyle_factor 241 243	PA
+A3	Physical_activity T3
+T7	Lifestyle_factor 1063 1065	PA
+A7	Physical_activity T7
+T8	Lifestyle_factor 1072 1074	PA
+A8	Physical_activity T8
+T9	Lifestyle_factor 1099 1101	PA
+A9	Physical_activity T9

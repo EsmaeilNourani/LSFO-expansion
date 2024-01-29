@@ -1,0 +1,40 @@
+T1	Lifestyle_factor 429 457	air pollution control device
+A1	Environmental_exposures T1
+T2	Lifestyle_factor 184 202	polyvinyl chloride
+A3	Environmental_exposures T2
+T3	Lifestyle_factor 578 581	PVC
+A4	Environmental_exposures T3
+T4	Lifestyle_factor 15 27	heavy metals
+A5	Environmental_exposures T4
+T5	Lifestyle_factor 84 97	fabric filter
+A6	Environmental_exposures T5
+#1	AnnotatorNotes T5	protection
+T7	Lifestyle_factor 204 207	PVC
+A8	Environmental_exposures T7
+T10	Lifestyle_factor 270 281	heavy metal
+A11	Environmental_exposures T10
+T11	Lifestyle_factor 286 293	fly ash
+A12	Environmental_exposures T11
+T12	Lifestyle_factor 323 331	particle
+A13	Environmental_exposures T12
+T13	Lifestyle_factor 353 365	heavy metals
+A14	Environmental_exposures T13
+T14	Lifestyle_factor 400 413	fabric filter
+A15	Environmental_exposures T14
+T15	Lifestyle_factor 491 498	fly ash
+A16	Environmental_exposures T15
+T16	Lifestyle_factor 503 515	heavy metals
+A17	Environmental_exposures T16
+T17	Lifestyle_factor 622 634	heavy metals
+A18	Environmental_exposures T17
+T18	Lifestyle_factor 650 657	fly ash
+A19	Environmental_exposures T18
+T19	Lifestyle_factor 685 693	particle
+A20	Environmental_exposures T19
+T22	Lifestyle_factor 936 945	particles
+A23	Environmental_exposures T22
+T23	Lifestyle_factor 459 463	APCD
+A24	Environmental_exposures T23
+A2	LSF_out_of_context T12
+A9	LSF_out_of_context T19
+A10	LSF_out_of_context T22

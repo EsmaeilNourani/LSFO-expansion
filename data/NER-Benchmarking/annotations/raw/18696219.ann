@@ -1,0 +1,34 @@
+T1	Lifestyle_factor 60 68	Internet
+T3	Lifestyle_factor 979 987	Internet
+T4	Lifestyle_factor 104 121	Internet gambling
+A4	Non_physical_leisure_time_activities T4
+T5	Out-of-scope 461 469	gamblers
+T6	Lifestyle_factor 833 841	gambling
+A6	Non_physical_leisure_time_activities T6
+T7	Lifestyle_factor 905 913	gambling
+A7	Non_physical_leisure_time_activities T7
+T8	Lifestyle_factor 1009 1017	gambling
+A8	Non_physical_leisure_time_activities T8
+T9	Lifestyle_factor 491 505	online betting
+A9	Non_physical_leisure_time_activities T9
+T10	Lifestyle_factor 388 395	betting
+T11	Lifestyle_factor 418 425	betting
+T12	Out-of-scope 609 617	gamblers
+A1	Non_physical_leisure_time_activities T1
+A3	Non_physical_leisure_time_activities T3
+A15	LSF_out_of_context T1
+T13	Lifestyle_factor 303 311	Internet
+A16	Non_physical_leisure_time_activities T13
+A17	LSF_out_of_context T13
+T2	Lifestyle_factor 644 649	games
+A2	Non_physical_leisure_time_activities T2
+T14	Lifestyle_factor 852 857	money
+A5	Socioeconomic_factors T14
+A14	LSF_out_of_context T14
+A18	LSF_out_of_context T3
+A10	Non_physical_leisure_time_activities T10
+A11	Non_physical_leisure_time_activities T11
+T15	Out-of-scope 69 77	gamblers
+T16	Out-of-scope 312 320	gamblers
+T17	Out-of-scope 988 996	gamblers
+T18	Out-of-scope 760 768	activity

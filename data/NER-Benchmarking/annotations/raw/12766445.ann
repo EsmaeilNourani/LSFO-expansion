@@ -1,0 +1,37 @@
+T1	Lifestyle_factor 22 37	Casino Gambling
+A1	Non_physical_leisure_time_activities T1
+T2	Lifestyle_factor 55 63	Gambling
+A2	Non_physical_leisure_time_activities T2
+T3	Lifestyle_factor 282 290	gambling
+A3	Non_physical_leisure_time_activities T3
+T4	Lifestyle_factor 606 624	gambling behaviour
+A4	Non_physical_leisure_time_activities T4
+T5	Lifestyle_factor 341 349	gambling
+A5	Non_physical_leisure_time_activities T5
+T6	Lifestyle_factor 529 547	gambling behaviour
+A6	Non_physical_leisure_time_activities T6
+T10	Lifestyle_factor 88 95	pastime
+A10	Non_physical_leisure_time_activities T10
+T15	Lifestyle_factor 1024 1032	gamblers
+T9	Lifestyle_factor 1156 1164	gambling
+A9	Non_physical_leisure_time_activities T9
+T11	Lifestyle_factor 518 525	Windsor
+A11	Geographical_Feature T11
+T12	Lifestyle_factor 551 558	Windsor
+A12	Geographical_Feature T12
+T13	Lifestyle_factor 560 567	Ontario
+A13	Geographical_Feature T13
+T14	Lifestyle_factor 569 575	Canada
+A14	Geographical_Feature T14
+T7	Lifestyle_factor 873 881	gambling
+A7	Non_physical_leisure_time_activities T7
+A15	Non_physical_leisure_time_activities T15
+T16	Lifestyle_factor 682 689	Windsor
+A16	Geographical_Feature T16
+T17	Lifestyle_factor 721 728	Windsor
+A17	Geographical_Feature T17
+T8	Lifestyle_factor 1278 1286	gambling
+A8	Non_physical_leisure_time_activities T8
+T18	Lifestyle_factor 586 595	telephone
+A18	Non_physical_leisure_time_activities T18
+A19	LSF_out_of_context T18

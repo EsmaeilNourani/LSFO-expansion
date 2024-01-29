@@ -1,0 +1,17 @@
+T5	Lifestyle_factor 758 777	group psychotherapy
+A3	Mental_health_practices T5
+T6	Lifestyle_factor 932 951	group psychotherapy
+A4	Mental_health_practices T6
+T1	Lifestyle_factor 12 33	group psychotherapist
+T2	Lifestyle_factor 113 134	group psychotherapist
+T3	Lifestyle_factor 229 250	group psychotherapist
+T4	Lifestyle_factor 555 576	group psychotherapist
+A2	Occupations T2
+A6	Occupations T4
+A5	Occupations T3
+A1	Occupations T1
+T7	Lifestyle_factor 405 414	therapist
+A7	Occupations T7
+T8	Lifestyle_factor 981 1004	individual practitioner
+A8	Occupations T8
+T9	Out-of-scope 1033 1041	training

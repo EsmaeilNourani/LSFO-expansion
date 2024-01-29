@@ -1,0 +1,972 @@
+11813678 11813678 11813678 11813678 11813678 11813678 11813678 11813678 11813678 11813678 FN: T11	Socioeconomic_factors 54 65	oral health
+11813678 FN: T12	Socioeconomic_factors 146 152	school
+17846454 FN: T6	Physical_activity 100 102	PA
+17846454 FN: T4	Physical_activity 329 331	PA
+17846454 17846454 17846454 FN: T3	Physical_activity 221 223	PA
+11314115 FN: T8	Drugs 80 84	Drug
+11314115 11314115 11314115 11314115 11314115 11314115 11314115 FN: T3	Nutrition 274 284	sweeteners
+11314115 11314115 11314115 FN: T16	Nutrition 561 569	products
+11314115 11314115 11314115 11314115 FN: T18	Nutrition 918 926	products
+19817639 FN: T6	Nutrition 893 901	propolis
+19817639 FN: T7	Nutrition 1044 1051	chrysin
+19817639 FN: T4	Nutrition 308 316	propolis
+19817639 FN: T5	Nutrition 573 581	propolis
+19817639 FN: T2	Nutrition 918 933	Manisa propolis
+19817639 FN: T3	Nutrition 121 129	Propolis
+19817639 FN: T1	Nutrition 11 26	Manisa propolis
+33049699 FN: T8	Physical_activity 460 469	badminton
+33049699 FN: T6	Physical_activity 330 339	badminton
+33049699 FN: T7	Physical_activity 856 865	badminton
+33049699 FN: T4	Physical_activity 98 112	sport practice
+33049699 FN: T5	Physical_activity 992 1001	badminton
+33049699 FN: T2	Physical_activity 235 253	badminton practice
+33049699 FN: T3	Physical_activity 1086 1104	badminton practice
+33049699 FN: T1	Physical_activity 13 31	Badminton Practice
+11824216 FN: T6	Socioeconomic_factors 89 111	intimate relationships
+11824216 FN: T4	Mental_health_practices 614 628	couple therapy
+11824216 FN: T5	Mental_health_practices 737 751	couple therapy
+11824216 FN: T2	Mental_health_practices 238 252	couple therapy
+11824216 FN: T3	Mental_health_practices 386 400	couple therapy
+11824216 FN: T1	Mental_health_practices 3 17	couple therapy
+28370427 FN: T8	Socioeconomic_factors 145 172	poorer academic performance
+28370427 FN: T9	Environmental_exposures 71 82	ventilation
+28370427 FN: T6	Environmental_exposures 0 11	Ventilation
+28370427 FN: T7	Socioeconomic_factors 132 143	absenteeism
+28370427 FN: T4	Environmental_exposures 949 952	IAQ
+28370427 FN: T5	Environmental_exposures 1354 1357	IAQ
+28370427 FN: T3	Environmental_exposures 358 361	CO2
+28370427 FN: T14	Environmental_exposures 1338 1349	ventilation
+28370427 FN: T15	Socioeconomic_factors 47 53	school
+28370427 FN: T16	Socioeconomic_factors 292 299	schools
+28370427 FN: T17	Socioeconomic_factors 593 599	school
+28370427 FN: T10	Environmental_exposures 605 615	air change
+28370427 FN: T11	Environmental_exposures 710 721	ventilation
+28370427 FN: T12	Environmental_exposures 995 1006	ventilators
+28370427 FN: T13	Socioeconomic_factors 98 105	schools
+28370427 FN: T20	Socioeconomic_factors 1038 1045	schools
+28370427 FN: T18	Socioeconomic_factors 763 769	school
+28370427 FN: T19	Socioeconomic_factors 972 979	schools
+17625932 17625932 17625932 17625932 17625932 17625932 17625932 17625932 17625932 FN: T1	Sleep 12 25	long sleepers
+17625932 FN: T10	Socioeconomic_factors 784 801	lack of challenge
+31629360 FN: T8	Physical_activity 285 287	PA
+31629360 31629360 FN: T6	Physical_activity 931 933	PA
+31629360 FN: T7	Physical_activity 474 476	PA
+31629360 FN: T4	Physical_activity 361 363	PA
+31629360 FN: T5	Physical_activity 1100 1102	PA
+31629360 31629360 31629360 31629360 FN: T14	Physical_activity 532 534	PA
+31629360 FN: T15	Physical_activity 665 687	pet-related activities
+31629360 FN: T16	Physical_activity 713 729	daily step count
+31629360 FN: T17	Physical_activity 770 784	sedentary time
+31629360 31629360 31629360 31629360 FN: T13	Physical_activity 209 211	PA
+31629360 FN: T20	Non_physical_leisure_time_activities 973 981	pet care
+31629360 FN: T18	Non_physical_leisure_time_activities 986 1022	socially interacting with their pets
+17514376 FN: T8	Nutrition 469 474	water
+17514376 FN: T9	Nutrition 1085 1087	PJ
+17514376 FN: T6	Nutrition 462 464	PJ
+17514376 FN: T4	Nutrition 388 390	PJ
+17514376 17514376 17514376 17514376 FN: T1	Nutrition 10 52	pomegranate (Punica granatum) juice intake
+17514376 FN: T10	Nutrition 1257 1259	PJ
+17514376 FN: T11	Nutrition 886 888	PJ
+17514376 FN: T12	Nutrition 102 104	PJ
+17514376 FN: T13	Nutrition 534 540	lipids
+32135452 32135452 32135452 32135452 32135452 32135452 32135452 32135452 32135452 32135452 FN: T14	Sleep 763 765	N1
+32135452 FN: T15	Sleep 778 781	REM
+32135452 FN: T16	Sleep 700 703	REM
+32135452 32135452 32135452 32135452 FN: T13	Sleep 642 644	N2
+35641117 35641117 35641117 35641117 35641117 35641117 35641117 35641117 35641117 35641117 35641117 35641117 35641117 35641117 35641117 35641117 35641117 35641117 35641117 35641117 FN: T21	Socioeconomic_factors 334 341	schools
+35641117 FN: T20	Non_physical_leisure_time_activities 18 21	web
+35641117 35641117 FN: T22	Socioeconomic_factors 346 357	playgrounds
+9201744 FN: T14	Nutrition 230 237	protein
+9201744 FN: T17	Nutrition 715 721	cowpea
+9201744 FN: T10	Nutrition 337 344	protein
+9201744 FN: T11	Nutrition 1053 1062	jack bean
+9201744 FN: T12	Nutrition 755 774	Industrial products
+9201744 FN: T13	Nutrition 633 652	processed jack bean
+9201744 FN: T18	Nutrition 723 729	peanut
+9201744 FN: T19	Nutrition 731 741	pigeon pea
+9201744 9201744 FN: T31	Nutrition 1043 1062	processed jack bean
+9201744 FN: T8	Nutrition 613 622	jack bean
+9201744 FN: T9	Nutrition 255 267	carbohydrate
+9201744 FN: T6	Nutrition 204 208	bean
+9201744 FN: T7	Nutrition 327 336	Jack bean
+9201744 9201744 9201744 FN: T2	Nutrition 0 9	Jack bean
+9201744 9201744 9201744 FN: T28	Nutrition 936 948	high protein
+9201744 FN: T21	Nutrition 783 790	protein
+9201744 FN: T20	Nutrition 746 753	soybean
+9201744 FN: T23	Nutrition 818 824	starch
+9201744 FN: T25	Nutrition 834 839	grits
+9201744 FN: T24	Nutrition 826 832	flakes
+9201744 FN: T27	Nutrition 876 880	bean
+9201744 FN: T26	Nutrition 844 850	flours
+25461415 25461415 FN: T16	Environmental_exposures 1077 1087	carbarsone
+25461415 FN: T17	Nutrition 20 27	poultry
+25461415 FN: T10	Environmental_exposures 349 363	feed additives
+25461415 FN: T11	Environmental_exposures 0 16	Organoarsenicals
+25461415 25461415 FN: T13	Environmental_exposures 1061 1075	arsanilic acid
+25461415 FN: T18	Environmental_exposures 1093 1102	nitarsone
+25461415 FN: T8	Environmental_exposures 844 860	organoarsenicals
+25461415 FN: T9	Environmental_exposures 699 715	organoarsenicals
+25461415 FN: T6	Environmental_exposures 419 435	Organoarsenicals
+25461415 FN: T7	Environmental_exposures 551 567	organoarsenicals
+25461415 FN: T4	Environmental_exposures 269 285	organoarsenicals
+25461415 FN: T5	Environmental_exposures 307 323	organoarsenicals
+25461415 FN: T2	Environmental_exposures 93 104	groundwater
+25461415 25461415 25461415 FN: T29	Environmental_exposures 1223 1238	solid treatment
+25461415 FN: T28	Environmental_exposures 992 1007	organoarsenical
+25461415 FN: T21	Environmental_exposures 1256 1283	organoarsenical-laden waste
+25461415 FN: T23	Environmental_exposures 381 391	carbarsone
+25461415 FN: T22	Environmental_exposures 365 379	arsanilic acid
+25461415 FN: T25	Environmental_exposures 408 417	roxarsone
+25461415 FN: T24	Environmental_exposures 393 402	nitarsone
+25461415 FN: T27	Nutrition 575 582	poultry
+25461415 FN: T26	Environmental_exposures 454 472	phenylarsonic acid
+18451097 FN: T9	Socioeconomic_factors 333 362	female undergraduate students
+20590434 FN: T4	Mental_health_practices 455 462	therapy
+20590434 FN: T5	Mental_health_practices 848 855	therapy
+20590434 FN: T2	Mental_health_practices 110 138	Psychotherapeutic treatments
+18820344 18820344 FN: T15	Physical_activity 1007 1015	exercise
+18820344 18820344 FN: T17	Non_physical_leisure_time_activities 1103 1111	Internet
+18820344 FN: T10	Mental_health_practices 752 775	face-to-face counseling
+18820344 18820344 FN: T12	Physical_activity 838 852	exercise alone
+18820344 18820344 18820344 18820344 FN: T8	Socioeconomic_factors 672 695	residential environment
+18820344 18820344 18820344 FN: T4	Physical_activity 271 288	exercise behavior
+18820344 FN: T5	Socioeconomic_factors 351 358	factors
+18820344 FN: T2	Physical_activity 148 167	exercise counseling
+18820344 FN: T3	Non_physical_leisure_time_activities 216 224	Internet
+18820344 FN: T1	Physical_activity 24 43	exercise counseling
+18820344 18820344 FN: T20	Socioeconomic_factors 1265 1272	factors
+18820344 FN: T23	Non_physical_leisure_time_activities 1314 1322	Internet
+18820344 FN: T22	Physical_activity 1289 1309	exercise preferences
+18820344 FN: T25	Physical_activity 857 864	at home
+18820344 FN: T24	Non_physical_leisure_time_activities 206 215	telephone
+18820344 FN: T26	Physical_activity 958 967	sedentary
+30032352 FN: T4	Non_physical_leisure_time_activities 1025 1027	RG
+30032352 FN: T5	Non_physical_leisure_time_activities 214 216	RG
+30032352 30032352 FN: T3	Non_physical_leisure_time_activities 406 408	RG
+28834459 FN: T6	Socioeconomic_factors 786 798	time at work
+28834459 28834459 FN: T5	Physical_activity 318 327	sedentary
+14634166 FN: T4	Beauty_and_Cleaning 29 39	management
+14634166 FN: T5	Beauty_and_Cleaning 258 267	treatment
+14634166 FN: T2	Beauty_and_Cleaning 245 267	orthognathic treatment
+14634166 14634166 FN: T1	Beauty_and_Cleaning 16 39	orthognathic management
+34273873 FN: T8	Environmental_exposures 722 725	CO2
+34273873 FN: T9	Environmental_exposures 1438 1441	CO2
+34273873 34273873 FN: T7	Environmental_exposures 36 39	CO2
+34273873 FN: T4	Environmental_exposures 917 930	CO2 emissions
+34273873 FN: T5	Environmental_exposures 805 817	CO2 emission
+34273873 FN: T2	Environmental_exposures 186 193	climate
+34273873 FN: T10	Environmental_exposures 1326 1335	emissions
+34273873 FN: T11	Environmental_exposures 137 145	emission
+24326981 FN: T8	Nutrition 455 462	placebo
+24326981 FN: T9	Nutrition 160 167	placebo
+24326981 24326981 24326981 24326981 24326981 24326981 FN: T15	Nutrition 41 42	C
+24326981 FN: T16	Nutrition 267 268	C
+9201751 9201751 9201751 FN: T16	Nutrition 187 192	Diets
+9201751 9201751 9201751 FN: T11	Nutrition 363 368	diets
+9201751 FN: T12	Nutrition 628 633	wheat
+9201751 FN: T13	Nutrition 638 642	rice
+9201751 9201751 FN: T19	Nutrition 268 275	glucose
+9201751 FN: T8	Nutrition 209 221	carbohydrate
+9201751 9201751 9201751 9201751 9201751 9201751 9201751 9201751 9201751 FN: T21	Nutrition 621 626	wheat
+9201751 9201751 FN: T23	Nutrition 34 39	wheat
+9201751 FN: T22	Nutrition 103 108	wheat
+9201751 FN: T25	Nutrition 113 117	rice
+9201751 FN: T24	Nutrition 44 48	rice
+9201751 9201751 FN: T26	Nutrition 699 704	wheat
+14606923 FN: T9	Physical_activity 37 45	exercise
+14606923 FN: T1	Environmental_exposures 368 385	warm environments
+14606923 FN: T14	Physical_activity 91 99	exercise
+14606923 FN: T17	Physical_activity 206 214	activity
+14606923 FN: T10	Physical_activity 48 56	Exercise
+14606923 FN: T11	Physical_activity 1038 1046	exercise
+14606923 FN: T12	Physical_activity 795 803	exercise
+14606923 FN: T13	Physical_activity 487 495	exercise
+14606923 FN: T23	Physical_activity 1217 1227	work rates
+14606923 FN: T24	Environmental_exposures 1252 1269	relative humidity
+14606923 FN: T26	Environmental_exposures 1229 1242	large airflow
+32678068 32678068 32678068 32678068 32678068 32678068 32678068 32678068 32678068 32678068 FN: T10	Physical_activity 294 303	intensity
+18579917 FN: T8	Physical_activity 474 496	exercise interventions
+18579917 18579917 FN: T6	Physical_activity 192 200	exercise
+18579917 FN: T7	Physical_activity 304 312	exercise
+18579917 FN: T4	Physical_activity 18 26	exercise
+18579917 FN: T5	Physical_activity 280 288	exercise
+18579917 FN: T2	Socioeconomic_factors 330 352	sedentary older adults
+18579917 FN: T3	Socioeconomic_factors 501 523	sedentary older adults
+18579917 FN: T1	Socioeconomic_factors 56 78	sedentary older adults
+18579917 18579917 FN: T11	Physical_activity 812 835	facility-based exercise
+18579917 FN: T12	Physical_activity 885 903	homebased exercise
+24233430 24233430 FN: T7	Mental_health_practices 143 152	treatment
+24233430 24233430 FN: T5	Mental_health_practices 133 152	cognitive treatment
+41697 FN: T9	Drugs 205 212	alcohol
+41697 FN: T6	Drugs 152 159	ethanol
+41697 FN: T7	Drugs 321 328	ethanol
+41697 FN: T4	Nutrition 500 505	water
+41697 41697 FN: T2	Nutrition 378 386	drinking
+41697 FN: T3	Nutrition 422 441	caloric restriction
+41697 FN: T1	Drugs 54 64	alcoholism
+41697 FN: T14	Drugs 720 727	ethanol
+41697 FN: T15	Drugs 897 904	ethanol
+41697 FN: T16	Drugs 951 958	ethanol
+41697 FN: T10	Drugs 228 235	alcohol
+41697 FN: T11	Drugs 473 480	ethanol
+41697 FN: T12	Drugs 608 615	ethanol
+41697 FN: T13	Drugs 684 691	ethanol
+18820347 FN: T8	Physical_activity 760 768	PA level
+18820347 FN: T9	Physical_activity 915 917	PA
+18820347 FN: T6	Physical_activity 691 693	PA
+18820347 FN: T7	Physical_activity 997 999	PA
+18820347 FN: T4	Physical_activity 251 253	PA
+18820347 FN: T5	Physical_activity 667 669	PA
+18820347 18820347 FN: T3	Physical_activity 367 369	PA
+18820347 18820347 FN: T10	Physical_activity 1054 1056	PA
+18820347 18820347 18820347 FN: T13	Physical_activity 152 154	PA
+16120095 FN: T8	Sleep 871 874	RSD
+16120095 FN: T9	Sleep 385 388	RSD
+16120095 16120095 FN: T7	Sleep 769 772	RSD
+11475763 11475763 11475763 FN: T10	Beauty_and_Cleaning 941 969	Automated self-care products
+11475763 FN: T3	Beauty_and_Cleaning 245 272	automated self-care devices
+19723433 19723433 19723433 19723433 FN: T4	Nutrition 962 973	fruit juice
+19723433 19723433 FN: T2	Nutrition 938 942	soda
+19723433 FN: T3	Nutrition 944 956	sweet drinks
+19723433 19723433 19723433 FN: T15	Nutrition 1271 1286	skipping a meal
+19723433 19723433 19723433 FN: T10	Nutrition 401 412	consumption
+19723433 FN: T11	Nutrition 392 412	beverage consumption
+19723433 19723433 FN: T13	Beauty_and_Cleaning 1114 1122	brushing
+19919514 FN: T14	Nutrition 244 259	protein content
+19919514 FN: T15	Nutrition 4 19	nutritive value
+19919514 FN: T16	Nutrition 71 86	nutritive value
+19919514 FN: T17	Nutrition 324 335	crude fiber
+19919514 FN: T10	Nutrition 974 977	fat
+19919514 FN: T12	Nutrition 785 799	energy content
+19919514 19919514 FN: T18	Nutrition 433 441	Samsamia
+19919514 FN: T19	Nutrition 451 456	Harda
+19919514 19919514 FN: T9	Nutrition 962 969	protein
+19919514 19919514 FN: T7	Nutrition 757 761	soup
+19919514 FN: T4	Nutrition 948 960	carbohydrate
+19919514 19919514 FN: T2	Nutrition 597 609	Carbohydrate
+19919514 FN: T3	Nutrition 667 679	carbohydrate
+19919514 FN: T1	Nutrition 50 64	Kuwaiti dishes
+19919514 FN: T21	Nutrition 491 505	Hameesat Fagae
+19919514 FN: T20	Nutrition 465 482	Hameesat Mushroom
+19919514 FN: T23	Nutrition 557 568	ash content
+19919514 FN: T22	Nutrition 528 533	fiber
+28095088 FN: T8	Physical_activity 1072 1074	PA
+28095088 FN: T9	Physical_activity 1099 1101	PA
+28095088 FN: T6	Physical_activity 704 706	PA
+28095088 FN: T7	Physical_activity 1063 1065	PA
+28095088 FN: T4	Physical_activity 596 598	PA
+28095088 FN: T5	Physical_activity 611 613	PA
+28095088 28095088 FN: T3	Physical_activity 241 243	PA
+9777681 FN: T9	Physical_activity 395 403	training
+9777681 FN: T4	Physical_activity 258 266	exercise
+9777681 FN: T5	Physical_activity 928 954	greater volume of exercise
+9777681 9777681 FN: T3	Physical_activity 1094 1113	low-volume exercise
+9777681 9777681 FN: T10	Physical_activity 526 544	training durations
+9777681 FN: T11	Physical_activity 655 663	training
+9433053 9433053 9433053 9433053 FN: T1	Socioeconomic_factors 618 624	School
+32510685 FN: T8	Environmental_exposures 529 549	stachybotrychromenes
+32510685 32510685 FN: T6	Environmental_exposures 471 482	satratoxins
+32510685 FN: T7	Environmental_exposures 484 503	phenylspirodrimanes
+32510685 FN: T4	Environmental_exposures 383 392	mycotoxin
+32510685 FN: T5	Environmental_exposures 450 460	mycotoxins
+32510685 FN: T2	Environmental_exposures 61 70	mycotoxin
+32510685 FN: T3	Environmental_exposures 359 375	mold infestation
+32510685 FN: T1	Nutrition 237 242	water
+32510685 FN: T14	Environmental_exposures 929 935	paints
+32510685 FN: T15	Environmental_exposures 975 980	toxin
+32510685 FN: T16	Environmental_exposures 1031 1043	gypsum board
+32510685 FN: T17	Environmental_exposures 1122 1127	toxin
+32510685 FN: T10	Environmental_exposures 606 626	natural infestations
+32510685 FN: T11	Environmental_exposures 614 626	infestations
+32510685 FN: T12	Environmental_exposures 794 803	mycotoxin
+32510685 FN: T13	Environmental_exposures 833 842	mycotoxin
+32510685 FN: T20	Environmental_exposures 35 46	infestation
+32510685 FN: T18	Environmental_exposures 1314 1319	light
+32510685 FN: T19	Environmental_exposures 14 46	natural Stachybotrys infestation
+1719829 FN: T7	Mental_health_practices 332 339	therapy
+29260596 FN: T1	Drugs 478 482	drug
+20528269 FN: T4	Non_physical_leisure_time_activities 569 580	use YouTube
+20528269 FN: T5	Non_physical_leisure_time_activities 685 696	use YouTube
+20528269 FN: T2	Non_physical_leisure_time_activities 222 229	YouTube
+20528269 FN: T3	Non_physical_leisure_time_activities 445 452	YouTube
+20528269 FN: T1	Non_physical_leisure_time_activities 53 66	using YouTube
+32761416 FN: T8	Nutrition 593 598	fruit
+32761416 FN: T9	Nutrition 643 652	kiwifruit
+32761416 FN: T6	Nutrition 449 460	fresh fruit
+32761416 32761416 FN: T4	Nutrition 348 363	fresh kiwifruit
+32761416 FN: T5	Nutrition 920 932	fermentation
+32761416 FN: T2	Nutrition 186 195	kiwifruit
+32761416 FN: T3	Nutrition 297 302	foods
+32761416 FN: T1	Nutrition 0 9	Kiwifruit
+32761416 FN: T10	Nutrition 727 736	Kiwifruit
+32761416 FN: T11	Nutrition 983 992	kiwifruit
+32761416 32761416 FN: T13	Nutrition 849 861	Fermentation
+10607215 10607215 10607215 10607215 10607215 10607215 10607215 10607215 10607215 10607215 FN: T14	Sleep 608 623	duration of nap
+10607215 10607215 FN: T16	Socioeconomic_factors 985 998	night workers
+10607215 10607215 10607215 FN: T12	Sleep 215 230	Very short naps
+10607215 FN: T13	Sleep 603 606	nap
+9602551 FN: T8	Environmental_exposures 1316 1330	PM10 emissions
+9602551 FN: T9	Environmental_exposures 231 239	emission
+9602551 FN: T6	Environmental_exposures 1147 1156	Emissions
+9602551 FN: T7	Environmental_exposures 997 1010	PM10 emission
+9602551 FN: T4	Environmental_exposures 443 462	PM10 mass emissions
+9602551 FN: T5	Environmental_exposures 338 350	suspend dust
+9602551 FN: T2	Environmental_exposures 121 139	particle emissions
+9602551 FN: T3	Physical_activity 1205 1210	sport
+9602551 FN: T1	Environmental_exposures 0 20	Particulate emission
+9602551 FN: T10	Environmental_exposures 481 489	emission
+11467260 FN: T6	Mental_health_practices 564 571	therapy
+11467260 FN: T4	Mental_health_practices 297 312	adjunct therapy
+11467260 FN: T5	Non_physical_leisure_time_activities 506 510	play
+11467260 FN: T2	Mental_health_practices 162 174	play therapy
+11467260 FN: T1	Mental_health_practices 28 40	play therapy
+18815990 FN: T3	Mental_health_practices 615 624	therapies
+18815990 FN: T1	Socioeconomic_factors 648 665	counseling center
+22891609 FN: T2	Socioeconomic_factors 736 741	abuse
+22891609 FN: T3	Beauty_and_Cleaning 166 180	child grooming
+22891609 FN: T1	Socioeconomic_factors 59 68	sex abuse
+19083041 19083041 FN: T2	Nutrition 551 559	beverage
+19083041 19083041 19083041 FN: T1	Nutrition 20 28	beverage
+12510035 12510035 FN: T3	Socioeconomic_factors 1214 1227	abused infant
+12510035 FN: T1	Socioeconomic_factors 357 380	abuse in a living child
+31015306 FN: T6	Beauty_and_Cleaning 1311 1322	dental care
+23849002 FN: T6	Socioeconomic_factors 958 974	cyber aggression
+23849002 FN: T7	Socioeconomic_factors 264 274	aggression
+23849002 FN: T4	Socioeconomic_factors 1088 1104	cyber aggression
+23849002 FN: T5	Socioeconomic_factors 516 532	cyber aggression
+23849002 FN: T2	Socioeconomic_factors 141 157	cyber aggression
+23849002 FN: T3	Socioeconomic_factors 768 784	cyber aggression
+23849002 FN: T1	Socioeconomic_factors 78 94	cyber aggression
+32008175 FN: T8	Physical_activity 558 566	training
+32008175 FN: T6	Physical_activity 292 301	exercises
+32008175 FN: T7	Physical_activity 472 481	exercises
+32008175 32008175 FN: T5	Physical_activity 257 265	training
+1312237 FN: T14	Nutrition 345 362	sieved maize mash
+1312237 FN: T15	Nutrition 493 508	protein content
+1312237 FN: T16	Nutrition 584 599	protein content
+1312237 FN: T17	Nutrition 749 764	protein content
+1312237 FN: T10	Nutrition 964 981	sieved maize mash
+1312237 FN: T11	Nutrition 435 464	fermented unsieved maize mash
+1312237 FN: T12	Nutrition 772 801	fermented unsieved maize mash
+1312237 FN: T13	Nutrition 135 154	unsieved maize mash
+1312237 FN: T18	Nutrition 920 936	nutrient quality
+1312237 FN: T19	Nutrition 395 408	unsieved mash
+1312237 FN: T8	Nutrition 884 903	unsieved maize mash
+1312237 FN: T9	Nutrition 607 624	sieved maize mash
+1312237 FN: T6	Nutrition 275 294	unsieved maize mash
+1312237 FN: T7	Nutrition 836 863	fermented sieved maize mash
+1312237 FN: T4	Nutrition 31 50	unsieved maize mash
+1312237 FN: T5	Nutrition 230 247	sieved maize mash
+1312237 FN: T2	Nutrition 197 204	protein
+1312237 FN: T3	Nutrition 40 50	maize mash
+1312237 1312237 FN: T21	Nutrition 994 997	Ogi
+1312237 FN: T20	Nutrition 70 73	OGI
+1312237 FN: T23	Nutrition 209 214	lipid
+1312237 FN: T22	Nutrition 144 154	maize mash
+1312237 FN: T25	Nutrition 312 315	ash
+1312237 FN: T24	Nutrition 296 307	Crude fibre
+1312237 FN: T27	Nutrition 692 704	fermentation
+1312237 FN: T26	Nutrition 558 570	fermentation
+3605460 FN: T3	Mental_health_practices 574 600	psychotherapeutic practice
+26658900 26658900 26658900 FN: T7	Nutrition 190 207	phenolic contents
+15051238 FN: T8	Nutrition 879 884	water
+15051238 FN: T9	Nutrition 666 671	water
+15051238 FN: T7	Nutrition 183 188	water
+15051238 FN: T4	Environmental_exposures 390 418	(222)Rn concentration in air
+15051238 FN: T5	Environmental_exposures 791 807	progeny exposure
+15051238 15051238 FN: T3	Environmental_exposures 196 212	progeny exposure
+15051238 15051238 FN: T14	Environmental_exposures 439 446	(222)Rn
+15051238 FN: T15	Environmental_exposures 377 384	(222)Rn
+15051238 FN: T16	Environmental_exposures 16 37	(222)Rn-bearing water
+15051238 FN: T17	Environmental_exposures 739 746	(222)Rn
+15051238 FN: T10	Nutrition 339 344	water
+15051238 FN: T11	Nutrition 1047 1052	water
+15051238 FN: T13	Environmental_exposures 160 167	(222)Rn
+15051238 FN: T18	Environmental_exposures 841 848	(222)Rn
+3227224 FN: T4	Sleep 578 581	REM
+3227224 FN: T5	Sleep 587 594	stage 2
+24085399 FN: T8	Socioeconomic_factors 369 390	assisted living sites
+24085399 FN: T6	Socioeconomic_factors 67 88	assisted living sites
+24085399 FN: T7	Socioeconomic_factors 360 390	suburban assisted living sites
+25409296 FN: T8	Physical_activity 1129 1137	PA level
+25409296 FN: T9	Physical_activity 1183 1191	PA level
+25409296 FN: T6	Physical_activity 884 886	PA
+25409296 FN: T7	Physical_activity 1015 1034	higher intensity PA
+25409296 FN: T4	Physical_activity 763 765	PA
+25409296 FN: T5	Physical_activity 792 794	PA
+25409296 25409296 FN: T3	Physical_activity 338 340	PA
+25409296 25409296 FN: T10	Physical_activity 1249 1251	PA
+25409296 FN: T11	Nutrition 188 191	fat
+25409296 FN: T12	Nutrition 668 671	fat
+25409296 FN: T13	Physical_activity 137 139	PA
+30242044 FN: T4	Environmental_exposures 132 142	Smoke-Free
+30242044 30242044 FN: T3	Environmental_exposures 53 63	Smoke-Free
+15789183 15789183 FN: T7	Non_physical_leisure_time_activities 291 299	gamblers
+15789183 FN: T2	Non_physical_leisure_time_activities 17 25	gamblers
+24971489 FN: T6	Socioeconomic_factors 305 309	CHCs
+24971489 FN: T4	Socioeconomic_factors 1117 1121	CHCs
+24971489 FN: T5	Socioeconomic_factors 1275 1278	CHC
+18718882 FN: T8	Socioeconomic_factors 641 644	IPV
+18718882 FN: T9	Socioeconomic_factors 899 902	IPV
+18718882 FN: T6	Socioeconomic_factors 1125 1128	IPV
+18718882 FN: T7	Socioeconomic_factors 1046 1049	IPV
+18718882 FN: T4	Socioeconomic_factors 545 548	IPV
+18718882 FN: T5	Socioeconomic_factors 622 625	IPV
+18718882 18718882 FN: T3	Socioeconomic_factors 358 370	physical IPV
+18718882 18718882 18718882 FN: T16	Socioeconomic_factors 217 220	IPV
+23252814 FN: T9	Socioeconomic_factors 1105 1119	social milieus
+23252814 23252814 FN: T7	Mental_health_practices 883 890	therapy
+23252814 FN: T4	Mental_health_practices 385 392	therapy
+23252814 FN: T5	Mental_health_practices 557 564	therapy
+23252814 FN: T2	Mental_health_practices 152 175	Structured Play Therapy
+23252814 FN: T1	Mental_health_practices 0 23	Structured Play Therapy
+11980101 FN: T14	Non_physical_leisure_time_activities 1127 1138	restaurants
+11980101 11980101 11980101 FN: T17	Non_physical_leisure_time_activities 1091 1097	discos
+11980101 FN: T10	Drugs 485 488	ETS
+11980101 FN: T11	Drugs 1063 1066	ETS
+11980101 FN: T12	Drugs 694 697	ETS
+11980101 FN: T13	Drugs 567 570	ETS
+11980101 FN: T18	Non_physical_leisure_time_activities 1211 1217	discos
+11980101 FN: T19	Environmental_exposures 1250 1266	smoke generators
+11980101 FN: T30	Non_physical_leisure_time_activities 92 103	restaurants
+11980101 FN: T31	Non_physical_leisure_time_activities 298 309	restaurants
+11980101 FN: T32	Non_physical_leisure_time_activities 417 428	restaurants
+11980101 FN: T33	Non_physical_leisure_time_activities 726 737	restaurants
+11980101 FN: T8	Drugs 380 407	environmental tobacco smoke
+11980101 FN: T9	Drugs 409 412	ETS
+11980101 FN: T6	Environmental_exposures 810 827	3-ethenylpyridine
+11980101 FN: T7	Drugs 61 88	environmental tobacco smoke
+11980101 FN: T4	Drugs 13 30	3-ethenylpyridine
+11980101 FN: T5	Environmental_exposures 649 666	3-ethenylpyridine
+11980101 11980101 11980101 11980101 11980101 11980101 FN: T21	Environmental_exposures 882 914	total volatile organic compounds
+11980101 FN: T20	Environmental_exposures 1162 1194	total volatile organic compounds
+11980101 FN: T23	Environmental_exposures 923 925	CO
+11980101 FN: T22	Environmental_exposures 916 920	TVOC
+11980101 11980101 FN: T24	Environmental_exposures 930 933	CO2
+29401309 29401309 29401309 29401309 29401309 29401309 29401309 29401309 29401309 29401309 FN: T14	Environmental_exposures 1073 1081	toxicant
+29401309 FN: T15	Environmental_exposures 691 699	toxicant
+29401309 29401309 29401309 FN: T12	Drugs 97 101	Drug
+29401309 FN: T13	Nutrition 64 69	Plant
+18522972 18522972 18522972 18522972 18522972 18522972 18522972 18522972 18522972 18522972 FN: T10	Environmental_exposures 116 133	chemical industry
+28116804 FN: T8	Drugs 704 711	placebo
+28116804 FN: T9	Drugs 1174 1181	placebo
+10626618 10626618 FN: T5	Mental_health_practices 573 603	cognitive-behavioral treatment
+12766445 12766445 12766445 12766445 12766445 12766445 12766445 12766445 12766445 12766445 FN: T15	Non_physical_leisure_time_activities 1024 1032	gamblers
+12766445 12766445 FN: T18	Non_physical_leisure_time_activities 586 595	telephone
+16758316 16758316 16758316 16758316 16758316 FN: T5	Nutrition 336 363	traditional medicine plants
+16758316 16758316 FN: T1	Nutrition 81 95	Dietary plants
+16758316 FN: T14	Nutrition 932 943	germination
+16758316 FN: T10	Nutrition 100 119	herbal preparations
+16758316 FN: T11	Nutrition 653 658	plant
+16758316 FN: T13	Nutrition 948 960	fermentation
+16626805 16626805 FN: T9	Environmental_exposures 435 442	Uranium
+16626805 16626805 FN: T4	Environmental_exposures 75 82	uranium
+16626805 16626805 FN: T2	Environmental_exposures 293 316	daily intake of uranium
+16626805 FN: T1	Environmental_exposures 0 7	Uranium
+16626805 FN: T11	Environmental_exposures 467 474	uranium
+16626805 FN: T12	Environmental_exposures 592 599	uranium
+20472573 FN: T8	Drugs 226 233	tobacco
+20472573 20472573 20472573 20472573 20472573 20472573 20472573 20472573 FN: T1	Drugs 19 26	tobacco
+10607166 FN: T2	Physical_activity 527 546	rhythmic activities
+15560769 15560769 FN: T9	Sleep 843 851	Sleeping
+15560769 15560769 15560769 15560769 15560769 15560769 15560769 15560769 FN: T14	Environmental_exposures 1061 1066	light
+15560769 FN: T15	Physical_activity 330 338	activity
+15560769 FN: T10	Environmental_exposures 970 1005	exposed to significantly more light
+15560769 FN: T11	Sleep 1132 1148	circadian system
+15560769 FN: T12	Sleep 945 964	slept well at night
+15560769 FN: T13	Environmental_exposures 360 365	light
+9470567 9470567 9470567 9470567 9470567 FN: T10	Beauty_and_Cleaning 276 287	dental care
+19458081 FN: T8	Socioeconomic_factors 631 657	unwanted sexual attentions
+19458081 FN: T9	Socioeconomic_factors 670 690	sexual intimidations
+19458081 19458081 19458081 19458081 19458081 FN: T3	Socioeconomic_factors 175 202	sexually harassing behavior
+19458081 FN: T1	Socioeconomic_factors 0 27	Sexually harassing behavior
+19458081 FN: T15	Socioeconomic_factors 275 281	school
+19458081 FN: T16	Socioeconomic_factors 283 290	college
+1315432 FN: T14	Nutrition 44 48	cake
+1315432 FN: T15	Nutrition 110 115	flour
+1315432 FN: T16	Nutrition 220 226	pomace
+1315432 FN: T17	Nutrition 362 368	pomace
+1315432 FN: T10	Nutrition 924 928	cake
+1315432 FN: T11	Nutrition 1023 1045	low carbohydrate foods
+1315432 FN: T12	Nutrition 590 601	crude fibre
+1315432 FN: T13	Nutrition 339 354	protein content
+1315432 FN: T18	Nutrition 867 873	batter
+1315432 1315432 FN: T8	Nutrition 657 671	composite cake
+1315432 FN: T9	Nutrition 784 788	cake
+1315432 FN: T6	Nutrition 568 580	cashew flour
+1315432 FN: T7	Nutrition 619 631	carbohydrate
+1315432 FN: T4	Nutrition 120 124	cake
+1315432 FN: T5	Nutrition 265 279	composite cake
+1315432 FN: T2	Nutrition 69 94	biodegraded cashew pomace
+1315432 FN: T3	Nutrition 719 731	cashew flour
+1315432 FN: T1	Nutrition 14 39	biodegraded cashew pomace
+1315432 FN: T21	Nutrition 506 519	organic acids
+1315432 1315432 FN: T23	Nutrition 200 212	fermentation
+1315432 FN: T22	Nutrition 383 395	fermentation
+1315432 FN: T24	Nutrition 550 562	fermentation
+18236789 FN: T8	Environmental_exposures 606 634	heavy-duty vehicle emissions
+18236789 FN: T9	Environmental_exposures 666 675	emissions
+18236789 18236789 FN: T7	Environmental_exposures 564 586	mobile source emission
+18236789 FN: T4	Environmental_exposures 277 294	vehicle emissions
+18236789 FN: T5	Environmental_exposures 484 492	emission
+18236789 FN: T2	Environmental_exposures 97 114	Vehicle Emissions
+18236789 FN: T3	Environmental_exposures 194 211	Vehicle Emissions
+18236789 FN: T1	Environmental_exposures 11 28	vehicle emissions
+18236789 FN: T10	Environmental_exposures 612 634	duty vehicle emissions
+18236789 FN: T11	Environmental_exposures 701 706	fuels
+18236789 FN: T12	Environmental_exposures 711 727	lubricating oils
+18236789 FN: T13	Environmental_exposures 731 740	emissions
+8378672 FN: T6	Environmental_exposures 1106 1114	altitude
+8378672 FN: T7	Environmental_exposures 1192 1200	altitude
+8378672 FN: T4	Environmental_exposures 795 803	altitude
+8378672 FN: T5	Environmental_exposures 924 932	altitude
+8378672 FN: T2	Environmental_exposures 177 185	altitude
+8378672 FN: T3	Environmental_exposures 610 618	altitude
+8378672 FN: T1	Environmental_exposures 11 19	altitude
+8378672 FN: T10	Physical_activity 1018 1033	mountain climbs
+12688829 FN: T7	Physical_activity 1227 1232	sport
+12688829 12688829 FN: T1	Physical_activity 21 26	sport
+11055166 FN: T8	Environmental_exposures 737 755	emissions outdoors
+11055166 11055166 FN: T6	Environmental_exposures 264 273	pollutant
+11055166 FN: T7	Environmental_exposures 668 698	releases within motor vehicles
+11055166 11055166 FN: T5	Environmental_exposures 428 445	emitted pollutant
+11055166 FN: T3	Environmental_exposures 207 216	pollutant
+11055166 11055166 FN: T10	Environmental_exposures 811 833	emissions in buildings
+11055166 FN: T11	Environmental_exposures 837 855	in moving vehicles
+6892288 FN: T6	Socioeconomic_factors 401 408	neglect
+6892288 FN: T7	Socioeconomic_factors 481 488	Neglect
+6892288 6892288 6892288 FN: T1	Socioeconomic_factors 170 187	troubled families
+19856234 FN: T8	Mental_health_practices 803 806	EBT
+19856234 FN: T9	Mental_health_practices 588 591	EBT
+19856234 FN: T6	Mental_health_practices 678 681	EBT
+19856234 FN: T4	Mental_health_practices 466 469	EBT
+19856234 FN: T5	Mental_health_practices 875 878	EBT
+19856234 FN: T2	Mental_health_practices 248 287	evidence-based psychological treatments
+19856234 19856234 FN: T14	Mental_health_practices 289 293	EBTs
+19856234 FN: T15	Mental_health_practices 379 386	therapy
+19856234 FN: T10	Mental_health_practices 905 909	EBTs
+19856234 FN: T11	Mental_health_practices 557 560	EBT
+31615971 FN: T6	Physical_activity 338 355	exercise training
+31615971 FN: T7	Physical_activity 861 887	combined exercise training
+31615971 FN: T4	Physical_activity 1184 1205	prison-based exercise
+31615971 FN: T5	Physical_activity 870 887	exercise training
+31615971 FN: T2	Physical_activity 505 535	prison-based exercise training
+31615971 31615971 FN: T1	Physical_activity 17 47	Prison-Based Exercise Training
+33555216 33555216 33555216 FN: T6	Socioeconomic_factors 472 476	IUDs
+33555216 33555216 FN: T4	Socioeconomic_factors 409 413	IUDs
+33555216 33555216 33555216 FN: T3	Socioeconomic_factors 117 121	IUDs
+15143792 FN: T2	Beauty_and_Cleaning 928 945	scrubbing liquids
+15143792 FN: T1	Beauty_and_Cleaning 761 778	scrubbing liquids
+29294815 FN: T8	Socioeconomic_factors 1203 1220	Polyvictimization
+29294815 FN: T6	Socioeconomic_factors 847 864	polyvictimization
+29294815 FN: T7	Socioeconomic_factors 956 984	exposure to traumatic events
+29294815 FN: T4	Socioeconomic_factors 465 482	polyvictimization
+29294815 FN: T5	Socioeconomic_factors 1438 1466	exposure to multiple traumas
+29294815 FN: T2	Socioeconomic_factors 184 221	exposure to multiple traumatic events
+29294815 FN: T3	Socioeconomic_factors 223 240	polyvictimization
+29294815 FN: T1	Socioeconomic_factors 0 17	Polyvictimization
+25078520 25078520 FN: T9	Non_physical_leisure_time_activities 545 552	reading
+25078520 25078520 25078520 FN: T4	Physical_activity 960 973	sedentariness
+25078520 25078520 FN: T2	Physical_activity 340 354	treadmill-desk
+25078520 25078520 FN: T1	Physical_activity 63 72	treadmill
+25078520 FN: T10	Physical_activity 665 672	sitting
+11376919 11376919 FN: T2	Drugs 380 399	cannabis dependence
+11376919 FN: T3	Drugs 919 938	cannabis dependence
+11376919 FN: T1	Drugs 37 56	cannabis dependence
+30880336 FN: T8	Nutrition 998 1000	LA
+30880336 FN: T9	Nutrition 832 834	LA
+30880336 30880336 30880336 30880336 30880336 30880336 30880336 30880336 FN: T14	Nutrition 662 664	LA
+30880336 FN: T15	Nutrition 973 975	LA
+30880336 FN: T16	Nutrition 323 325	LA
+30880336 FN: T10	Nutrition 1101 1103	LA
+30880336 FN: T11	Nutrition 1146 1148	LA
+30880336 FN: T12	Nutrition 1229 1231	LA
+27406317 FN: T14	Nutrition 433 435	RW
+27406317 FN: T15	Nutrition 437 438	F
+27406317 FN: T16	Nutrition 529 530	F
+27406317 FN: T17	Nutrition 709 710	F
+27406317 27406317 FN: T11	Nutrition 355 356	F
+27406317 27406317 FN: T13	Nutrition 417 421	ANTs
+27406317 FN: T18	Nutrition 549 551	RW
+27406317 FN: T19	Nutrition 600 605	RW SA
+27406317 FN: T8	Nutrition 214 219	RW SA
+27406317 FN: T9	Nutrition 247 249	RW
+27406317 FN: T6	Nutrition 857 862	RW SA
+27406317 27406317 FN: T4	Nutrition 368 389	Grape treated with SA
+27406317 FN: T5	Nutrition 781 783	RW
+27406317 27406317 27406317 27406317 FN: T21	Nutrition 788 793	RW SA
+27406317 FN: T20	Nutrition 627 640	triglycerides
+27406317 FN: T23	Nutrition 946 948	RW
+27406317 FN: T22	Nutrition 931 933	RW
+27406317 FN: T25	Nutrition 1067 1080	SA-induced RW
+27406317 FN: T24	Nutrition 953 958	RW SA
+27406317 27406317 FN: T26	Nutrition 1089 1093	ANTs
+34417336 34417336 34417336 34417336 34417336 34417336 34417336 34417336 34417336 34417336 34417336 FN: T17	Drugs 433 440	tobacco
+34417336 34417336 34417336 34417336 34417336 34417336 FN: T22	Drugs 624 632	products
+34417336 34417336 FN: T19	Drugs 954 961	tobacco
+1393719 FN: T6	Socioeconomic_factors 251 268	victims of incest
+1393719 FN: T7	Socioeconomic_factors 664 674	aggression
+1393719 FN: T4	Socioeconomic_factors 270 275	Abuse
+1393719 FN: T5	Socioeconomic_factors 21 27	incest
+1393719 1393719 FN: T3	Socioeconomic_factors 782 820	traumatic experiences in relationships
+16259425 FN: T14	Environmental_exposures 431 443	coal burning
+16259425 FN: T15	Environmental_exposures 597 612	Nitrogen oxides
+16259425 FN: T16	Socioeconomic_factors 123 138	economic growth
+16259425 FN: T17	Environmental_exposures 524 526	PM
+16259425 16259425 16259425 FN: T12	Socioeconomic_factors 1234 1255	explosive development
+16259425 FN: T34	Environmental_exposures 395 404	pollutant
+16259425 FN: T18	Environmental_exposures 531 534	SO2
+16259425 FN: T19	Environmental_exposures 343 345	PM
+16259425 16259425 FN: T31	Socioeconomic_factors 888 906	energy consumption
+16259425 16259425 FN: T6	Environmental_exposures 360 374	sulfur dioxide
+16259425 16259425 16259425 FN: T2	Socioeconomic_factors 79 97	rapid urbanization
+16259425 16259425 16259425 FN: T28	Socioeconomic_factors 1008 1033	rapidly developing cities
+16259425 16259425 FN: T20	Environmental_exposures 376 379	SO2
+16259425 FN: T23	Socioeconomic_factors 868 883	economic growth
+16259425 FN: T22	Environmental_exposures 614 617	NOx
+14987872 14987872 FN: T9	Environmental_exposures 609 621	hydrocarbons
+14987872 14987872 14987872 FN: T4	Environmental_exposures 276 283	toluene
+14987872 14987872 FN: T2	Environmental_exposures 30 37	toluene
+14987872 FN: T3	Environmental_exposures 264 271	benzene
+14987872 FN: T1	Environmental_exposures 18 25	benzene
+14987872 FN: T10	Nutrition 693 698	foods
+14987872 FN: T11	Environmental_exposures 478 490	hydrocarbons
+31821994 31821994 31821994 FN: T6	Physical_activity 993 1009	active lifestyle
+11072454 11072454 11072454 FN: T16	Socioeconomic_factors 832 851	non-smoking parents
+11072454 11072454 11072454 FN: T11	Drugs 583 600	smoke in the home
+24521749 FN: T2	Beauty_and_Cleaning 767 776	dentistry
+24521749 FN: T8	Beauty_and_Cleaning 757 776	aesthetic dentistry
+19023830 19023830 FN: T9	Environmental_exposures 32 42	smoke-free
+19023830 19023830 19023830 19023830 19023830 FN: T10	Environmental_exposures 230 240	smoke-free
+19023830 FN: T12	Environmental_exposures 932 942	smoke-free
+20460552 20460552 20460552 20460552 20460552 20460552 20460552 20460552 20460552 20460552 FN: T14	Socioeconomic_factors 792 834	psychologically violent parental practices
+18988075 FN: T6	Drugs 1304 1313	addiction
+1312238 FN: T8	Nutrition 550 560	ishikurage
+1312238 1312238 FN: T6	Nutrition 340 350	ishikurage
+1312238 FN: T7	Nutrition 587 597	ishikurage
+1312238 FN: T4	Nutrition 127 137	ishikurage
+1312238 FN: T5	Nutrition 186 196	Ishikurage
+1312238 1312238 FN: T3	Nutrition 79 89	ishikurage
+1312238 FN: T1	Nutrition 14 29	color additives
+1312238 1312238 FN: T15	Nutrition 318 323	water
+1312238 FN: T16	Nutrition 62 77	blue-green alga
+1312238 1312238 FN: T10	Nutrition 374 397	neutral detergent fiber
+1312238 FN: T11	Nutrition 53 58	water
+1312238 FN: T12	Nutrition 512 515	ADF
+1312238 FN: T21	Nutrition 399 402	NDF
+1312238 FN: T20	Nutrition 445 449	alga
+1312238 FN: T22	Nutrition 431 434	ADF
+1312238 1312238 FN: T19	Nutrition 201 214	suizenji nori
+20181995 20181995 20181995 FN: T6	Physical_activity 945 947	PA
+20181995 FN: T7	Physical_activity 374 376	PA
+20181995 FN: T4	Physical_activity 370 372	PA
+20181995 FN: T5	Physical_activity 763 765	PA
+20181995 20181995 20181995 20181995 FN: T14	Physical_activity 979 991	time on feet
+20181995 FN: T15	Physical_activity 660 672	time on feet
+20181995 20181995 FN: T11	Physical_activity 208 210	PA
+20181995 FN: T12	Physical_activity 524 536	time on feet
+20181995 FN: T13	Physical_activity 858 870	time on feet
+31256713 31256713 31256713 FN: T1	Mental_health_practices 1480 1487	therapy
+22491891 22491891 22491891 22491891 22491891 22491891 FN: T12	Drugs 262 267	smoke
+22491891 22491891 22491891 22491891 22491891 22491891 22491891 22491891 22491891 22491891 22491891 22491891 FN: T1	Environmental_exposures 617 625	emission
+18605129 FN: T6	Mental_health_practices 447 456	therapies
+18605129 FN: T7	Mental_health_practices 762 769	therapy
+18605129 FN: T2	Socioeconomic_factors 63 85	interpersonal behavior
+18605129 FN: T3	Socioeconomic_factors 816 838	interpersonal behavior
+28034348 28034348 28034348 FN: T2	Mental_health_practices 87 101	couple therapy
+11761601 FN: T9	Environmental_exposures 603 627	displacement ventilation
+11761601 11761601 FN: T7	Environmental_exposures 339 350	contaminant
+11761601 FN: T4	Environmental_exposures 187 195	emission
+11761601 FN: T5	Environmental_exposures 216 227	ventilation
+11761601 11761601 11761601 FN: T1	Environmental_exposures 55 75	indoor VOC exposures
+11761601 FN: T14	Environmental_exposures 656 695	volatile organic compound (VOC) removal
+11761601 FN: T15	Environmental_exposures 796 822	freshly painted wood stain
+11761601 FN: T16	Environmental_exposures 883 895	gypsum board
+11761601 FN: T17	Environmental_exposures 927 951	displacement ventilation
+11761601 11761601 FN: T11	Environmental_exposures 396 416	inhalation exposures
+11761601 FN: T12	Environmental_exposures 771 792	"""wet"" emission source"
+11761601 FN: T13	Environmental_exposures 634 652	mixing ventilation
+11761601 FN: T21	Environmental_exposures 1244 1248	VOCs
+11761601 FN: T20	Environmental_exposures 1146 1164	mixing ventilation
+11761601 FN: T18	Environmental_exposures 1079 1090	ventilation
+11761601 FN: T19	Environmental_exposures 1105 1129	displacement ventilation
+18696219 18696219 18696219 18696219 18696219 18696219 FN: T2	Non_physical_leisure_time_activities 644 649	games
+18696219 FN: T3	Non_physical_leisure_time_activities 979 987	Internet
+18696219 FN: T1	Non_physical_leisure_time_activities 60 68	Internet
+18696219 FN: T14	Socioeconomic_factors 852 857	money
+18696219 18696219 18696219 FN: T13	Non_physical_leisure_time_activities 303 311	Internet
+24806447 FN: T2	Environmental_exposures 748 765	organic chemicals
+24806447 FN: T3	Non_physical_leisure_time_activities 1249 1252	web
+10541442 FN: T8	Non_physical_leisure_time_activities 1194 1204	air travel
+10541442 FN: T9	Non_physical_leisure_time_activities 816 826	air travel
+10541442 FN: T7	Non_physical_leisure_time_activities 156 166	air travel
+10541442 FN: T1	Non_physical_leisure_time_activities 17 27	air travel
+10541442 10541442 10541442 10541442 FN: T13	Sleep 1064 1080	circadian system
+2776042 FN: T6	Socioeconomic_factors 276 283	Neglect
+2776042 FN: T7	Non_physical_leisure_time_activities 411 420	telephone
+15309450 15309450 15309450 15309450 15309450 15309450 15309450 15309450 15309450 15309450 FN: T14	Nutrition 744 758	apo-carotenals
+15309450 15309450 FN: T16	Environmental_exposures 1365 1374	compounds
+9739624 FN: T2	Environmental_exposures 95 112	radioactive waste
+9739624 FN: T1	Environmental_exposures 40 57	radioactive waste
+30980555 FN: T3	Environmental_exposures 840 857	airborne exposure
+30980555 FN: T1	Environmental_exposures 501 511	air change
+21487131 21487131 FN: T15	Socioeconomic_factors 961 965	work
+21487131 FN: T16	Socioeconomic_factors 955 965	heavy work
+21487131 21487131 21487131 FN: T11	Physical_activity 719 721	PA
+21487131 21487131 21487131 FN: T19	Socioeconomic_factors 1070 1091	sedentary occupations
+21487131 21487131 FN: T9	Socioeconomic_factors 546 550	OCPA
+21487131 FN: T7	Socioeconomic_factors 414 418	OCPA
+21487131 21487131 21487131 FN: T1	Socioeconomic_factors 0 30	Occupational physical activity
+21487131 21487131 FN: T23	Physical_activity 1259 1261	PA
+21487131 FN: T22	Physical_activity 215 219	OCPA
+21487131 21487131 FN: T24	Lifestyle_factor 438 455	lifestyle factors
+21487131 FN: T27	Socioeconomic_factors 1202 1221	working occupations
+21487131 FN: T26	Socioeconomic_factors 1196 1221	heavy working occupations
+28834509 FN: T8	Socioeconomic_factors 13 19	School
+28834509 FN: T9	Socioeconomic_factors 264 270	school
+28834509 28834509 28834509 28834509 28834509 28834509 28834509 28834509 FN: T14	Socioeconomic_factors 870 877	schools
+28834509 FN: T15	Socioeconomic_factors 974 980	school
+28834509 FN: T16	Socioeconomic_factors 1082 1088	school
+28834509 FN: T17	Physical_activity 406 414	Activity
+28834509 28834509 FN: T11	Socioeconomic_factors 675 681	school
+28834509 FN: T12	Socioeconomic_factors 499 505	school
+28834509 FN: T13	Socioeconomic_factors 749 755	school
+28834509 FN: T18	Physical_activity 82 90	Activity
+28365427 28365427 FN: T9	Socioeconomic_factors 795 800	abuse
+28365427 28365427 28365427 28365427 28365427 28365427 28365427 28365427 FN: T10	Socioeconomic_factors 824 834	negligence
+15388401 FN: T6	Socioeconomic_factors 246 263	social adjustment
+15388401 FN: T7	Socioeconomic_factors 288 302	peer relations
+10389102 FN: T8	Sleep 568 574	waking
+10389102 FN: T9	Sleep 1069 1087	daytime sleepiness
+10389102 10389102 10389102 FN: T5	Sleep 555 563	sleeping
+18479844 FN: T8	Drugs 478 487	substance
+18479844 FN: T9	Drugs 529 538	substance
+18479844 FN: T6	Drugs 219 228	substance
+18479844 FN: T7	Drugs 392 401	addiction
+18479844 FN: T4	Drugs 155 174	addictive behaviors
+18479844 FN: T5	Drugs 1308 1327	addictive behaviors
+18479844 FN: T2	Drugs 20 39	addictive behaviors
+18479844 18479844 FN: T1	Drugs 833 862	substance self-administration
+18479844 FN: T10	Drugs 606 615	substance
+18479844 FN: T11	Drugs 1081 1090	addiction
+23895466 FN: T4	Non_physical_leisure_time_activities 926 929	Web
+23895466 FN: T5	Non_physical_leisure_time_activities 1272 1275	Web
+23895466 FN: T2	Non_physical_leisure_time_activities 410 413	Web
+23895466 FN: T3	Non_physical_leisure_time_activities 658 661	Web
+24158583 24158583 FN: T3	Beauty_and_Cleaning 348 370	multibracket appliance
+29989216 FN: T1	Environmental_exposures 911 918	climate
+22581198 FN: T6	Non_physical_leisure_time_activities 1041 1054	lottery games
+22581198 FN: T7	Non_physical_leisure_time_activities 1140 1153	lottery games
+22581198 FN: T4	Non_physical_leisure_time_activities 1223 1230	playing
+22581198 FN: T2	Non_physical_leisure_time_activities 580 593	lottery games
+22581198 FN: T1	Non_physical_leisure_time_activities 82 95	lottery games
+23575456 FN: T8	Physical_activity 1025 1033	Activity
+11705018 11705018 11705018 11705018 11705018 11705018 11705018 11705018 11705018 FN: T1	Non_physical_leisure_time_activities 48 56	gamblers
+11705018 FN: T17	Mental_health_practices 782 792	counseling
+11345740 FN: T6	Nutrition 384 389	water
+11345740 FN: T7	Environmental_exposures 544 572	agricultural returning water
+23113691 FN: T8	Socioeconomic_factors 587 611	sociodemographic factors
+23113691 FN: T9	Non_physical_leisure_time_activities 659 676	Internet adoption
+23113691 23113691 23113691 23113691 FN: T3	Non_physical_leisure_time_activities 130 138	Internet
+23113691 FN: T1	Non_physical_leisure_time_activities 0 8	Internet
+23113691 23113691 FN: T12	Socioeconomic_factors 1028 1032	work
+23113691 FN: T13	Non_physical_leisure_time_activities 513 521	Internet
+23876105 FN: T14	Nutrition 840 849	soy fiber
+23876105 FN: T15	Nutrition 889 910	soy fermented product
+23876105 FN: T16	Nutrition 919 928	soy fiber
+23876105 23876105 FN: T10	Nutrition 379 382	oat
+23876105 FN: T11	Nutrition 387 398	wheat fiber
+23876105 23876105 23876105 23876105 FN: T19	Nutrition 77 82	fiber
+23876105 FN: T8	Nutrition 365 372	Soymilk
+23876105 FN: T9	Nutrition 374 377	soy
+23876105 FN: T6	Nutrition 224 227	oat
+23876105 FN: T7	Nutrition 232 244	wheat fibers
+23876105 23876105 FN: T5	Nutrition 219 222	soy
+23876105 23876105 FN: T3	Nutrition 170 191	fermented soy product
+23876105 FN: T1	Nutrition 18 39	fermented soy product
+23876105 FN: T21	Nutrition 483 500	thermal treatment
+23876105 FN: T20	Nutrition 265 270	fiber
+23876105 FN: T23	Nutrition 541 553	Fermentation
+23876105 FN: T22	Nutrition 502 509	cooling
+23876105 FN: T25	Nutrition 640 648	products
+23876105 FN: T24	Nutrition 275 282	product
+23876105 FN: T26	Nutrition 787 804	fermented product
+18584466 18584466 18584466 18584466 18584466 18584466 18584466 18584466 18584466 18584466 FN: T10	Drugs 350 365	placebo patches
+18584466 FN: T11	Drugs 613 620	placebo
+15333876 FN: T8	Drugs 508 515	tobacco
+15333876 FN: T9	Drugs 916 923	tobacco
+15333876 FN: T6	Drugs 323 330	tobacco
+15333876 FN: T7	Drugs 420 427	tobacco
+15333876 FN: T5	Drugs 721 728	tobacco
+15333876 FN: T2	Drugs 102 109	tobacco
+15333876 15333876 FN: T1	Drugs 4 11	tobacco
+15333876 FN: T14	Non_physical_leisure_time_activities 254 263	newspaper
+15333876 FN: T13	Non_physical_leisure_time_activities 244 252	internet
+15658217 FN: T7	Environmental_exposures 204 207	PVC
+15658217 FN: T4	Environmental_exposures 15 27	heavy metals
+15658217 FN: T5	Environmental_exposures 84 97	fabric filter
+15658217 FN: T2	Environmental_exposures 184 202	polyvinyl chloride
+15658217 FN: T3	Environmental_exposures 578 581	PVC
+15658217 15658217 FN: T14	Environmental_exposures 400 413	fabric filter
+15658217 FN: T15	Environmental_exposures 491 498	fly ash
+15658217 FN: T16	Environmental_exposures 503 515	heavy metals
+15658217 FN: T17	Environmental_exposures 622 634	heavy metals
+15658217 FN: T10	Environmental_exposures 270 281	heavy metal
+15658217 FN: T11	Environmental_exposures 286 293	fly ash
+15658217 FN: T12	Environmental_exposures 323 331	particle
+15658217 FN: T13	Environmental_exposures 353 365	heavy metals
+15658217 FN: T23	Environmental_exposures 459 463	APCD
+15658217 FN: T22	Environmental_exposures 936 945	particles
+15658217 FN: T18	Environmental_exposures 650 657	fly ash
+15658217 FN: T19	Environmental_exposures 685 693	particle
+25047604 25047604 25047604 25047604 25047604 25047604 FN: T11	Non_physical_leisure_time_activities 654 662	Internet
+25047604 FN: T12	Socioeconomic_factors 932 938	school
+3780410 FN: T8	Nutrition 600 608	drinking
+3780410 FN: T9	Nutrition 640 651	drunkenness
+3780410 FN: T6	Nutrition 91 98	alcohol
+3780410 3780410 3780410 3780410 3780410 3780410 3780410 FN: T10	Nutrition 780 790	alcoholism
+2776050 2776050 FN: T9	Socioeconomic_factors 80 88	physical
+2776050 FN: T6	Socioeconomic_factors 895 910	family problems
+2776050 FN: T7	Socioeconomic_factors 155 160	abuse
+2776050 FN: T4	Drugs 616 629	drug problems
+688856 FN: T8	Drugs 310 317	ethanol
+688856 FN: T9	Drugs 764 771	ethanol
+688856 FN: T6	Drugs 236 243	ethanol
+688856 FN: T7	Nutrition 300 305	water
+688856 688856 688856 FN: T2	Nutrition 6 11	water
+688856 FN: T3	Drugs 16 35	ethanol consumption
+688856 688856 FN: T14	Drugs 872 879	ethanol
+688856 FN: T16	Drugs 347 354	ethanol
+688856 688856 688856 FN: T12	Drugs 466 485	ethanol consumption
+688856 688856 FN: T21	Drugs 929 945	ethanol drinking
+688856 688856 FN: T18	Drugs 809 816	ethanol
+27075434 FN: T8	Nutrition 945 956	tocopherols
+27075434 27075434 FN: T6	Nutrition 358 369	tocopherols
+27075434 FN: T7	Nutrition 864 875	tocopherols
+27075434 27075434 FN: T5	Nutrition 29 40	tocopherols
+27075434 27075434 27075434 27075434 FN: T14	Nutrition 481 485	BLVs
+27075434 27075434 FN: T16	Nutrition 79 91	salad rocket
+27075434 FN: T17	Nutrition 180 184	BLVs
+27075434 27075434 27075434 27075434 FN: T13	Nutrition 427 445	salad rocket BLVs.
+27075434 FN: T20	Nutrition 979 984	green
+27075434 FN: T18	Nutrition 400 405	green
+27075434 FN: T19	Nutrition 410 421	red romaine
+7356583 FN: T8	Drugs 276 281	drugs
+7356583 7356583 7356583 7356583 FN: T4	Drugs 762 766	drug
+7356583 FN: T5	Drugs 771 778	alcohol
+7356583 FN: T2	Drugs 42 47	drugs
+7356583 FN: T3	Drugs 548 552	drug
+7356583 FN: T1	Drugs 0 4	Drug
+7356583 FN: T14	Drugs 424 429	drugs
+7356583 FN: T15	Drugs 450 458	cannabis
+7356583 7356583 FN: T17	Drugs 474 481	alcohol
+7356583 7356583 FN: T11	Drugs 330 335	drugs
+7356583 FN: T12	Drugs 341 348	alcohol
+7356583 7356583 FN: T20	Drugs 628 633	drugs
+7356583 7356583 FN: T19	Drugs 662 670	cannabis
+12676206 FN: T8	Nutrition 294 299	crops
+12676206 FN: T6	Environmental_exposures 550 576	organic nitrogen compounds
+12676206 FN: T7	Environmental_exposures 621 639	deposited nitrogen
+12676206 FN: T4	Environmental_exposures 707 725	deposited nitrogen
+12676206 12676206 FN: T2	Environmental_exposures 260 290	atmospheric nitrogen compounds
+12676206 12676206 FN: T1	Environmental_exposures 0 30	Atmospheric nitrogen compounds
+12676206 FN: T11	Environmental_exposures 447 457	pollutants
+30484369 FN: T9	Socioeconomic_factors 405 412	schools
+24202545 FN: T14	Nutrition 92 96	leaf
+24202545 FN: T15	Nutrition 269 289	phenolic composition
+24202545 FN: T16	Nutrition 394 398	leaf
+24202545 FN: T17	Nutrition 813 818	rutin
+24202545 24202545 24202545 FN: T12	Nutrition 502 507	water
+24202545 FN: T13	Nutrition 0 20	Phenolic composition
+24202545 FN: T18	Nutrition 855 864	phenolics
+24202545 FN: T19	Nutrition 908 913	acids
+24202545 24202545 24202545 24202545 24202545 24202545 FN: T5	Nutrition 1149 1162	leaf extracts
+24202545 24202545 24202545 FN: T21	Nutrition 899 913	caftaric acids
+24202545 FN: T20	Nutrition 908 913	acids
+24202545 FN: T23	Nutrition 967 972	acids
+24202545 FN: T22	Nutrition 967 972	acids
+24202545 FN: T25	Nutrition 1205 1209	fats
+24202545 FN: T24	Nutrition 956 972	rosmarinic acids
+24202545 FN: T27	Nutrition 465 470	plant
+24202545 FN: T26	Drugs 481 488	ethanol
+33512698 33512698 FN: T9	Physical_activity 636 659	short bouts of exercise
+33512698 FN: T6	Physical_activity 423 448	resistance-based training
+33512698 FN: T7	Physical_activity 532 540	exercise
+33512698 33512698 FN: T5	Nutrition 263 279	adequate protein
+33512698 FN: T2	Physical_activity 73 90	Exercise training
+33512698 33512698 33512698 33512698 33512698 FN: T16	Nutrition 405 410	fiber
+23515164 23515164 FN: T7	Socioeconomic_factors 511 518	college
+23515164 23515164 FN: T5	Non_physical_leisure_time_activities 288 291	web
+23515164 23515164 23515164 23515164 FN: T11	Drugs 826 842	drinking alcohol
+25329006 FN: T8	Nutrition 751 769	Energy expenditure
+25329006 FN: T9	Nutrition 982 989	glucose
+25329006 FN: T6	Physical_activity 206 214	activity
+25329006 FN: T7	Nutrition 647 654	glucose
+25329006 FN: T4	Physical_activity 115 129	sedentary time
+25329006 FN: T5	Nutrition 154 161	glucose
+25329006 25329006 FN: T3	Physical_activity 1286 1303	prolonged sitting
+25329006 FN: T1	Physical_activity 261 278	prolonged sitting
+25329006 FN: T10	Nutrition 1353 1360	glucose
+25329006 FN: T11	Nutrition 1381 1386	lipid
+25329006 FN: T12	Physical_activity 69 87	Low-Level Activity
+12817552 FN: T9	Mental_health_practices 606 613	therapy
+26394028 FN: T14	Nutrition 427 442	vegetable foods
+26394028 FN: T15	Nutrition 583 598	vegetable foods
+26394028 FN: T16	Nutrition 751 766	vegetable foods
+26394028 FN: T17	Nutrition 967 982	vegetable foods
+26394028 26394028 FN: T11	Nutrition 135 156	resveratrol glucoside
+26394028 FN: T12	Nutrition 326 332	grapes
+26394028 FN: T13	Nutrition 376 391	vegetable foods
+26394028 FN: T18	Nutrition 1092 1107	vegetable foods
+26394028 FN: T30	Nutrition 343 351	products
+26394028 FN: T8	Nutrition 827 844	trans-resveratrol
+26394028 FN: T9	Nutrition 862 879	trans-resveratrol
+26394028 FN: T6	Nutrition 1142 1159	trans-resveratrol
+26394028 FN: T7	Nutrition 1045 1062	trans-resveratrol
+26394028 FN: T4	Nutrition 113 130	Trans-resveratrol
+26394028 FN: T5	Nutrition 539 556	trans-resveratrol
+26394028 FN: T2	Nutrition 34 46	trans-piceid
+26394028 FN: T3	Nutrition 50 65	vegetable foods
+26394028 FN: T1	Nutrition 12 29	trans-resveratrol
+26394028 FN: T29	Nutrition 217 222	plant
+26394028 FN: T28	Nutrition 1188 1193	foods
+26394028 FN: T21	Nutrition 477 493	nutrient origins
+26394028 26394028 FN: T23	Nutrition 702 714	Trans-piceid
+26394028 FN: T22	Nutrition 561 573	trans-piceid
+26394028 FN: T25	Nutrition 1164 1176	trans-piceid
+26394028 FN: T24	Nutrition 884 896	trans-piceid
+26394028 FN: T27	Nutrition 809 821	trans-piceid
+26394028 FN: T26	Nutrition 1067 1079	trans-piceid
+27918700 27918700 27918700 FN: T16	Physical_activity 62 74	Sitting Time
+27918700 FN: T17	Physical_activity 830 842	sitting time
+27918700 27918700 27918700 27918700 27918700 FN: T18	Physical_activity 582 594	sitting time
+27918700 FN: T19	Physical_activity 1163 1175	Sitting time
+27918700 FN: T30	Socioeconomic_factors 1329 1339	urbanicity
+27918700 27918700 27918700 FN: T6	Socioeconomic_factors 941 951	urbanicity
+27918700 FN: T7	Socioeconomic_factors 968 978	urbanicity
+27918700 FN: T4	Socioeconomic_factors 503 513	urbanicity
+27918700 FN: T5	Socioeconomic_factors 847 857	urbanicity
+27918700 FN: T2	Socioeconomic_factors 399 409	urbanicity
+27918700 FN: T3	Socioeconomic_factors 25 35	Urbanicity
+27918700 27918700 27918700 FN: T28	Socioeconomic_factors 1219 1229	urbanicity
+27918700 FN: T25	Physical_activity 240 254	sedentary time
+27918700 FN: T27	Socioeconomic_factors 1065 1082	economic activity
+9678133 FN: T8	Socioeconomic_factors 238 249	desogestrel
+9678133 FN: T9	Socioeconomic_factors 253 262	gestodene
+9678133 FN: T6	Socioeconomic_factors 198 201	OCs
+9678133 FN: T7	Socioeconomic_factors 225 237	progestogens
+9678133 FN: T4	Socioeconomic_factors 418 421	OCs
+9678133 FN: T5	Socioeconomic_factors 1019 1022	OCs
+9678133 9678133 FN: T3	Socioeconomic_factors 286 289	OCs
+9678133 9678133 FN: T10	Socioeconomic_factors 313 325	progestogens
+9678133 FN: T11	Socioeconomic_factors 326 340	levonorgestrel
+9678133 FN: T12	Socioeconomic_factors 344 354	norgestrel
+6515247 6515247 6515247 6515247 FN: T4	Sleep 463 481	daytime sleepiness
+6515247 6515247 6515247 6515247 FN: T12	Sleep 581 593	slept longer
+9853208 FN: T6	Socioeconomic_factors 407 413	FemCap
+9853208 FN: T7	Socioeconomic_factors 693 699	FemCap
+9853208 9853208 FN: T5	Socioeconomic_factors 4 10	FemCap
+9853208 9853208 FN: T3	Socioeconomic_factors 581 601	pregnancy prevention
+14991269 FN: T8	Socioeconomic_factors 253 285	countries of economic transition
+14991269 14991269 14991269 14991269 14991269 FN: T5	Nutrition 321 342	nutrient deficiencies
+32987320 32987320 32987320 32987320 32987320 32987320 32987320 32987320 32987320 32987320 32987320 32987320 FN: T12	Nutrition 871 888	supplement intake

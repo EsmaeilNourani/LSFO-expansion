@@ -1,0 +1,18 @@
+T1	Lifestyle_factor 38 45	Walking
+A1	Physical_activity T1
+T2	Lifestyle_factor 168 184	walking duration
+A2	Physical_activity T2
+T3	Lifestyle_factor 762 778	walking duration
+A3	Physical_activity T3
+T4	Lifestyle_factor 443 459	walking duration
+A4	Physical_activity T4
+T6	Lifestyle_factor 993 1009	active lifestyle
+A5	Physical_activity T6
+T7	Lifestyle_factor 488 498	retirement
+A6	Socioeconomic_factors T7
+T8	Lifestyle_factor 855 865	retirement
+A7	Socioeconomic_factors T8
+T9	Lifestyle_factor 1032 1042	retirement
+A8	Socioeconomic_factors T9
+T5	Lifestyle_factor 315 325	New Jersey
+A9	Geographical_Feature T5

@@ -1,0 +1,22 @@
+T1	Lifestyle_factor 0 8;20 25	Physical abuse
+A1	Socioeconomic_factors T1
+T2	Lifestyle_factor 93 105	sexual abuse
+A2	Socioeconomic_factors T2
+T3	Lifestyle_factor 346 358	sexual abuse
+A3	Socioeconomic_factors T3
+T4	Lifestyle_factor 616 629	drug problems
+A4	Drugs T4
+T5	Lifestyle_factor 809 821	sexual abuse
+A5	Socioeconomic_factors T5
+T6	Lifestyle_factor 895 910	family problems
+A6	Socioeconomic_factors T6
+T7	Lifestyle_factor 155 160	abuse
+A7	Socioeconomic_factors T7
+T8	Lifestyle_factor 13 25	sexual abuse
+A8	Socioeconomic_factors T8
+T9	Lifestyle_factor 100 105;80 88	abuse physical
+A9	Socioeconomic_factors T9
+T10	Lifestyle_factor 334 342;353 358	physical abuse
+A10	Socioeconomic_factors T10
+T11	Lifestyle_factor 797 805;816 821	physical abuse
+A11	Socioeconomic_factors T11

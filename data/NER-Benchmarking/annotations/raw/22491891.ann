@@ -1,0 +1,49 @@
+T2	Lifestyle_factor 122 130	Nicotine
+A2	Drugs T2
+T3	Lifestyle_factor 329 337	nicotine
+A3	Drugs T3
+T5	Lifestyle_factor 1264 1272	Nicotine
+A5	Drugs T5
+T6	Lifestyle_factor 906 914	nicotine
+A6	Drugs T6
+T7	Lifestyle_factor 1163 1171	nicotine
+A7	Drugs T7
+T8	Lifestyle_factor 201 219	tobacco cigarettes
+A8	Drugs T8
+T9	Lifestyle_factor 1209 1224	tobacco smoking
+A9	Drugs T9
+T10	Lifestyle_factor 1107 1126	nic tobacco smoking
+A10	Drugs T10
+T11	Lifestyle_factor 1308 1323	tobacco smoking
+A11	Drugs T11
+T12	Lifestyle_factor 262 267	smoke
+A12	Drugs T12
+T13	Lifestyle_factor 341 358	cigarette smoking
+A13	Drugs T13
+T4	Lifestyle_factor 468 489;516 526	denicotinized (denic) cigarettes
+A4	Drugs T4
+T16	Lifestyle_factor 1007 1031	Smoking denic cigarettes
+A16	Drugs T16
+T17	Lifestyle_factor 1059 1081	smoking nic cigarettes
+A17	Drugs T17
+T18	Lifestyle_factor 723 746	Denic cigarette smoking
+A18	Drugs T18
+T19	Lifestyle_factor 800 821	nic cigarette smoking
+A19	Drugs T19
+T20	Lifestyle_factor 662 669	Smoking
+A20	Drugs T20
+T21	Lifestyle_factor 686 700	nic cigarettes
+A21	Drugs T21
+T14	Out-of-scope 533 539	single
+#5	AnnotatorNotes T12	verb
+T23	Lifestyle_factor 29 63	nicotine tobacco cigarette smoking
+A25	Drugs T23
+T24	Lifestyle_factor 493 526	average nicotine (nic) cigarettes
+A26	Drugs T24
+T15	Lifestyle_factor 677 682;690 700	denic cigarettes
+A23	Drugs T15
+A1	LSF_out_of_context T6
+A24	LSF_out_of_context T7
+T1	Lifestyle_factor 617 625	emission
+A14	Environmental_exposures T1
+A15	LSF_out_of_context T1

@@ -1,0 +1,34 @@
+T1	Lifestyle_factor 28 53	intimate partner violence
+A1	Socioeconomic_factors T1
+T2	Lifestyle_factor 190 215	intimate partner violence
+A2	Socioeconomic_factors T2
+T3	Lifestyle_factor 358 370	physical IPV
+A3	Socioeconomic_factors T3
+T4	Lifestyle_factor 545 548	IPV
+A4	Socioeconomic_factors T4
+T5	Lifestyle_factor 622 625	IPV
+A5	Socioeconomic_factors T5
+T6	Lifestyle_factor 1125 1128	IPV
+A6	Socioeconomic_factors T6
+T7	Lifestyle_factor 1046 1049	IPV
+A7	Socioeconomic_factors T7
+T8	Lifestyle_factor 641 644	IPV
+A8	Socioeconomic_factors T8
+T9	Lifestyle_factor 899 902	IPV
+A9	Socioeconomic_factors T9
+T10	Lifestyle_factor 506 524	child sexual abuse
+A10	Socioeconomic_factors T10
+T11	Lifestyle_factor 57 78	marital relationships
+A11	Socioeconomic_factors T11
+T12	Lifestyle_factor 375 386	child abuse
+A12	Socioeconomic_factors T12
+T13	Lifestyle_factor 570 584;596 601	child physical abuse
+A13	Socioeconomic_factors T13
+T14	Lifestyle_factor 944 963	exposed to violence
+A14	Socioeconomic_factors T14
+T15	Lifestyle_factor 286 290	U.S.
+A15	Geographical_Feature T15
+T16	Lifestyle_factor 217 220	IPV
+A16	Socioeconomic_factors T16
+T17	Lifestyle_factor 570 575;589 601	child sexual abuse
+A17	Socioeconomic_factors T17

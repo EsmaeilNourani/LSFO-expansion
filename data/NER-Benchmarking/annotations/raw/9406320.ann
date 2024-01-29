@@ -1,0 +1,17 @@
+T1	Lifestyle_factor 44 49	sleep
+A1	Sleep T1
+A2	LSF_out_of_context T1
+T2	Lifestyle_factor 364 369	sleep
+A3	Sleep T2
+T3	Lifestyle_factor 279 284	sleep
+A4	Sleep T3
+A5	LSF_out_of_context T3
+T4	Lifestyle_factor 478 491	sleep latency
+A6	Sleep T4
+T5	Lifestyle_factor 634 647	sleep latency
+A7	Sleep T5
+T6	Lifestyle_factor 589 594	sleep
+A8	Sleep T6
+T7	Lifestyle_factor 701 706	sleep
+A9	Sleep T7
+A10	LSF_out_of_context T7

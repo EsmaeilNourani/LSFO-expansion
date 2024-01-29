@@ -1,0 +1,15 @@
+T1	Lifestyle_factor 20 43	child protection worker
+A1	Occupations T1
+T2	Lifestyle_factor 84 108	Child protection workers
+A2	Occupations T2
+T3	Lifestyle_factor 142 150	Columbia
+A3	Geographical_Feature T3
+T4	Lifestyle_factor 260 271	Child Abuse
+A4	Socioeconomic_factors T4
+T5	Lifestyle_factor 1005 1029	child protection workers
+A5	Occupations T5
+T6	Lifestyle_factor 260 265;276 283	Child Neglect
+A6	Socioeconomic_factors T6
+T7	Lifestyle_factor 411 420	telephone
+A7	Non_physical_leisure_time_activities T7
+A8	LSF_out_of_context T7

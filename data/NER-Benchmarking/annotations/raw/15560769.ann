@@ -1,0 +1,32 @@
+T1	Lifestyle_factor 25 50	daytime exposure to light
+A1	Environmental_exposures T1
+T2	Lifestyle_factor 55 71	night-time sleep
+A2	Sleep T2
+T3	Lifestyle_factor 898 914	night-time sleep
+A3	Sleep T3
+T4	Lifestyle_factor 150 167	exposure to light
+A4	Environmental_exposures T4
+T5	Lifestyle_factor 177 194	patterns of sleep
+A5	Sleep T5
+T6	Lifestyle_factor 428 444	periods of sleep
+A6	Sleep T6
+T7	Lifestyle_factor 715 728	reduced sleep
+A7	Sleep T7
+T8	Lifestyle_factor 817 822	sleep
+A8	Sleep T8
+T9	Lifestyle_factor 843 851	Sleeping
+A9	Sleep T9
+T10	Lifestyle_factor 970 1005	exposed to significantly more light
+A10	Environmental_exposures T10
+T11	Lifestyle_factor 1132 1148	circadian system
+A11	Sleep T11
+T12	Lifestyle_factor 945 964	slept well at night
+A12	Sleep T12
+T13	Lifestyle_factor 360 365	light
+A13	Environmental_exposures T13
+A14	LSF_out_of_context T13
+T14	Lifestyle_factor 1061 1066	light
+A15	Environmental_exposures T14
+T15	Lifestyle_factor 330 338	activity
+A16	Physical_activity T15
+A17	LSF_out_of_context T15

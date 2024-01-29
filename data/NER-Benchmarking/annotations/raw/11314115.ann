@@ -1,0 +1,41 @@
+T1	Lifestyle_factor 0 15	Sugar replacers
+A1	Nutrition T1
+T2	Lifestyle_factor 176 191	sugar replacers
+A2	Nutrition T2
+T3	Lifestyle_factor 274 284	sweeteners
+A3	Nutrition T3
+T6	Lifestyle_factor 473 481	starches
+A6	Nutrition T6
+T7	Lifestyle_factor 498 504	snacks
+A7	Nutrition T7
+T9	Lifestyle_factor 588 598	sugar-free
+A9	Nutrition T9
+T10	Lifestyle_factor 630 658	noncariogenic sugar replacer
+A10	Nutrition T10
+T12	Lifestyle_factor 928 945	Dental hygienists
+T13	Lifestyle_factor 994 1009	sugar replacers
+A13	Nutrition T13
+T14	Lifestyle_factor 1166 1183	dental hygienists
+T15	Lifestyle_factor 1204 1219	sugar replacers
+A15	Nutrition T15
+T17	Lifestyle_factor 71 75	Food
+A17	Nutrition T17
+T19	Lifestyle_factor 448 468	foods high in sugars
+A19	Nutrition T19
+A16	LSF_out_of_context T17
+T4	Lifestyle_factor 846 865	sugar-free products
+A4	Nutrition T4
+A8	Occupations T12
+A11	Occupations T14
+T5	Lifestyle_factor 1260 1277	nutrition choices
+A5	Nutrition T5
+T8	Lifestyle_factor 80 84	Drug
+A12	Drugs T8
+A14	LSF_out_of_context T8
+T11	Lifestyle_factor 66 70	U.S.
+A18	Geographical_Feature T11
+T16	Lifestyle_factor 561 569	products
+A20	Nutrition T16
+T18	Lifestyle_factor 918 926	products
+A21	Nutrition T18
+T20	Out-of-scope 249 257	products

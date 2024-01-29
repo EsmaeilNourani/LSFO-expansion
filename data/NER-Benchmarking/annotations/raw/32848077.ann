@@ -1,0 +1,50 @@
+T1	Lifestyle_factor 0 7	Tobacco
+A1	Drugs T1
+T2	Lifestyle_factor 28 34	Serbia
+A3	Geographical_Feature T2
+T3	Lifestyle_factor 52 73	middle-income country
+A4	Socioeconomic_factors T3
+T4	Lifestyle_factor 103 110	tobacco
+A5	Drugs T4
+T5	Lifestyle_factor 266 276	cigarettes
+A7	Drugs T5
+T6	Lifestyle_factor 298 304	Serbia
+A9	Geographical_Feature T6
+T7	Lifestyle_factor 318 324	Serbia
+A10	Geographical_Feature T7
+T8	Lifestyle_factor 414 421	tobacco
+A11	Drugs T8
+T9	Lifestyle_factor 458 477	tobacco consumption
+A13	Drugs T9
+T10	Lifestyle_factor 534 541	tobacco
+A14	Drugs T10
+A15	LSF_out_of_context T10
+T11	Lifestyle_factor 620 629	cigarette
+A16	Drugs T11
+T12	Lifestyle_factor 644 650	Serbia
+A18	Geographical_Feature T12
+T13	Lifestyle_factor 676 686	cigarettes
+A19	Drugs T13
+T14	Lifestyle_factor 770 792	middle-income countrie
+A20	Socioeconomic_factors T14
+T15	Lifestyle_factor 814 824	cigarettes
+A21	Drugs T15
+T16	Lifestyle_factor 846 852	Serbia
+A23	Geographical_Feature T16
+T17	Lifestyle_factor 867 874	tobacco
+A24	Drugs T17
+T18	Lifestyle_factor 922 943	cigarette consumption
+A26	Drugs T18
+T19	Lifestyle_factor 947 953	Serbia
+A27	Geographical_Feature T19
+T20	Lifestyle_factor 1003 1013	cigarettes
+A28	Drugs T20
+T21	Lifestyle_factor 1101 1108	tobacco
+A29	Drugs T21
+T22	Lifestyle_factor 583 593	employment
+A31	Socioeconomic_factors T22
+T23	Lifestyle_factor 168 184	Household Budget
+A32	Socioeconomic_factors T23
+A33	LSF_out_of_context T23
+T24	Lifestyle_factor 755 765;784 793	low-income countries
+A34	Socioeconomic_factors T24

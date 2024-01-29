@@ -1,0 +1,3127 @@
+Note: filtering out: T9	Occupations 778 803	Oral health professionals
+OVERLAP MATCH: 54-65 : 54-70 ('oral health' vs 'oral health care')
+OVERLAP MATCH: 424-435 : 424-440 ('oral health' vs 'oral health care')
+11813678 11813678 11813678 11813678 11813678 11813678 11813678 11813678 11813678 11813678 11813678 FN: T12	LSF_out_of_context 146 152	school
+11813678 TP: T8	Beauty_and_Cleaning 487 501	dental hygiene
+11813678 TP: T9	Beauty_and_Cleaning 589 602	dental health
+11813678 TP: T6	Beauty_and_Cleaning 424 440	oral health care
+11813678 TP: T7	Socioeconomic_factors 445 454	education
+11813678 TP: T4	Beauty_and_Cleaning 296 308	oral hygiene
+11813678 TP: T5	Beauty_and_Cleaning 344 358	dental hygiene
+11813678 TP: T2	Beauty_and_Cleaning 131 145	dental hygiene
+11813678 TP: T3	Beauty_and_Cleaning 206 217	oral health
+11813678 TP: T1	Beauty_and_Cleaning 54 70	oral health care
+11813678 FP: T10	Beauty_and_Cleaning 778 789	Oral health
+11813678 TP: T11	Beauty_and_Cleaning 808 822	dental hygiene
+OVERLAP MATCH: 424-435 : 424-440 ('oral health' vs 'oral health care')
+17846454 FN: T6	Physical_activity 100 102	PA
+17846454 FN: T4	Physical_activity 329 331	PA
+17846454 17846454 17846454 FN: T3	Physical_activity 221 223	PA
+17846454 17846454 TP: T2	Physical_activity 81 98	Physical activity
+17846454 TP: T3	Environmental_exposures 284 305	physical environments
+17846454 TP: T1	Environmental_exposures 31 51	physical environment
+Note: filtering out: T12	Occupations 928 945	Dental hygienists
+Note: filtering out: T14	Occupations 1166 1183	dental hygienists
+Note: filtering out: T11	Geographical_Feature 66 70	U.S.
+Note: filtering out: T20	Out-of-scope 249 257	products
+OVERLAP MATCH: 0-15 : 0-5 ('Sugar replacers' vs 'Sugar')
+OVERLAP MATCH: 176-191 : 176-181 ('sugar replacers' vs 'sugar')
+OVERLAP MATCH: 448-468 : 462-468 ('foods high in sugars' vs 'sugars')
+OVERLAP MATCH: 588-598 : 588-593 ('sugar-free' vs 'sugar')
+OVERLAP MATCH: 630-658 : 644-649 ('noncariogenic sugar replacer' vs 'sugar')
+OVERLAP MATCH: 994-1009 : 994-999 ('sugar replacers' vs 'sugar')
+OVERLAP MATCH: 1204-1219 : 1204-1209 ('sugar replacers' vs 'sugar')
+OVERLAP MATCH: 1260-1277 : 1260-1269 ('nutrition choices' vs 'nutrition')
+11314115 FN: T8	LSF_out_of_context 80 84	Drug
+11314115 11314115 11314115 11314115 11314115 11314115 11314115 FN: T3	Nutrition 274 284	sweeteners
+11314115 11314115 11314115 FN: T16	Nutrition 561 569	products
+11314115 11314115 11314115 11314115 FN: T18	Nutrition 918 926	products
+11314115 11314115 TP: T8	Nutrition 644 649	sugar
+11314115 TP: T9	Nutrition 846 865	sugar-free products
+11314115 TP: T6	Nutrition 498 504	snacks
+11314115 TP: T7	Nutrition 588 593	sugar
+11314115 TP: T4	Nutrition 462 468	sugars
+11314115 TP: T5	Nutrition 473 481	starches
+11314115 TP: T2	Nutrition 71 75	Food
+11314115 TP: T3	Nutrition 176 181	sugar
+11314115 TP: T1	Nutrition 0 5	Sugar
+11314115 TP: T10	Nutrition 994 999	sugar
+11314115 TP: T11	Nutrition 1204 1209	sugar
+11314115 TP: T12	Nutrition 1260 1269	nutrition
+OVERLAP MATCH: 0-15 : 0-5 ('Sugar replacers' vs 'Sugar')
+OVERLAP MATCH: 176-191 : 176-181 ('sugar replacers' vs 'sugar')
+OVERLAP MATCH: 448-468 : 462-468 ('foods high in sugars' vs 'sugars')
+OVERLAP MATCH: 588-598 : 588-593 ('sugar-free' vs 'sugar')
+OVERLAP MATCH: 630-658 : 644-649 ('noncariogenic sugar replacer' vs 'sugar')
+OVERLAP MATCH: 994-1009 : 994-999 ('sugar replacers' vs 'sugar')
+OVERLAP MATCH: 1204-1219 : 1204-1209 ('sugar replacers' vs 'sugar')
+OVERLAP MATCH: 1260-1277 : 1260-1269 ('nutrition choices' vs 'nutrition')
+Note: filtering out: T1	Occupations 12 33	group psychotherapist
+Note: filtering out: T2	Occupations 113 134	group psychotherapist
+Note: filtering out: T3	Occupations 229 250	group psychotherapist
+Note: filtering out: T4	Occupations 555 576	group psychotherapist
+Note: filtering out: T7	Occupations 405 414	therapist
+Note: filtering out: T8	Occupations 981 1004	individual practitioner
+Note: filtering out: T9	Out-of-scope 1033 1041	training
+17266427 17266427 17266427 TP: T2	Mental_health_practices 932 951	group psychotherapy
+17266427 FP: T3	Socioeconomic_factors 1017 1028	educational
+17266427 TP: T1	Mental_health_practices 758 777	group psychotherapy
+Note: filtering out: T8	Out-of-scope 41 49	activity
+19817639 FN: T6	Nutrition 893 901	propolis
+19817639 FN: T7	Nutrition 1044 1051	chrysin
+19817639 FN: T4	Nutrition 308 316	propolis
+19817639 FN: T5	Nutrition 573 581	propolis
+19817639 FN: T2	Nutrition 918 933	Manisa propolis
+19817639 FN: T3	Nutrition 121 129	Propolis
+19817639 FN: T1	Nutrition 11 26	Manisa propolis
+Note: filtering out: T1	Out-of-scope 228 262	offline face-to-face communication
+Note: filtering out: T2	Out-of-scope 270 301	computer-mediated communication
+Note: filtering out: T3	Out-of-scope 389 392	F2F
+Note: filtering out: T4	Out-of-scope 523 526	CMC
+Note: filtering out: T5	Out-of-scope 539 542	F2F
+Note: replace discontinuous "Communication Online" with "Online"
+Note: filtering out: T6	Out-of-scope 93 99	Online
+Note: filtering out: T7	Out-of-scope 104 125	Offline Communication
+Note: filtering out: T8	Out-of-scope 264 267	F2F
+Note: filtering out: T9	Out-of-scope 303 306	CMC
+33049699 FN: T8	Physical_activity 460 469	badminton
+33049699 FN: T6	Physical_activity 330 339	badminton
+33049699 FN: T7	Physical_activity 856 865	badminton
+33049699 FN: T4	Physical_activity 98 112	sport practice
+33049699 FN: T5	Physical_activity 992 1001	badminton
+33049699 FN: T2	Physical_activity 235 253	badminton practice
+33049699 FN: T3	Physical_activity 1086 1104	badminton practice
+33049699 FN: T1	Physical_activity 13 31	Badminton Practice
+Note: filtering out: T7	Occupations 136 146	therapists
+Note: filtering out: T8	Out-of-scope 822 826	work
+11824216 FN: T6	Socioeconomic_factors 89 111	intimate relationships
+11824216 FN: T4	Mental_health_practices 614 628	couple therapy
+11824216 FN: T5	Mental_health_practices 737 751	couple therapy
+11824216 FN: T2	Mental_health_practices 238 252	couple therapy
+11824216 FN: T3	Mental_health_practices 386 400	couple therapy
+11824216 FN: T1	Mental_health_practices 3 17	couple therapy
+Note: filtering out: T1	Geographical_Feature 42 46	U.S.
+Note: filtering out: T2	Geographical_Feature 287 291	U.S.
+28370427 FN: T8	Socioeconomic_factors 145 172	poorer academic performance
+28370427 FN: T9	Environmental_exposures 71 82	ventilation
+28370427 FN: T6	Environmental_exposures 0 11	Ventilation
+28370427 FN: T7	Socioeconomic_factors 132 143	absenteeism
+28370427 FN: T4	Environmental_exposures 949 952	IAQ
+28370427 FN: T5	Environmental_exposures 1354 1357	IAQ
+28370427 FN: T3	LSF_out_of_context 358 361	CO2
+28370427 FN: T14	Environmental_exposures 1338 1349	ventilation
+28370427 FN: T15	Socioeconomic_factors 47 53	school
+28370427 FN: T16	Socioeconomic_factors 292 299	schools
+28370427 FN: T17	Socioeconomic_factors 593 599	school
+28370427 FN: T10	Environmental_exposures 605 615	air change
+28370427 FN: T11	Environmental_exposures 710 721	ventilation
+28370427 FN: T12	Environmental_exposures 995 1006	ventilators
+28370427 FN: T13	Socioeconomic_factors 98 105	schools
+28370427 FN: T20	Socioeconomic_factors 1038 1045	schools
+28370427 FN: T18	Socioeconomic_factors 763 769	school
+28370427 FN: T19	Socioeconomic_factors 972 979	schools
+OVERLAP MATCH: 221-236 : 231-236 ('excessive sleep' vs 'sleep')
+OVERLAP MATCH: 335-354 : 349-354 ('habitual long sleep' vs 'sleep')
+OVERLAP MATCH: 471-481 : 476-481 ('long sleep' vs 'sleep')
+OVERLAP MATCH: 1039-1049 : 1044-1049 ('long sleep' vs 'sleep')
+OVERLAP MATCH: 1249-1259 : 1254-1259 ('long sleep' vs 'sleep')
+17625932 17625932 17625932 17625932 17625932 17625932 17625932 17625932 17625932 FN: T1	Sleep 12 25	long sleepers
+17625932 FN: T10	Socioeconomic_factors 784 801	lack of challenge
+17625932 TP: T8	Sleep 1254 1259	sleep
+17625932 TP: T6	Sleep 865 870	sleep
+17625932 TP: T7	Sleep 1044 1049	sleep
+17625932 TP: T4	Sleep 476 481	sleep
+17625932 TP: T5	Sleep 692 711	sleep fragmentation
+17625932 TP: T2	Sleep 231 236	sleep
+17625932 TP: T3	Sleep 349 354	sleep
+17625932 TP: T1	Sleep 146 164	insufficient sleep
+OVERLAP MATCH: 221-236 : 231-236 ('excessive sleep' vs 'sleep')
+OVERLAP MATCH: 335-354 : 349-354 ('habitual long sleep' vs 'sleep')
+OVERLAP MATCH: 471-481 : 476-481 ('long sleep' vs 'sleep')
+OVERLAP MATCH: 1039-1049 : 1044-1049 ('long sleep' vs 'sleep')
+OVERLAP MATCH: 1249-1259 : 1254-1259 ('long sleep' vs 'sleep')
+OVERLAP MATCH: 292-303 : 296-303 ('dog walking' vs 'walking')
+31629360 FN: T8	Physical_activity 285 287	PA
+31629360 31629360 FN: T6	Physical_activity 931 933	PA
+31629360 FN: T7	Physical_activity 474 476	PA
+31629360 FN: T4	Physical_activity 361 363	PA
+31629360 FN: T5	Physical_activity 1100 1102	PA
+31629360 31629360 31629360 31629360 FN: T14	Physical_activity 532 534	PA
+31629360 FN: T15	Physical_activity 665 687	pet-related activities
+31629360 FN: T16	LSF_out_of_context 713 729	daily step count
+31629360 FN: T17	Physical_activity 770 784	sedentary time
+31629360 31629360 31629360 31629360 FN: T13	Physical_activity 209 211	PA
+31629360 FN: T20	Non_physical_leisure_time_activities 973 981	pet care
+31629360 FN: T18	Non_physical_leisure_time_activities 986 1022	socially interacting with their pets
+31629360 31629360 TP: T8	Physical_activity 1043 1062	sedentary behaviors
+31629360 TP: T6	Non_physical_leisure_time_activities 333 346	pet ownership
+31629360 TP: T7	Non_physical_leisure_time_activities 430 443	pet ownership
+31629360 TP: T4	Physical_activity 190 207	physical activity
+31629360 TP: T5	Physical_activity 296 303	walking
+31629360 TP: T2	Physical_activity 57 74	Physical Activity
+31629360 TP: T3	Non_physical_leisure_time_activities 137 150	Pet ownership
+31629360 TP: T1	Non_physical_leisure_time_activities 39 52	Pet Ownership
+OVERLAP MATCH: 292-303 : 296-303 ('dog walking' vs 'walking')
+Note: filtering out: T7	Out-of-scope 847 854	protein
+Note: filtering out: T14	Out-of-scope 542 550	proteins
+Note: filtering out: T15	Out-of-scope 135 143	activity
+17514376 FN: T8	Nutrition 469 474	water
+17514376 FN: T9	Nutrition 1085 1087	PJ
+17514376 FN: T6	Nutrition 462 464	PJ
+17514376 FN: T4	Nutrition 388 390	PJ
+17514376 17514376 17514376 17514376 FN: T1	Nutrition 10 52	pomegranate (Punica granatum) juice intake
+17514376 FN: T10	Nutrition 1257 1259	PJ
+17514376 FN: T11	Nutrition 886 888	PJ
+17514376 FN: T12	Nutrition 102 104	PJ
+17514376 FN: T13	LSF_out_of_context 534 540	lipids
+17514376 TP: T2	Nutrition 123 134	antioxidant
+17514376 TP: T3	Nutrition 807 818	antioxidant
+17514376 TP: T1	Nutrition 83 100	Pomegranate juice
+Note: filtering out: T3	Occupations 376 388	orthodontist
+Note: filtering out: T5	Occupations 1171 1191	dental professionals
+Note: filtering out: T7	Occupations 1293 1313	dental professionals
+Note: filtering out: T8	Occupations 1125 1158	dental and surgical professionals
+Note: filtering out: T9	Out-of-scope 1269 1277	training
+OVERLAP MATCH: 30-50 : 30-41 ('orthodontic practice' vs 'orthodontic')
+OVERLAP MATCH: 274-295 : 274-285 ('orthodontic treatment' vs 'orthodontic')
+27595882 27595882 27595882 27595882 27595882 TP: T4	Beauty_and_Cleaning 451 463	orthodontics
+27595882 TP: T2	Beauty_and_Cleaning 274 285	orthodontic
+27595882 TP: T3	Beauty_and_Cleaning 400 411	orthodontic
+27595882 TP: T1	Beauty_and_Cleaning 30 41	orthodontic
+OVERLAP MATCH: 30-50 : 30-41 ('orthodontic practice' vs 'orthodontic')
+OVERLAP MATCH: 274-295 : 274-285 ('orthodontic treatment' vs 'orthodontic')
+OVERLAP MATCH: 155-168 : 155-160 ('sleep changes' vs 'sleep')
+OVERLAP MATCH: 228-246 : 228-233 ('sleep disturbances' vs 'sleep')
+OVERLAP MATCH: 606-622 : 612-622 ('total sleep time' vs 'sleep time')
+OVERLAP MATCH: 624-640 : 624-629 ('sleep efficiency' vs 'sleep')
+OVERLAP MATCH: 750-761 : 750-755 ('sleep onset' vs 'sleep')
+OVERLAP MATCH: 925-941 : 925-930 ('sleep continuity' vs 'sleep')
+OVERLAP MATCH: 945-962 : 945-950 ('sleep architectur' vs 'sleep')
+OVERLAP MATCH: 1001-1019 : 1001-1010 ('REM sleep behavior' vs 'REM sleep')
+OVERLAP MATCH: 1077-1108 : 1082-1095 ('poor sleep quality and quantity' vs 'sleep quality')
+32135452 32135452 32135452 32135452 32135452 32135452 32135452 32135452 32135452 32135452 FN: T14	LSF_out_of_context 763 765	N1
+32135452 FN: T15	LSF_out_of_context 778 781	REM
+32135452 FN: T16	Sleep 700 703	REM
+32135452 32135452 32135452 32135452 FN: T13	LSF_out_of_context 642 644	N2
+32135452 TP: T8	Sleep 750 755	sleep
+32135452 TP: T9	Sleep 925 930	sleep
+32135452 TP: T6	Sleep 657 672	slow wave sleep
+32135452 TP: T7	Sleep 674 698	rapid eye movement sleep
+32135452 TP: T4	Sleep 612 622	sleep time
+32135452 TP: T5	Sleep 624 629	sleep
+32135452 TP: T2	Sleep 155 160	sleep
+32135452 TP: T3	Sleep 228 233	sleep
+32135452 TP: T1	Sleep 0 5	Sleep
+32135452 TP: T10	Sleep 945 950	sleep
+32135452 TP: T11	Sleep 1001 1010	REM sleep
+32135452 TP: T12	Sleep 1082 1095	sleep quality
+OVERLAP MATCH: 155-168 : 155-160 ('sleep changes' vs 'sleep')
+OVERLAP MATCH: 228-246 : 228-233 ('sleep disturbances' vs 'sleep')
+OVERLAP MATCH: 606-622 : 612-622 ('total sleep time' vs 'sleep time')
+OVERLAP MATCH: 624-640 : 624-629 ('sleep efficiency' vs 'sleep')
+OVERLAP MATCH: 750-761 : 750-755 ('sleep onset' vs 'sleep')
+OVERLAP MATCH: 925-941 : 925-930 ('sleep continuity' vs 'sleep')
+OVERLAP MATCH: 945-962 : 945-950 ('sleep architectur' vs 'sleep')
+OVERLAP MATCH: 1077-1108 : 1082-1095 ('poor sleep quality and quantity' vs 'sleep quality')
+OVERLAP MATCH: 519-543 : 519-525 ('sweets and sugary drinks' vs 'sweets')
+OVERLAP MATCH: 653-673 : 663-673 ('flavoured cigarettes' vs 'cigarettes')
+OVERLAP MATCH: 690-717 : 690-696 ('single sticks of cigarettes' vs 'single')
+OVERLAP MATCH: 690-717 : 707-717 ('single sticks of cigarettes' vs 'cigarettes')
+OVERLAP MATCH: 1285-1308 : 1285-1291 ('single cigarette sticks' vs 'single')
+OVERLAP MATCH: 1285-1308 : 1292-1301 ('single cigarette sticks' vs 'cigarette')
+35641117 35641117 35641117 35641117 35641117 35641117 35641117 35641117 35641117 35641117 35641117 35641117 35641117 35641117 35641117 35641117 35641117 35641117 35641117 35641117 FN: T21	Socioeconomic_factors 334 341	schools
+35641117 FN: T20	LSF_out_of_context 18 21	web
+35641117 35641117 FN: T22	Socioeconomic_factors 346 357	playgrounds
+35641117 TP: T14	Drugs 707 717	cigarettes
+35641117 TP: T15	Drugs 822 829	tobacco
+35641117 TP: T16	Drugs 874 884	cigarettes
+35641117 TP: T17	Drugs 1026 1033	tobacco
+35641117 TP: T10	Nutrition 519 525	sweets
+35641117 TP: T11	Drugs 562 571	cigarette
+35641117 TP: T12	Drugs 663 673	cigarettes
+35641117 TP: T13	Socioeconomic_factors 690 696	single
+35641117 TP: T18	Drugs 1173 1180	Tobacco
+35641117 TP: T19	Drugs 1219 1226	tobacco
+35641117 TP: T8	Drugs 495 505	cigarettes
+35641117 TP: T9	Nutrition 511 517	snacks
+35641117 TP: T6	Socioeconomic_factors 388 398	low-income
+35641117 TP: T7	Socioeconomic_factors 403 416	middle-income
+35641117 TP: T4	Socioeconomic_factors 217 238	high-income countries
+35641117 TP: T5	Drugs 275 284	cigarette
+35641117 TP: T2	Drugs 74 81	tobacco
+35641117 TP: T3	Drugs 135 144	cigarette
+35641117 TP: T1	Drugs 43 50	Tobacco
+35641117 TP: T21	Drugs 1292 1301	cigarette
+35641117 TP: T20	Socioeconomic_factors 1285 1291	single
+35641117 TP: T22	Drugs 1411 1418	tobacco
+OVERLAP MATCH: 653-673 : 663-673 ('flavoured cigarettes' vs 'cigarettes')
+OVERLAP MATCH: 690-717 : 707-717 ('single sticks of cigarettes' vs 'cigarettes')
+OVERLAP MATCH: 1285-1308 : 1292-1301 ('single cigarette sticks' vs 'cigarette')
+OVERLAP MATCH: 519-543 : 519-525 ('sweets and sugary drinks' vs 'sweets')
+Note: replace discontinuous "whole jack bean" with "jack bean"
+OVERLAP MATCH: 128-156 : 128-132 ('food potentials of jack bean' vs 'food')
+OVERLAP MATCH: 953-972 : 953-964 ('nutritional quality' vs 'nutritional')
+OVERLAP MATCH: 993-1024 : 1011-1015 ('highly nutritious food products' vs 'food')
+9201744 FN: T14	Nutrition 230 237	protein
+9201744 FN: T17	Nutrition 715 721	cowpea
+9201744 FN: T10	Nutrition 337 344	protein
+9201744 FN: T11	Nutrition 1053 1062	jack bean
+9201744 FN: T12	Nutrition 755 774	Industrial products
+9201744 FN: T13	Nutrition 633 652	processed jack bean
+9201744 FN: T18	Nutrition 723 729	peanut
+9201744 FN: T19	Nutrition 731 741	pigeon pea
+9201744 9201744 FN: T31	Nutrition 1043 1062	processed jack bean
+9201744 FN: T8	Nutrition 613 622	jack bean
+9201744 FN: T9	Nutrition 255 267	carbohydrate
+9201744 FN: T6	Nutrition 204 208	bean
+9201744 FN: T7	Nutrition 327 336	Jack bean
+9201744 9201744 9201744 FN: T2	Nutrition 0 9	Jack bean
+9201744 9201744 9201744 FN: T28	Nutrition 936 948	high protein
+9201744 FN: T21	Nutrition 783 790	protein
+9201744 FN: T20	Nutrition 746 753	soybean
+9201744 FN: T23	Nutrition 818 824	starch
+9201744 FN: T25	Nutrition 834 839	grits
+9201744 FN: T24	Nutrition 826 832	flakes
+9201744 FN: T27	Nutrition 876 880	bean
+9201744 FN: T26	Nutrition 844 850	flours
+9201744 TP: T6	Nutrition 1011 1015	food
+9201744 TP: T4	Nutrition 128 132	food
+9201744 TP: T5	Nutrition 953 964	nutritional
+9201744 TP: T2	Nutrition 71 80	nutrition
+9201744 FP: T3	Nutrition 96 107	nutritional
+9201744 TP: T1	Nutrition 34 43	nutrition
+OVERLAP MATCH: 128-156 : 128-132 ('food potentials of jack bean' vs 'food')
+OVERLAP MATCH: 953-972 : 953-964 ('nutritional quality' vs 'nutritional')
+OVERLAP MATCH: 993-1024 : 1011-1015 ('highly nutritious food products' vs 'food')
+Note: filtering out: T1	Occupations 69 90	general practitioners
+Note: filtering out: T3	Occupations 168 188	health professionals
+Note: filtering out: T2	Out-of-scope 486 494	training
+Note: filtering out: T5	Out-of-scope 287 291	work
+7890451 7890451 TP: T1	Mental_health_practices 948 967	group psychotherapy
+Note: filtering out: T15	Out-of-scope 337 345	employed
+Note: filtering out: T30	Out-of-scope 1144 1152	products
+Note: filtering out: T19	Out-of-scope 1020 1028	products
+OVERLAP MATCH: 365-379 : 375-379 ('arsanilic acid' vs 'acid')
+OVERLAP MATCH: 454-472 : 468-472 ('phenylarsonic acid' vs 'acid')
+OVERLAP MATCH: 646-661 : 654-661 ('organic arsenic' vs 'arsenic')
+OVERLAP MATCH: 1061-1075 : 1071-1075 ('arsanilic acid' vs 'acid')
+OVERLAP MATCH: 1195-1218 : 1208-1218 ('agricultural wastewater' vs 'wastewater')
+25461415 25461415 FN: T16	Environmental_exposures 1077 1087	carbarsone
+25461415 FN: T17	LSF_out_of_context 20 27	poultry
+25461415 FN: T10	Environmental_exposures 349 363	feed additives
+25461415 FN: T11	Environmental_exposures 0 16	Organoarsenicals
+25461415 25461415 25461415 FN: T18	Environmental_exposures 1093 1102	nitarsone
+25461415 FN: T8	Environmental_exposures 844 860	organoarsenicals
+25461415 FN: T9	Environmental_exposures 699 715	organoarsenicals
+25461415 FN: T6	Environmental_exposures 419 435	Organoarsenicals
+25461415 FN: T7	Environmental_exposures 551 567	organoarsenicals
+25461415 FN: T4	Environmental_exposures 269 285	organoarsenicals
+25461415 FN: T5	Environmental_exposures 307 323	organoarsenicals
+25461415 FN: T2	Environmental_exposures 93 104	groundwater
+25461415 25461415 25461415 FN: T29	Environmental_exposures 1223 1238	solid treatment
+25461415 FN: T28	Environmental_exposures 992 1007	organoarsenical
+25461415 FN: T21	Environmental_exposures 1256 1283	organoarsenical-laden waste
+25461415 FN: T23	Environmental_exposures 381 391	carbarsone
+25461415 25461415 FN: T25	Environmental_exposures 408 417	roxarsone
+25461415 FN: T24	Environmental_exposures 393 402	nitarsone
+25461415 FN: T27	LSF_out_of_context 575 582	poultry
+25461415 25461415 TP: T6	Nutrition 1071 1075	acid
+25461415 TP: T7	Environmental_exposures 1208 1218	wastewater
+25461415 TP: T4	Nutrition 468 472	acid
+25461415 TP: T5	Environmental_exposures 654 661	arsenic
+25461415 TP: T2	Environmental_exposures 213 220	arsenic
+25461415 TP: T3	Nutrition 375 379	acid
+25461415 TP: T1	Environmental_exposures 68 89	Arsenic contamination
+OVERLAP MATCH: 646-661 : 654-661 ('organic arsenic' vs 'arsenic')
+OVERLAP MATCH: 1195-1218 : 1208-1218 ('agricultural wastewater' vs 'wastewater')
+Note: filtering out: T6	Geographical_Feature 96 104	Ethiopia
+Note: filtering out: T13	Geographical_Feature 88 94	Awassa
+OVERLAP MATCH: 26-49 : 33-49 ('female college students' vs 'college students')
+OVERLAP MATCH: 63-84 : 76-84 ('gender-based violence' vs 'violence')
+OVERLAP MATCH: 181-202 : 194-202 ('gender-based violence' vs 'violence')
+OVERLAP MATCH: 383-404 : 396-404 ('gender-based violence' vs 'violence')
+OVERLAP MATCH: 446-467 : 459-467 ('gender-based violence' vs 'violence')
+OVERLAP MATCH: 702-727 : 715-727 ('physical and sexual abuse' vs 'sexual abuse')
+OVERLAP MATCH: 1022-1043 : 1035-1043 ('gender-based violence' vs 'violence')
+18451097 FN: T9	Socioeconomic_factors 333 362	female undergraduate students
+18451097 18451097 18451097 18451097 18451097 18451097 18451097 18451097 TP: T6	Socioeconomic_factors 715 727	sexual abuse
+18451097 TP: T7	Socioeconomic_factors 1035 1043	violence
+18451097 TP: T4	Socioeconomic_factors 396 404	violence
+18451097 TP: T5	Socioeconomic_factors 459 467	violence
+18451097 TP: T2	Socioeconomic_factors 76 84	violence
+18451097 TP: T3	Socioeconomic_factors 194 202	violence
+18451097 TP: T1	Socioeconomic_factors 33 49	college students
+OVERLAP MATCH: 26-49 : 33-49 ('female college students' vs 'college students')
+OVERLAP MATCH: 63-84 : 76-84 ('gender-based violence' vs 'violence')
+OVERLAP MATCH: 181-202 : 194-202 ('gender-based violence' vs 'violence')
+OVERLAP MATCH: 383-404 : 396-404 ('gender-based violence' vs 'violence')
+OVERLAP MATCH: 446-467 : 459-467 ('gender-based violence' vs 'violence')
+OVERLAP MATCH: 702-727 : 715-727 ('physical and sexual abuse' vs 'sexual abuse')
+OVERLAP MATCH: 1022-1043 : 1035-1043 ('gender-based violence' vs 'violence')
+23725820 23725820 23725820 TP: T2	Socioeconomic_factors 476 494	social environment
+23725820 TP: T1	Sleep 189 194	sleep
+20590434 FN: T4	LSF_out_of_context 455 462	therapy
+20590434 FN: T5	LSF_out_of_context 848 855	therapy
+20590434 FN: T2	Mental_health_practices 110 138	Psychotherapeutic treatments
+20590434 20590434 20590434 TP: T2	Mental_health_practices 358 371	group therapy
+20590434 TP: T1	Mental_health_practices 0 13	Group therapy
+Note: filtering out: T7	Occupations 550 569	exercise specialist
+Note: replace discontinuous "social cognitive factors" with "factors"
+Note: replace discontinuous "social cognitive factors" with "factors"
+Note: replace discontinuous "exercise at home" with "at home"
+OVERLAP MATCH: 351-358 : 337-358 ('factors' vs 'environmental factors')
+OVERLAP MATCH: 780-799 : 780-790 ('exercising outdoors' vs 'exercising')
+OVERLAP MATCH: 1152-1165 : 1159-1165 ('higher income' vs 'income')
+OVERLAP MATCH: 1170-1192 : 1178-1192 ('greater social support' vs 'social support')
+OVERLAP MATCH: 1265-1272 : 1251-1272 ('factors' vs 'environmental factors')
+18820344 18820344 FN: T15	Physical_activity 1007 1015	exercise
+18820344 18820344 FN: T17	LSF_out_of_context 1103 1111	Internet
+18820344 FN: T10	Mental_health_practices 752 775	face-to-face counseling
+18820344 18820344 FN: T12	Physical_activity 838 852	exercise alone
+18820344 18820344 18820344 18820344 FN: T8	Socioeconomic_factors 672 695	residential environment
+18820344 18820344 18820344 FN: T4	Physical_activity 271 288	exercise behavior
+18820344 18820344 FN: T2	Physical_activity 148 167	exercise counseling
+18820344 FN: T3	LSF_out_of_context 216 224	Internet
+18820344 FN: T1	Physical_activity 24 43	exercise counseling
+18820344 18820344 18820344 FN: T23	LSF_out_of_context 1314 1322	Internet
+18820344 FN: T22	Physical_activity 1289 1309	exercise preferences
+18820344 FN: T25	Physical_activity 857 864	at home
+18820344 FN: T24	LSF_out_of_context 206 215	telephone
+18820344 FN: T26	Physical_activity 958 967	sedentary
+18820344 TP: T8	Socioeconomic_factors 1178 1192	social support
+18820344 TP: T9	Environmental_exposures 1251 1272	environmental factors
+18820344 TP: T6	Socioeconomic_factors 1069 1083	social support
+18820344 TP: T7	Socioeconomic_factors 1159 1165	income
+18820344 TP: T4	Socioeconomic_factors 880 894	social support
+18820344 TP: T5	Physical_activity 896 918	Low-intensity exercise
+18820344 TP: T2	Physical_activity 709 726	physical activity
+18820344 TP: T3	Physical_activity 780 790	exercising
+18820344 TP: T1	Environmental_exposures 337 358	environmental factors
+OVERLAP MATCH: 780-799 : 780-790 ('exercising outdoors' vs 'exercising')
+OVERLAP MATCH: 1152-1165 : 1159-1165 ('higher income' vs 'income')
+OVERLAP MATCH: 1170-1192 : 1178-1192 ('greater social support' vs 'social support')
+OVERLAP MATCH: 0-20 : 12-20 ('Responsible Gambling' vs 'Gambling')
+OVERLAP MATCH: 192-212 : 204-212 ('responsible gambling' vs 'gambling')
+30032352 FN: T4	Non_physical_leisure_time_activities 1025 1027	RG
+30032352 FN: T5	Non_physical_leisure_time_activities 214 216	RG
+30032352 30032352 FN: T3	Non_physical_leisure_time_activities 406 408	RG
+30032352 30032352 TP: T2	Non_physical_leisure_time_activities 204 212	gambling
+30032352 TP: T1	Non_physical_leisure_time_activities 12 20	Gambling
+OVERLAP MATCH: 0-20 : 12-20 ('Responsible Gambling' vs 'Gambling')
+OVERLAP MATCH: 192-212 : 204-212 ('responsible gambling' vs 'gambling')
+28834459 FN: T6	Socioeconomic_factors 786 798	time at work
+28834459 28834459 FN: T5	Physical_activity 318 327	sedentary
+28834459 28834459 28834459 28834459 TP: T4	Physical_activity 1020 1037	physical activity
+28834459 TP: T2	Socioeconomic_factors 328 338	workplaces
+28834459 TP: T3	Socioeconomic_factors 772 781	education
+28834459 TP: T1	Physical_activity 90 107	Physical Activity
+Note: replace discontinuous "Orthodontic management" with "management"
+Note: replace discontinuous "orthodontic treatment" with "treatment"
+OVERLAP MATCH: 667-684 : 667-678 ('orthodontic bands' vs 'orthodontic')
+14634166 FN: T4	Beauty_and_Cleaning 29 39	management
+14634166 FN: T5	Beauty_and_Cleaning 258 267	treatment
+14634166 FN: T2	Beauty_and_Cleaning 245 267	orthognathic treatment
+14634166 14634166 FN: T1	Beauty_and_Cleaning 16 39	orthognathic management
+14634166 FP: T2	Beauty_and_Cleaning 229 240	orthodontic
+14634166 TP: T3	Beauty_and_Cleaning 667 678	orthodontic
+14634166 FP: T1	Beauty_and_Cleaning 0 11	Orthodontic
+OVERLAP MATCH: 667-684 : 667-678 ('orthodontic bands' vs 'orthodontic')
+Note: filtering out: T1	Geographical_Feature 60 67	China's
+Note: filtering out: T3	Geographical_Feature 746 753	China's
+34273873 FN: T8	Environmental_exposures 722 725	CO2
+34273873 FN: T9	LSF_out_of_context 1438 1441	CO2
+34273873 34273873 FN: T7	Environmental_exposures 36 39	CO2
+34273873 FN: T4	Environmental_exposures 917 930	CO2 emissions
+34273873 FN: T5	Environmental_exposures 805 817	CO2 emission
+34273873 FN: T2	Environmental_exposures 186 193	climate
+34273873 FN: T10	Environmental_exposures 1326 1335	emissions
+34273873 FN: T11	LSF_out_of_context 137 145	emission
+34273873 TP: T1	Socioeconomic_factors 490 510	developing countries
+Note: filtering out: T2	Geographical_Feature 126 130	Iran
+Note: filtering out: T3	Geographical_Feature 315 319	Iran
+Note: filtering out: T4	Geographical_Feature 117 124	Isfahan
+Note: replace discontinuous "antioxidant vitamins C" with "C"
+Note: replace discontinuous "vitamins C" with "C"
+OVERLAP MATCH: 14-36 : 14-25 ('antioxidant vitamins E' vs 'antioxidant')
+OVERLAP MATCH: 14-36 : 26-34 ('antioxidant vitamins E' vs 'vitamins')
+OVERLAP MATCH: 252-262 : 252-260 ('vitamins E' vs 'vitamins')
+OVERLAP MATCH: 552-568 : 552-556 ('food consumption' vs 'food')
+OVERLAP MATCH: 698-725 : 698-709 ('Antioxidant supplementation' vs 'Antioxidant')
+OVERLAP MATCH: 1009-1036 : 1009-1020 ('antioxidant supplementation' vs 'antioxidant')
+OVERLAP MATCH: 1226-1255 : 1226-1238 ('antioxidants' supplementation' vs 'antioxidants')
+24326981 FN: T8	Nutrition 455 462	placebo
+24326981 FN: T9	Nutrition 160 167	placebo
+24326981 24326981 24326981 24326981 24326981 24326981 FN: T15	Nutrition 41 42	C
+24326981 FN: T16	Nutrition 267 268	C
+24326981 24326981 24326981 24326981 24326981 TP: T8	Nutrition 785 796	antioxidant
+24326981 TP: T9	Nutrition 1009 1020	antioxidant
+24326981 TP: T6	Nutrition 552 556	food
+24326981 TP: T7	Nutrition 698 709	Antioxidant
+24326981 TP: T4	Nutrition 417 426	vitamin E
+24326981 TP: T5	Nutrition 442 451	vitamin C
+24326981 TP: T2	Nutrition 26 34	vitamins
+24326981 TP: T3	Nutrition 252 260	vitamins
+24326981 TP: T1	Nutrition 14 25	antioxidant
+24326981 TP: T10	Nutrition 1226 1238	antioxidants
+OVERLAP MATCH: 14-36 : 14-25 ('antioxidant vitamins E' vs 'antioxidant')
+OVERLAP MATCH: 14-36 : 26-34 ('antioxidant vitamins E' vs 'vitamins')
+OVERLAP MATCH: 252-262 : 252-260 ('vitamins E' vs 'vitamins')
+OVERLAP MATCH: 552-568 : 552-556 ('food consumption' vs 'food')
+OVERLAP MATCH: 698-725 : 698-709 ('Antioxidant supplementation' vs 'Antioxidant')
+OVERLAP MATCH: 1009-1036 : 1009-1020 ('antioxidant supplementation' vs 'antioxidant')
+OVERLAP MATCH: 1226-1255 : 1226-1238 ('antioxidants' supplementation' vs 'antioxidants')
+OVERLAP MATCH: 18-32 : 24-32 ('grain amaranth' vs 'amaranth')
+OVERLAP MATCH: 87-101 : 93-101 ('grain amaranth' vs 'amaranth')
+OVERLAP MATCH: 387-422 : 387-395 ('amaranth-wheat composite flour diet' vs 'amaranth')
+OVERLAP MATCH: 387-422 : 418-422 ('amaranth-wheat composite flour diet' vs 'diet')
+OVERLAP MATCH: 465-475 : 471-475 ('wheat diet' vs 'diet')
+OVERLAP MATCH: 485-494 : 490-494 ('rice diet' vs 'diet')
+OVERLAP MATCH: 504-524 : 504-512 ('amaranth-wheat flour' vs 'amaranth')
+OVERLAP MATCH: 504-524 : 513-524 ('amaranth-wheat flour' vs 'wheat flour')
+OVERLAP MATCH: 544-559 : 551-559 ('popped amaranth' vs 'amaranth')
+OVERLAP MATCH: 661-672 : 668-672 ('low GI food' vs 'food')
+OVERLAP MATCH: 680-694 : 686-694 ('grain amaranth' vs 'amaranth')
+OVERLAP MATCH: 705-719 : 715-719 ('medium GI food' vs 'food')
+OVERLAP MATCH: 724-739 : 731-739 ('popped amaranth' vs 'amaranth')
+OVERLAP MATCH: 761-773 : 769-773 ('high GI food' vs 'food')
+9201751 9201751 9201751 FN: T16	Nutrition 187 192	Diets
+9201751 9201751 9201751 FN: T11	Nutrition 363 368	diets
+9201751 FN: T12	Nutrition 628 633	wheat
+9201751 FN: T13	Nutrition 638 642	rice
+9201751 9201751 FN: T19	LSF_out_of_context 268 275	glucose
+9201751 FN: T8	Nutrition 209 221	carbohydrate
+9201751 9201751 9201751 9201751 9201751 9201751 9201751 9201751 9201751 FN: T21	Nutrition 621 626	wheat
+9201751 9201751 FN: T23	Nutrition 34 39	wheat
+9201751 FN: T22	Nutrition 103 108	wheat
+9201751 FN: T25	Nutrition 113 117	rice
+9201751 FN: T24	Nutrition 44 48	rice
+9201751 9201751 FN: T26	Nutrition 699 704	wheat
+9201751 TP: T8	Nutrition 513 524	wheat flour
+9201751 TP: T9	Nutrition 551 559	amaranth
+9201751 TP: T6	Nutrition 490 494	diet
+9201751 TP: T7	Nutrition 504 512	amaranth
+9201751 TP: T4	Nutrition 418 422	diet
+9201751 TP: T5	Nutrition 471 475	diet
+9201751 TP: T2	Nutrition 93 101	amaranth
+9201751 TP: T3	Nutrition 387 395	amaranth
+9201751 TP: T1	Nutrition 24 32	amaranth
+9201751 TP: T14	Nutrition 715 719	food
+9201751 TP: T15	Nutrition 731 739	amaranth
+9201751 TP: T16	Nutrition 744 748	milk
+9201751 TP: T17	Nutrition 769 773	food
+9201751 TP: T10	Nutrition 563 567	milk
+9201751 TP: T11	Nutrition 608 616	amaranth
+9201751 TP: T12	Nutrition 668 672	food
+9201751 TP: T13	Nutrition 686 694	amaranth
+OVERLAP MATCH: 18-32 : 24-32 ('grain amaranth' vs 'amaranth')
+OVERLAP MATCH: 87-101 : 93-101 ('grain amaranth' vs 'amaranth')
+OVERLAP MATCH: 387-422 : 387-395 ('amaranth-wheat composite flour diet' vs 'amaranth')
+OVERLAP MATCH: 387-422 : 418-422 ('amaranth-wheat composite flour diet' vs 'diet')
+OVERLAP MATCH: 465-475 : 471-475 ('wheat diet' vs 'diet')
+OVERLAP MATCH: 485-494 : 490-494 ('rice diet' vs 'diet')
+OVERLAP MATCH: 504-524 : 504-512 ('amaranth-wheat flour' vs 'amaranth')
+OVERLAP MATCH: 504-524 : 513-524 ('amaranth-wheat flour' vs 'wheat flour')
+OVERLAP MATCH: 544-559 : 551-559 ('popped amaranth' vs 'amaranth')
+OVERLAP MATCH: 661-672 : 668-672 ('low GI food' vs 'food')
+OVERLAP MATCH: 680-694 : 686-694 ('grain amaranth' vs 'amaranth')
+OVERLAP MATCH: 705-719 : 715-719 ('medium GI food' vs 'food')
+OVERLAP MATCH: 724-739 : 731-739 ('popped amaranth' vs 'amaranth')
+OVERLAP MATCH: 761-773 : 769-773 ('high GI food' vs 'food')
+Note: filtering out: T2	Out-of-scope 0 8	Clothing
+Note: filtering out: T3	Out-of-scope 220 235	use of clothing
+Note: filtering out: T4	Out-of-scope 398 406	clothing
+Note: filtering out: T5	Out-of-scope 549 557	clothing
+Note: filtering out: T6	Out-of-scope 713 721	clothing
+Note: filtering out: T7	Out-of-scope 730 738	clothing
+Note: filtering out: T8	Out-of-scope 878 886	clothing
+Note: filtering out: T15	Out-of-scope 967 975	Clothing
+Note: filtering out: T16	Out-of-scope 108 132	warm and cold conditions
+14606923 FN: T9	Physical_activity 37 45	exercise
+14606923 FN: T1	Environmental_exposures 368 385	warm environments
+14606923 FN: T14	Physical_activity 91 99	exercise
+14606923 FN: T17	Physical_activity 206 214	activity
+14606923 FN: T10	Physical_activity 48 56	Exercise
+14606923 FN: T11	Physical_activity 1038 1046	exercise
+14606923 FN: T12	Physical_activity 795 803	exercise
+14606923 FN: T13	Physical_activity 487 495	exercise
+14606923 FN: T23	Physical_activity 1217 1227	work rates
+14606923 FN: T24	Environmental_exposures 1252 1269	relative humidity
+14606923 FN: T26	Environmental_exposures 1229 1242	large airflow
+Note: replace discontinuous "Low- intensity exercise training" with "intensity exercise training"
+Note: replace discontinuous "Exercise intensity" with "intensity"
+Note: filtering out: T12	Out-of-scope 323 327	play
+OVERLAP MATCH: 124-160 : 124-151 ('moderate-intensity exercise training' vs 'moderate-intensity exercise')
+OVERLAP MATCH: 124-160 : 124-151 ('moderate-intensity exercise training' vs 'moderate-intensity exercise')
+OVERLAP MATCH: 133-160 : 124-151 ('intensity exercise training' vs 'moderate-intensity exercise')
+32678068 32678068 32678068 32678068 32678068 32678068 32678068 32678068 32678068 32678068 FN: T10	Physical_activity 294 303	intensity
+32678068 32678068 TP: T8	Physical_activity 1128 1132	HIIT
+32678068 TP: T9	Physical_activity 1245 1249	HIIT
+32678068 TP: T6	Physical_activity 513 517	HIIT
+32678068 TP: T7	Physical_activity 593 597	HIIT
+32678068 TP: T4	Physical_activity 421 453	high-intensity interval training
+32678068 TP: T5	Physical_activity 455 459	HIIT
+32678068 TP: T2	Physical_activity 124 151	moderate-intensity exercise
+32678068 TP: T3	Physical_activity 271 289	Exercise frequency
+32678068 TP: T1	Physical_activity 46 78	High-Intensity Interval Training
+OVERLAP MATCH: 124-160 : 124-151 ('moderate-intensity exercise training' vs 'moderate-intensity exercise')
+OVERLAP MATCH: 124-160 : 124-151 ('moderate-intensity exercise training' vs 'moderate-intensity exercise')
+OVERLAP MATCH: 133-160 : 124-151 ('intensity exercise training' vs 'moderate-intensity exercise')
+18579917 FN: T8	Physical_activity 474 496	exercise interventions
+18579917 18579917 FN: T6	Physical_activity 192 200	exercise
+18579917 FN: T7	Physical_activity 304 312	exercise
+18579917 FN: T4	Physical_activity 18 26	exercise
+18579917 FN: T5	Physical_activity 280 288	exercise
+18579917 FN: T2	Socioeconomic_factors 330 352	sedentary older adults
+18579917 FN: T3	Socioeconomic_factors 501 523	sedentary older adults
+18579917 FN: T1	Socioeconomic_factors 56 78	sedentary older adults
+18579917 18579917 FN: T11	Physical_activity 812 835	facility-based exercise
+18579917 FN: T12	Physical_activity 885 903	homebased exercise
+18579917 TP: T2	Physical_activity 781 797	aerobic exercise
+18579917 TP: T1	Physical_activity 692 711	resistance exercise
+Note: replace discontinuous "Cognitive therapies" with "therapies"
+Note: replace discontinuous "behavioral treatment" with "treatment"
+OVERLAP MATCH: 25-34 : 14-34 ('therapies' vs 'behavioral therapies')
+24233430 24233430 FN: T7	Mental_health_practices 143 152	treatment
+24233430 24233430 FN: T5	Mental_health_practices 133 152	cognitive treatment
+24233430 24233430 24233430 24233430 TP: T4	Non_physical_leisure_time_activities 457 465	gambling
+24233430 TP: T2	Non_physical_leisure_time_activities 52 60	gambling
+24233430 TP: T3	Non_physical_leisure_time_activities 198 206	gambling
+24233430 TP: T1	Mental_health_practices 14 34	behavioral therapies
+OVERLAP MATCH: 25-34 : 14-34 ('therapies' vs 'behavioral therapies')
+Note: filtering out: T8	Out-of-scope 458 462	work
+41697 FN: T9	Drugs 205 212	alcohol
+41697 FN: T6	Drugs 152 159	ethanol
+41697 FN: T7	Drugs 321 328	ethanol
+41697 FN: T4	Nutrition 500 505	water
+41697 41697 FN: T2	Nutrition 378 386	drinking
+41697 FN: T3	Nutrition 422 441	caloric restriction
+41697 FN: T1	Drugs 54 64	alcoholism
+41697 FN: T14	Drugs 720 727	ethanol
+41697 FN: T15	Drugs 897 904	ethanol
+41697 FN: T16	Drugs 951 958	ethanol
+41697 FN: T10	Drugs 228 235	alcohol
+41697 FN: T11	Drugs 473 480	ethanol
+41697 FN: T12	Drugs 608 615	ethanol
+41697 FN: T13	Drugs 684 691	ethanol
+41697 TP: T1	Nutrition 491 495	food
+18820347 FN: T8	Physical_activity 760 768	PA level
+18820347 FN: T9	Physical_activity 915 917	PA
+18820347 FN: T6	Physical_activity 691 693	PA
+18820347 FN: T7	Physical_activity 997 999	PA
+18820347 FN: T4	Physical_activity 251 253	PA
+18820347 FN: T5	Physical_activity 667 669	PA
+18820347 18820347 FN: T3	Physical_activity 367 369	PA
+18820347 18820347 FN: T10	Physical_activity 1054 1056	PA
+18820347 18820347 18820347 FN: T13	Physical_activity 152 154	PA
+18820347 TP: T4	Physical_activity 339 346	walking
+18820347 TP: T2	Physical_activity 86 93	walking
+18820347 TP: T3	Physical_activity 133 150	physical activity
+18820347 TP: T1	Physical_activity 5 22	physical activity
+OVERLAP MATCH: 164-187 : 173-187 ('Severely sleep-deprived' vs 'sleep-deprived')
+OVERLAP MATCH: 341-383 : 341-371 ('rapid eye-movement (REM) sleep deprivation' vs 'rapid eye-movement (REM) sleep')
+OVERLAP MATCH: 679-697 : 679-688 ('REM sleep-deprived' vs 'REM sleep')
+16120095 FN: T8	Sleep 871 874	RSD
+16120095 FN: T9	Sleep 385 388	RSD
+16120095 16120095 FN: T7	Sleep 769 772	RSD
+16120095 16120095 16120095 16120095 16120095 16120095 16120095 16120095 TP: T8	Nutrition 864 869	punch
+16120095 TP: T6	Sleep 643 660	sleep deprivation
+16120095 TP: T7	Sleep 679 688	REM sleep
+16120095 TP: T4	Sleep 341 371	rapid eye-movement (REM) sleep
+16120095 TP: T5	Nutrition 525 530	punch
+16120095 TP: T2	Sleep 48 65	Sleep deprivation
+16120095 TP: T3	Sleep 173 187	sleep-deprived
+16120095 TP: T1	Sleep 11 28	sleep deprivation
+OVERLAP MATCH: 164-187 : 173-187 ('Severely sleep-deprived' vs 'sleep-deprived')
+OVERLAP MATCH: 341-383 : 341-371 ('rapid eye-movement (REM) sleep deprivation' vs 'rapid eye-movement (REM) sleep')
+OVERLAP MATCH: 679-697 : 679-688 ('REM sleep-deprived' vs 'REM sleep')
+Note: filtering out: T6	Occupations 101 118	Dental hygienists
+Note: filtering out: T7	Occupations 402 419	dental hygienists
+Note: filtering out: T8	Occupations 310 327	dental hygienists
+Note: filtering out: T9	Occupations 608 625	dental hygienists
+Note: filtering out: T5	Out-of-scope 1127 1134	reading
+OVERLAP MATCH: 0-40 : 10-22 ('Automated oral hygiene self-care devices' vs 'oral hygiene')
+OVERLAP MATCH: 720-760 : 730-742 ('automated oral hygiene self-care devices' vs 'oral hygiene')
+11475763 11475763 11475763 FN: T10	Beauty_and_Cleaning 941 969	Automated self-care products
+11475763 FN: T3	Beauty_and_Cleaning 245 272	automated self-care devices
+11475763 11475763 TP: T2	Beauty_and_Cleaning 730 742	oral hygiene
+11475763 TP: T3	Socioeconomic_factors 1188 1197	education
+11475763 TP: T1	Beauty_and_Cleaning 10 22	oral hygiene
+OVERLAP MATCH: 0-40 : 10-22 ('Automated oral hygiene self-care devices' vs 'oral hygiene')
+OVERLAP MATCH: 720-760 : 730-742 ('automated oral hygiene self-care devices' vs 'oral hygiene')
+Note: filtering out: T9	Geographical_Feature 279 292	West Virginia
+Note: replace discontinuous "food consumption" with "consumption"
+Note: filtering out: T21	Out-of-scope 669 677	brushing
+OVERLAP MATCH: 0-26 : 0-10 ('Toothpaste use by children' vs 'Toothpaste')
+OVERLAP MATCH: 46-67 : 46-57 ('nutritional education' vs 'nutritional')
+OVERLAP MATCH: 46-67 : 58-67 ('nutritional education' vs 'education')
+OVERLAP MATCH: 157-175 : 157-168 ('oral health habits' vs 'oral health')
+OVERLAP MATCH: 1074-1090 : 1081-1090 ('sugary beverages' vs 'beverages')
+OVERLAP MATCH: 1317-1331 : 1317-1327 ('toothpaste use' vs 'toothpaste')
+19723433 19723433 19723433 19723433 FN: T4	Nutrition 962 973	fruit juice
+19723433 19723433 FN: T2	Nutrition 938 942	soda
+19723433 FN: T3	Nutrition 944 956	sweet drinks
+19723433 19723433 19723433 FN: T15	Nutrition 1271 1286	skipping a meal
+19723433 19723433 19723433 FN: T10	Nutrition 401 412	consumption
+19723433 FN: T11	Nutrition 392 412	beverage consumption
+19723433 19723433 FN: T13	Beauty_and_Cleaning 1114 1122	brushing
+19723433 19723433 19723433 19723433 FP: T8	Nutrition 383 387	food
+19723433 TP: T9	Beauty_and_Cleaning 469 479	toothpaste
+19723433 FP: T6	Socioeconomic_factors 180 191	educational
+19723433 TP: T7	Beauty_and_Cleaning 364 376	oral hygiene
+19723433 TP: T4	Socioeconomic_factors 58 67	education
+19723433 TP: T5	Beauty_and_Cleaning 157 168	oral health
+19723433 TP: T2	Beauty_and_Cleaning 28 40	oral hygiene
+19723433 TP: T3	Nutrition 46 57	nutritional
+19723433 TP: T1	Beauty_and_Cleaning 0 10	Toothpaste
+19723433 TP: T14	Nutrition 1217 1227	vegetables
+19723433 TP: T15	Beauty_and_Cleaning 1317 1327	toothpaste
+19723433 TP: T10	Beauty_and_Cleaning 520 530	Toothpaste
+19723433 TP: T11	Beauty_and_Cleaning 640 650	toothpaste
+19723433 TP: T12	Nutrition 1081 1090	beverages
+19723433 TP: T13	Nutrition 1206 1212	fruits
+OVERLAP MATCH: 46-67 : 46-57 ('nutritional education' vs 'nutritional')
+OVERLAP MATCH: 1074-1090 : 1081-1090 ('sugary beverages' vs 'beverages')
+OVERLAP MATCH: 0-26 : 0-10 ('Toothpaste use by children' vs 'Toothpaste')
+OVERLAP MATCH: 157-175 : 157-168 ('oral health habits' vs 'oral health')
+OVERLAP MATCH: 1317-1331 : 1317-1327 ('toothpaste use' vs 'toothpaste')
+OVERLAP MATCH: 766-779 : 766-772 ('cheese dishes' vs 'cheese')
+OVERLAP MATCH: 931-942 : 931-935 ('food energy' vs 'food')
+19919514 FN: T14	Nutrition 244 259	protein content
+19919514 FN: T15	Nutrition 4 19	nutritive value
+19919514 FN: T16	Nutrition 71 86	nutritive value
+19919514 FN: T17	Nutrition 324 335	crude fiber
+19919514 FN: T10	Nutrition 974 977	fat
+19919514 FN: T12	Nutrition 785 799	energy content
+19919514 19919514 FN: T18	Nutrition 433 441	Samsamia
+19919514 FN: T19	Nutrition 451 456	Harda
+19919514 19919514 FN: T9	Nutrition 962 969	protein
+19919514 19919514 FN: T7	Nutrition 757 761	soup
+19919514 FN: T4	Nutrition 948 960	carbohydrate
+19919514 19919514 FN: T2	Nutrition 597 609	Carbohydrate
+19919514 FN: T3	Nutrition 667 679	carbohydrate
+19919514 FN: T1	Nutrition 50 64	Kuwaiti dishes
+19919514 FN: T21	Nutrition 491 505	Hameesat Fagae
+19919514 FN: T20	Nutrition 465 482	Hameesat Mushroom
+19919514 FN: T23	Nutrition 557 568	ash content
+19919514 FN: T22	Nutrition 528 533	fiber
+19919514 19919514 TP: T4	Nutrition 766 772	cheese
+19919514 TP: T5	Nutrition 931 935	food
+19919514 TP: T2	Nutrition 695 701	sweets
+19919514 TP: T3	Nutrition 706 723	rice-based dishes
+19919514 TP: T1	Nutrition 286 297	fat content
+OVERLAP MATCH: 766-779 : 766-772 ('cheese dishes' vs 'cheese')
+OVERLAP MATCH: 931-942 : 931-935 ('food energy' vs 'food')
+28095088 FN: T8	Physical_activity 1072 1074	PA
+28095088 FN: T9	Physical_activity 1099 1101	PA
+28095088 FN: T6	Physical_activity 704 706	PA
+28095088 FN: T7	Physical_activity 1063 1065	PA
+28095088 FN: T4	Physical_activity 596 598	PA
+28095088 FN: T5	Physical_activity 611 613	PA
+28095088 28095088 FN: T3	Physical_activity 241 243	PA
+28095088 28095088 TP: T2	Physical_activity 222 239	physical activity
+28095088 TP: T1	Physical_activity 54 71	Physical Activity
+Note: filtering out: T6	Out-of-scope 409 415	single
+Note: filtering out: T7	Out-of-scope 669 675	single
+Note: filtering out: T8	Out-of-scope 19 25	Single
+9777681 FN: T9	Physical_activity 395 403	training
+9777681 FN: T4	Physical_activity 258 266	exercise
+9777681 FN: T5	Physical_activity 928 954	greater volume of exercise
+9777681 9777681 FN: T3	Physical_activity 1094 1113	low-volume exercise
+9777681 9777681 FN: T10	Physical_activity 526 544	training durations
+9777681 FN: T11	Physical_activity 655 663	training
+9777681 FP: T4	Socioeconomic_factors 409 415	single
+9777681 FP: T5	Socioeconomic_factors 669 675	single
+9777681 FP: T2	Socioeconomic_factors 19 25	Single
+9777681 TP: T3	Physical_activity 95 112	strength training
+9777681 TP: T1	Physical_activity 0 17	Strength training
+Note: filtering out: T7	Out-of-scope 613 621	employed
+OVERLAP MATCH: 71-96 : 80-87 ('ammonium nitrate aerosols' vs 'nitrate')
+OVERLAP MATCH: 71-96 : 88-96 ('ammonium nitrate aerosols' vs 'aerosols')
+OVERLAP MATCH: 228-253 : 237-244 ('ammonium nitrate aerosols' vs 'nitrate')
+OVERLAP MATCH: 228-253 : 245-253 ('ammonium nitrate aerosols' vs 'aerosols')
+OVERLAP MATCH: 458-483 : 467-474 ('ammonium nitrate aerosols' vs 'nitrate')
+OVERLAP MATCH: 458-483 : 475-483 ('ammonium nitrate aerosols' vs 'aerosols')
+OVERLAP MATCH: 760-785 : 769-776 ('ammonium nitrate aerosols' vs 'nitrate')
+OVERLAP MATCH: 760-785 : 777-785 ('ammonium nitrate aerosols' vs 'aerosols')
+31770466 31770466 31770466 31770466 31770466 31770466 31770466 FP: T8	Socioeconomic_factors 624 630	single
+31770466 TP: T9	Environmental_exposures 640 647	aerosol
+31770466 TP: T6	Environmental_exposures 475 483	aerosols
+31770466 FP: T7	Nutrition 556 560	acid
+31770466 TP: T4	Environmental_exposures 245 253	aerosols
+31770466 TP: T5	Nutrition 467 474	nitrate
+31770466 TP: T2	Environmental_exposures 88 96	aerosols
+31770466 TP: T3	Nutrition 237 244	nitrate
+31770466 TP: T1	Nutrition 80 87	nitrate
+31770466 TP: T10	Nutrition 769 776	nitrate
+31770466 TP: T11	Environmental_exposures 777 785	aerosols
+31770466 TP: T12	Environmental_exposures 858 866	aerosols
+OVERLAP MATCH: 71-96 : 88-96 ('ammonium nitrate aerosols' vs 'aerosols')
+OVERLAP MATCH: 228-253 : 245-253 ('ammonium nitrate aerosols' vs 'aerosols')
+OVERLAP MATCH: 458-483 : 475-483 ('ammonium nitrate aerosols' vs 'aerosols')
+OVERLAP MATCH: 760-785 : 777-785 ('ammonium nitrate aerosols' vs 'aerosols')
+Note: filtering out: T2	Out-of-scope 599 603	work
+OVERLAP MATCH: 86-107 : 86-97 ('orthodontic treatment' vs 'orthodontic')
+OVERLAP MATCH: 180-203 : 192-203 ('coordinated orthodontic' vs 'orthodontic')
+OVERLAP MATCH: 1209-1230 : 1209-1220 ('orthodontic treatment' vs 'orthodontic')
+9433053 9433053 9433053 9433053 FN: T1	LSF_out_of_context 618 624	School
+9433053 TP: T2	Beauty_and_Cleaning 192 203	orthodontic
+9433053 TP: T3	Beauty_and_Cleaning 1209 1220	orthodontic
+9433053 TP: T1	Beauty_and_Cleaning 86 97	orthodontic
+OVERLAP MATCH: 86-107 : 86-97 ('orthodontic treatment' vs 'orthodontic')
+OVERLAP MATCH: 180-203 : 192-203 ('coordinated orthodontic' vs 'orthodontic')
+OVERLAP MATCH: 1209-1230 : 1209-1220 ('orthodontic treatment' vs 'orthodontic')
+Note: replace discontinuous "Artificial infestations" with "infestations"
+Note: replace discontinuous "Artificial infestation" with "infestation"
+32510685 FN: T8	Environmental_exposures 529 549	stachybotrychromenes
+32510685 32510685 FN: T6	Environmental_exposures 471 482	satratoxins
+32510685 FN: T7	Environmental_exposures 484 503	phenylspirodrimanes
+32510685 FN: T4	Environmental_exposures 383 392	mycotoxin
+32510685 FN: T5	Environmental_exposures 450 460	mycotoxins
+32510685 FN: T2	Environmental_exposures 61 70	mycotoxin
+32510685 FN: T3	Environmental_exposures 359 375	mold infestation
+32510685 FN: T1	LSF_out_of_context 237 242	water
+32510685 FN: T14	Environmental_exposures 929 935	paints
+32510685 FN: T15	Environmental_exposures 975 980	toxin
+32510685 FN: T16	Environmental_exposures 1031 1043	gypsum board
+32510685 FN: T17	Environmental_exposures 1122 1127	toxin
+32510685 FN: T10	Environmental_exposures 606 626	natural infestations
+32510685 FN: T11	Environmental_exposures 614 626	infestations
+32510685 FN: T12	LSF_out_of_context 794 803	mycotoxin
+32510685 FN: T13	LSF_out_of_context 833 842	mycotoxin
+32510685 FN: T20	Environmental_exposures 35 46	infestation
+32510685 FN: T18	LSF_out_of_context 1314 1319	light
+32510685 FN: T19	Environmental_exposures 14 46	natural Stachybotrys infestation
+32510685 TP: T2	Environmental_exposures 662 683	environmental factors
+32510685 FP: T1	Nutrition 160 165	fungi
+Note: filtering out: T6	Occupations 359 368	therapist
+1719829 FN: T7	Mental_health_practices 332 339	therapy
+1719829 1719829 1719829 1719829 1719829 1719829 TP: T4	Mental_health_practices 627 640	psychotherapy
+1719829 TP: T5	Mental_health_practices 818 831	psychotherapy
+1719829 TP: T2	Mental_health_practices 101 114	psychotherapy
+1719829 TP: T3	Mental_health_practices 557 570	psychotherapy
+1719829 TP: T1	Mental_health_practices 13 26	psychotherapy
+Note: filtering out: T2	Out-of-scope 748 752	work
+29260596 FN: T1	LSF_out_of_context 478 482	drug
+Note: filtering out: T6	Occupations 428 441	video sharers
+Note: filtering out: T10	Out-of-scope 869 881	social norms
+Note: filtering out: T11	Out-of-scope 937 956	interpersonal norms
+Note: filtering out: T7	Out-of-scope 280 284	work
+20528269 FN: T4	Non_physical_leisure_time_activities 569 580	use YouTube
+20528269 FN: T5	Non_physical_leisure_time_activities 685 696	use YouTube
+20528269 FN: T2	LSF_out_of_context 222 229	YouTube
+20528269 FN: T3	LSF_out_of_context 445 452	YouTube
+20528269 FN: T1	Non_physical_leisure_time_activities 53 66	using YouTube
+Note: replace discontinuous "hormonal contraceptive" with "contraceptive"
+OVERLAP MATCH: 38-64 : 47-60 ('hormonal contraception use' vs 'contraception')
+OVERLAP MATCH: 240-262 : 249-262 ('hormonal contraception' vs 'contraception')
+OVERLAP MATCH: 835-852 : 835-848 ('contraceptive use' vs 'contraceptive')
+OVERLAP MATCH: 878-895 : 878-891 ('Contraceptive use' vs 'Contraceptive')
+OVERLAP MATCH: 1044-1070 : 1048-1070 ('non-hormonal contraceptive' vs 'hormonal contraceptive')
+OVERLAP MATCH: 1044-1070 : 1048-1070 ('non-hormonal contraceptive' vs 'hormonal contraceptive')
+OVERLAP MATCH: 1057-1070 : 1048-1070 ('contraceptive' vs 'hormonal contraceptive')
+32216483 32216483 32216483 32216483 32216483 32216483 32216483 32216483 32216483 32216483 TP: T8	Socioeconomic_factors 1048 1070	hormonal contraceptive
+32216483 TP: T6	Socioeconomic_factors 878 891	Contraceptive
+32216483 TP: T7	Socioeconomic_factors 954 967	contraceptive
+32216483 TP: T4	Socioeconomic_factors 591 604	contraceptive
+32216483 TP: T5	Socioeconomic_factors 835 848	contraceptive
+32216483 TP: T2	Socioeconomic_factors 249 262	contraception
+32216483 TP: T3	Socioeconomic_factors 395 418	hormonal contraceptives
+32216483 TP: T1	Socioeconomic_factors 47 60	contraception
+OVERLAP MATCH: 38-64 : 47-60 ('hormonal contraception use' vs 'contraception')
+OVERLAP MATCH: 240-262 : 249-262 ('hormonal contraception' vs 'contraception')
+OVERLAP MATCH: 835-852 : 835-848 ('contraceptive use' vs 'contraceptive')
+OVERLAP MATCH: 878-895 : 878-891 ('Contraceptive use' vs 'Contraceptive')
+OVERLAP MATCH: 1044-1070 : 1048-1070 ('non-hormonal contraceptive' vs 'hormonal contraceptive')
+OVERLAP MATCH: 1044-1070 : 1048-1070 ('non-hormonal contraceptive' vs 'hormonal contraceptive')
+OVERLAP MATCH: 1057-1070 : 1048-1070 ('contraceptive' vs 'hormonal contraceptive')
+Note: filtering out: T14	Out-of-scope 895 899	play
+32761416 FN: T8	Nutrition 593 598	fruit
+32761416 FN: T9	Nutrition 643 652	kiwifruit
+32761416 FN: T6	Nutrition 449 460	fresh fruit
+32761416 32761416 FN: T4	Nutrition 348 363	fresh kiwifruit
+32761416 FN: T5	LSF_out_of_context 920 932	fermentation
+32761416 FN: T2	Nutrition 186 195	kiwifruit
+32761416 FN: T3	Nutrition 297 302	foods
+32761416 FN: T1	Nutrition 0 9	Kiwifruit
+32761416 FN: T10	Nutrition 727 736	Kiwifruit
+32761416 FN: T11	Nutrition 983 992	kiwifruit
+32761416 32761416 FN: T13	LSF_out_of_context 849 861	Fermentation
+32761416 TP: T2	Nutrition 943 956	dietary fiber
+32761416 TP: T1	Nutrition 469 482	Dietary fiber
+Note: filtering out: T17	Out-of-scope 566 575	awakening
+Note: filtering out: T18	Out-of-scope 793 802	awakening
+Note: filtering out: T19	Out-of-scope 299 307	Training
+OVERLAP MATCH: 57-70 : 57-62 ('sleep inertia' vs 'sleep')
+OVERLAP MATCH: 319-342 : 319-324 ('sleep for short periods' vs 'sleep')
+OVERLAP MATCH: 400-413 : 400-405 ('Sleep inertia' vs 'Sleep')
+OVERLAP MATCH: 489-502 : 489-494 ('Sleep inertia' vs 'Sleep')
+OVERLAP MATCH: 674-687 : 674-679 ('sleep inertia' vs 'sleep')
+10607215 10607215 10607215 10607215 10607215 10607215 10607215 10607215 10607215 10607215 FN: T14	Sleep 608 623	duration of nap
+10607215 10607215 FN: T16	Socioeconomic_factors 985 998	night workers
+10607215 10607215 10607215 FN: T12	Sleep 215 230	Very short naps
+10607215 FN: T13	Sleep 603 606	nap
+10607215 TP: T8	Sleep 489 494	Sleep
+10607215 TP: T9	Sleep 540 551	sleep stage
+10607215 TP: T6	Sleep 400 405	Sleep
+10607215 TP: T7	Sleep 471 478	napping
+10607215 TP: T4	Socioeconomic_factors 147 157	work place
+10607215 TP: T5	Sleep 319 324	sleep
+10607215 TP: T2	Sleep 57 62	sleep
+10607215 TP: T3	Sleep 132 139	napping
+10607215 TP: T1	Sleep 18 25	napping
+10607215 TP: T10	Sleep 628 639	wakefulness
+10607215 TP: T11	Sleep 674 679	sleep
+10607215 TP: T12	Sleep 901 908	napping
+OVERLAP MATCH: 57-70 : 57-62 ('sleep inertia' vs 'sleep')
+OVERLAP MATCH: 319-342 : 319-324 ('sleep for short periods' vs 'sleep')
+OVERLAP MATCH: 400-413 : 400-405 ('Sleep inertia' vs 'Sleep')
+OVERLAP MATCH: 489-502 : 489-494 ('Sleep inertia' vs 'Sleep')
+OVERLAP MATCH: 674-687 : 674-679 ('sleep inertia' vs 'sleep')
+9602551 FN: T8	Environmental_exposures 1316 1330	PM10 emissions
+9602551 FN: T9	LSF_out_of_context 231 239	emission
+9602551 FN: T6	Environmental_exposures 1147 1156	Emissions
+9602551 FN: T7	Environmental_exposures 997 1010	PM10 emission
+9602551 FN: T4	Environmental_exposures 443 462	PM10 mass emissions
+9602551 FN: T5	Environmental_exposures 338 350	suspend dust
+9602551 FN: T2	Environmental_exposures 121 139	particle emissions
+9602551 FN: T3	LSF_out_of_context 1205 1210	sport
+9602551 FN: T1	Environmental_exposures 0 20	Particulate emission
+9602551 FN: T10	LSF_out_of_context 481 489	emission
+9602551 FP: T2	Physical_activity 1039 1048	traveling
+9602551 FP: T3	Physical_activity 1263 1270	driving
+9602551 FP: T1	Physical_activity 976 985	traveling
+34787341 34787341 34787341 34787341 34787341 34787341 TP: T4	Socioeconomic_factors 1007 1021	social support
+34787341 TP: T5	Socioeconomic_factors 1101 1115	social support
+34787341 TP: T2	Socioeconomic_factors 369 383	social support
+34787341 TP: T3	Socioeconomic_factors 773 787	social support
+34787341 TP: T1	Socioeconomic_factors 32 46	social support
+Note: filtering out: T3	Occupations 410 419	therapist
+11467260 FN: T6	Mental_health_practices 564 571	therapy
+11467260 FN: T4	Mental_health_practices 297 312	adjunct therapy
+11467260 FN: T5	Non_physical_leisure_time_activities 506 510	play
+11467260 FN: T2	Mental_health_practices 162 174	play therapy
+11467260 FN: T1	Mental_health_practices 28 40	play therapy
+Note: filtering out: T2	Occupations 899 908	therapist
+OVERLAP MATCH: 648-665 : 640-658 ('counseling center' vs 'student counseling')
+18815990 FN: T3	Mental_health_practices 615 624	therapies
+18815990 18815990 TP: T1	Mental_health_practices 640 658	student counseling
+Note: filtering out: T3	Out-of-scope 71 78	therapy
+OVERLAP MATCH: 0-20 : 8-20 ('Lingual orthodontics' vs 'orthodontics')
+OVERLAP MATCH: 527-547 : 535-547 ('Lingual Orthodontics' vs 'Orthodontics')
+11037688 11037688 11037688 TP: T2	Beauty_and_Cleaning 535 547	Orthodontics
+11037688 TP: T1	Beauty_and_Cleaning 8 20	orthodontics
+OVERLAP MATCH: 0-20 : 8-20 ('Lingual orthodontics' vs 'orthodontics')
+OVERLAP MATCH: 527-547 : 535-547 ('Lingual Orthodontics' vs 'Orthodontics')
+22891609 FN: T2	LSF_out_of_context 736 741	abuse
+22891609 FN: T3	Beauty_and_Cleaning 166 180	child grooming
+22891609 FN: T1	LSF_out_of_context 59 68	sex abuse
+Note: filtering out: T3	Out-of-scope 154 162	products
+19083041 19083041 FN: T2	Nutrition 551 559	beverage
+19083041 19083041 19083041 FN: T1	Nutrition 20 28	beverage
+19083041 TP: T2	Nutrition 394 398	food
+19083041 TP: T3	Nutrition 1224 1233	beverages
+19083041 TP: T1	Nutrition 291 295	food
+OVERLAP MATCH: 396-420 : 413-420 ('death of a prior sibling' vs 'sibling')
+12510035 12510035 FN: T3	Socioeconomic_factors 1214 1227	abused infant
+12510035 FN: T1	Socioeconomic_factors 357 380	abuse in a living child
+12510035 TP: T1	Socioeconomic_factors 413 420	sibling
+OVERLAP MATCH: 396-420 : 413-420 ('death of a prior sibling' vs 'sibling')
+Note: filtering out: T1	Geographical_Feature 41 65	West Virginia Appalachia
+Note: filtering out: T2	Geographical_Feature 89 102	West Virginia
+Note: filtering out: T3	Geographical_Feature 318 331	West Virginia
+Note: filtering out: T4	Geographical_Feature 1133 1146	West Virginia
+Note: filtering out: T5	Geographical_Feature 425 438	West Virginia
+31015306 FN: T6	Beauty_and_Cleaning 1311 1322	dental care
+23849002 FN: T6	Socioeconomic_factors 958 974	cyber aggression
+23849002 FN: T7	Socioeconomic_factors 264 274	aggression
+23849002 FN: T4	Socioeconomic_factors 1088 1104	cyber aggression
+23849002 FN: T5	Socioeconomic_factors 516 532	cyber aggression
+23849002 FN: T2	Socioeconomic_factors 141 157	cyber aggression
+23849002 FN: T3	Socioeconomic_factors 768 784	cyber aggression
+23849002 FN: T1	Socioeconomic_factors 78 94	cyber aggression
+32008175 FN: T8	Physical_activity 558 566	training
+32008175 FN: T6	Physical_activity 292 301	exercises
+32008175 FN: T7	Physical_activity 472 481	exercises
+32008175 32008175 FN: T5	Physical_activity 257 265	training
+32008175 32008175 32008175 32008175 TP: T4	Physical_activity 744 764	resistance exercises
+32008175 TP: T2	Physical_activity 82 101	Resistance training
+32008175 TP: T3	Physical_activity 385 404	resistance exercise
+32008175 TP: T1	Physical_activity 13 33	Resistance Exercises
+Note: replace discontinuous "sieved maize mash" with "maize mash"
+Note: replace discontinuous "sieved maize mash" with "maize mash"
+OVERLAP MATCH: 78-99 : 95-99 ('fermented cereal food' vs 'food')
+1312237 FN: T14	Nutrition 345 362	sieved maize mash
+1312237 FN: T15	Nutrition 493 508	protein content
+1312237 FN: T16	Nutrition 584 599	protein content
+1312237 FN: T17	Nutrition 749 764	protein content
+1312237 FN: T10	Nutrition 964 981	sieved maize mash
+1312237 FN: T11	Nutrition 435 464	fermented unsieved maize mash
+1312237 FN: T12	Nutrition 772 801	fermented unsieved maize mash
+1312237 FN: T13	Nutrition 135 154	unsieved maize mash
+1312237 FN: T18	Nutrition 920 936	nutrient quality
+1312237 FN: T19	Nutrition 395 408	unsieved mash
+1312237 FN: T8	Nutrition 884 903	unsieved maize mash
+1312237 FN: T9	Nutrition 607 624	sieved maize mash
+1312237 FN: T6	Nutrition 275 294	unsieved maize mash
+1312237 FN: T7	Nutrition 836 863	fermented sieved maize mash
+1312237 FN: T4	Nutrition 31 50	unsieved maize mash
+1312237 FN: T5	Nutrition 230 247	sieved maize mash
+1312237 FN: T2	Nutrition 197 204	protein
+1312237 FN: T3	Nutrition 40 50	maize mash
+1312237 1312237 FN: T21	Nutrition 994 997	Ogi
+1312237 FN: T20	Nutrition 70 73	OGI
+1312237 FN: T23	Nutrition 209 214	lipid
+1312237 FN: T22	Nutrition 144 154	maize mash
+1312237 FN: T25	Nutrition 312 315	ash
+1312237 FN: T24	Nutrition 296 307	Crude fibre
+1312237 FN: T27	Nutrition 692 704	fermentation
+1312237 FN: T26	Nutrition 558 570	fermentation
+1312237 TP: T1	Nutrition 95 99	food
+OVERLAP MATCH: 78-99 : 95-99 ('fermented cereal food' vs 'food')
+Note: filtering out: T1	Occupations 54 70	psychotherapists
+Note: filtering out: T2	Occupations 657 673	psychotherapists
+3605460 FN: T3	Mental_health_practices 574 600	psychotherapeutic practice
+OVERLAP MATCH: 10-38 : 10-19 ('olive oil phenolic compounds' vs 'olive oil')
+OVERLAP MATCH: 10-38 : 20-38 ('olive oil phenolic compounds' vs 'phenolic compounds')
+26658900 26658900 26658900 FN: T7	Nutrition 190 207	phenolic contents
+26658900 26658900 26658900 26658900 26658900 26658900 TP: T8	Nutrition 1115 1133	phenolic compounds
+26658900 TP: T6	Nutrition 1073 1077	diet
+26658900 TP: T7	Nutrition 1084 1106	extra-virgin olive oil
+26658900 TP: T4	Nutrition 451 461	olive oils
+26658900 TP: T5	Nutrition 520 538	phenolic compounds
+26658900 TP: T2	Nutrition 20 38	phenolic compounds
+26658900 TP: T3	Nutrition 163 172	olive oil
+26658900 TP: T1	Nutrition 10 19	olive oil
+OVERLAP MATCH: 10-38 : 10-19 ('olive oil phenolic compounds' vs 'olive oil')
+OVERLAP MATCH: 10-38 : 20-38 ('olive oil phenolic compounds' vs 'phenolic compounds')
+Note: filtering out: T12	Geographical_Feature 266 277	Polichnitos
+Note: filtering out: T6	Out-of-scope 256 260	work
+15051238 FN: T8	LSF_out_of_context 879 884	water
+15051238 FN: T9	LSF_out_of_context 666 671	water
+15051238 FN: T7	LSF_out_of_context 183 188	water
+15051238 FN: T4	Environmental_exposures 390 418	(222)Rn concentration in air
+15051238 FN: T5	Environmental_exposures 791 807	progeny exposure
+15051238 15051238 FN: T3	Environmental_exposures 196 212	progeny exposure
+15051238 15051238 FN: T14	Environmental_exposures 439 446	(222)Rn
+15051238 FN: T15	Environmental_exposures 377 384	(222)Rn
+15051238 FN: T16	Environmental_exposures 16 37	(222)Rn-bearing water
+15051238 FN: T17	Environmental_exposures 739 746	(222)Rn
+15051238 FN: T10	LSF_out_of_context 339 344	water
+15051238 FN: T11	LSF_out_of_context 1047 1052	water
+15051238 FN: T13	Environmental_exposures 160 167	(222)Rn
+15051238 FN: T18	Environmental_exposures 841 848	(222)Rn
+15051238 TP: T2	Environmental_exposures 153 158	radon
+15051238 TP: T1	Environmental_exposures 45 66	occupational exposure
+3227224 FN: T4	Sleep 578 581	REM
+3227224 FN: T5	Sleep 587 594	stage 2
+3227224 3227224 3227224 3227224 TP: T4	Sleep 532 541	REM sleep
+3227224 FP: T2	Sleep 173 178	dream
+3227224 TP: T3	Sleep 247 277	rapid eye movement (REM) sleep
+3227224 TP: T1	Sleep 77 82	sleep
+Note: filtering out: T3	Out-of-scope 217 221	play
+Note: filtering out: T6	Out-of-scope 577 585	activity
+19559544 19559544 19559544 19559544 19559544 TP: T4	Drugs 1408 1414	opioid
+19559544 TP: T2	Drugs 1135 1141	opioid
+19559544 TP: T3	Drugs 1265 1271	opioid
+19559544 TP: T1	Drugs 177 183	opioid
+Note: filtering out: T1	Geographical_Feature 422 428	Canada
+Note: filtering out: T2	Geographical_Feature 407 416	Vancouver
+Note: replace discontinuous "urban assisted living sites" with "assisted living sites"
+24085399 FN: T8	Socioeconomic_factors 369 390	assisted living sites
+24085399 FN: T6	Socioeconomic_factors 67 88	assisted living sites
+24085399 FN: T7	Socioeconomic_factors 360 390	suburban assisted living sites
+24085399 24085399 24085399 24085399 TP: T2	Physical_activity 595 602	walking
+24085399 TP: T3	Physical_activity 1046 1053	walking
+24085399 TP: T1	Physical_activity 240 247	walking
+25409296 FN: T8	Physical_activity 1129 1137	PA level
+25409296 FN: T9	Physical_activity 1183 1191	PA level
+25409296 FN: T6	Physical_activity 884 886	PA
+25409296 FN: T7	Physical_activity 1015 1034	higher intensity PA
+25409296 FN: T4	Physical_activity 763 765	PA
+25409296 FN: T5	Physical_activity 792 794	PA
+25409296 25409296 FN: T3	Physical_activity 338 340	PA
+25409296 25409296 FN: T10	Physical_activity 1249 1251	PA
+25409296 FN: T11	LSF_out_of_context 188 191	fat
+25409296 FN: T12	LSF_out_of_context 668 671	fat
+25409296 FN: T13	Physical_activity 137 139	PA
+25409296 TP: T2	Physical_activity 118 135	Physical activity
+25409296 TP: T1	Physical_activity 33 50	Physical Activity
+30242044 FN: T4	LSF_out_of_context 132 142	Smoke-Free
+30242044 30242044 FN: T3	LSF_out_of_context 53 63	Smoke-Free
+30242044 30242044 TP: T2	Drugs 1232 1239	tobacco
+30242044 TP: T1	Socioeconomic_factors 987 993	salary
+Note: filtering out: T2	Occupations 281 296	group therapist
+Note: filtering out: T3	Occupations 552 561	therapist
+Note: filtering out: T4	Out-of-scope 130 134	work
+Note: filtering out: T5	Out-of-scope 17 21	work
+Note: filtering out: T6	Out-of-scope 519 523	work
+10390945 10390945 TP: T1	Mental_health_practices 224 237	group therapy
+Note: filtering out: T1	Occupations 105 132	mental health professionals
+Note: filtering out: T3	Occupations 588 598	clinicians
+Note: filtering out: T4	Geographical_Feature 225 231	Quebec
+Note: filtering out: T5	Occupations 603 614	researchers
+15789183 15789183 FN: T7	Non_physical_leisure_time_activities 291 299	gamblers
+15789183 FN: T2	Non_physical_leisure_time_activities 17 25	gamblers
+15789183 15789183 15789183 TP: T4	Non_physical_leisure_time_activities 658 666	gambling
+15789183 FP: T2	Socioeconomic_factors 232 236	City
+15789183 TP: T3	Non_physical_leisure_time_activities 519 527	Gambling
+15789183 TP: T1	Non_physical_leisure_time_activities 182 190	gambling
+OVERLAP MATCH: 30-52 : 39-52 ('hormonal contraception' vs 'contraception')
+OVERLAP MATCH: 271-303 : 280-303 ('combined hormonal contraceptives' vs 'hormonal contraceptives')
+24971489 FN: T6	Socioeconomic_factors 305 309	CHCs
+24971489 FN: T4	Socioeconomic_factors 1117 1121	CHCs
+24971489 FN: T5	Socioeconomic_factors 1275 1278	CHC
+24971489 24971489 24971489 24971489 TP: T2	Socioeconomic_factors 280 303	hormonal contraceptives
+24971489 TP: T3	Socioeconomic_factors 1067 1080	contraceptive
+24971489 TP: T1	Socioeconomic_factors 39 52	contraception
+OVERLAP MATCH: 30-52 : 39-52 ('hormonal contraception' vs 'contraception')
+OVERLAP MATCH: 271-303 : 280-303 ('combined hormonal contraceptives' vs 'hormonal contraceptives')
+Note: replace discontinuous "child physical abuse" with "abuse"
+Note: filtering out: T15	Geographical_Feature 286 290	U.S.
+Note: replace discontinuous "child sexual abuse" with "sexual abuse"
+OVERLAP MATCH: 596-601 : 589-601 ('abuse' vs 'sexual abuse')
+OVERLAP MATCH: 944-963 : 955-963 ('exposed to violence' vs 'violence')
+18718882 FN: T8	Socioeconomic_factors 641 644	IPV
+18718882 FN: T9	Socioeconomic_factors 899 902	IPV
+18718882 FN: T6	Socioeconomic_factors 1125 1128	IPV
+18718882 FN: T7	Socioeconomic_factors 1046 1049	IPV
+18718882 FN: T4	Socioeconomic_factors 545 548	IPV
+18718882 FN: T5	Socioeconomic_factors 622 625	IPV
+18718882 18718882 FN: T3	Socioeconomic_factors 358 370	physical IPV
+18718882 18718882 18718882 FN: T16	Socioeconomic_factors 217 220	IPV
+18718882 18718882 18718882 18718882 18718882 18718882 TP: T6	Socioeconomic_factors 589 601	sexual abuse
+18718882 TP: T7	Socioeconomic_factors 955 963	violence
+18718882 TP: T4	Socioeconomic_factors 375 386	child abuse
+18718882 TP: T5	Socioeconomic_factors 506 524	child sexual abuse
+18718882 TP: T2	Socioeconomic_factors 57 78	marital relationships
+18718882 TP: T3	Socioeconomic_factors 190 215	intimate partner violence
+18718882 TP: T1	Socioeconomic_factors 28 53	intimate partner violence
+OVERLAP MATCH: 596-601 : 589-601 ('abuse' vs 'sexual abuse')
+OVERLAP MATCH: 944-963 : 955-963 ('exposed to violence' vs 'violence')
+Note: filtering out: T3	Out-of-scope 79 96	social competence
+Note: filtering out: T8	Out-of-scope 444 461	social competence
+23252814 FN: T9	Socioeconomic_factors 1105 1119	social milieus
+23252814 23252814 FN: T7	Mental_health_practices 883 890	therapy
+23252814 FN: T4	Mental_health_practices 385 392	therapy
+23252814 FN: T5	Mental_health_practices 557 564	therapy
+23252814 FN: T2	Mental_health_practices 152 175	Structured Play Therapy
+23252814 FN: T1	Mental_health_practices 0 23	Structured Play Therapy
+23252814 23252814 23252814 TP: T2	Socioeconomic_factors 1022 1031	preschool
+23252814 TP: T3	Socioeconomic_factors 1035 1047	kindergarten
+23252814 TP: T1	Socioeconomic_factors 346 355	preschool
+OVERLAP MATCH: 145-169 : 145-152 ('smoking in public places' vs 'smoking')
+OVERLAP MATCH: 628-644 : 636-644 ('Gaseous nicotine' vs 'nicotine')
+11980101 FN: T14	LSF_out_of_context 1127 1138	restaurants
+11980101 11980101 11980101 FN: T17	LSF_out_of_context 1091 1097	discos
+11980101 11980101 11980101 11980101 11980101 FN: T18	LSF_out_of_context 1211 1217	discos
+11980101 FN: T19	Environmental_exposures 1250 1266	smoke generators
+11980101 FN: T30	LSF_out_of_context 92 103	restaurants
+11980101 FN: T31	LSF_out_of_context 298 309	restaurants
+11980101 FN: T32	LSF_out_of_context 417 428	restaurants
+11980101 FN: T33	LSF_out_of_context 726 737	restaurants
+11980101 11980101 11980101 FN: T6	Environmental_exposures 810 827	3-ethenylpyridine
+11980101 11980101 FN: T4	Drugs 13 30	3-ethenylpyridine
+11980101 FN: T5	Environmental_exposures 649 666	3-ethenylpyridine
+11980101 11980101 11980101 11980101 11980101 11980101 FN: T21	Environmental_exposures 882 914	total volatile organic compounds
+11980101 FN: T20	Environmental_exposures 1162 1194	total volatile organic compounds
+11980101 FN: T23	Environmental_exposures 923 925	CO
+11980101 FN: T22	Environmental_exposures 916 920	TVOC
+11980101 11980101 FN: T24	Environmental_exposures 930 933	CO2
+11980101 11980101 11980101 TP: T8	Environmental_exposures 409 412	ETS
+11980101 TP: T9	Environmental_exposures 485 488	ETS
+11980101 TP: T6	Drugs 258 265	Tobacco
+11980101 TP: T7	Environmental_exposures 380 407	environmental tobacco smoke
+11980101 TP: T4	Drugs 145 152	smoking
+11980101 TP: T5	Socioeconomic_factors 225 235	workplaces
+11980101 TP: T2	Environmental_exposures 61 88	environmental tobacco smoke
+11980101 TP: T3	Drugs 118 125	Tobacco
+11980101 TP: T1	Drugs 0 8	Nicotine
+11980101 TP: T14	Drugs 762 770	nicotine
+11980101 TP: T15	Environmental_exposures 1063 1066	ETS
+11980101 TP: T16	Non_physical_leisure_time_activities 1102 1112	nightclubs
+11980101 TP: T17	Non_physical_leisure_time_activities 1222 1232	nightclubs
+11980101 TP: T10	Environmental_exposures 567 570	ETS
+11980101 TP: T11	Socioeconomic_factors 616 626	workplaces
+11980101 TP: T12	Drugs 636 644	nicotine
+11980101 TP: T13	Environmental_exposures 694 697	ETS
+OVERLAP MATCH: 145-169 : 145-152 ('smoking in public places' vs 'smoking')
+OVERLAP MATCH: 628-644 : 636-644 ('Gaseous nicotine' vs 'nicotine')
+OVERLAP MATCH: 189-211 : 201-211 ('combustible cigarettes' vs 'cigarettes')
+OVERLAP MATCH: 273-298 : 273-282 ('cigarette filler nicotine' vs 'cigarette')
+OVERLAP MATCH: 273-298 : 290-298 ('cigarette filler nicotine' vs 'nicotine')
+OVERLAP MATCH: 618-639 : 624-631 ('cured tobacco leaves.' vs 'tobacco')
+OVERLAP MATCH: 958-978 : 970-978 ('plant-based nicotine' vs 'nicotine')
+29401309 29401309 29401309 29401309 29401309 29401309 29401309 29401309 29401309 29401309 FN: T14	LSF_out_of_context 1073 1081	toxicant
+29401309 FN: T15	LSF_out_of_context 691 699	toxicant
+29401309 29401309 29401309 FN: T12	LSF_out_of_context 97 101	Drug
+29401309 FN: T13	LSF_out_of_context 64 69	Plant
+29401309 TP: T8	Drugs 347 355	nicotine
+29401309 TP: T9	Drugs 599 607	nicotine
+29401309 TP: T6	Drugs 273 282	cigarette
+29401309 TP: T7	Drugs 290 298	nicotine
+29401309 TP: T4	Drugs 170 178	nicotine
+29401309 TP: T5	Drugs 201 211	cigarettes
+29401309 TP: T2	Drugs 50 60	Cigarettes
+29401309 TP: T3	Nutrition 88 92	Food
+29401309 TP: T1	Drugs 31 39	Nicotine
+29401309 TP: T10	Drugs 624 631	tobacco
+29401309 TP: T11	Drugs 970 978	nicotine
+29401309 TP: T12	Drugs 1137 1145	nicotine
+precision 90.91% (10/11) recall 90.91% (10/11) F 90.91%
+precision 100.00% (3/3) recall 50.00% (3/6) F 66.67%
+precision 100.00% (12/12) recall 75.00% (12/16) F 85.71%
+precision 66.67% (2/3) recall 100.00% (2/2) F 80.00%
+precision 0.00% (0/0) recall 0.00% (0/7) F 0.00%
+precision 0.00% (0/0) recall 0.00% (0/0) F 0.00%
+precision 0.00% (0/0) recall 0.00% (0/8) F 0.00%
+precision 0.00% (0/0) recall 0.00% (0/6) F 0.00%
+precision 0.00% (0/0) recall 0.00% (0/18) F 0.00%
+precision 100.00% (8/8) recall 80.00% (8/10) F 88.89%
+precision 100.00% (8/8) recall 40.00% (8/20) F 57.14%
+precision 100.00% (3/3) recall 25.00% (3/12) F 40.00%
+precision 100.00% (4/4) recall 100.00% (4/4) F 100.00%
+precision 100.00% (12/12) recall 75.00% (12/16) F 85.71%
+precision 100.00% (22/22) recall 86.96% (20/23) F 93.02%
+precision 83.33% (5/6) recall 18.52% (5/27) F 30.30%
+precision 100.00% (1/1) recall 100.00% (1/1) F 100.00%
+precision 100.00% (7/7) recall 26.92% (7/26) F 42.42%
+precision 100.00% (7/7) recall 87.50% (7/8) F 93.33%
+precision 100.00% (2/2) recall 100.00% (2/2) F 100.00%
+precision 100.00% (2/2) recall 40.00% (2/5) F 57.14%
+precision 100.00% (9/9) recall 44.00% (11/25) F 61.11%
+precision 100.00% (2/2) recall 40.00% (2/5) F 57.14%
+precision 100.00% (4/4) recall 66.67% (4/6) F 80.00%
+precision 33.33% (1/3) recall 20.00% (1/5) F 25.00%
+precision 100.00% (1/1) recall 11.11% (1/9) F 20.00%
+precision 100.00% (10/10) recall 69.23% (9/13) F 81.82%
+precision 100.00% (17/17) recall 55.56% (15/27) F 71.43%
+precision 0.00% (0/0) recall 0.00% (0/11) F 0.00%
+precision 100.00% (9/9) recall 90.91% (10/11) F 95.24%
+precision 100.00% (2/2) recall 16.67% (2/12) F 28.57%
+precision 100.00% (4/4) recall 71.43% (5/7) F 83.33%
+precision 100.00% (1/1) recall 6.67% (1/15) F 12.50%
+precision 100.00% (4/4) recall 30.77% (4/13) F 47.06%
+precision 100.00% (8/8) recall 72.73% (8/11) F 84.21%
+precision 100.00% (3/3) recall 60.00% (3/5) F 75.00%
+precision 0.00% (0/0) recall 0.00% (0/0) F 0.00%
+precision 86.67% (13/15) recall 63.16% (12/19) F 73.07%
+precision 100.00% (5/5) recall 21.74% (5/23) F 35.71%
+precision 100.00% (2/2) recall 22.22% (2/9) F 36.36%
+precision 40.00% (2/5) recall 25.00% (2/8) F 30.77%
+precision 83.33% (10/12) recall 100.00% (6/6) F 90.91%
+precision 100.00% (3/3) recall 75.00% (3/4) F 85.71%
+precision 50.00% (1/2) recall 5.00% (1/20) F 9.09%
+precision 100.00% (5/5) recall 83.33% (5/6) F 90.91%
+precision 0.00% (0/0) recall 0.00% (0/1) F 0.00%
+precision 0.00% (0/0) recall 0.00% (0/5) F 0.00%
+precision 100.00% (8/8) recall 100.00% (9/9) F 100.00%
+precision 100.00% (2/2) recall 15.38% (2/13) F 26.67%
+precision 100.00% (12/12) recall 75.00% (12/16) F 85.71%
+precision 0.00% (0/3) recall 0.00% (0/10) F 0.00%
+precision 100.00% (5/5) recall 100.00% (5/5) F 100.00%
+precision 0.00% (0/0) recall 0.00% (0/0) F 0.00%
+precision 0.00% (0/0) recall 0.00% (0/5) F 0.00%
+precision 100.00% (1/1) recall 50.00% (1/2) F 66.67%
+precision 100.00% (2/2) recall 100.00% (2/2) F 100.00%
+precision 0.00% (0/0) recall 0.00% (0/3) F 0.00%
+precision 100.00% (3/3) recall 60.00% (3/5) F 75.00%
+precision 100.00% (1/1) recall 33.33% (1/3) F 50.00%
+precision 0.00% (0/0) recall 0.00% (0/1) F 0.00%
+precision 0.00% (0/0) recall 0.00% (0/7) F 0.00%
+precision 100.00% (4/4) recall 50.00% (4/8) F 66.67%
+precision 100.00% (1/1) recall 3.70% (1/27) F 7.14%
+precision 0.00% (0/0) recall 0.00% (0/1) F 0.00%
+precision 100.00% (8/8) recall 87.50% (7/8) F 93.33%
+precision 100.00% (2/2) recall 12.50% (2/16) F 22.22%
+precision 75.00% (3/4) recall 60.00% (3/5) F 66.67%
+precision 100.00% (4/4) recall 100.00% (4/4) F 100.00%
+precision 100.00% (3/3) recall 50.00% (3/6) F 66.67%
+precision 100.00% (2/2) recall 15.38% (2/13) F 26.67%
+precision 100.00% (2/2) recall 50.00% (2/4) F 66.67%
+precision 100.00% (1/1) recall 100.00% (1/1) F 100.00%
+precision 75.00% (3/4) recall 60.00% (3/5) F 66.67%
+precision 100.00% (3/3) recall 50.00% (3/6) F 66.67%
+precision 100.00% (7/7) recall 50.00% (8/16) F 66.67%
+precision 100.00% (3/3) recall 33.33% (3/9) F 50.00%
+precision 100.00% (17/17) recall 51.52% (17/33) F 68.00%
+precision 100.00OVERLAP MATCH: 189-211 : 201-211 ('combustible cigarettes' vs 'cigarettes')
+OVERLAP MATCH: 273-298 : 273-282 ('cigarette filler nicotine' vs 'cigarette')
+OVERLAP MATCH: 273-298 : 290-298 ('cigarette filler nicotine' vs 'nicotine')
+OVERLAP MATCH: 618-639 : 624-631 ('cured tobacco leaves.' vs 'tobacco')
+OVERLAP MATCH: 958-978 : 970-978 ('plant-based nicotine' vs 'nicotine')
+Note: filtering out: T4	Geographical_Feature 125 127	UK
+Note: filtering out: T5	Occupations 386 399	orthodontists
+Note: filtering out: T6	Geographical_Feature 759 761	UK
+Note: filtering out: T7	Occupations 738 751	orthodontists
+OVERLAP MATCH: 33-53 : 41-53 ('lingual orthodontics' vs 'orthodontics')
+OVERLAP MATCH: 56-75 : 64-75 ('Lingual orthodontic' vs 'orthodontic')
+OVERLAP MATCH: 534-554 : 542-554 ('lingual orthodontics' vs 'orthodontics')
+24005946 24005946 24005946 24005946 TP: T2	Beauty_and_Cleaning 64 75	orthodontic
+24005946 TP: T3	Beauty_and_Cleaning 542 554	orthodontics
+24005946 TP: T1	Beauty_and_Cleaning 41 53	orthodontics
+OVERLAP MATCH: 33-53 : 41-53 ('lingual orthodontics' vs 'orthodontics')
+OVERLAP MATCH: 56-75 : 64-75 ('Lingual orthodontic' vs 'orthodontic')
+OVERLAP MATCH: 534-554 : 542-554 ('lingual orthodontics' vs 'orthodontics')
+Note: filtering out: T12	Geographical_Feature 265 279	European Union
+18522972 18522972 18522972 18522972 18522972 18522972 18522972 18522972 18522972 18522972 FN: T10	Environmental_exposures 116 133	chemical industry
+18522972 18522972 TP: T8	Drugs 446 453	tobacco
+18522972 TP: T9	Drugs 554 561	tobacco
+18522972 TP: T6	Drugs 287 294	tobacco
+18522972 TP: T7	Drugs 415 422	tobacco
+18522972 TP: T4	Drugs 174 181	tobacco
+18522972 TP: T5	Drugs 234 241	tobacco
+18522972 TP: T2	Drugs 66 73	tobacco
+18522972 TP: T3	Drugs 145 152	tobacco
+18522972 TP: T1	Drugs 4 11	tobacco
+18522972 TP: T10	Drugs 621 628	tobacco
+OVERLAP MATCH: 142-172 : 153-161 ('drugs with sedative properties' vs 'sedative')
+OVERLAP MATCH: 1006-1034 : 1010-1034 ('non-rapid eye movement sleep' vs 'rapid eye movement sleep')
+28116804 FN: T8	Drugs 704 711	placebo
+28116804 FN: T9	Drugs 1174 1181	placebo
+28116804 28116804 28116804 28116804 28116804 28116804 28116804 28116804 TP: T8	Sleep 1136 1141	sleep
+28116804 TP: T6	Sleep 952 957	sleep
+28116804 TP: T7	Sleep 1010 1034	rapid eye movement sleep
+28116804 TP: T4	Sleep 407 412	sleep
+28116804 FP: T5	Sleep 498 505	bedtime
+28116804 TP: T2	Sleep 221 226	sleep
+28116804 TP: T3	Sleep 370 375	sleep
+28116804 TP: T1	Drugs 153 161	sedative
+OVERLAP MATCH: 142-172 : 153-161 ('drugs with sedative properties' vs 'sedative')
+OVERLAP MATCH: 1006-1034 : 1010-1034 ('non-rapid eye movement sleep' vs 'rapid eye movement sleep')
+OVERLAP MATCH: 61-85 : 61-76 ('sexually abused children' vs 'sexually abused')
+OVERLAP MATCH: 326-350 : 326-341 ('sexually abused children' vs 'sexually abused')
+OVERLAP MATCH: 465-489 : 465-480 ('sexually abused children' vs 'sexually abused')
+10626618 10626618 FN: T5	Mental_health_practices 573 603	cognitive-behavioral treatment
+10626618 10626618 10626618 10626618 TP: T4	Socioeconomic_factors 465 480	sexually abused
+10626618 TP: T2	Socioeconomic_factors 61 76	sexually abused
+10626618 TP: T3	Socioeconomic_factors 326 341	sexually abused
+10626618 TP: T1	Mental_health_practices 28 56	cognitive behavioral therapy
+OVERLAP MATCH: 61-85 : 61-76 ('sexually abused children' vs 'sexually abused')
+OVERLAP MATCH: 326-350 : 326-341 ('sexually abused children' vs 'sexually abused')
+OVERLAP MATCH: 465-489 : 465-480 ('sexually abused children' vs 'sexually abused')
+Note: filtering out: T11	Geographical_Feature 518 525	Windsor
+Note: filtering out: T12	Geographical_Feature 551 558	Windsor
+Note: filtering out: T13	Geographical_Feature 560 567	Ontario
+Note: filtering out: T14	Geographical_Feature 569 575	Canada
+Note: filtering out: T16	Geographical_Feature 682 689	Windsor
+Note: filtering out: T17	Geographical_Feature 721 728	Windsor
+OVERLAP MATCH: 529-547 : 529-537 ('gambling behaviour' vs 'gambling')
+OVERLAP MATCH: 606-624 : 606-614 ('gambling behaviour' vs 'gambling')
+12766445 12766445 12766445 12766445 12766445 12766445 12766445 12766445 12766445 12766445 FN: T15	Non_physical_leisure_time_activities 1024 1032	gamblers
+12766445 12766445 FN: T18	LSF_out_of_context 586 595	telephone
+12766445 TP: T8	Non_physical_leisure_time_activities 873 881	gambling
+12766445 TP: T9	Non_physical_leisure_time_activities 1156 1164	gambling
+12766445 TP: T6	Non_physical_leisure_time_activities 529 537	gambling
+12766445 TP: T7	Non_physical_leisure_time_activities 606 614	gambling
+12766445 TP: T4	Non_physical_leisure_time_activities 282 290	gambling
+12766445 TP: T5	Non_physical_leisure_time_activities 341 349	gambling
+12766445 TP: T2	Non_physical_leisure_time_activities 55 63	Gambling
+12766445 TP: T3	Non_physical_leisure_time_activities 88 95	pastime
+12766445 TP: T1	Non_physical_leisure_time_activities 22 37	Casino Gambling
+12766445 TP: T10	Non_physical_leisure_time_activities 1278 1286	gambling
+OVERLAP MATCH: 529-547 : 529-537 ('gambling behaviour' vs 'gambling')
+OVERLAP MATCH: 606-624 : 606-614 ('gambling behaviour' vs 'gambling')
+Note: filtering out: T3	Geographical_Feature 225 238	United States
+Note: filtering out: T4	Geographical_Feature 243 249	Europe
+16758316 16758316 16758316 16758316 16758316 FN: T5	Nutrition 336 363	traditional medicine plants
+16758316 16758316 FN: T1	Nutrition 81 95	Dietary plants
+16758316 FN: T14	LSF_out_of_context 932 943	germination
+16758316 FN: T10	Nutrition 100 119	herbal preparations
+16758316 FN: T11	Nutrition 653 658	plant
+16758316 FN: T13	LSF_out_of_context 948 960	fermentation
+16758316 TP: T4	Nutrition 1045 1052	pumpkin
+16758316 TP: T5	Nutrition 1130 1137	pumpkin
+16758316 TP: T2	Socioeconomic_factors 164 184	developing countries
+16758316 TP: T3	Nutrition 379 386	pumpkin
+16758316 TP: T1	Nutrition 71 78	pumpkin
+Note: filtering out: T6	Out-of-scope 98 122	Sao Paulo City residents
+Note: filtering out: T10	Out-of-scope 320 356	individuals living in Sao Paulo City
+Note: filtering out: T14	Geographical_Feature 660 669	Sao Paulo
+Note: filtering out: T3	Out-of-scope 30 54	Sao Paulo City residents
+Note: filtering out: T13	Geographical_Feature 98 112	Sao Paulo City
+Note: filtering out: T15	Geographical_Feature 342 356	Sao Paulo City
+Note: filtering out: T16	Geographical_Feature 30 44	Sao Paulo City
+OVERLAP MATCH: 225-249 : 239-243 ('typical adult food items' vs 'food')
+16626805 16626805 FN: T9	LSF_out_of_context 435 442	Uranium
+16626805 16626805 FN: T4	Environmental_exposures 75 82	uranium
+16626805 16626805 FN: T2	Environmental_exposures 293 316	daily intake of uranium
+16626805 FN: T1	Environmental_exposures 0 7	Uranium
+16626805 FN: T11	Environmental_exposures 467 474	uranium
+16626805 FN: T12	LSF_out_of_context 592 599	uranium
+16626805 FP: T6	Socioeconomic_factors 352 356	City
+16626805 FP: T4	Socioeconomic_factors 108 112	City
+16626805 TP: T5	Nutrition 239 243	food
+16626805 FP: T2	Socioeconomic_factors 40 44	City
+16626805 TP: T3	Nutrition 90 94	diet
+16626805 TP: T1	Nutrition 22 26	diet
+OVERLAP MATCH: 225-249 : 239-243 ('typical adult food items' vs 'food')
+OVERLAP MATCH: 411-430 : 411-418 ('tobacco consumption' vs 'tobacco')
+20472573 FN: T8	LSF_out_of_context 226 233	tobacco
+20472573 20472573 20472573 20472573 20472573 20472573 20472573 20472573 FN: T1	LSF_out_of_context 19 26	tobacco
+20472573 20472573 20472573 20472573 TP: T8	Drugs 842 849	tobacco
+20472573 TP: T9	Drugs 895 902	tobacco
+20472573 TP: T6	Drugs 411 418	tobacco
+20472573 TP: T7	Drugs 564 571	tobacco
+20472573 TP: T4	Drugs 287 294	tobacco
+20472573 TP: T5	Drugs 385 392	tobacco
+20472573 TP: T2	Drugs 126 133	tobacco
+20472573 TP: T3	Drugs 171 178	Tobacco
+20472573 TP: T1	Drugs 84 91	tobacco
+20472573 TP: T10	Drugs 1046 1053	tobacco
+OVERLAP MATCH: 411-430 : 411-418 ('tobacco consumption' vs 'tobacco')
+Note: filtering out: T2	Geographical_Feature 28 34	Serbia
+Note: filtering out: T6	Geographical_Feature 298 304	Serbia
+Note: filtering out: T7	Geographical_Feature 318 324	Serbia
+Note: filtering out: T12	Geographical_Feature 644 650	Serbia
+Note: filtering out: T16	Geographical_Feature 846 852	Serbia
+Note: filtering out: T19	Geographical_Feature 947 953	Serbia
+Note: replace discontinuous "low-income countries" with "countries"
+OVERLAP MATCH: 458-477 : 458-465 ('tobacco consumption' vs 'tobacco')
+OVERLAP MATCH: 770-792 : 770-793 ('middle-income countrie' vs 'middle-income countries')
+OVERLAP MATCH: 770-792 : 770-793 ('middle-income countrie' vs 'middle-income countries')
+OVERLAP MATCH: 784-793 : 770-793 ('countries' vs 'middle-income countries')
+OVERLAP MATCH: 922-943 : 922-931 ('cigarette consumption' vs 'cigarette')
+32848077 32848077 32848077 32848077 32848077 32848077 32848077 32848077 32848077 32848077 32848077 32848077 32848077 32848077 32848077 32848077 32848077 32848077 32848077 TP: T8	Drugs 534 541	tobacco
+32848077 TP: T9	Socioeconomic_factors 583 593	employment
+32848077 TP: T6	Drugs 414 421	tobacco
+32848077 TP: T7	Drugs 458 465	tobacco
+32848077 TP: T4	Socioeconomic_factors 168 184	Household Budget
+32848077 TP: T5	Drugs 266 276	cigarettes
+32848077 TP: T2	Socioeconomic_factors 52 73	middle-income country
+32848077 TP: T3	Drugs 103 110	tobacco
+32848077 TP: T1	Drugs 0 7	Tobacco
+32848077 TP: T14	Drugs 814 824	cigarettes
+32848077 TP: T15	Drugs 867 874	tobacco
+32848077 TP: T16	Drugs 922 931	cigarette
+32848077 TP: T17	Drugs 1003 1013	cigarettes
+32848077 TP: T10	Drugs 620 629	cigarette
+32848077 TP: T11	Drugs 676 686	cigarettes
+32848077 FP: T12	Socioeconomic_factors 755 765	low-income
+32848077 TP: T13	Socioeconomic_factors 770 793	middle-income countries
+32848077 TP: T18	Drugs 1101 1108	tobacco
+OVERLAP MATCH: 458-477 : 458-465 ('tobacco consumption' vs 'tobacco')
+OVERLAP MATCH: 922-943 : 922-931 ('cigarette consumption' vs 'cigarette')
+OVERLAP MATCH: 770-792 : 770-793 ('middle-income countrie' vs 'middle-income countries')
+OVERLAP MATCH: 770-792 : 770-793 ('middle-income countrie' vs 'middle-income countries')
+OVERLAP MATCH: 784-793 : 770-793 ('countries' vs 'middle-income countries')
+Note: filtering out: T3	Out-of-scope 359 363	work
+Note: filtering out: T4	Out-of-scope 625 632	cooling
+10607166 FN: T2	Physical_activity 527 546	rhythmic activities
+10607166 10607166 TP: T1	Sleep 157 162	sleep
+Note: filtering out: T5	Out-of-scope 424 435	Nutritional
+OVERLAP MATCH: 643-674 : 643-664 ('saturated fatty acids-rich fats' vs 'saturated fatty acids')
+OVERLAP MATCH: 873-901 : 873-894 ('saturated fatty acids intake' vs 'saturated fatty acids')
+OVERLAP MATCH: 948-961 : 957-961 ('balanced diet' vs 'diet')
+28142298 28142298 28142298 28142298 28142298 28142298 28142298 28142298 28142298 28142298 28142298 28142298 28142298 TP: T8	Nutrition 643 664	saturated fatty acids
+28142298 TP: T9	Nutrition 711 732	saturated fatty acids
+28142298 FP: T6	Nutrition 424 435	Nutritional
+28142298 TP: T7	Nutrition 601 609	palm oil
+28142298 TP: T4	Nutrition 119 123	food
+28142298 TP: T5	Nutrition 334 343	Nutrition
+28142298 TP: T2	Nutrition 50 59	Nutrition
+28142298 TP: T3	Nutrition 103 111	palm oil
+28142298 TP: T1	Nutrition 0 8	Palm oil
+28142298 TP: T10	Nutrition 768 776	palm oil
+28142298 TP: T11	Nutrition 873 894	saturated fatty acids
+28142298 TP: T12	Nutrition 957 961	diet
+28142298 TP: T13	Nutrition 997 1005	palm oil
+OVERLAP MATCH: 643-674 : 643-664 ('saturated fatty acids-rich fats' vs 'saturated fatty acids')
+OVERLAP MATCH: 873-901 : 873-894 ('saturated fatty acids intake' vs 'saturated fatty acids')
+OVERLAP MATCH: 948-961 : 957-961 ('balanced diet' vs 'diet')
+OVERLAP MATCH: 25-50 : 33-50 ('daytime exposure to light' vs 'exposure to light')
+OVERLAP MATCH: 177-194 : 189-194 ('patterns of sleep' vs 'sleep')
+OVERLAP MATCH: 428-444 : 439-444 ('periods of sleep' vs 'sleep')
+OVERLAP MATCH: 715-728 : 723-728 ('reduced sleep' vs 'sleep')
+15560769 15560769 FN: T9	Sleep 843 851	Sleeping
+15560769 15560769 15560769 15560769 15560769 15560769 15560769 15560769 FN: T14	Environmental_exposures 1061 1066	light
+15560769 FN: T15	LSF_out_of_context 330 338	activity
+15560769 FN: T10	Environmental_exposures 970 1005	exposed to significantly more light
+15560769 FN: T11	Sleep 1132 1148	circadian system
+15560769 FN: T12	Sleep 945 964	slept well at night
+15560769 FN: T13	LSF_out_of_context 360 365	light
+15560769 TP: T8	Sleep 898 914	night-time sleep
+15560769 TP: T6	Sleep 723 728	sleep
+15560769 TP: T7	Sleep 817 822	sleep
+15560769 TP: T4	Sleep 189 194	sleep
+15560769 TP: T5	Sleep 439 444	sleep
+15560769 TP: T2	Sleep 55 71	night-time sleep
+15560769 TP: T3	Environmental_exposures 150 167	exposure to light
+15560769 TP: T1	Environmental_exposures 33 50	exposure to light
+OVERLAP MATCH: 25-50 : 33-50 ('daytime exposure to light' vs 'exposure to light')
+OVERLAP MATCH: 177-194 : 189-194 ('patterns of sleep' vs 'sleep')
+OVERLAP MATCH: 428-444 : 439-444 ('periods of sleep' vs 'sleep')
+OVERLAP MATCH: 715-728 : 723-728 ('reduced sleep' vs 'sleep')
+Note: filtering out: T1	Geographical_Feature 40 57	rural Appalachian
+Note: filtering out: T3	Geographical_Feature 379 396	rural Appalachian
+Note: filtering out: T5	Geographical_Feature 800 806	Lisbon
+Note: filtering out: T6	Geographical_Feature 808 812	Ohio
+Note: filtering out: T2	Occupations 204 221	dental hygienists
+Note: filtering out: T12	Geographical_Feature 152 162	Youngstown
+Note: filtering out: T13	Occupations 715 722	dentist
+Note: filtering out: T14	Out-of-scope 675 679	work
+OVERLAP MATCH: 1103-1122 : 1103-1113 ('low-income families' vs 'low-income')
+9470567 9470567 9470567 9470567 9470567 FN: T10	LSF_out_of_context 276 287	dental care
+9470567 9470567 TP: T6	Socioeconomic_factors 1103 1113	low-income
+9470567 TP: T4	Beauty_and_Cleaning 847 858	oral health
+9470567 TP: T5	Beauty_and_Cleaning 1082 1093	oral health
+9470567 FP: T2	Beauty_and_Cleaning 510 525	oral healthcare
+9470567 TP: T3	Beauty_and_Cleaning 607 621	dental hygiene
+9470567 TP: T1	Socioeconomic_factors 423 432	education
+OVERLAP MATCH: 1103-1122 : 1103-1113 ('low-income families' vs 'low-income')
+Note: filtering out: T2	Geographical_Feature 232 238	Europe
+OVERLAP MATCH: 826-847 : 826-837 ('orthodontic treatment' vs 'orthodontic')
+12114469 12114469 TP: T1	Beauty_and_Cleaning 826 837	orthodontic
+OVERLAP MATCH: 826-847 : 826-837 ('orthodontic treatment' vs 'orthodontic')
+Note: filtering out: T1	Geographical_Feature 135 148	United States
+Note: filtering out: T2	Geographical_Feature 337 341	U.S.
+Note: filtering out: T3	Geographical_Feature 1282 1295	United States
+Note: filtering out: T4	Geographical_Feature 150 154	U.S.
+Note: filtering out: T5	Out-of-scope 372 387	social networks
+Note: filtering out: T2	Geographical_Feature 56 72	rural Bangladesh
+Note: filtering out: T14	Geographical_Feature 353 369	rural Bangladesh
+OVERLAP MATCH: 482-500 : 489-500 ('sexual harassments' vs 'harassments')
+OVERLAP MATCH: 572-592 : 581-592 ('gendered harassments' vs 'harassments')
+OVERLAP MATCH: 722-740 : 729-740 ('sexual harassments' vs 'harassments')
+OVERLAP MATCH: 758-781 : 772-781 ('Higher girls' education' vs 'education')
+OVERLAP MATCH: 786-811 : 796-811 ('household economic status' vs 'economic status')
+OVERLAP MATCH: 985-1003 : 992-1003 ('sexual harassments' vs 'harassments')
+19458081 FN: T8	Socioeconomic_factors 631 657	unwanted sexual attentions
+19458081 FN: T9	Socioeconomic_factors 670 690	sexual intimidations
+19458081 19458081 19458081 19458081 19458081 FN: T3	Socioeconomic_factors 175 202	sexually harassing behavior
+19458081 FN: T1	Socioeconomic_factors 0 27	Sexually harassing behavior
+19458081 FN: T15	LSF_out_of_context 275 281	school
+19458081 FN: T16	LSF_out_of_context 283 290	college
+19458081 19458081 19458081 19458081 19458081 TP: T8	Socioeconomic_factors 992 1003	harassments
+19458081 TP: T6	Socioeconomic_factors 772 781	education
+19458081 TP: T7	Socioeconomic_factors 796 811	economic status
+19458081 TP: T4	Socioeconomic_factors 581 592	harassments
+19458081 TP: T5	Socioeconomic_factors 729 740	harassments
+19458081 TP: T2	Nutrition 402 411	Nutrition
+19458081 TP: T3	Socioeconomic_factors 489 500	harassments
+19458081 TP: T1	Socioeconomic_factors 220 229	unmarried
+OVERLAP MATCH: 482-500 : 489-500 ('sexual harassments' vs 'harassments')
+OVERLAP MATCH: 572-592 : 581-592 ('gendered harassments' vs 'harassments')
+OVERLAP MATCH: 722-740 : 729-740 ('sexual harassments' vs 'harassments')
+OVERLAP MATCH: 758-781 : 772-781 ('Higher girls' education' vs 'education')
+OVERLAP MATCH: 786-811 : 796-811 ('household economic status' vs 'economic status')
+OVERLAP MATCH: 985-1003 : 992-1003 ('sexual harassments' vs 'harassments')
+Note: filtering out: T6	Out-of-scope 763 771	employed
+Note: filtering out: T7	Out-of-scope 552 560	employed
+Note: filtering out: T8	Occupations 573 584	researchers
+Note: filtering out: T9	Out-of-scope 38 46	activity
+8560138 8560138 8560138 8560138 8560138 8560138 TP: T4	Sleep 471 476	sleep
+8560138 TP: T5	Sleep 732 737	sleep
+8560138 TP: T2	Sleep 168 173	sleep
+8560138 TP: T3	Sleep 263 268	sleep
+8560138 TP: T1	Sleep 54 59	sleep
+OVERLAP MATCH: 935-948 : 935-942 ('calorie value' vs 'calorie')
+1315432 FN: T14	Nutrition 44 48	cake
+1315432 FN: T15	Nutrition 110 115	flour
+1315432 FN: T16	Nutrition 220 226	pomace
+1315432 FN: T17	Nutrition 362 368	pomace
+1315432 FN: T10	Nutrition 924 928	cake
+1315432 FN: T11	Nutrition 1023 1045	low carbohydrate foods
+1315432 FN: T12	Nutrition 590 601	crude fibre
+1315432 FN: T13	Nutrition 339 354	protein content
+1315432 FN: T18	Nutrition 867 873	batter
+1315432 1315432 FN: T8	Nutrition 657 671	composite cake
+1315432 FN: T9	Nutrition 784 788	cake
+1315432 FN: T6	Nutrition 568 580	cashew flour
+1315432 FN: T7	Nutrition 619 631	carbohydrate
+1315432 FN: T4	Nutrition 120 124	cake
+1315432 FN: T5	Nutrition 265 279	composite cake
+1315432 FN: T2	Nutrition 69 94	biodegraded cashew pomace
+1315432 FN: T3	Nutrition 719 731	cashew flour
+1315432 FN: T1	Nutrition 14 39	biodegraded cashew pomace
+1315432 FN: T21	Nutrition 506 519	organic acids
+1315432 1315432 FN: T23	Nutrition 200 212	fermentation
+1315432 FN: T22	Nutrition 383 395	fermentation
+1315432 FN: T24	Nutrition 550 562	fermentation
+1315432 TP: T2	Nutrition 935 942	calorie
+1315432 TP: T1	Nutrition 732 743	wheat flour
+OVERLAP MATCH: 935-948 : 935-942 ('calorie value' vs 'calorie')
+Note: replace discontinuous "light- duty vehicle emissions" with "duty vehicle emissions"
+Note: filtering out: T14	Out-of-scope 341 345	work
+Note: filtering out: T15	Occupations 351 362	researchers
+18236789 FN: T8	LSF_out_of_context 606 634	heavy-duty vehicle emissions
+18236789 FN: T9	LSF_out_of_context 666 675	emissions
+18236789 18236789 FN: T7	LSF_out_of_context 564 586	mobile source emission
+18236789 FN: T4	LSF_out_of_context 277 294	vehicle emissions
+18236789 FN: T5	LSF_out_of_context 484 492	emission
+18236789 FN: T2	LSF_out_of_context 97 114	Vehicle Emissions
+18236789 FN: T3	LSF_out_of_context 194 211	Vehicle Emissions
+18236789 FN: T1	Environmental_exposures 11 28	vehicle emissions
+18236789 FN: T10	LSF_out_of_context 612 634	duty vehicle emissions
+18236789 FN: T11	Environmental_exposures 701 706	fuels
+18236789 FN: T12	Environmental_exposures 711 727	lubricating oils
+18236789 FN: T13	Environmental_exposures 731 740	emissions
+18236789 TP: T1	Environmental_exposures 468 479	air quality
+8378672 FN: T6	Environmental_exposures 1106 1114	altitude
+8378672 FN: T7	Environmental_exposures 1192 1200	altitude
+8378672 FN: T4	Environmental_exposures 795 803	altitude
+8378672 FN: T5	Environmental_exposures 924 932	altitude
+8378672 FN: T2	Environmental_exposures 177 185	altitude
+8378672 FN: T3	Environmental_exposures 610 618	altitude
+8378672 FN: T1	Environmental_exposures 11 19	altitude
+8378672 FN: T10	Physical_activity 1018 1033	mountain climbs
+Note: filtering out: T3	Occupations 864 874	Clinicians
+22200244 22200244 22200244 TP: T2	Socioeconomic_factors 1051 1064	contraception
+22200244 TP: T1	Socioeconomic_factors 540 553	contraception
+Note: filtering out: T3	Geographical_Feature 120 122	US
+Note: filtering out: T5	Occupations 804 819	ophthalmologist
+Note: filtering out: T6	Occupations 823 843	oculoplastic surgeon
+Note: filtering out: T4	Occupations 253 260	athlete
+12688829 FN: T7	Physical_activity 1227 1232	sport
+12688829 12688829 FN: T1	Physical_activity 21 26	sport
+12688829 TP: T1	Physical_activity 89 95	sports
+Note: filtering out: T2	Out-of-scope 617 623	single
+Note: replace discontinuous "emissions in moving vehicles" with "in moving vehicles"
+OVERLAP MATCH: 295-315 : 295-308 ('air pollution source' vs 'air pollution')
+11055166 FN: T8	Environmental_exposures 737 755	emissions outdoors
+11055166 11055166 FN: T6	Environmental_exposures 264 273	pollutant
+11055166 FN: T7	Environmental_exposures 668 698	releases within motor vehicles
+11055166 11055166 FN: T5	Environmental_exposures 428 445	emitted pollutant
+11055166 FN: T3	Environmental_exposures 207 216	pollutant
+11055166 11055166 FN: T10	Environmental_exposures 811 833	emissions in buildings
+11055166 FN: T11	Environmental_exposures 837 855	in moving vehicles
+11055166 TP: T4	Socioeconomic_factors 721 731	urban area
+11055166 TP: T2	Environmental_exposures 295 308	air pollution
+11055166 FP: T3	Socioeconomic_factors 617 623	single
+11055166 TP: T1	Environmental_exposures 32 45	air pollution
+OVERLAP MATCH: 295-315 : 295-308 ('air pollution source' vs 'air pollution')
+28559087 28559087 TP: T1	Sleep 701 706	sleep
+Note: filtering out: T2	Occupations 188 197	therapist
+20645220 20645220 TP: T1	Mental_health_practices 112 125	psychotherapy
+Note: filtering out: T4	Geographical_Feature 528 538	Pittsburgh
+Note: filtering out: T5	Geographical_Feature 540 552	Pennsylvania
+Note: replace discontinuous "child neglect" with "neglect"
+Note: replace discontinuous "Child Neglect" with "Neglect"
+6892288 FN: T6	Socioeconomic_factors 401 408	neglect
+6892288 FN: T7	LSF_out_of_context 481 488	Neglect
+6892288 6892288 6892288 FN: T1	Socioeconomic_factors 170 187	troubled families
+6892288 TP: T2	Socioeconomic_factors 465 476	Child Abuse
+6892288 TP: T1	Socioeconomic_factors 385 396	child abuse
+OVERLAP MATCH: 0-13 : 6-13 ('Daily walking' vs 'walking')
+18209234 18209234 18209234 18209234 18209234 TP: T4	Physical_activity 1060 1077	physical activity
+18209234 TP: T2	Physical_activity 185 202	physical activity
+18209234 TP: T3	Physical_activity 929 946	physical activity
+18209234 TP: T1	Physical_activity 6 13	walking
+OVERLAP MATCH: 0-13 : 6-13 ('Daily walking' vs 'walking')
+Note: filtering out: T4	Occupations 319 328	therapist
+Note: filtering out: T5	Occupations 530 539	therapist
+Note: filtering out: T6	Occupations 898 907	therapist
+Note: filtering out: T7	Occupations 44 53	therapist
+18815971 18815971 18815971 18815971 TP: T2	Mental_health_practices 246 259	psychotherapy
+18815971 TP: T3	Mental_health_practices 838 849	mindfulness
+18815971 TP: T1	Mental_health_practices 2 15	psychotherapy
+Note: filtering out: T4	Occupations 804 813	therapist
+8714548 8714548 8714548 8714548 TP: T2	Mental_health_practices 227 240	psychotherapy
+8714548 TP: T3	Mental_health_practices 1071 1090	group psychotherapy
+8714548 TP: T1	Mental_health_practices 13 32	group psychotherapy
+Note: filtering out: T3	Occupations 426 436	therapists
+Note: filtering out: T7	Occupations 438 447	therapist
+Note: filtering out: T12	Occupations 561 571	therapists
+Note: filtering out: T13	Occupations 495 505	therapists
+Note: filtering out: T16	Out-of-scope 531 539	training
+OVERLAP MATCH: 16-46 : 31-46 ('evidence-based psychotherapies' vs 'psychotherapies')
+19856234 FN: T8	Mental_health_practices 803 806	EBT
+19856234 FN: T9	Mental_health_practices 588 591	EBT
+19856234 FN: T6	Mental_health_practices 678 681	EBT
+19856234 FN: T4	Mental_health_practices 466 469	EBT
+19856234 FN: T5	Mental_health_practices 875 878	EBT
+19856234 FN: T2	Mental_health_practices 248 287	evidence-based psychological treatments
+19856234 19856234 FN: T14	Mental_health_practices 289 293	EBTs
+19856234 FN: T15	Mental_health_practices 379 386	therapy
+19856234 FN: T10	Mental_health_practices 905 909	EBTs
+19856234 FN: T11	Mental_health_practices 557 560	EBT
+19856234 TP: T1	Mental_health_practices 31 46	psychotherapies
+OVERLAP MATCH: 16-46 : 31-46 ('evidence-based psychotherapies' vs 'psychotherapies')
+Note: replace discontinuous "aerobic exercise training" with "exercise training"
+31615971 FN: T6	Physical_activity 338 355	exercise training
+31615971 FN: T7	Physical_activity 861 887	combined exercise training
+31615971 FN: T4	Physical_activity 1184 1205	prison-based exercise
+31615971 FN: T5	Physical_activity 870 887	exercise training
+31615971 FN: T2	Physical_activity 505 535	prison-based exercise training
+31615971 31615971 FN: T1	Physical_activity 17 47	Prison-Based Exercise Training
+31615971 TP: T1	Physical_activity 109 126	physical activity
+12644605 12644605 12644605 TP: T2	Beauty_and_Cleaning 1060 1071	orthodontic
+12644605 TP: T1	Beauty_and_Cleaning 32 43	orthodontic
+33555216 33555216 33555216 FN: T6	Socioeconomic_factors 472 476	IUDs
+33555216 33555216 FN: T4	Socioeconomic_factors 409 413	IUDs
+33555216 33555216 33555216 FN: T3	Socioeconomic_factors 117 121	IUDs
+33555216 33555216 33555216 33555216 33555216 TP: T8	Socioeconomic_factors 985 988	IUD
+33555216 TP: T9	Socioeconomic_factors 1071 1074	IUD
+33555216 TP: T6	Socioeconomic_factors 546 549	IUD
+33555216 TP: T7	Socioeconomic_factors 614 617	IUD
+33555216 TP: T4	Socioeconomic_factors 254 257	IUD
+33555216 TP: T5	Socioeconomic_factors 297 300	IUD
+33555216 TP: T2	Socioeconomic_factors 95 115	Intrauterine devices
+33555216 TP: T3	Socioeconomic_factors 171 184	contraception
+33555216 TP: T1	Socioeconomic_factors 11 31	intrauterine devices
+27146857 27146857 27146857 27146857 27146857 27146857 TP: T4	Sleep 1007 1037	rapid eye movement (REM) sleep
+27146857 TP: T5	Sleep 1182 1187	sleep
+27146857 TP: T2	Sleep 69 74	sleep
+27146857 TP: T3	Sleep 835 848	Stage 2 sleep
+27146857 TP: T1	Sleep 0 5	Sleep
+15143792 FN: T2	Beauty_and_Cleaning 928 945	scrubbing liquids
+15143792 FN: T1	Beauty_and_Cleaning 761 778	scrubbing liquids
+29294815 FN: T8	Socioeconomic_factors 1203 1220	Polyvictimization
+29294815 FN: T6	Socioeconomic_factors 847 864	polyvictimization
+29294815 FN: T7	Socioeconomic_factors 956 984	exposure to traumatic events
+29294815 FN: T4	Socioeconomic_factors 465 482	polyvictimization
+29294815 FN: T5	Socioeconomic_factors 1438 1466	exposure to multiple traumas
+29294815 FN: T2	Socioeconomic_factors 184 221	exposure to multiple traumatic events
+29294815 FN: T3	Socioeconomic_factors 223 240	polyvictimization
+29294815 FN: T1	Socioeconomic_factors 0 17	Polyvictimization
+Note: filtering out: T2	Out-of-scope 0 7	Menthol
+Note: filtering out: T6	Out-of-scope 302 309	Menthol
+Note: filtering out: T7	Out-of-scope 562 569	menthol
+Note: filtering out: T9	Out-of-scope 645 652	menthol
+Note: filtering out: T13	Geographical_Feature 811 825	North Carolina
+Note: filtering out: T14	Geographical_Feature 861 869	Maryland
+Note: filtering out: T18	Out-of-scope 1287 1294	menthol
+Note: filtering out: T8	Out-of-scope 946 952	single
+OVERLAP MATCH: 97-123 : 97-104 ('smoking menthol cigarettes' vs 'smoking')
+OVERLAP MATCH: 97-123 : 113-123 ('smoking menthol cigarettes' vs 'cigarettes')
+OVERLAP MATCH: 233-248 : 233-241 ('nicotine intake' vs 'nicotine')
+21719896 21719896 21719896 21719896 21719896 21719896 21719896 TP: T8	Drugs 1072 1082	cigarettes
+21719896 TP: T6	Drugs 833 848	substance abuse
+21719896 FP: T7	Socioeconomic_factors 946 952	single
+21719896 TP: T4	Drugs 267 274	smoking
+21719896 TP: T5	Drugs 790 807	smoking cessation
+21719896 TP: T2	Drugs 113 123	cigarettes
+21719896 TP: T3	Drugs 233 241	nicotine
+21719896 TP: T1	Drugs 97 104	smoking
+OVERLAP MATCH: 97-123 : 97-104 ('smoking menthol cigarettes' vs 'smoking')
+OVERLAP MATCH: 97-123 : 113-123 ('smoking menthol cigarettes' vs 'cigarettes')
+OVERLAP MATCH: 233-248 : 233-241 ('nicotine intake' vs 'nicotine')
+OVERLAP MATCH: 26-47 : 40-47 ('low-intensity walking' vs 'walking')
+OVERLAP MATCH: 155-185 : 155-162 ('walking at self-selected speed' vs 'walking')
+25078520 25078520 FN: T9	LSF_out_of_context 545 552	reading
+25078520 25078520 25078520 FN: T4	Physical_activity 960 973	sedentariness
+25078520 25078520 FN: T2	Physical_activity 340 354	treadmill-desk
+25078520 25078520 FN: T1	Physical_activity 63 72	treadmill
+25078520 FN: T10	Physical_activity 665 672	sitting
+25078520 TP: T4	Physical_activity 653 660	walking
+25078520 TP: T5	Physical_activity 844 851	walking
+25078520 TP: T2	Physical_activity 155 162	walking
+25078520 TP: T3	Physical_activity 355 362	walking
+25078520 TP: T1	Physical_activity 40 47	walking
+OVERLAP MATCH: 26-47 : 40-47 ('low-intensity walking' vs 'walking')
+OVERLAP MATCH: 155-185 : 155-162 ('walking at self-selected speed' vs 'walking')
+OVERLAP MATCH: 21-42 : 21-35 ('Sexual Assault Online' vs 'Sexual Assault')
+34515520 34515520 34515520 34515520 34515520 34515520 34515520 TP: T6	Socioeconomic_factors 806 820	sexual assault
+34515520 TP: T4	Non_physical_leisure_time_activities 580 587	Twitter
+34515520 TP: T5	Socioeconomic_factors 618 632	sexual assault
+34515520 TP: T2	Socioeconomic_factors 122 136	sexual assault
+34515520 TP: T3	Non_physical_leisure_time_activities 569 575	Reddit
+34515520 TP: T1	Socioeconomic_factors 21 35	Sexual Assault
+OVERLAP MATCH: 21-42 : 21-35 ('Sexual Assault Online' vs 'Sexual Assault')
+OVERLAP MATCH: 234-253 : 234-242 ('nicotine dependence' vs 'nicotine')
+23178321 23178321 23178321 23178321 23178321 23178321 23178321 23178321 23178321 TP: T8	Drugs 1248 1255	smoking
+23178321 TP: T6	Drugs 708 725	smoking cessation
+23178321 TP: T7	Drugs 876 883	Smoking
+23178321 TP: T4	Drugs 457 464	Smoking
+23178321 TP: T5	Drugs 609 626	smoking cessation
+23178321 TP: T2	Drugs 234 242	nicotine
+23178321 TP: T3	Drugs 332 339	smoking
+23178321 TP: T1	Drugs 76 83	Smoking
+OVERLAP MATCH: 234-253 : 234-242 ('nicotine dependence' vs 'nicotine')
+11376919 11376919 FN: T2	Drugs 380 399	cannabis dependence
+11376919 FN: T3	Drugs 919 938	cannabis dependence
+11376919 FN: T1	Drugs 37 56	cannabis dependence
+11376919 TP: T1	Drugs 288 301	substance use
+Note: filtering out: T3	Occupations 71 88	dental hygienists
+Note: filtering out: T4	Occupations 154 171	dental hygienists
+Note: filtering out: T5	Occupations 196 206	hygienists
+Note: filtering out: T6	Occupations 528 536	dentists
+Note: filtering out: T7	Occupations 736 753	dental hygienists
+Note: filtering out: T8	Occupations 913 921	dentists
+Note: filtering out: T9	Occupations 976 993	dental hygienists
+Note: filtering out: T11	Occupations 1194 1211	dental hygienists
+1624999 1624999 1624999 1624999 1624999 TP: T4	Beauty_and_Cleaning 1110 1124	dental hygiene
+1624999 TP: T2	Socioeconomic_factors 238 247	education
+1624999 TP: T3	Physical_activity 1067 1074	running
+1624999 TP: T1	Socioeconomic_factors 30 39	education
+Note: filtering out: T13	Out-of-scope 615 622	protein
+Note: filtering out: T17	Out-of-scope 1168 1175	therapy
+OVERLAP MATCH: 4-44 : 4-15 ('antioxidant alpha-lipoic acid attenuates' vs 'antioxidant')
+OVERLAP MATCH: 4-44 : 29-33 ('antioxidant alpha-lipoic acid attenuates' vs 'acid')
+OVERLAP MATCH: 304-321 : 317-321 ('alpha-lipoic acid' vs 'acid')
+OVERLAP MATCH: 493-509 : 505-509 ('LA-enriched diet' vs 'diet')
+OVERLAP MATCH: 890-902 : 898-902 ('regular diet' vs 'diet')
+30880336 FN: T8	Nutrition 998 1000	LA
+30880336 FN: T9	Nutrition 832 834	LA
+30880336 30880336 30880336 30880336 30880336 30880336 30880336 30880336 FN: T14	Nutrition 662 664	LA
+30880336 FN: T15	Nutrition 973 975	LA
+30880336 FN: T16	Nutrition 323 325	LA
+30880336 FN: T10	Nutrition 1101 1103	LA
+30880336 FN: T11	Nutrition 1146 1148	LA
+30880336 FN: T12	Nutrition 1229 1231	LA
+30880336 TP: T8	Nutrition 898 902	diet
+30880336 TP: T6	Sleep 369 374	sleep
+30880336 TP: T7	Nutrition 505 509	diet
+30880336 TP: T4	Sleep 253 258	sleep
+30880336 TP: T5	Nutrition 317 321	acid
+30880336 TP: T2	Nutrition 29 33	acid
+30880336 TP: T3	Sleep 107 112	sleep
+30880336 TP: T1	Nutrition 4 15	antioxidant
+OVERLAP MATCH: 4-44 : 4-15 ('antioxidant alpha-lipoic acid attenuates' vs 'antioxidant')
+OVERLAP MATCH: 4-44 : 29-33 ('antioxidant alpha-lipoic acid attenuates' vs 'acid')
+OVERLAP MATCH: 304-321 : 317-321 ('alpha-lipoic acid' vs 'acid')
+OVERLAP MATCH: 493-509 : 505-509 ('LA-enriched diet' vs 'diet')
+OVERLAP MATCH: 890-902 : 898-902 ('regular diet' vs 'diet')
+OVERLAP MATCH: 11-38 : 21-25 ('salicylic acid-induced wine' vs 'acid')
+OVERLAP MATCH: 11-38 : 34-38 ('salicylic acid-induced wine' vs 'wine')
+OVERLAP MATCH: 170-212 : 176-184 ('Syrah red wine treated with salicylic acid' vs 'red wine')
+OVERLAP MATCH: 170-212 : 208-212 ('Syrah red wine treated with salicylic acid' vs 'acid')
+27406317 FN: T14	Nutrition 433 435	RW
+27406317 FN: T15	Nutrition 437 438	F
+27406317 FN: T16	Nutrition 529 530	F
+27406317 FN: T17	Nutrition 709 710	F
+27406317 27406317 FN: T11	Nutrition 355 356	F
+27406317 27406317 FN: T13	Nutrition 417 421	ANTs
+27406317 FN: T18	Nutrition 549 551	RW
+27406317 FN: T19	Nutrition 600 605	RW SA
+27406317 FN: T8	Nutrition 214 219	RW SA
+27406317 FN: T9	Nutrition 247 249	RW
+27406317 FN: T6	Nutrition 857 862	RW SA
+27406317 27406317 FN: T4	Nutrition 368 389	Grape treated with SA
+27406317 FN: T5	Nutrition 781 783	RW
+27406317 27406317 27406317 27406317 FN: T21	Nutrition 788 793	RW SA
+27406317 FN: T20	Nutrition 627 640	triglycerides
+27406317 FN: T23	Nutrition 946 948	RW
+27406317 FN: T22	Nutrition 931 933	RW
+27406317 FN: T25	Nutrition 1067 1080	SA-induced RW
+27406317 FN: T24	Nutrition 953 958	RW SA
+27406317 27406317 FN: T26	Nutrition 1089 1093	ANTs
+27406317 TP: T8	Nutrition 345 353	fructose
+27406317 TP: T9	Nutrition 404 415	anthocyanin
+27406317 TP: T6	Nutrition 208 212	acid
+27406317 TP: T7	Nutrition 237 245	red wine
+27406317 TP: T4	Nutrition 122 130	fructose
+27406317 TP: T5	Nutrition 176 184	red wine
+27406317 TP: T2	Nutrition 34 38	wine
+27406317 TP: T3	Nutrition 47 59	anthocyanins
+27406317 TP: T1	Nutrition 21 25	acid
+OVERLAP MATCH: 11-38 : 21-25 ('salicylic acid-induced wine' vs 'acid')
+OVERLAP MATCH: 11-38 : 34-38 ('salicylic acid-induced wine' vs 'wine')
+OVERLAP MATCH: 170-212 : 176-184 ('Syrah red wine treated with salicylic acid' vs 'red wine')
+OVERLAP MATCH: 170-212 : 208-212 ('Syrah red wine treated with salicylic acid' vs 'acid')
+Note: filtering out: T13	Geographical_Feature 78 83	India
+Note: filtering out: T14	Geographical_Feature 242 247	India
+Note: filtering out: T15	Geographical_Feature 346 351	India
+OVERLAP MATCH: 48-74 : 48-65 ('smokeless tobacco products' vs 'smokeless tobacco')
+OVERLAP MATCH: 524-550 : 524-541 ('smokeless tobacco products' vs 'smokeless tobacco')
+OVERLAP MATCH: 704-720 : 704-711 ('tobacco products' vs 'tobacco')
+OVERLAP MATCH: 1040-1066 : 1040-1057 ('smokeless tobacco products' vs 'smokeless tobacco')
+34417336 34417336 34417336 34417336 34417336 34417336 34417336 34417336 34417336 34417336 34417336 FN: T17	LSF_out_of_context 433 440	tobacco
+34417336 34417336 34417336 34417336 34417336 34417336 FN: T22	Drugs 624 632	products
+34417336 34417336 FN: T19	LSF_out_of_context 954 961	tobacco
+34417336 TP: T8	Nutrition 554 558	food
+34417336 TP: T9	Nutrition 593 597	food
+34417336 TP: T6	Nutrition 333 337	food
+34417336 TP: T7	Drugs 524 541	smokeless tobacco
+34417336 TP: T4	Drugs 223 238	chewing tobacco
+34417336 TP: T5	Drugs 296 303	tobacco
+34417336 TP: T2	Drugs 48 65	smokeless tobacco
+34417336 TP: T3	Nutrition 153 157	food
+34417336 TP: T1	Nutrition 31 35	food
+34417336 TP: T14	Nutrition 996 1000	food
+34417336 TP: T15	Drugs 1040 1057	smokeless tobacco
+34417336 TP: T16	Drugs 1103 1110	tobacco
+34417336 TP: T10	Drugs 704 711	tobacco
+34417336 TP: T11	Nutrition 729 733	food
+34417336 TP: T12	Nutrition 791 795	food
+34417336 TP: T13	Drugs 871 878	tobacco
+OVERLAP MATCH: 48-74 : 48-65 ('smokeless tobacco products' vs 'smokeless tobacco')
+OVERLAP MATCH: 524-550 : 524-541 ('smokeless tobacco products' vs 'smokeless tobacco')
+OVERLAP MATCH: 704-720 : 704-711 ('tobacco products' vs 'tobacco')
+OVERLAP MATCH: 1040-1066 : 1040-1057 ('smokeless tobacco products' vs 'smokeless tobacco')
+OVERLAP MATCH: 93-118 : 93-105 ('sexual abuse in childhood' vs 'sexual abuse')
+OVERLAP MATCH: 419-456 : 419-431 ('Sexual abuse experiences in childhood' vs 'Sexual abuse')
+1393719 FN: T6	Socioeconomic_factors 251 268	victims of incest
+1393719 FN: T7	Socioeconomic_factors 664 674	aggression
+1393719 FN: T4	Socioeconomic_factors 270 275	Abuse
+1393719 FN: T5	Socioeconomic_factors 21 27	incest
+1393719 1393719 FN: T3	Socioeconomic_factors 782 820	traumatic experiences in relationships
+1393719 1393719 TP: T2	Socioeconomic_factors 419 431	Sexual abuse
+1393719 TP: T1	Socioeconomic_factors 93 105	sexual abuse
+OVERLAP MATCH: 93-118 : 93-105 ('sexual abuse in childhood' vs 'sexual abuse')
+OVERLAP MATCH: 419-456 : 419-431 ('Sexual abuse experiences in childhood' vs 'Sexual abuse')
+Note: filtering out: T3	Geographical_Feature 31 36	China
+Note: filtering out: T4	Geographical_Feature 59 64	China
+Note: filtering out: T9	Geographical_Feature 206 220	China's cities
+Note: filtering out: T25	Geographical_Feature 927 941	Chinese cities
+Note: filtering out: T26	Geographical_Feature 971 978	Beijing
+Note: filtering out: T27	Geographical_Feature 38 45	Beijing
+Note: filtering out: T33	Geographical_Feature 1117 1126	Beijing's
+Note: filtering out: T13	Out-of-scope 773 791	rapid motorization
+Note: filtering out: T32	Out-of-scope 1260 1272	motorization
+OVERLAP MATCH: 10-27 : 16-27 ('urban air quality' vs 'air quality')
+OVERLAP MATCH: 287-310 : 293-310 ('urban residential areas' vs 'residential areas')
+OVERLAP MATCH: 447-469 : 460-469 ('mixed source pollution' vs 'pollution')
+OVERLAP MATCH: 813-832 : 809-823 ('pollutants emission' vs 'air pollutants')
+OVERLAP MATCH: 1088-1107 : 1094-1107 ('urban air pollution' vs 'air pollution')
+16259425 FN: T14	Environmental_exposures 431 443	coal burning
+16259425 FN: T15	Environmental_exposures 597 612	Nitrogen oxides
+16259425 FN: T16	Socioeconomic_factors 123 138	economic growth
+16259425 FN: T17	Environmental_exposures 524 526	PM
+16259425 16259425 16259425 FN: T12	Socioeconomic_factors 1234 1255	explosive development
+16259425 FN: T34	Environmental_exposures 395 404	pollutant
+16259425 FN: T18	Environmental_exposures 531 534	SO2
+16259425 FN: T19	Environmental_exposures 343 345	PM
+16259425 16259425 FN: T31	Socioeconomic_factors 888 906	energy consumption
+16259425 16259425 FN: T6	Environmental_exposures 360 374	sulfur dioxide
+16259425 16259425 16259425 FN: T2	Socioeconomic_factors 79 97	rapid urbanization
+16259425 16259425 16259425 FN: T28	Socioeconomic_factors 1008 1033	rapidly developing cities
+16259425 16259425 FN: T20	Environmental_exposures 376 379	SO2
+16259425 FN: T23	Socioeconomic_factors 868 883	economic growth
+16259425 FN: T22	Environmental_exposures 614 617	NOx
+16259425 16259425 TP: T8	Environmental_exposures 912 923	air quality
+16259425 TP: T9	Environmental_exposures 1094 1107	air pollution
+16259425 TP: T6	Environmental_exposures 460 469	pollution
+16259425 TP: T7	Environmental_exposures 809 823	air pollutants
+16259425 TP: T4	Socioeconomic_factors 293 310	residential areas
+16259425 TP: T5	Environmental_exposures 323 341	Particulate matter
+16259425 TP: T2	Environmental_exposures 177 190	air pollution
+16259425 TP: T3	Environmental_exposures 251 262	air quality
+16259425 TP: T1	Environmental_exposures 16 27	air quality
+16259425 TP: T10	Environmental_exposures 1192 1203	air quality
+OVERLAP MATCH: 10-27 : 16-27 ('urban air quality' vs 'air quality')
+OVERLAP MATCH: 447-469 : 460-469 ('mixed source pollution' vs 'pollution')
+OVERLAP MATCH: 813-832 : 809-823 ('pollutants emission' vs 'air pollutants')
+OVERLAP MATCH: 1088-1107 : 1094-1107 ('urban air pollution' vs 'air pollution')
+OVERLAP MATCH: 287-310 : 293-310 ('urban residential areas' vs 'residential areas')
+Note: filtering out: T5	Occupations 908 933	orthodontic practitioners
+OVERLAP MATCH: 64-85 : 64-75 ('orthodontic treatment' vs 'orthodontic')
+OVERLAP MATCH: 609-630 : 609-620 ('orthodontic treatment' vs 'orthodontic')
+OVERLAP MATCH: 757-778 : 757-768 ('orthodontic treatment' vs 'orthodontic')
+27805877 27805877 27805877 27805877 FP: T4	Beauty_and_Cleaning 908 919	orthodontic
+27805877 TP: T2	Beauty_and_Cleaning 609 620	orthodontic
+27805877 TP: T3	Beauty_and_Cleaning 757 768	orthodontic
+27805877 TP: T1	Beauty_and_Cleaning 64 75	orthodontic
+OVERLAP MATCH: 64-85 : 64-75 ('orthodontic treatment' vs 'orthodontic')
+OVERLAP MATCH: 609-630 : 609-620 ('orthodontic treatment' vs 'orthodontic')
+OVERLAP MATCH: 757-778 : 757-768 ('orthodontic treatment' vs 'orthodontic')
+14987872 14987872 FN: T9	Environmental_exposures 609 621	hydrocarbons
+14987872 14987872 14987872 FN: T4	Environmental_exposures 276 283	toluene
+14987872 14987872 FN: T2	Environmental_exposures 30 37	toluene
+14987872 FN: T3	Environmental_exposures 264 271	benzene
+14987872 FN: T1	Environmental_exposures 18 25	benzene
+14987872 FN: T10	Nutrition 693 698	foods
+14987872 FN: T11	Environmental_exposures 478 490	hydrocarbons
+14987872 TP: T4	Environmental_exposures 241 262	aromatic hydrocarbons
+14987872 TP: T2	Nutrition 87 97	human milk
+14987872 TP: T3	Nutrition 117 121	milk
+14987872 TP: T1	Nutrition 50 60	human milk
+Note: filtering out: T5	Geographical_Feature 315 325	New Jersey
+OVERLAP MATCH: 168-184 : 168-175 ('walking duration' vs 'walking')
+OVERLAP MATCH: 443-459 : 443-450 ('walking duration' vs 'walking')
+OVERLAP MATCH: 762-778 : 762-769 ('walking duration' vs 'walking')
+31821994 31821994 31821994 FN: T6	Physical_activity 993 1009	active lifestyle
+31821994 31821994 31821994 31821994 31821994 31821994 TP: T6	Socioeconomic_factors 855 865	retirement
+31821994 TP: T7	Socioeconomic_factors 1032 1042	retirement
+31821994 TP: T4	Socioeconomic_factors 488 498	retirement
+31821994 TP: T5	Physical_activity 762 769	walking
+31821994 TP: T2	Physical_activity 168 175	walking
+31821994 TP: T3	Physical_activity 443 450	walking
+31821994 TP: T1	Physical_activity 38 45	Walking
+OVERLAP MATCH: 168-184 : 168-175 ('walking duration' vs 'walking')
+OVERLAP MATCH: 443-459 : 443-450 ('walking duration' vs 'walking')
+OVERLAP MATCH: 762-778 : 762-769 ('walking duration' vs 'walking')
+Note: replace discontinuous "middle school students" with "school students"
+Note: replace discontinuous "middle school students" with "school students"
+OVERLAP MATCH: 0-12 : 5-12 ('Home smoking' vs 'smoking')
+OVERLAP MATCH: 30-48 : 41-48 ('adolescent smoking' vs 'smoking')
+OVERLAP MATCH: 69-87 : 80-87 ('adolescent smoking' vs 'smoking')
+OVERLAP MATCH: 324-342 : 335-342 ('adolescent smoking' vs 'smoking')
+OVERLAP MATCH: 368-382 : 375-382 ('indoor smoking' vs 'smoking')
+OVERLAP MATCH: 495-513 : 506-513 ('adolescent smoking' vs 'smoking')
+OVERLAP MATCH: 517-529 : 522-529 ('home smoking' vs 'smoking')
+OVERLAP MATCH: 635-647 : 640-647 ('home smoking' vs 'smoking')
+OVERLAP MATCH: 733-753 : 733-744 ('high school students' vs 'high school')
+OVERLAP MATCH: 733-753 : 733-744 ('high school students' vs 'high school')
+OVERLAP MATCH: 738-753 : 733-744 ('school students' vs 'high school')
+OVERLAP MATCH: 768-788 : 768-779 ('high school students' vs 'high school')
+OVERLAP MATCH: 832-851 : 836-843 ('non-smoking parents' vs 'smoking')
+OVERLAP MATCH: 853-865 : 858-865 ('Home smoking' vs 'smoking')
+OVERLAP MATCH: 908-923 : 916-923 ('regular smoking' vs 'smoking')
+OVERLAP MATCH: 945-965 : 945-956 ('high school students' vs 'high school')
+OVERLAP MATCH: 945-965 : 945-956 ('high school students' vs 'high school')
+OVERLAP MATCH: 950-965 : 945-956 ('school students' vs 'high school')
+OVERLAP MATCH: 967-979 : 972-979 ('Home smoking' vs 'smoking')
+OVERLAP MATCH: 1017-1035 : 1028-1035 ('adolescent smoking' vs 'smoking')
+11072454 11072454 11072454 11072454 11072454 11072454 FN: T11	Drugs 583 600	smoke in the home
+11072454 11072454 11072454 11072454 11072454 11072454 11072454 11072454 11072454 11072454 11072454 11072454 11072454 11072454 11072454 11072454 11072454 11072454 TP: T8	Drugs 432 439	smoking
+11072454 TP: T9	Drugs 506 513	smoking
+11072454 TP: T6	Drugs 335 342	smoking
+11072454 TP: T7	Drugs 375 382	smoking
+11072454 TP: T4	Drugs 231 238	smoking
+11072454 TP: T5	Drugs 279 286	smoking
+11072454 TP: T2	Drugs 41 48	smoking
+11072454 TP: T3	Drugs 80 87	smoking
+11072454 TP: T1	Drugs 5 12	smoking
+11072454 TP: T14	Socioeconomic_factors 768 779	high school
+11072454 TP: T15	Drugs 836 843	smoking
+11072454 TP: T16	Drugs 858 865	smoking
+11072454 TP: T17	Drugs 916 923	smoking
+11072454 TP: T10	Drugs 522 529	smoking
+11072454 TP: T11	Drugs 640 647	smoking
+11072454 TP: T12	Drugs 705 712	smoking
+11072454 TP: T13	Socioeconomic_factors 733 744	high school
+11072454 TP: T20	Drugs 1028 1035	smoking
+11072454 TP: T18	Socioeconomic_factors 945 956	high school
+11072454 TP: T19	Drugs 972 979	smoking
+OVERLAP MATCH: 0-12 : 5-12 ('Home smoking' vs 'smoking')
+OVERLAP MATCH: 30-48 : 41-48 ('adolescent smoking' vs 'smoking')
+OVERLAP MATCH: 69-87 : 80-87 ('adolescent smoking' vs 'smoking')
+OVERLAP MATCH: 324-342 : 335-342 ('adolescent smoking' vs 'smoking')
+OVERLAP MATCH: 368-382 : 375-382 ('indoor smoking' vs 'smoking')
+OVERLAP MATCH: 495-513 : 506-513 ('adolescent smoking' vs 'smoking')
+OVERLAP MATCH: 517-529 : 522-529 ('home smoking' vs 'smoking')
+OVERLAP MATCH: 635-647 : 640-647 ('home smoking' vs 'smoking')
+OVERLAP MATCH: 853-865 : 858-865 ('Home smoking' vs 'smoking')
+OVERLAP MATCH: 908-923 : 916-923 ('regular smoking' vs 'smoking')
+OVERLAP MATCH: 967-979 : 972-979 ('Home smoking' vs 'smoking')
+OVERLAP MATCH: 1017-1035 : 1028-1035 ('adolescent smoking' vs 'smoking')
+OVERLAP MATCH: 733-753 : 733-744 ('high school students' vs 'high school')
+OVERLAP MATCH: 733-753 : 733-744 ('high school students' vs 'high school')
+OVERLAP MATCH: 738-753 : 733-744 ('school students' vs 'high school')
+OVERLAP MATCH: 768-788 : 768-779 ('high school students' vs 'high school')
+OVERLAP MATCH: 945-965 : 945-956 ('high school students' vs 'high school')
+OVERLAP MATCH: 945-965 : 945-956 ('high school students' vs 'high school')
+OVERLAP MATCH: 950-965 : 945-956 ('school students' vs 'high school')
+Note: filtering out: T1	Geographical_Feature 469 471	UK
+Note: replace discontinuous "orthodontic dentistry" with "dentistry"
+24521749 FN: T2	Beauty_and_Cleaning 767 776	dentistry
+24521749 FN: T8	Beauty_and_Cleaning 757 776	aesthetic dentistry
+24521749 FP: T1	Beauty_and_Cleaning 741 752	orthodontic
+Note: filtering out: T5	Geographical_Feature 256 264	Scotland
+Note: filtering out: T3	Geographical_Feature 361 369	Scotland
+Note: filtering out: T4	Geographical_Feature 562 570	Scotland
+Note: filtering out: T11	Geographical_Feature 443 445	UK
+Note: filtering out: T13	Out-of-scope 88 95	therapy
+Note: filtering out: T14	Out-of-scope 167 174	therapy
+Note: filtering out: T15	Geographical_Feature 737 739	UK
+19023830 19023830 FN: T9	LSF_out_of_context 32 42	smoke-free
+19023830 19023830 19023830 19023830 19023830 FN: T10	LSF_out_of_context 230 240	smoke-free
+19023830 FN: T12	LSF_out_of_context 932 942	smoke-free
+19023830 TP: T4	Drugs 676 683	smoking
+19023830 TP: T5	Drugs 851 868	smoking cessation
+19023830 TP: T2	Drugs 146 154	nicotine
+19023830 TP: T3	Drugs 282 299	smoking cessation
+19023830 TP: T1	Drugs 67 75	nicotine
+Note: replace discontinuous "physical parental violence" with "parental violence"
+Note: replace discontinuous "low socioeconomic areas" with "socioeconomic areas"
+OVERLAP MATCH: 0-44 : 36-44 ('Father's and mother's psychological violence' vs 'violence')
+OVERLAP MATCH: 84-128 : 120-128 ('Maternal and paternal psychological violence' vs 'violence')
+OVERLAP MATCH: 247-272 : 257-272 ('Childhood family violence' vs 'family violence')
+OVERLAP MATCH: 287-318 : 310-318 ('psychological parental violence' vs 'violence')
+OVERLAP MATCH: 301-318 : 310-318 ('parental violence' vs 'violence')
+OVERLAP MATCH: 329-349 : 341-349 ('extrafamily violence' vs 'violence')
+OVERLAP MATCH: 530-554 : 535-548 ('high socioeconomic areas' vs 'socioeconomic')
+OVERLAP MATCH: 530-554 : 535-548 ('high socioeconomic areas' vs 'socioeconomic')
+OVERLAP MATCH: 535-554 : 535-548 ('socioeconomic areas' vs 'socioeconomic')
+OVERLAP MATCH: 682-704 : 696-704 ('psychological violence' vs 'violence')
+OVERLAP MATCH: 881-903 : 895-903 ('Psychological violence' vs 'violence')
+OVERLAP MATCH: 1016-1041 : 1026-1041 ('childhood family violence' vs 'family violence')
+OVERLAP MATCH: 1055-1075 : 1067-1075 ('extrafamily violence' vs 'violence')
+20460552 20460552 20460552 20460552 20460552 20460552 20460552 20460552 20460552 20460552 FN: T14	Socioeconomic_factors 792 834	psychologically violent parental practices
+20460552 20460552 20460552 20460552 20460552 20460552 20460552 TP: T8	Socioeconomic_factors 497 511	public schools
+20460552 TP: T9	Socioeconomic_factors 535 548	socioeconomic
+20460552 TP: T6	Socioeconomic_factors 351 359	bullying
+20460552 TP: T7	Socioeconomic_factors 364 379	dating violence
+20460552 TP: T4	Socioeconomic_factors 310 318	violence
+20460552 TP: T5	Socioeconomic_factors 341 349	violence
+20460552 TP: T2	Socioeconomic_factors 120 128	violence
+20460552 TP: T3	Socioeconomic_factors 257 272	family violence
+20460552 TP: T1	Socioeconomic_factors 36 44	violence
+20460552 TP: T10	Socioeconomic_factors 696 704	violence
+20460552 TP: T11	Socioeconomic_factors 895 903	violence
+20460552 TP: T12	Socioeconomic_factors 1026 1041	family violence
+20460552 TP: T13	Socioeconomic_factors 1067 1075	violence
+OVERLAP MATCH: 0-44 : 36-44 ('Father's and mother's psychological violence' vs 'violence')
+OVERLAP MATCH: 84-128 : 120-128 ('Maternal and paternal psychological violence' vs 'violence')
+OVERLAP MATCH: 247-272 : 257-272 ('Childhood family violence' vs 'family violence')
+OVERLAP MATCH: 287-318 : 310-318 ('psychological parental violence' vs 'violence')
+OVERLAP MATCH: 301-318 : 310-318 ('parental violence' vs 'violence')
+OVERLAP MATCH: 329-349 : 341-349 ('extrafamily violence' vs 'violence')
+OVERLAP MATCH: 530-554 : 535-548 ('high socioeconomic areas' vs 'socioeconomic')
+OVERLAP MATCH: 530-554 : 535-548 ('high socioeconomic areas' vs 'socioeconomic')
+OVERLAP MATCH: 535-554 : 535-548 ('socioeconomic areas' vs 'socioeconomic')
+OVERLAP MATCH: 682-704 : 696-704 ('psychological violence' vs 'violence')
+OVERLAP MATCH: 881-903 : 895-903 ('Psychological violence' vs 'violence')
+OVERLAP MATCH: 1016-1041 : 1026-1041 ('childhood family violence' vs 'family violence')
+OVERLAP MATCH: 1055-1075 : 1067-1075 ('extrafamily violence' vs 'violence')
+Note: filtering out: T7	Out-of-scope 6 14	activity
+18988075 FN: T6	Drugs 1304 1313	addiction
+18988075 18988075 18988075 18988075 18988075 18988075 TP: T4	Drugs 1057 1064	smoking
+18988075 TP: T5	Drugs 1182 1189	smoking
+18988075 TP: T2	Drugs 401 408	smoking
+18988075 TP: T3	Drugs 885 892	smoking
+18988075 TP: T1	Drugs 38 45	smoking
+OVERLAP MATCH: 374-397 : 382-391 ('neutral detergent fiber' vs 'detergent')
+OVERLAP MATCH: 409-429 : 409-413 ('acid detergent fiber' vs 'acid')
+OVERLAP MATCH: 409-429 : 414-423 ('acid detergent fiber' vs 'detergent')
+1312238 FN: T8	Nutrition 550 560	ishikurage
+1312238 1312238 FN: T6	Nutrition 340 350	ishikurage
+1312238 FN: T7	Nutrition 587 597	ishikurage
+1312238 FN: T4	Nutrition 127 137	ishikurage
+1312238 FN: T5	Nutrition 186 196	Ishikurage
+1312238 1312238 FN: T3	Nutrition 79 89	ishikurage
+1312238 FN: T1	Nutrition 14 29	color additives
+1312238 1312238 FN: T15	LSF_out_of_context 318 323	water
+1312238 FN: T16	Nutrition 62 77	blue-green alga
+1312238 1312238 1312238 FN: T11	LSF_out_of_context 53 58	water
+1312238 FN: T12	Nutrition 512 515	ADF
+1312238 FN: T21	Nutrition 399 402	NDF
+1312238 FN: T20	Nutrition 445 449	alga
+1312238 FN: T22	Nutrition 431 434	ADF
+1312238 1312238 FN: T19	Nutrition 201 214	suizenji nori
+1312238 TP: T8	Nutrition 649 662	dietary fiber
+1312238 TP: T6	Nutrition 461 469	amaranth
+1312238 FP: T7	Nutrition 609 620	nutritional
+1312238 TP: T4	Nutrition 409 413	acid
+1312238 TP: T5	Beauty_and_Cleaning 414 423	detergent
+1312238 TP: T2	Nutrition 255 263	amaranth
+1312238 TP: T3	Beauty_and_Cleaning 382 391	detergent
+1312238 TP: T1	Nutrition 159 170	other algae
+OVERLAP MATCH: 409-429 : 409-413 ('acid detergent fiber' vs 'acid')
+20181995 20181995 20181995 FN: T6	Physical_activity 945 947	PA
+20181995 FN: T7	Physical_activity 374 376	PA
+20181995 FN: T4	Physical_activity 370 372	PA
+20181995 FN: T5	Physical_activity 763 765	PA
+20181995 20181995 20181995 20181995 FN: T14	Physical_activity 979 991	time on feet
+20181995 FN: T15	Physical_activity 660 672	time on feet
+20181995 20181995 FN: T11	Physical_activity 208 210	PA
+20181995 FN: T12	Physical_activity 524 536	time on feet
+20181995 FN: T13	Physical_activity 858 870	time on feet
+20181995 TP: T6	Physical_activity 961 968	walking
+20181995 TP: T4	Physical_activity 645 652	walking
+20181995 TP: T5	Physical_activity 846 853	walking
+20181995 TP: T2	Physical_activity 189 206	physical activity
+20181995 TP: T3	Physical_activity 508 515	walking
+20181995 TP: T1	Physical_activity 26 43	physical activity
+Note: filtering out: T11	Occupations 1489 1499	Clinicians
+31256713 31256713 31256713 FN: T1	Mental_health_practices 1480 1487	therapy
+31256713 TP: T2	Mental_health_practices 612 625	psychotherapy
+31256713 TP: T1	Mental_health_practices 295 308	psychotherapy
+Note: replace discontinuous "denicotinized (denic) cigarettes" with "cigarettes"
+Note: filtering out: T14	Out-of-scope 533 539	single
+Note: replace discontinuous "denic cigarettes" with "cigarettes"
+OVERLAP MATCH: 29-63 : 29-37 ('nicotine tobacco cigarette smoking' vs 'nicotine')
+OVERLAP MATCH: 29-63 : 38-45 ('nicotine tobacco cigarette smoking' vs 'tobacco')
+OVERLAP MATCH: 29-63 : 46-63 ('nicotine tobacco cigarette smoking' vs 'cigarette smoking')
+OVERLAP MATCH: 201-219 : 201-208 ('tobacco cigarettes' vs 'tobacco')
+OVERLAP MATCH: 201-219 : 209-219 ('tobacco cigarettes' vs 'cigarettes')
+OVERLAP MATCH: 493-526 : 501-509 ('average nicotine (nic) cigarettes' vs 'nicotine')
+OVERLAP MATCH: 493-526 : 516-526 ('average nicotine (nic) cigarettes' vs 'cigarettes')
+OVERLAP MATCH: 493-526 : 516-526 ('average nicotine (nic) cigarettes' vs 'cigarettes')
+OVERLAP MATCH: 686-700 : 690-700 ('nic cigarettes' vs 'cigarettes')
+OVERLAP MATCH: 686-700 : 690-700 ('nic cigarettes' vs 'cigarettes')
+OVERLAP MATCH: 723-746 : 729-746 ('Denic cigarette smoking' vs 'cigarette smoking')
+OVERLAP MATCH: 800-821 : 804-821 ('nic cigarette smoking' vs 'cigarette smoking')
+OVERLAP MATCH: 1007-1031 : 1007-1014 ('Smoking denic cigarettes' vs 'Smoking')
+OVERLAP MATCH: 1007-1031 : 1021-1031 ('Smoking denic cigarettes' vs 'cigarettes')
+OVERLAP MATCH: 1059-1081 : 1059-1066 ('smoking nic cigarettes' vs 'smoking')
+OVERLAP MATCH: 1059-1081 : 1071-1081 ('smoking nic cigarettes' vs 'cigarettes')
+OVERLAP MATCH: 1107-1126 : 1111-1118 ('nic tobacco smoking' vs 'tobacco')
+OVERLAP MATCH: 1107-1126 : 1119-1126 ('nic tobacco smoking' vs 'smoking')
+OVERLAP MATCH: 1209-1224 : 1209-1216 ('tobacco smoking' vs 'tobacco')
+OVERLAP MATCH: 1209-1224 : 1217-1224 ('tobacco smoking' vs 'smoking')
+OVERLAP MATCH: 1308-1323 : 1308-1315 ('tobacco smoking' vs 'tobacco')
+OVERLAP MATCH: 1308-1323 : 1316-1323 ('tobacco smoking' vs 'smoking')
+22491891 22491891 22491891 22491891 22491891 22491891 FN: T12	Drugs 262 267	smoke
+22491891 22491891 22491891 22491891 22491891 22491891 22491891 22491891 22491891 22491891 22491891 22491891 FN: T1	LSF_out_of_context 617 625	emission
+22491891 22491891 22491891 22491891 22491891 TP: T14	Drugs 729 746	cigarette smoking
+22491891 TP: T15	Drugs 804 821	cigarette smoking
+22491891 TP: T16	Drugs 906 914	nicotine
+22491891 TP: T17	Drugs 1007 1014	Smoking
+22491891 TP: T10	Drugs 516 526	cigarettes
+22491891 FP: T11	Socioeconomic_factors 533 539	single
+22491891 TP: T12	Drugs 662 669	Smoking
+22491891 TP: T13	Drugs 690 700	cigarettes
+22491891 TP: T18	Drugs 1021 1031	cigarettes
+22491891 TP: T19	Drugs 1059 1066	smoking
+22491891 TP: T8	Drugs 341 358	cigarette smoking
+22491891 TP: T9	Drugs 501 509	nicotine
+22491891 TP: T6	Drugs 209 219	cigarettes
+22491891 TP: T7	Drugs 329 337	nicotine
+22491891 TP: T4	Drugs 122 130	Nicotine
+22491891 TP: T5	Drugs 201 208	tobacco
+22491891 TP: T2	Drugs 38 45	tobacco
+22491891 TP: T3	Drugs 46 63	cigarette smoking
+22491891 TP: T1	Drugs 29 37	nicotine
+22491891 TP: T28	Drugs 1316 1323	smoking
+22491891 TP: T21	Drugs 1111 1118	tobacco
+22491891 TP: T20	Drugs 1071 1081	cigarettes
+22491891 TP: T23	Drugs 1163 1171	nicotine
+22491891 TP: T22	Drugs 1119 1126	smoking
+22491891 TP: T25	Drugs 1217 1224	smoking
+22491891 TP: T24	Drugs 1209 1216	tobacco
+22491891 TP: T27	Drugs 1308 1315	tobacco
+22491891 TP: T26	Drugs 1264 1272	Nicotine
+OVERLAP MATCH: 29-63 : 29-37 ('nicotine tobacco cigarette smoking' vs 'nicotine')
+OVERLAP MATCH: 29-63 : 38-45 ('nicotine tobacco cigarette smoking' vs 'tobacco')
+OVERLAP MATCH: 29-63 : 46-63 ('nicotine tobacco cigarette smoking' vs 'cigarette smoking')
+OVERLAP MATCH: 201-219 : 201-208 ('tobacco cigarettes' vs 'tobacco')
+OVERLAP MATCH: 201-219 : 209-219 ('tobacco cigarettes' vs 'cigarettes')
+OVERLAP MATCH: 493-526 : 501-509 ('average nicotine (nic) cigarettes' vs 'nicotine')
+OVERLAP MATCH: 493-526 : 516-526 ('average nicotine (nic) cigarettes' vs 'cigarettes')
+OVERLAP MATCH: 493-526 : 516-526 ('average nicotine (nic) cigarettes' vs 'cigarettes')
+OVERLAP MATCH: 686-700 : 690-700 ('nic cigarettes' vs 'cigarettes')
+OVERLAP MATCH: 686-700 : 690-700 ('nic cigarettes' vs 'cigarettes')
+OVERLAP MATCH: 723-746 : 729-746 ('Denic cigarette smoking' vs 'cigarette smoking')
+OVERLAP MATCH: 800-821 : 804-821 ('nic cigarette smoking' vs 'cigarette smoking')
+OVERLAP MATCH: 1007-1031 : 1007-1014 ('Smoking denic cigarettes' vs 'Smoking')
+OVERLAP MATCH: 1007-1031 : 1021-1031 ('Smoking denic cigarettes' vs 'cigarettes')
+OVERLAP MATCH: 1059-1081 : 1059-1066 ('smoking nic cigarettes' vs 'smoking')
+OVERLAP MATCH: 1059-1081 : 1071-1081 ('smoking nic cigarettes' vs 'cigarettes')
+OVERLAP MATCH: 1107-1126 : 1111-1118 ('nic tobacco smoking' vs 'tobacco')
+OVERLAP MATCH: 1107-1126 : 1119-1126 ('nic tobacco smoking' vs 'smoking')
+OVERLAP MATCH: 1209-1224 : 1209-1216 ('tobacco smoking' vs 'tobacco')
+OVERLAP MATCH: 1209-1224 : 1217-1224 ('tobacco smoking' vs 'smoking')
+OVERLAP MATCH: 1308-1323 : 1308-1315 ('tobacco smoking' vs 'tobacco')
+OVERLAP MATCH: 1308-1323 : 1316-1323 ('tobacco smoking' vs 'smoking')
+Note: filtering out: T4	Occupations 416 425	therapist
+Note: filtering out: T5	Occupations 773 782	therapist
+18605129 FN: T6	Mental_health_practices 447 456	therapies
+18605129 FN: T7	Mental_health_practices 762 769	therapy
+18605129 FN: T2	Socioeconomic_factors 63 85	interpersonal behavior
+18605129 FN: T3	Socioeconomic_factors 816 838	interpersonal behavior
+18605129 18605129 TP: T1	Mental_health_practices 123 136	psychotherapy
+Note: filtering out: T8	Out-of-scope 1125 1147	relationship mutuality
+28034348 28034348 28034348 FN: T2	Mental_health_practices 87 101	couple therapy
+28034348 TP: T2	Socioeconomic_factors 628 653	relationship satisfaction
+28034348 TP: T1	Mental_health_practices 328 341	psychotherapy
+OVERLAP MATCH: 138-155 : 137-155 ('ndoor air quality' vs 'indoor air quality')
+11761601 FN: T9	Environmental_exposures 603 627	displacement ventilation
+11761601 11761601 FN: T7	Environmental_exposures 339 350	contaminant
+11761601 FN: T4	Environmental_exposures 187 195	emission
+11761601 FN: T5	Environmental_exposures 216 227	ventilation
+11761601 11761601 11761601 FN: T1	Environmental_exposures 55 75	indoor VOC exposures
+11761601 FN: T14	Environmental_exposures 656 695	volatile organic compound (VOC) removal
+11761601 FN: T15	Environmental_exposures 796 822	freshly painted wood stain
+11761601 FN: T16	Environmental_exposures 883 895	gypsum board
+11761601 FN: T17	Environmental_exposures 927 951	displacement ventilation
+11761601 11761601 FN: T11	Environmental_exposures 396 416	inhalation exposures
+11761601 FN: T12	Environmental_exposures 771 792	"""wet"" emission source"
+11761601 FN: T13	Environmental_exposures 634 652	mixing ventilation
+11761601 FN: T21	Environmental_exposures 1244 1248	VOCs
+11761601 FN: T20	Environmental_exposures 1146 1164	mixing ventilation
+11761601 FN: T18	Environmental_exposures 1079 1090	ventilation
+11761601 FN: T19	Environmental_exposures 1105 1129	displacement ventilation
+11761601 TP: T4	Environmental_exposures 458 461	IAQ
+11761601 TP: T2	Environmental_exposures 157 160	IAQ
+11761601 TP: T3	Environmental_exposures 264 267	IAQ
+11761601 TP: T1	Environmental_exposures 137 155	indoor air quality
+OVERLAP MATCH: 138-155 : 137-155 ('ndoor air quality' vs 'indoor air quality')
+Note: filtering out: T1	Out-of-scope 52 60	gamblers
+Note: filtering out: T3	Out-of-scope 295 302	gambler
+Note: filtering out: T4	Out-of-scope 539 547	gamblers
+Note: filtering out: T5	Out-of-scope 724 732	gamblers
+24234780 24234780 TP: T1	Non_physical_leisure_time_activities 148 156	gambling
+Note: filtering out: T5	Out-of-scope 461 469	gamblers
+Note: filtering out: T12	Out-of-scope 609 617	gamblers
+Note: filtering out: T15	Out-of-scope 69 77	gamblers
+Note: filtering out: T16	Out-of-scope 312 320	gamblers
+Note: filtering out: T17	Out-of-scope 988 996	gamblers
+Note: filtering out: T18	Out-of-scope 760 768	activity
+OVERLAP MATCH: 104-121 : 113-121 ('Internet gambling' vs 'gambling')
+OVERLAP MATCH: 491-505 : 498-505 ('online betting' vs 'betting')
+18696219 18696219 18696219 18696219 18696219 18696219 FN: T2	Non_physical_leisure_time_activities 644 649	games
+18696219 FN: T3	LSF_out_of_context 979 987	Internet
+18696219 FN: T1	LSF_out_of_context 60 68	Internet
+18696219 FN: T14	LSF_out_of_context 852 857	money
+18696219 18696219 18696219 FN: T13	LSF_out_of_context 303 311	Internet
+18696219 TP: T6	Non_physical_leisure_time_activities 905 913	gambling
+18696219 TP: T7	Non_physical_leisure_time_activities 1009 1017	gambling
+18696219 TP: T4	Non_physical_leisure_time_activities 498 505	betting
+18696219 TP: T5	Non_physical_leisure_time_activities 833 841	gambling
+18696219 TP: T2	Non_physical_leisure_time_activities 388 395	betting
+18696219 TP: T3	Non_physical_leisure_time_activities 418 425	betting
+18696219 TP: T1	Non_physical_leisure_time_activities 113 121	gambling
+OVERLAP MATCH: 104-121 : 113-121 ('Internet gambling' vs 'gambling')
+OVERLAP MATCH: 491-505 : 498-505 ('online betting' vs 'betting')
+Note: filtering out: T1	Geographical_Feature 223 229	Europe
+24806447 FN: T2	Environmental_exposures 748 765	organic chemicals
+24806447 FN: T3	LSF_out_of_context 1249 1252	web
+Note: filtering out: T2	Out-of-scope 60 80	transmeridian flight
+Note: filtering out: T3	Out-of-scope 323 343	transmeridian flight
+Note: filtering out: T4	Out-of-scope 500 520	transmeridian flight
+Note: filtering out: T5	Out-of-scope 760 780	transmeridian flight
+Note: filtering out: T6	Occupations 112 120	athletes
+10541442 FN: T8	Non_physical_leisure_time_activities 1194 1204	air travel
+10541442 FN: T9	Non_physical_leisure_time_activities 816 826	air travel
+10541442 FN: T7	Non_physical_leisure_time_activities 156 166	air travel
+10541442 FN: T1	Non_physical_leisure_time_activities 17 27	air travel
+10541442 10541442 10541442 10541442 FN: T13	Sleep 1064 1080	circadian system
+10541442 TP: T2	Sleep 918 934	circadian rhythm
+10541442 TP: T3	Sleep 1013 1030	sleep deprivation
+10541442 TP: T1	Sleep 298 303	sleep
+OVERLAP MATCH: 444-462 : 444-449 ('sleep disturbances' vs 'sleep')
+OVERLAP MATCH: 576-592 : 576-581 ('sleep continuity' vs 'sleep')
+12531131 12531131 12531131 12531131 12531131 TP: T4	Sleep 576 581	sleep
+12531131 TP: T2	Sleep 347 352	sleep
+12531131 TP: T3	Sleep 444 449	sleep
+12531131 TP: T1	Sleep 272 288	circadian rhythm
+OVERLAP MATCH: 444-462 : 444-449 ('sleep disturbances' vs 'sleep')
+OVERLAP MATCH: 576-592 : 576-581 ('sleep continuity' vs 'sleep')
+Note: filtering out: T1	Occupations 20 43	child protection worker
+Note: filtering out: T2	Occupations 84 108	Child protection workers
+Note: filtering out: T3	Geographical_Feature 142 150	Columbia
+Note: filtering out: T5	Occupations 1005 1029	child protection workers
+Note: replace discontinuous "Child Neglect" with "Neglect"
+2776042 FN: T6	Socioeconomic_factors 276 283	Neglect
+2776042 FN: T7	LSF_out_of_context 411 420	telephone
+2776042 2776042 TP: T1	Socioeconomic_factors 260 271	Child Abuse
+Note: replace discontinuous "xenobiotic compounds" with "compounds"
+Note: filtering out: T17	Out-of-scope 634 642	activity
+15309450 15309450 15309450 15309450 15309450 15309450 15309450 15309450 15309450 15309450 FN: T14	Nutrition 744 758	apo-carotenals
+15309450 15309450 FN: T16	Environmental_exposures 1365 1374	compounds
+15309450 15309450 15309450 15309450 15309450 TP: T8	Nutrition 592 599	retinol
+15309450 TP: T9	Nutrition 763 771	lycopene
+15309450 TP: T6	Nutrition 282 293	carotenoids
+15309450 TP: T7	Nutrition 576 587	Carotenoids
+15309450 TP: T4	Nutrition 172 176	diet
+15309450 TP: T5	Nutrition 259 270	antioxidant
+15309450 TP: T2	Nutrition 118 129	Carotenoids
+15309450 TP: T3	Nutrition 144 158	micronutrients
+15309450 TP: T1	Nutrition 0 11	Carotenoids
+15309450 TP: T14	Nutrition 1262 1273	carotenoids
+15309450 TP: T10	Nutrition 885 895	carotenoid
+15309450 TP: T11	Nutrition 900 907	retinol
+15309450 TP: T12	Nutrition 1079 1092	beta-carotene
+15309450 TP: T13	Nutrition 1096 1103	retinol
+9739624 FN: T2	Environmental_exposures 95 112	radioactive waste
+9739624 FN: T1	Environmental_exposures 40 57	radioactive waste
+Note: filtering out: T2	Out-of-scope 334 342	employed
+30980555 FN: T3	Environmental_exposures 840 857	airborne exposure
+30980555 FN: T1	Environmental_exposures 501 511	air change
+Note: filtering out: T3	Out-of-scope 64 77	working women
+Note: filtering out: T5	Out-of-scope 269 282	working women
+Note: filtering out: T6	Out-of-scope 341 354	working women
+Note: filtering out: T12	Out-of-scope 789 806	sedentary workers
+Note: replace discontinuous "moderately active work" with "work"
+Note: filtering out: T21	Geographical_Feature 88 100	North Dakota
+Note: replace discontinuous "moderate working occupations" with "working occupations"
+Note: filtering out: T28	Out-of-scope 922 930	employed
+OVERLAP MATCH: 0-30 : 13-30 ('Occupational physical activity' vs 'physical activity')
+OVERLAP MATCH: 183-213 : 196-213 ('occupational physical activity' vs 'physical activity')
+21487131 21487131 FN: T15	Socioeconomic_factors 961 965	work
+21487131 FN: T16	Socioeconomic_factors 955 965	heavy work
+21487131 21487131 21487131 FN: T11	Physical_activity 719 721	PA
+21487131 21487131 21487131 FN: T19	Socioeconomic_factors 1070 1091	sedentary occupations
+21487131 21487131 FN: T9	Socioeconomic_factors 546 550	OCPA
+21487131 FN: T7	Socioeconomic_factors 414 418	OCPA
+21487131 21487131 21487131 21487131 21487131 FN: T23	Physical_activity 1259 1261	PA
+21487131 FN: T22	Physical_activity 215 219	OCPA
+21487131 21487131 21487131 FN: T27	Socioeconomic_factors 1202 1221	working occupations
+21487131 FN: T26	Socioeconomic_factors 1196 1221	heavy working occupations
+21487131 TP: T8	Physical_activity 825 829	LTPA
+21487131 TP: T9	Physical_activity 871 875	LTPA
+21487131 TP: T6	1000000001 438 455	lifestyle factors
+21487131 TP: T7	Physical_activity 593 597	LTPA
+21487131 TP: T4	Physical_activity 257 261	LTPA
+21487131 TP: T5	Physical_activity 423 427	LTPA
+21487131 TP: T2	Physical_activity 196 213	physical activity
+21487131 TP: T3	Physical_activity 225 255	leisure-time physical activity
+21487131 TP: T1	Physical_activity 13 30	physical activity
+21487131 TP: T10	Physical_activity 994 998	LTPA
+21487131 TP: T11	Physical_activity 1036 1040	LTPA
+21487131 TP: T12	Physical_activity 1116 1120	LTPA
+% (12/12) recall 73.33% (11/15) F 84.62%
+precision 100.00% (3/3) recall 100.00% (3/3) F 100.00%
+precision 100.00% (10/10) recall 90.91% (10/11) F 95.24%
+precision 87.50% (7/8) recall 77.78% (7/9) F 82.35%
+precision 100.00% (4/4) recall 80.00% (4/5) F 88.89%
+precision 100.00% (10/10) recall 83.33% (10/12) F 90.91%
+precision 100.00% (5/5) recall 45.45% (5/11) F 62.50%
+precision 50.00% (3/6) recall 33.33% (3/9) F 40.00%
+precision 100.00% (10/10) recall 83.33% (10/12) F 90.91%
+precision 94.44% (17/18) recall 100.00% (18/18) F 97.14%
+precision 0.00% (0/0) recall 0.00% (0/0) F 0.00%
+precision 100.00% (1/1) recall 50.00% (1/2) F 66.67%
+precision 92.31% (12/13) recall 100.00% (12/12) F 96.00%
+precision 100.00% (8/8) recall 53.33% (8/15) F 69.57%
+precision 83.33% (5/6) recall 83.33% (5/6) F 83.33%
+precision 100.00% (1/1) recall 100.00% (1/1) F 100.00%
+precision 0.00% (0/0) recall 0.00% (0/0) F 0.00%
+precision 100.00% (8/8) recall 57.14% (8/14) F 72.73%
+precision 0.00% (0/0) recall 0.00% (0/0) F 0.00%
+precision 100.00% (5/5) recall 100.00% (5/5) F 100.00%
+precision 100.00% (2/2) recall 8.33% (2/24) F 15.38%
+precision 100.00% (1/1) recall 7.69% (1/13) F 14.29%
+precision 0.00% (0/0) recall 0.00% (0/8) F 0.00%
+precision 0.00% (0/0) recall 0.00% (0/0) F 0.00%
+precision 100.00% (2/2) recall 100.00% (2/2) F 100.00%
+precision 100.00% (1/1) recall 33.33% (1/3) F 50.00%
+precision 0.00% (0/0) recall 0.00% (0/0) F 0.00%
+precision 75.00% (3/4) recall 30.00% (3/10) F 42.86%
+precision 100.00% (1/1) recall 100.00% (1/1) F 100.00%
+precision 100.00% (1/1) recall 100.00% (1/1) F 100.00%
+precision 100.00% (2/2) recall 40.00% (2/5) F 57.14%
+precision 100.00% (4/4) recall 100.00% (4/4) F 100.00%
+precision 100.00% (3/3) recall 100.00% (3/3) F 100.00%
+precision 100.00% (3/3) recall 100.00% (3/3) F 100.00%
+precision 100.00% (1/1) recall 9.09% (1/11) F 16.67%
+precision 100.00% (1/1) recall 14.29% (1/7) F 25.00%
+precision 100.00% (2/2) recall 100.00% (2/2) F 100.00%
+precision 100.00% (9/9) recall 75.00% (9/12) F 85.71%
+precision 100.00% (5/5) recall 100.00% (5/5) F 100.00%
+precision 0.00% (0/0) recall 0.00% (0/2) F 0.00%
+precision 0.00% (0/0) recall 0.00% (0/8) F 0.00%
+precision 87.50% (7/8) recall 100.00% (6/6) F 93.33%
+precision 100.00% (5/5) recall 50.00% (5/10) F 66.67%
+precision 100.00% (6/6) recall 100.00% (6/6) F 100.00%
+precision 100.00% (8/8) recall 100.00% (8/8) F 100.00%
+precision 100.00% (1/1) recall 25.00% (1/4) F 40.00%
+precision 100.00% (4/4) recall 100.00% (4/4) F 100.00%
+precision 100.00% (8/8) recall 46.67% (7/15) F 63.64%
+precision 100.00% (9/9) recall 25.93% (7/27) F 41.18%
+precision 100.00% (16/16) recall 84.21% (16/19) F 91.43%
+precision 100.00% (2/2) recall 28.57% (2/7) F 44.44%
+precision 100.00% (10/10) recall 40.00% (10/25) F 57.14%
+precision 75.00% (3/4) recall 100.00% (3/3) F 85.71%
+precision 100.00% (4/4) recall 36.36% (4/11) F 53.33%
+precision 100.00% (7/7) recall 87.50% (7/8) F 93.33%
+precision 100.00% (20/20) recall 95.65% (22/23) F 97.78%
+precision 0.00% (0/1) recall 0.00% (0/2) F 0.00%
+precision 100.00% (5/5) recall 62.50% (5/8) F 76.92%
+precision 100.00% (13/13) recall 93.75% (15/16) F 96.77%
+precision 100.00% (5/5) recall 83.33% (5/6) F 90.91%
+precision 87.50% (7/8) recall 28.57% (6/21) F 43.08%
+precision 100.00% (6/6) recall 40.00% (6/15) F 57.14%
+precision 100.00% (2/2) recall 66.67% (2/3) F 80.00%
+precision 96.43% (27/28) recall 90.91% (20/22) F 93.59%
+precision 100.00% (1/1) recall 20.00% (1/5) F 33.33%
+precision 100.00% (2/2) recall 66.67% (2/3) F 80.00%
+precision 100.00% (4/4) recall 20.00% (4/20) F 33.33%
+precision 100.00% (1/1) recall 100.00% (1/1) F 100.00%
+precision 100.00% (7/7) recall 58.33% (7/12) F 73.68%
+precision 0.00% (0/0) recall 0.00% (0/2) F 0.00%
+precision 100.00% (3/3) recall 37.50% (3/8) F 54.55%
+precision 100.00% (4/4) recall 100.00% (4/4) F 100.00%
+precision 100.00% (1/1) recall 33.33% (1/3) F 50.00%
+precision 100.00% (14/14) recall 87.50% (14/16) F 93.33%
+precision 0.00% (0/0) recall 0.00% (0/2) F 0.00%
+precision 0.00% (0/0) recall 0.00% (0/2) F 0.00%
+precision 100.00% (12/12) recall 54.55% (12/2OVERLAP MATCH: 183-213 : 196-213 ('occupational physical activity' vs 'physical activity')
+Note: replace discontinuous "moderate physical activity" with "physical activity"
+OVERLAP MATCH: 630-647 : 621-647 ('physical activity' vs 'vigorous physical activity')
+28834509 FN: T8	LSF_out_of_context 13 19	School
+28834509 FN: T9	LSF_out_of_context 264 270	school
+28834509 28834509 28834509 28834509 28834509 28834509 28834509 28834509 FN: T14	LSF_out_of_context 870 877	schools
+28834509 FN: T15	LSF_out_of_context 974 980	school
+28834509 FN: T16	LSF_out_of_context 1082 1088	school
+28834509 FN: T17	LSF_out_of_context 406 414	Activity
+28834509 28834509 FN: T11	LSF_out_of_context 675 681	school
+28834509 FN: T12	LSF_out_of_context 499 505	school
+28834509 FN: T13	LSF_out_of_context 749 755	school
+28834509 FN: T18	LSF_out_of_context 82 90	Activity
+28834509 TP: T6	Socioeconomic_factors 807 820	middle school
+28834509 TP: T7	Physical_activity 1142 1159	physical activity
+28834509 TP: T4	Physical_activity 275 292	physical activity
+28834509 TP: T5	Physical_activity 621 647	vigorous physical activity
+28834509 TP: T2	Socioeconomic_factors 48 61	Middle School
+28834509 TP: T3	Physical_activity 195 212	physical activity
+28834509 TP: T1	Physical_activity 24 41	Physical Activity
+OVERLAP MATCH: 630-647 : 621-647 ('physical activity' vs 'vigorous physical activity')
+OVERLAP MATCH: 18-35 : 24-35 ('group mindfulness' vs 'mindfulness')
+24313300 24313300 24313300 TP: T2	Mental_health_practices 293 304	mindfulness
+24313300 TP: T1	Mental_health_practices 24 35	mindfulness
+OVERLAP MATCH: 18-35 : 24-35 ('group mindfulness' vs 'mindfulness')
+Note: filtering out: T3	Out-of-scope 292 298	Single
+Note: filtering out: T4	Geographical_Feature 569 571	UK
+11709596 11709596 11709596 TP: T2	Beauty_and_Cleaning 535 546	orthodontic
+11709596 TP: T3	Beauty_and_Cleaning 583 594	Orthodontic
+11709596 FP: T1	Socioeconomic_factors 292 298	Single
+28365427 28365427 FN: T9	Socioeconomic_factors 795 800	abuse
+28365427 28365427 28365427 28365427 28365427 28365427 28365427 28365427 FN: T10	Socioeconomic_factors 824 834	negligence
+28365427 28365427 TP: T8	Socioeconomic_factors 885 894	unmarried
+28365427 TP: T9	Socioeconomic_factors 1161 1173	maltreatment
+28365427 TP: T6	Socioeconomic_factors 665 677	maltreatment
+28365427 TP: T7	Socioeconomic_factors 746 758	maltreatment
+28365427 TP: T4	Socioeconomic_factors 544 557	child welfare
+28365427 TP: T5	Socioeconomic_factors 620 632	maltreatment
+28365427 TP: T2	Socioeconomic_factors 142 154	maltreatment
+28365427 TP: T3	Socioeconomic_factors 265 277	maltreatment
+28365427 TP: T1	Socioeconomic_factors 18 30	maltreatment
+OVERLAP MATCH: 699-726 : 713-726 ('interpersonal group therapy' vs 'group therapy')
+15388401 FN: T6	Socioeconomic_factors 246 263	social adjustment
+15388401 FN: T7	Socioeconomic_factors 288 302	peer relations
+15388401 15388401 15388401 15388401 15388401 15388401 TP: T4	Mental_health_practices 550 563	group therapy
+15388401 TP: T5	Mental_health_practices 713 726	group therapy
+15388401 TP: T2	Mental_health_practices 332 345	group therapy
+15388401 TP: T3	Mental_health_practices 503 522	group psychotherapy
+15388401 TP: T1	Mental_health_practices 24 37	group therapy
+OVERLAP MATCH: 699-726 : 713-726 ('interpersonal group therapy' vs 'group therapy')
+Note: filtering out: T7	Out-of-scope 645 652	protein
+Note: filtering out: T10	Out-of-scope 1152 1160	products
+OVERLAP MATCH: 128-138 : 128-133 ('Sleep-wake' vs 'Sleep')
+OVERLAP MATCH: 1027-1044 : 1027-1032 ('sleep disturbance' vs 'sleep')
+OVERLAP MATCH: 1164-1187 : 1171-1176 ('normal sleep regulation' vs 'sleep')
+10389102 FN: T8	Sleep 568 574	waking
+10389102 FN: T9	Sleep 1069 1087	daytime sleepiness
+10389102 10389102 10389102 FN: T5	Sleep 555 563	sleeping
+10389102 10389102 10389102 10389102 TP: T4	Sleep 1027 1032	sleep
+10389102 TP: T5	Sleep 1171 1176	sleep
+10389102 TP: T2	Sleep 128 133	Sleep
+10389102 TP: T3	Sleep 439 455	sleep-wake cycle
+10389102 TP: T1	Sleep 25 30	sleep
+OVERLAP MATCH: 1027-1044 : 1027-1032 ('sleep disturbance' vs 'sleep')
+OVERLAP MATCH: 1164-1187 : 1171-1176 ('normal sleep regulation' vs 'sleep')
+18479844 FN: T8	LSF_out_of_context 478 487	substance
+18479844 FN: T9	Drugs 529 538	substance
+18479844 FN: T6	LSF_out_of_context 219 228	substance
+18479844 FN: T7	Drugs 392 401	addiction
+18479844 FN: T4	Drugs 155 174	addictive behaviors
+18479844 FN: T5	Drugs 1308 1327	addictive behaviors
+18479844 FN: T2	Drugs 20 39	addictive behaviors
+18479844 18479844 FN: T1	Drugs 833 862	substance self-administration
+18479844 FN: T10	LSF_out_of_context 606 615	substance
+18479844 FN: T11	LSF_out_of_context 1081 1090	addiction
+18479844 TP: T1	Socioeconomic_factors 99 105	wealth
+Note: filtering out: T1	Geographical_Feature 796 802	Taiwan
+Note: filtering out: T6	Out-of-scope 646 653	product
+Note: filtering out: T7	Out-of-scope 1260 1267	product
+23895466 FN: T4	LSF_out_of_context 926 929	Web
+23895466 FN: T5	LSF_out_of_context 1272 1275	Web
+23895466 FN: T2	LSF_out_of_context 410 413	Web
+23895466 FN: T3	LSF_out_of_context 658 661	Web
+Note: filtering out: T4	Out-of-scope 1285 1307	multibracket treatment
+Note: filtering out: T5	Out-of-scope 233 255	multibracket treatment
+Note: filtering out: T6	Out-of-scope 830 852	multibracket treatment
+Note: filtering out: T2	Out-of-scope 1140 1146	Single
+OVERLAP MATCH: 48-68 : 48-59 ('orthodontic brackets' vs 'orthodontic')
+24158583 24158583 FN: T3	Beauty_and_Cleaning 348 370	multibracket appliance
+24158583 24158583 TP: T2	Beauty_and_Cleaning 308 319	orthodontic
+24158583 FP: T3	Socioeconomic_factors 1140 1146	Single
+24158583 TP: T1	Beauty_and_Cleaning 48 59	orthodontic
+OVERLAP MATCH: 48-68 : 48-59 ('orthodontic brackets' vs 'orthodontic')
+29989216 FN: T1	LSF_out_of_context 911 918	climate
+9406320 9406320 9406320 9406320 9406320 9406320 9406320 9406320 TP: T6	Sleep 634 647	sleep latency
+9406320 TP: T7	Sleep 701 706	sleep
+9406320 TP: T4	Sleep 478 491	sleep latency
+9406320 TP: T5	Sleep 589 594	sleep
+9406320 TP: T2	Sleep 279 284	sleep
+9406320 TP: T3	Sleep 364 369	sleep
+9406320 TP: T1	Sleep 44 49	sleep
+Note: filtering out: T3	Geographical_Feature 597 602	Chile
+Note: filtering out: T5	Out-of-scope 683 691	products
+Note: filtering out: T8	Out-of-scope 548 556	products
+Note: filtering out: T9	Out-of-scope 726 733	product
+Note: filtering out: T10	Out-of-scope 842 847	light
+22581198 FN: T6	LSF_out_of_context 1041 1054	lottery games
+22581198 FN: T7	LSF_out_of_context 1140 1153	lottery games
+22581198 FN: T4	LSF_out_of_context 1223 1230	playing
+22581198 FN: T2	LSF_out_of_context 580 593	lottery games
+22581198 FN: T1	LSF_out_of_context 82 95	lottery games
+23575456 FN: T8	Physical_activity 1025 1033	Activity
+23575456 23575456 23575456 23575456 23575456 23575456 23575456 23575456 TP: T8	Physical_activity 1110 1127	physical activity
+23575456 TP: T9	Physical_activity 1347 1364	physical activity
+23575456 TP: T6	Physical_activity 703 720	physical activity
+23575456 FP: T7	Socioeconomic_factors 1042 1061	parenting practices
+23575456 TP: T4	Physical_activity 257 274	physical activity
+23575456 TP: T5	Physical_activity 323 340	physical activity
+23575456 FP: T2	Socioeconomic_factors 39 58	parenting practices
+23575456 TP: T3	Physical_activity 102 119	physical activity
+23575456 TP: T1	Physical_activity 21 38	physical activity
+Note: filtering out: T10	Occupations 380 386	nurses
+Note: filtering out: T11	Occupations 388 398	physicians
+Note: filtering out: T12	Occupations 400 414	social workers
+Note: filtering out: T13	Occupations 433 453	health professionals
+Note: filtering out: T14	Occupations 0 21	Health care providers
+Note: filtering out: T15	Occupations 101 122	health care providers
+Note: filtering out: T16	Occupations 357 378	health care providers
+Note: filtering out: T18	Occupations 1047 1055	provider
+11705018 11705018 11705018 11705018 11705018 11705018 11705018 11705018 11705018 FN: T1	Non_physical_leisure_time_activities 48 56	gamblers
+11705018 FN: T17	Mental_health_practices 782 792	counseling
+11705018 TP: T8	Non_physical_leisure_time_activities 962 970	gambling
+11705018 TP: T6	Non_physical_leisure_time_activities 803 811	gambling
+11705018 TP: T7	Non_physical_leisure_time_activities 884 892	gambling
+11705018 TP: T4	Non_physical_leisure_time_activities 563 571	gambling
+11705018 TP: T5	Non_physical_leisure_time_activities 706 714	gambling
+11705018 TP: T2	Non_physical_leisure_time_activities 287 295	gambling
+11705018 TP: T3	Non_physical_leisure_time_activities 515 523	gambling
+11705018 TP: T1	Non_physical_leisure_time_activities 145 153	gambling
+Note: filtering out: T3	Geographical_Feature 204 210	Taiwan
+Note: filtering out: T8	Geographical_Feature 177 184	Taoyuan
+OVERLAP MATCH: 56-79 : 69-79 ('agricultural wastewater' vs 'wastewater')
+OVERLAP MATCH: 899-922 : 912-922 ('agricultural wastewater' vs 'wastewater')
+11345740 FN: T6	LSF_out_of_context 384 389	water
+11345740 FN: T7	Environmental_exposures 544 572	agricultural returning water
+11345740 11345740 11345740 11345740 11345740 TP: T4	Environmental_exposures 912 922	wastewater
+11345740 TP: T2	Environmental_exposures 232 245	water quality
+11345740 TP: T3	Environmental_exposures 704 717	water quality
+11345740 TP: T1	Environmental_exposures 69 79	wastewater
+OVERLAP MATCH: 56-79 : 69-79 ('agricultural wastewater' vs 'wastewater')
+OVERLAP MATCH: 899-922 : 912-922 ('agricultural wastewater' vs 'wastewater')
+Note: filtering out: T7	Out-of-scope 513 526	Internet user
+Note: filtering out: T11	Occupations 888 898	nonworkers
+Note: filtering out: T4	Occupations 861 883	skilled computer users
+Note: filtering out: T14	Out-of-scope 399 407	activity
+23113691 FN: T8	Socioeconomic_factors 587 611	sociodemographic factors
+23113691 FN: T9	Non_physical_leisure_time_activities 659 676	Internet adoption
+23113691 23113691 23113691 23113691 FN: T3	LSF_out_of_context 130 138	Internet
+23113691 FN: T1	LSF_out_of_context 0 8	Internet
+23113691 23113691 FN: T12	Socioeconomic_factors 1028 1032	work
+23113691 FN: T13	LSF_out_of_context 513 521	Internet
+23113691 TP: T4	Non_physical_leisure_time_activities 433 445	Internet use
+23113691 TP: T2	Socioeconomic_factors 258 269	sociability
+23113691 TP: T3	Non_physical_leisure_time_activities 363 375	Internet use
+23113691 TP: T1	Non_physical_leisure_time_activities 58 70	internet use
+Note: filtering out: T27	Out-of-scope 147 151	work
+23876105 FN: T14	Nutrition 840 849	soy fiber
+23876105 FN: T15	Nutrition 889 910	soy fermented product
+23876105 FN: T16	Nutrition 919 928	soy fiber
+23876105 23876105 FN: T10	Nutrition 379 382	oat
+23876105 FN: T11	Nutrition 387 398	wheat fiber
+23876105 23876105 23876105 23876105 FN: T19	Nutrition 77 82	fiber
+23876105 FN: T8	Nutrition 365 372	Soymilk
+23876105 FN: T9	Nutrition 374 377	soy
+23876105 FN: T6	Nutrition 224 227	oat
+23876105 FN: T7	Nutrition 232 244	wheat fibers
+23876105 23876105 FN: T5	Nutrition 219 222	soy
+23876105 23876105 FN: T3	Nutrition 170 191	fermented soy product
+23876105 FN: T1	Nutrition 18 39	fermented soy product
+23876105 FN: T21	Nutrition 483 500	thermal treatment
+23876105 FN: T20	Nutrition 265 270	fiber
+23876105 FN: T23	Nutrition 541 553	Fermentation
+23876105 FN: T22	Nutrition 502 509	cooling
+23876105 FN: T25	Nutrition 640 648	products
+23876105 FN: T24	Nutrition 275 282	product
+23876105 FN: T26	Nutrition 787 804	fermented product
+23876105 TP: T6	Nutrition 590 595	kefir
+23876105 TP: T4	Nutrition 421 439	anti-foaming agent
+23876105 TP: T5	Nutrition 530 539	flavoring
+23876105 TP: T2	Nutrition 209 214	kefir
+23876105 TP: T3	Nutrition 409 416	sucrose
+23876105 TP: T1	Nutrition 59 64	kefir
+OVERLAP MATCH: 209-232 : 209-216 ('smoking-related stimuli' vs 'smoking')
+OVERLAP MATCH: 329-345 : 329-337 ('nicotine patches' vs 'nicotine')
+18584466 18584466 18584466 18584466 18584466 18584466 18584466 18584466 18584466 18584466 FN: T10	Drugs 350 365	placebo patches
+18584466 FN: T11	Drugs 613 620	placebo
+18584466 18584466 18584466 TP: T8	Drugs 724 731	smoking
+18584466 TP: T9	Drugs 905 913	nicotine
+18584466 TP: T6	Drugs 591 599	nicotine
+18584466 TP: T7	Drugs 688 696	Nicotine
+18584466 TP: T4	Drugs 329 337	nicotine
+18584466 TP: T5	Drugs 485 492	smoking
+18584466 TP: T2	Drugs 139 147	nicotine
+18584466 TP: T3	Drugs 209 216	smoking
+18584466 TP: T1	Drugs 0 8	Nicotine
+18584466 TP: T10	Drugs 1006 1014	Nicotine
+18584466 TP: T11	Drugs 1114 1121	smoking
+OVERLAP MATCH: 209-232 : 209-216 ('smoking-related stimuli' vs 'smoking')
+OVERLAP MATCH: 329-345 : 329-337 ('nicotine patches' vs 'nicotine')
+Note: filtering out: T4	Geographical_Feature 499 502	USA
+Note: filtering out: T10	Geographical_Feature 615 617	US
+Note: filtering out: T11	Occupations 30 50	Wall Street analysts
+Note: filtering out: T12	Occupations 128 148	Wall Street analysts
+Note: filtering out: T15	Occupations 367 387	Wall Street analysts
+Note: filtering out: T16	Occupations 580 587	analyst
+Note: filtering out: T17	Occupations 778 798	Wall Street analysts
+Note: filtering out: T18	Occupations 849 868	research scientists
+Note: filtering out: T19	Occupations 873 882	academics
+15333876 FN: T8	LSF_out_of_context 508 515	tobacco
+15333876 FN: T9	LSF_out_of_context 916 923	tobacco
+15333876 FN: T6	LSF_out_of_context 323 330	tobacco
+15333876 FN: T7	LSF_out_of_context 420 427	tobacco
+15333876 FN: T5	LSF_out_of_context 721 728	tobacco
+15333876 FN: T2	LSF_out_of_context 102 109	tobacco
+15333876 15333876 FN: T1	LSF_out_of_context 4 11	tobacco
+15333876 FN: T14	LSF_out_of_context 254 263	newspaper
+15333876 FN: T13	LSF_out_of_context 244 252	internet
+15333876 TP: T1	Drugs 209 216	tobacco
+OVERLAP MATCH: 429-457 : 429-442 ('air pollution control device' vs 'air pollution')
+15658217 15658217 FN: T4	Environmental_exposures 15 27	heavy metals
+15658217 FN: T5	Environmental_exposures 84 97	fabric filter
+15658217 15658217 15658217 15658217 FN: T14	Environmental_exposures 400 413	fabric filter
+15658217 FN: T15	Environmental_exposures 491 498	fly ash
+15658217 FN: T16	Environmental_exposures 503 515	heavy metals
+15658217 FN: T17	Environmental_exposures 622 634	heavy metals
+15658217 FN: T10	Environmental_exposures 270 281	heavy metal
+15658217 FN: T11	Environmental_exposures 286 293	fly ash
+15658217 FN: T12	LSF_out_of_context 323 331	particle
+15658217 FN: T13	Environmental_exposures 353 365	heavy metals
+15658217 FN: T23	Environmental_exposures 459 463	APCD
+15658217 FN: T22	LSF_out_of_context 936 945	particles
+15658217 FN: T18	Environmental_exposures 650 657	fly ash
+15658217 FN: T19	LSF_out_of_context 685 693	particle
+15658217 TP: T4	Nutrition 578 581	PVC
+15658217 TP: T2	Nutrition 204 207	PVC
+15658217 TP: T3	Environmental_exposures 429 442	air pollution
+15658217 TP: T1	Nutrition 184 202	polyvinyl chloride
+OVERLAP MATCH: 429-457 : 429-442 ('air pollution control device' vs 'air pollution')
+Note: filtering out: T1	Occupations 7 23	psychotherapists
+Note: filtering out: T2	Occupations 247 263	psychotherapists
+Note: filtering out: T3	Occupations 176 192	psychotherapists
+Note: filtering out: T9	Occupations 1085 1095	therapists
+Note: filtering out: T10	Occupations 575 585	therapists
+25047604 25047604 25047604 25047604 25047604 25047604 FN: T11	LSF_out_of_context 654 662	Internet
+25047604 FN: T12	LSF_out_of_context 932 938	school
+25047604 TP: T4	Mental_health_practices 398 411	Psychotherapy
+25047604 TP: T5	Mental_health_practices 1012 1025	psychotherapy
+25047604 TP: T2	Mental_health_practices 103 116	Psychotherapy
+25047604 TP: T3	Mental_health_practices 206 219	Psychotherapy
+25047604 TP: T1	Mental_health_practices 39 52	psychotherapy
+Note: filtering out: T5	Occupations 688 700	orthodontist
+OVERLAP MATCH: 0-21 : 0-11 ('Orthodontic treatment' vs 'Orthodontic')
+OVERLAP MATCH: 210-231 : 210-221 ('orthodontic treatment' vs 'orthodontic')
+OVERLAP MATCH: 774-795 : 774-785 ('orthodontic treatment' vs 'orthodontic')
+9200889 9200889 9200889 9200889 9200889 TP: T4	Beauty_and_Cleaning 774 785	orthodontic
+9200889 TP: T2	Beauty_and_Cleaning 210 221	orthodontic
+9200889 TP: T3	Beauty_and_Cleaning 547 559	orthodontics
+9200889 TP: T1	Beauty_and_Cleaning 0 11	Orthodontic
+OVERLAP MATCH: 0-21 : 0-11 ('Orthodontic treatment' vs 'Orthodontic')
+OVERLAP MATCH: 210-231 : 210-221 ('orthodontic treatment' vs 'orthodontic')
+OVERLAP MATCH: 774-795 : 774-785 ('orthodontic treatment' vs 'orthodontic')
+Note: filtering out: T11	Geographical_Feature 378 403	Western Isles of Scotland
+Note: filtering out: T12	Geographical_Feature 50 63	Western Isles
+3780410 FN: T8	Nutrition 600 608	drinking
+3780410 FN: T9	Nutrition 640 651	drunkenness
+3780410 FN: T6	Nutrition 91 98	alcohol
+3780410 3780410 3780410 3780410 3780410 3780410 3780410 FN: T10	Nutrition 780 790	alcoholism
+3780410 TP: T6	Nutrition 273 284	alcohol use
+3780410 TP: T4	Socioeconomic_factors 171 179	religion
+3780410 TP: T5	Nutrition 184 203	alcohol consumption
+3780410 TP: T2	Nutrition 31 42	alcohol use
+3780410 TP: T3	Socioeconomic_factors 78 86	religion
+3780410 TP: T1	Socioeconomic_factors 0 8	Religion
+Note: replace discontinuous "Physical abuse" with "abuse"
+Note: replace discontinuous "abuse physical" with "physical"
+Note: replace discontinuous "physical abuse" with "abuse"
+Note: replace discontinuous "physical abuse" with "abuse"
+OVERLAP MATCH: 20-25 : 13-25 ('abuse' vs 'sexual abuse')
+OVERLAP MATCH: 353-358 : 346-358 ('abuse' vs 'sexual abuse')
+OVERLAP MATCH: 816-821 : 809-821 ('abuse' vs 'sexual abuse')
+2776050 2776050 FN: T9	Socioeconomic_factors 80 88	physical
+2776050 FN: T6	Socioeconomic_factors 895 910	family problems
+2776050 FN: T7	Socioeconomic_factors 155 160	abuse
+2776050 FN: T4	Drugs 616 629	drug problems
+2776050 2776050 2776050 2776050 2776050 2776050 2776050 TP: T4	Socioeconomic_factors 809 821	sexual abuse
+2776050 TP: T2	Socioeconomic_factors 93 105	sexual abuse
+2776050 TP: T3	Socioeconomic_factors 346 358	sexual abuse
+2776050 TP: T1	Socioeconomic_factors 13 25	sexual abuse
+OVERLAP MATCH: 20-25 : 13-25 ('abuse' vs 'sexual abuse')
+OVERLAP MATCH: 353-358 : 346-358 ('abuse' vs 'sexual abuse')
+OVERLAP MATCH: 816-821 : 809-821 ('abuse' vs 'sexual abuse')
+688856 FN: T8	LSF_out_of_context 310 317	ethanol
+688856 FN: T9	LSF_out_of_context 764 771	ethanol
+688856 FN: T6	LSF_out_of_context 236 243	ethanol
+688856 FN: T7	Nutrition 300 305	water
+688856 688856 688856 FN: T2	Nutrition 6 11	water
+688856 FN: T3	LSF_out_of_context 16 35	ethanol consumption
+688856 688856 FN: T14	LSF_out_of_context 872 879	ethanol
+688856 FN: T16	LSF_out_of_context 347 354	ethanol
+688856 688856 688856 FN: T12	LSF_out_of_context 466 485	ethanol consumption
+688856 688856 FN: T21	LSF_out_of_context 929 945	ethanol drinking
+688856 688856 FN: T18	LSF_out_of_context 809 816	ethanol
+688856 TP: T8	Nutrition 746 760	caloric intake
+688856 TP: T9	Nutrition 906 914	calories
+688856 TP: T6	Nutrition 655 669	caloric intake
+688856 FP: T7	Nutrition 677 689	fluid intake
+688856 TP: T4	Nutrition 403 417	caloric intake
+688856 FP: T5	Nutrition 428 440	fluid intake
+688856 TP: T2	Nutrition 79 83	food
+688856 TP: T3	Nutrition 147 151	food
+688856 TP: T1	Nutrition 0 4	Food
+Note: replace discontinuous "lettuce green" with "green"
+Note: replace discontinuous "lettuce red romaine" with "red romaine"
+Note: replace discontinuous "lettuce green" with "green"
+OVERLAP MATCH: 57-74 : 67-74 ('baby-leaf lettuce' vs 'lettuce')
+OVERLAP MATCH: 158-178 : 168-178 ('baby-leaf vegetables' vs 'vegetables')
+OVERLAP MATCH: 267-277 : 273-277 ('daily diet' vs 'diet')
+OVERLAP MATCH: 989-1008 : 1001-1008 ('red romaine lettuce' vs 'lettuce')
+27075434 FN: T8	Nutrition 945 956	tocopherols
+27075434 27075434 FN: T6	Nutrition 358 369	tocopherols
+27075434 FN: T7	Nutrition 864 875	tocopherols
+27075434 27075434 FN: T5	Nutrition 29 40	tocopherols
+27075434 27075434 27075434 27075434 FN: T14	Nutrition 481 485	BLVs
+27075434 27075434 FN: T16	Nutrition 79 91	salad rocket
+27075434 FN: T17	Nutrition 180 184	BLVs
+27075434 27075434 27075434 27075434 FN: T13	Nutrition 427 445	salad rocket BLVs.
+27075434 FN: T20	Nutrition 979 984	green
+27075434 FN: T18	Nutrition 400 405	green
+27075434 FN: T19	Nutrition 410 421	red romaine
+27075434 TP: T8	Nutrition 929 940	carotenoids
+27075434 TP: T9	Nutrition 1001 1008	lettuce
+27075434 TP: T6	Nutrition 391 398	lettuce
+27075434 TP: T7	Nutrition 848 859	carotenoids
+27075434 TP: T4	Nutrition 273 277	diet
+27075434 TP: T5	Nutrition 345 356	carotenoids
+27075434 TP: T2	Nutrition 67 74	lettuce
+27075434 TP: T3	Nutrition 168 178	vegetables
+27075434 TP: T1	Nutrition 13 24	carotenoids
+OVERLAP MATCH: 57-74 : 67-74 ('baby-leaf lettuce' vs 'lettuce')
+OVERLAP MATCH: 158-178 : 168-178 ('baby-leaf vegetables' vs 'vegetables')
+OVERLAP MATCH: 267-277 : 273-277 ('daily diet' vs 'diet')
+OVERLAP MATCH: 989-1008 : 1001-1008 ('red romaine lettuce' vs 'lettuce')
+7356583 FN: T8	Drugs 276 281	drugs
+7356583 7356583 7356583 7356583 FN: T4	Drugs 762 766	drug
+7356583 FN: T5	LSF_out_of_context 771 778	alcohol
+7356583 FN: T2	Drugs 42 47	drugs
+7356583 FN: T3	Drugs 548 552	drug
+7356583 FN: T1	Drugs 0 4	Drug
+7356583 FN: T14	Drugs 424 429	drugs
+7356583 FN: T15	Drugs 450 458	cannabis
+7356583 7356583 FN: T17	Drugs 474 481	alcohol
+7356583 7356583 FN: T11	Drugs 330 335	drugs
+7356583 FN: T12	Drugs 341 348	alcohol
+7356583 7356583 FN: T20	Drugs 628 633	drugs
+7356583 7356583 FN: T19	Drugs 662 670	cannabis
+7356583 TP: T6	Drugs 486 493	tobacco
+7356583 TP: T7	Socioeconomic_factors 779 788	education
+7356583 TP: T4	Drugs 353 363	cigarettes
+7356583 TP: T5	Drugs 460 472	amphetamines
+7356583 TP: T2	Drugs 283 289	Heroin
+7356583 TP: T3	Drugs 294 297	LSD
+7356583 TP: T1	Drugs 198 211	illegal drugs
+Note: filtering out: T9	Geographical_Feature 729 735	Europe
+Note: filtering out: T10	Geographical_Feature 744 747	USA
+OVERLAP MATCH: 81-109 : 81-90 ('pollution abatement policies' vs 'pollution')
+12676206 FN: T8	Nutrition 294 299	crops
+12676206 FN: T6	Environmental_exposures 550 576	organic nitrogen compounds
+12676206 FN: T7	Environmental_exposures 621 639	deposited nitrogen
+12676206 FN: T4	Environmental_exposures 707 725	deposited nitrogen
+12676206 12676206 FN: T2	Environmental_exposures 260 290	atmospheric nitrogen compounds
+12676206 12676206 FN: T1	Environmental_exposures 0 30	Atmospheric nitrogen compounds
+12676206 FN: T11	Environmental_exposures 447 457	pollutants
+12676206 TP: T2	Socioeconomic_factors 472 483	rural areas
+12676206 TP: T1	Environmental_exposures 81 90	pollution
+OVERLAP MATCH: 81-109 : 81-90 ('pollution abatement policies' vs 'pollution')
+Note: filtering out: T3	Out-of-scope 43 51	activity
+Note: filtering out: T4	Out-of-scope 236 244	activity
+7313394 7313394 7313394 TP: T2	Sleep 505 510	sleep
+7313394 TP: T1	Sleep 456 467	wakefulness
+Note: filtering out: T8	Geographical_Feature 425 432	Germany
+Note: filtering out: T10	Out-of-scope 1009 1013	work
+30484369 FN: T9	LSF_out_of_context 405 412	schools
+30484369 30484369 30484369 30484369 30484369 30484369 30484369 30484369 TP: T6	Socioeconomic_factors 688 701	victimization
+30484369 TP: T7	Socioeconomic_factors 1279 1287	bullying
+30484369 TP: T4	Socioeconomic_factors 228 241	victimization
+30484369 TP: T5	Socioeconomic_factors 675 683	bullying
+30484369 TP: T2	Socioeconomic_factors 26 39	Victimization
+30484369 TP: T3	Socioeconomic_factors 219 227	bullying
+30484369 TP: T1	Socioeconomic_factors 0 8	Bullying
+Note: filtering out: T2	Geographical_Feature 166 199	Eastern Anatolia region of Turkey
+Note: replace discontinuous "Chlorogenic acids" with "acids"
+Note: replace discontinuous "hydroxybenzoic acids" with "acids"
+Note: replace discontinuous "caffeic acids" with "acids"
+Note: replace discontinuous "ferulic acids" with "acids"
+OVERLAP MATCH: 291-313 : 291-302 ('antioxidant capacities' vs 'antioxidant')
+OVERLAP MATCH: 529-551 : 529-540 ('antioxidant capacities' vs 'antioxidant')
+OVERLAP MATCH: 748-768 : 748-757 ('Flavonoid glycosides' vs 'Flavonoid')
+24202545 FN: T14	Nutrition 92 96	leaf
+24202545 FN: T15	Nutrition 269 289	phenolic composition
+24202545 FN: T16	Nutrition 394 398	leaf
+24202545 FN: T17	Nutrition 813 818	rutin
+24202545 24202545 24202545 FN: T12	LSF_out_of_context 502 507	water
+24202545 FN: T13	Nutrition 0 20	Phenolic composition
+24202545 FN: T18	Nutrition 855 864	phenolics
+24202545 FN: T19	Nutrition 908 913	acids
+24202545 24202545 24202545 24202545 24202545 24202545 FN: T5	Nutrition 1149 1162	leaf extracts
+24202545 24202545 24202545 FN: T21	Nutrition 899 913	caftaric acids
+24202545 FN: T20	Nutrition 908 913	acids
+24202545 FN: T23	Nutrition 967 972	acids
+24202545 FN: T22	Nutrition 967 972	acids
+24202545 FN: T25	Nutrition 1205 1209	fats
+24202545 FN: T24	Nutrition 956 972	rosmarinic acids
+24202545 FN: T27	LSF_out_of_context 465 470	plant
+24202545 FN: T26	LSF_out_of_context 481 488	ethanol
+24202545 TP: T8	Nutrition 1029 1047	phenolic compounds
+24202545 TP: T9	Nutrition 1194 1200	sugars
+24202545 TP: T6	Nutrition 748 757	Flavonoid
+24202545 TP: T7	Nutrition 783 797	phytochemicals
+24202545 TP: T4	Nutrition 529 540	antioxidant
+24202545 TP: T5	Nutrition 728 746	phenolic compounds
+24202545 TP: T2	Nutrition 238 248	herbal tea
+24202545 TP: T3	Nutrition 291 302	antioxidant
+24202545 TP: T1	Nutrition 22 33	antioxidant
+OVERLAP MATCH: 291-313 : 291-302 ('antioxidant capacities' vs 'antioxidant')
+OVERLAP MATCH: 529-551 : 529-540 ('antioxidant capacities' vs 'antioxidant')
+OVERLAP MATCH: 748-768 : 748-757 ('Flavonoid glycosides' vs 'Flavonoid')
+Note: filtering out: T13	Out-of-scope 319 326	protein
+OVERLAP MATCH: 119-138 : 119-130 ('nutritional support' vs 'nutritional')
+OVERLAP MATCH: 212-246 : 212-218 ('single bout of resistance exercise' vs 'single')
+OVERLAP MATCH: 212-246 : 227-246 ('single bout of resistance exercise' vs 'resistance exercise')
+33512698 33512698 FN: T9	Physical_activity 636 659	short bouts of exercise
+33512698 FN: T6	Physical_activity 423 448	resistance-based training
+33512698 FN: T7	Physical_activity 532 540	exercise
+33512698 33512698 FN: T5	Nutrition 263 279	adequate protein
+33512698 FN: T2	Physical_activity 73 90	Exercise training
+33512698 33512698 33512698 33512698 33512698 FN: T16	LSF_out_of_context 405 410	fiber
+33512698 33512698 33512698 33512698 33512698 TP: T8	Physical_activity 859 863	HIIT
+33512698 TP: T9	Physical_activity 953 957	HIIT
+33512698 TP: T6	Physical_activity 620 624	HIIT
+33512698 TP: T7	Physical_activity 832 851	resistance exercise
+33512698 TP: T4	Physical_activity 227 246	resistance exercise
+33512698 TP: T5	Physical_activity 586 618	High-intensity interval training
+33512698 TP: T2	Nutrition 119 130	nutritional
+33512698 TP: T3	Socioeconomic_factors 212 218	single
+33512698 TP: T1	Physical_activity 4 36	High-Intensity Interval Training
+33512698 TP: T10	Physical_activity 1158 1162	HIIT
+33512698 TP: T11	Physical_activity 1230 1234	HIIT
+OVERLAP MATCH: 212-246 : 227-246 ('single bout of resistance exercise' vs 'resistance exercise')
+OVERLAP MATCH: 119-138 : 119-130 ('nutritional support' vs 'nutritional')
+Note: filtering out: T10	Out-of-scope 176 195	postassault actions
+Note: filtering out: T12	Out-of-scope 477 495	sexually assaulted
+23515164 23515164 FN: T7	Socioeconomic_factors 511 518	college
+23515164 23515164 FN: T5	LSF_out_of_context 288 291	web
+23515164 23515164 23515164 23515164 23515164 TP: T6	Nutrition 826 842	drinking alcohol
+23515164 TP: T7	Socioeconomic_factors 1135 1149	sexual assault
+23515164 FP: T4	Socioeconomic_factors 477 495	sexually assaulted
+23515164 TP: T5	Socioeconomic_factors 613 627	sexual assault
+23515164 TP: T2	Socioeconomic_factors 157 171	sexual assault
+23515164 TP: T3	Socioeconomic_factors 421 429	assaults
+23515164 TP: T1	Socioeconomic_factors 32 46	sexual assault
+OVERLAP MATCH: 400-426 : 400-416 ('meal replacement beverages' vs 'meal replacement')
+OVERLAP MATCH: 400-426 : 417-426 ('meal replacement beverages' vs 'beverages')
+25329006 FN: T8	Nutrition 751 769	Energy expenditure
+25329006 FN: T9	LSF_out_of_context 982 989	glucose
+25329006 FN: T6	Physical_activity 206 214	activity
+25329006 FN: T7	LSF_out_of_context 647 654	glucose
+25329006 FN: T4	Physical_activity 115 129	sedentary time
+25329006 FN: T5	LSF_out_of_context 154 161	glucose
+25329006 25329006 FN: T3	Physical_activity 1286 1303	prolonged sitting
+25329006 FN: T1	Physical_activity 261 278	prolonged sitting
+25329006 FN: T10	LSF_out_of_context 1353 1360	glucose
+25329006 FN: T11	LSF_out_of_context 1381 1386	lipid
+25329006 FN: T12	Physical_activity 69 87	Low-Level Activity
+25329006 TP: T2	Nutrition 417 426	beverages
+25329006 TP: T1	Nutrition 400 416	meal replacement
+OVERLAP MATCH: 400-426 : 400-416 ('meal replacement beverages' vs 'meal replacement')
+OVERLAP MATCH: 400-426 : 417-426 ('meal replacement beverages' vs 'beverages')
+Note: filtering out: T4	Occupations 19 29	therapists
+Note: filtering out: T2	Occupations 813 822	therapist
+Note: filtering out: T5	Occupations 385 394	Therapist
+Note: filtering out: T6	Occupations 156 166	therapists
+Note: filtering out: T7	Occupations 506 516	therapists
+Note: filtering out: T8	Occupations 649 659	therapists
+OVERLAP MATCH: 895-919 : 906-919 ('individual psychotherapy' vs 'psychotherapy')
+12817552 FN: T9	Mental_health_practices 606 613	therapy
+12817552 12817552 12817552 TP: T2	Mental_health_practices 906 919	psychotherapy
+12817552 TP: T1	Socioeconomic_factors 676 686	friendship
+OVERLAP MATCH: 895-919 : 906-919 ('individual psychotherapy' vs 'psychotherapy')
+Note: filtering out: T19	Geographical_Feature 602 607	China
+OVERLAP MATCH: 458-472 : 468-472 ('principal food' vs 'food')
+26394028 FN: T14	Nutrition 427 442	vegetable foods
+26394028 FN: T15	Nutrition 583 598	vegetable foods
+26394028 FN: T16	Nutrition 751 766	vegetable foods
+26394028 FN: T17	Nutrition 967 982	vegetable foods
+26394028 26394028 FN: T11	Nutrition 135 156	resveratrol glucoside
+26394028 FN: T12	Nutrition 326 332	grapes
+26394028 FN: T13	Nutrition 376 391	vegetable foods
+26394028 FN: T18	Nutrition 1092 1107	vegetable foods
+26394028 FN: T30	Nutrition 343 351	products
+26394028 FN: T8	Nutrition 827 844	trans-resveratrol
+26394028 FN: T9	Nutrition 862 879	trans-resveratrol
+26394028 FN: T6	Nutrition 1142 1159	trans-resveratrol
+26394028 FN: T7	Nutrition 1045 1062	trans-resveratrol
+26394028 FN: T4	Nutrition 113 130	Trans-resveratrol
+26394028 FN: T5	Nutrition 539 556	trans-resveratrol
+26394028 FN: T2	Nutrition 34 46	trans-piceid
+26394028 FN: T3	Nutrition 50 65	vegetable foods
+26394028 FN: T1	Nutrition 12 29	trans-resveratrol
+26394028 FN: T29	Nutrition 217 222	plant
+26394028 FN: T28	Nutrition 1188 1193	foods
+26394028 FN: T21	Nutrition 477 493	nutrient origins
+26394028 26394028 FN: T23	Nutrition 702 714	Trans-piceid
+26394028 FN: T22	Nutrition 561 573	trans-piceid
+26394028 FN: T25	Nutrition 1164 1176	trans-piceid
+26394028 FN: T24	Nutrition 884 896	trans-piceid
+26394028 FN: T27	Nutrition 809 821	trans-piceid
+26394028 FN: T26	Nutrition 1067 1079	trans-piceid
+26394028 TP: T2	Nutrition 468 472	food
+26394028 TP: T1	Nutrition 169 187	phenolic compounds
+OVERLAP MATCH: 458-472 : 468-472 ('principal food' vs 'food')
+Note: filtering out: T8	Out-of-scope 239 247	proteins
+OVERLAP MATCH: 825-832 : 825-834 ('vitamin' vs 'vitamin K')
+15309455 15309455 15309455 15309455 15309455 15309455 15309455 15309455 TP: T6	Nutrition 793 802	vitamin K
+15309455 TP: T7	Nutrition 825 834	vitamin K
+15309455 TP: T4	Nutrition 348 357	vitamin K
+15309455 TP: T5	Nutrition 679 688	vitamin K
+15309455 TP: T2	Nutrition 103 112	Vitamin K
+15309455 TP: T3	Nutrition 219 228	vitamin K
+15309455 TP: T1	Nutrition 62 71	vitamin K
+OVERLAP MATCH: 825-832 : 825-834 ('vitamin' vs 'vitamin K')
+Note: filtering out: T20	Geographical_Feature 78 84	Mexico
+Note: filtering out: T21	Geographical_Feature 132 138	Mexico
+Note: filtering out: T22	Geographical_Feature 517 523	Mexico
+Note: filtering out: T23	Geographical_Feature 679 685	Mexico
+Note: filtering out: T24	Geographical_Feature 1365 1371	Mexico
+OVERLAP MATCH: 279-300 : 283-300 ('Low physical activity' vs 'physical activity')
+27918700 27918700 27918700 FN: T16	Physical_activity 62 74	Sitting Time
+27918700 FN: T17	Physical_activity 830 842	sitting time
+27918700 27918700 27918700 27918700 27918700 FN: T18	Physical_activity 582 594	sitting time
+27918700 FN: T19	Physical_activity 1163 1175	Sitting time
+27918700 FN: T30	Socioeconomic_factors 1329 1339	urbanicity
+27918700 27918700 27918700 FN: T6	LSF_out_of_context 941 951	urbanicity
+27918700 FN: T7	LSF_out_of_context 968 978	urbanicity
+27918700 FN: T4	Socioeconomic_factors 503 513	urbanicity
+27918700 FN: T5	Socioeconomic_factors 847 857	urbanicity
+27918700 FN: T2	Socioeconomic_factors 399 409	urbanicity
+27918700 FN: T3	Socioeconomic_factors 25 35	Urbanicity
+27918700 27918700 27918700 FN: T28	Socioeconomic_factors 1219 1229	urbanicity
+27918700 FN: T25	Physical_activity 240 254	sedentary time
+27918700 FN: T27	LSF_out_of_context 1065 1082	economic activity
+27918700 27918700 TP: T8	Socioeconomic_factors 878 893	education level
+27918700 TP: T9	Socioeconomic_factors 895 915	socioeconomic status
+27918700 TP: T6	Nutrition 706 715	Nutrition
+27918700 TP: T7	Physical_activity 811 828	physical activity
+27918700 TP: T4	Physical_activity 447 464	physical activity
+27918700 TP: T5	Physical_activity 560 577	physical activity
+27918700 TP: T2	Physical_activity 151 168	physical activity
+27918700 TP: T3	Physical_activity 283 300	physical activity
+27918700 TP: T1	Physical_activity 40 57	Physical Activity
+27918700 TP: T10	Physical_activity 1144 1161	physical activity
+27918700 TP: T11	Physical_activity 1344 1361	physical activity
+OVERLAP MATCH: 279-300 : 283-300 ('Low physical activity' vs 'physical activity')
+Note: filtering out: T13	Out-of-scope 699 707	products
+Note: filtering out: T14	Out-of-scope 890 898	products
+OVERLAP MATCH: 0-19 : 5-19 ('Oral contraceptives' vs 'contraceptives')
+OVERLAP MATCH: 177-196 : 182-196 ('oral contraceptives' vs 'contraceptives')
+9678133 FN: T8	Socioeconomic_factors 238 249	desogestrel
+9678133 FN: T9	Socioeconomic_factors 253 262	gestodene
+9678133 FN: T6	Socioeconomic_factors 198 201	OCs
+9678133 FN: T7	Socioeconomic_factors 225 237	progestogens
+9678133 FN: T4	Socioeconomic_factors 418 421	OCs
+9678133 FN: T5	Socioeconomic_factors 1019 1022	OCs
+9678133 9678133 FN: T3	Socioeconomic_factors 286 289	OCs
+9678133 9678133 FN: T10	Socioeconomic_factors 313 325	progestogens
+9678133 FN: T11	Socioeconomic_factors 326 340	levonorgestrel
+9678133 FN: T12	Socioeconomic_factors 344 354	norgestrel
+9678133 TP: T2	Socioeconomic_factors 182 196	contraceptives
+9678133 TP: T1	Socioeconomic_factors 5 19	contraceptives
+OVERLAP MATCH: 0-19 : 5-19 ('Oral contraceptives' vs 'contraceptives')
+OVERLAP MATCH: 177-196 : 182-196 ('oral contraceptives' vs 'contraceptives')
+OVERLAP MATCH: 138-154 : 138-143 ('sleep continuity' vs 'sleep')
+6515247 6515247 6515247 6515247 FN: T4	Sleep 463 481	daytime sleepiness
+6515247 6515247 6515247 6515247 FN: T12	Sleep 581 593	slept longer
+6515247 6515247 TP: T6	Sleep 185 190	sleep
+6515247 TP: T7	Sleep 641 654	stage 1 sleep
+6515247 TP: T4	Sleep 119 124	sleep
+6515247 TP: T5	Sleep 138 143	sleep
+6515247 TP: T2	Sleep 33 52	sleep fragmentation
+6515247 TP: T3	Sleep 58 63	sleep
+6515247 TP: T1	Sleep 26 31	sleep
+OVERLAP MATCH: 138-154 : 138-143 ('sleep continuity' vs 'sleep')
+Note: filtering out: T1	Occupations 66 83	dental hygienists
+Note: filtering out: T2	Occupations 726 743	dental hygienists
+Note: filtering out: T3	Occupations 479 496	dental hygienists
+Note: filtering out: T4	Occupations 1042 1059	dental hygienists
+Note: filtering out: T5	Occupations 1236 1253	Dental hygienists
+Note: filtering out: T6	Geographical_Feature 102 115	United States
+Note: filtering out: T8	Occupations 902 918	dental hygienist
+Note: filtering out: T9	Occupations 1065 1073	dentists
+Note: filtering out: T10	Occupations 1077 1094	dental assistants
+Note: filtering out: T11	Occupations 924 940	dental assistant
+Note: filtering out: T21	Occupations 893 900	dentist
+2639962 2639962 2639962 2639962 2639962 2639962 2639962 2639962 2639962 2639962 2639962 TP: T8	Socioeconomic_factors 989 998	education
+2639962 TP: T9	Socioeconomic_factors 1127 1136	education
+2639962 TP: T6	Socioeconomic_factors 621 630	education
+2639962 TP: T7	Socioeconomic_factors 683 692	education
+2639962 TP: T4	Socioeconomic_factors 370 379	education
+2639962 TP: T5	Socioeconomic_factors 554 563	education
+2639962 TP: T2	Beauty_and_Cleaning 147 161	dental hygiene
+2639962 TP: T3	Socioeconomic_factors 324 333	education
+2639962 TP: T1	Socioeconomic_factors 11 20	education
+2639962 TP: T10	Socioeconomic_factors 1333 1342	education
+OVERLAP MATCH: 656-680 : 666-680 ('emergency contraceptives' vs 'contraceptives')
+9853208 FN: T6	Socioeconomic_factors 407 413	FemCap
+9853208 FN: T7	Socioeconomic_factors 693 699	FemCap
+9853208 9853208 FN: T5	Socioeconomic_factors 4 10	FemCap
+9853208 9853208 FN: T3	Socioeconomic_factors 581 601	pregnancy prevention
+9853208 9853208 FP: T4	Socioeconomic_factors 782 795	birth control
+9853208 TP: T2	Socioeconomic_factors 181 194	contraceptive
+9853208 TP: T3	Socioeconomic_factors 666 680	contraceptives
+9853208 TP: T1	Socioeconomic_factors 18 31	contraceptive
+OVERLAP MATCH: 656-680 : 666-680 ('emergency contraceptives' vs 'contraceptives')
+Note: filtering out: T10	Geographical_Feature 893 901	DOrtmund
+OVERLAP MATCH: 391-405 : 391-395 ('food selection' vs 'food')
+OVERLAP MATCH: 646-664 : 646-657 ('nutritional status' vs 'nutritional')
+14991269 FN: T8	Socioeconomic_factors 253 285	countries of economic transition
+14991269 14991269 14991269 14991269 14991269 FN: T5	Nutrition 321 342	nutrient deficiencies
+14991269 14991269 14991269 14991269 TP: T6	Nutrition 646 657	nutritional
+14991269 TP: T7	Nutrition 902 913	Nutritional
+14991269 TP: T4	Nutrition 391 395	food
+14991269 TP: T5	Nutrition 632 641	nutrition
+14991269 TP: T2	Socioeconomic_factors 209 233	industrialised countries
+14991269 TP: T3	Nutrition 373 386	overnutrition
+14991269 TP: T1	Nutrition 68 77	Nutrition
+OVERLAP MATCH: 391-405 : 391-395 ('food selection' vs 'food')
+OVERLAP MATCH: 646-664 : 646-657 ('nutritional status' vs 'nutritional')
+Note: filtering out: T4	Geographical_Feature 200 202	UK
+Note: filtering out: T5	Geographical_Feature 37 39	UK
+OVERLAP MATCH: 86-107 : 86-97 ('Orthodontic Treatment' vs 'Orthodontic')
+OVERLAP MATCH: 167-188 : 167-178 ('orthodontic treatment' vs 'orthodontic')
+OVERLAP MATCH: 765-786 : 765-776 ('Orthodontic Treatment' vs 'Orthodontic')
+15071147 15071147 15071147 15071147 TP: T2	Beauty_and_Cleaning 167 178	orthodontic
+15071147 TP: T3	Beauty_and_Cleaning 765 776	Orthodontic
+15071147 TP: T1	Beauty_and_Cleaning 86 97	Orthodontic
+OVERLAP MATCH: 86-107 : 86-97 ('Orthodontic Treatment' vs 'Orthodontic')
+OVERLAP MATCH: 167-188 : 167-178 ('orthodontic treatment' vs 'orthodontic')
+OVERLAP MATCH: 765-786 : 765-776 ('Orthodontic Treatment' vs 'Orthodontic')
+32987320 32987320 32987320 32987320 32987320 32987320 32987320 32987320 32987320 32987320 32987320 32987320 FN: T12	Nutrition 871 888	supplement intake
+32987320 TP: T8	Sleep 464 469	sleep
+32987320 TP: T9	Sleep 550 555	sleep
+32987320 TP: T6	Sleep 344 349	sleep
+32987320 TP: T7	Nutrition 442 451	vitamin D
+32987320 TP: T4	Nutrition 213 222	vitamin D
+32987320 TP: T5	Nutrition 289 298	vitamin D
+32987320 TP: T2	Sleep 33 38	sleep
+32987320 TP: T3	Nutrition 114 123	Vitamin D
+32987320 TP: T1	Nutrition 11 20	vitamin D
+32987320 TP: T10	Sleep 648 653	sleep
+32987320 TP: T11	Nutrition 751 760	vitamin D
+2) F 70.59%
+precision 100.00% (7/7) recall 44.44% (8/18) F 61.54%
+precision 100.00% (2/2) recall 100.00% (2/2) F 100.00%
+precision 66.67% (2/3) recall 100.00% (2/2) F 80.00%
+precision 100.00% (9/9) recall 81.82% (9/11) F 90.00%
+precision 100.00% (5/5) recall 71.43% (5/7) F 83.33%
+precision 100.00% (5/5) recall 62.50% (5/8) F 76.92%
+precision 100.00% (1/1) recall 9.09% (1/11) F 16.67%
+precision 0.00% (0/0) recall 0.00% (0/4) F 0.00%
+precision 66.67% (2/3) recall 66.67% (2/3) F 66.67%
+precision 0.00% (0/0) recall 0.00% (0/1) F 0.00%
+precision 100.00% (7/7) recall 100.00% (7/7) F 100.00%
+precision 0.00% (0/0) recall 0.00% (0/5) F 0.00%
+precision 77.78% (7/9) recall 87.50% (7/8) F 82.35%
+precision 100.00% (8/8) recall 80.00% (8/10) F 88.89%
+precision 100.00% (4/4) recall 66.67% (4/6) F 80.00%
+precision 100.00% (4/4) recall 40.00% (4/10) F 57.14%
+precision 100.00% (6/6) recall 23.08% (6/26) F 37.50%
+precision 100.00% (11/11) recall 84.62% (11/13) F 91.67%
+precision 100.00% (1/1) recall 10.00% (1/10) F 18.18%
+precision 100.00% (4/4) recall 22.22% (4/18) F 36.36%
+precision 100.00% (5/5) recall 71.43% (5/7) F 83.33%
+precision 100.00% (4/4) recall 100.00% (4/4) F 100.00%
+precision 100.00% (6/6) recall 60.00% (6/10) F 75.00%
+precision 100.00% (4/4) recall 63.64% (7/11) F 77.78%
+precision 77.78% (7/9) recall 38.89% (7/18) F 51.85%
+precision 0.00% (0/0) recall 0.00% (0/0) F 0.00%
+precision 100.00% (9/9) recall 45.00% (9/20) F 62.07%
+precision 100.00% (7/7) recall 35.00% (7/20) F 51.85%
+precision 100.00% (2/2) recall 22.22% (2/9) F 36.36%
+precision 100.00% (2/2) recall 100.00% (2/2) F 100.00%
+precision 100.00% (7/7) recall 87.50% (7/8) F 93.33%
+precision 100.00% (9/9) recall 34.62% (9/26) F 51.43%
+precision 100.00% (11/11) recall 62.50% (10/16) F 76.92%
+precision 85.71% (6/7) recall 75.00% (6/8) F 80.00%
+precision 100.00% (2/2) recall 8.33% (1/12) F 15.38%
+precision 100.00% (2/2) recall 66.67% (2/3) F 80.00%
+precision 100.00% (2/2) recall 6.90% (2/29) F 12.90%
+precision 100.00% (7/7) recall 100.00% (7/7) F 100.00%
+precision 100.00% (11/11) recall 44.00% (11/25) F 61.11%
+precision 100.00% (2/2) recall 16.67% (2/12) F 28.57%
+precision 100.00% (7/7) recall 77.78% (7/9) F 87.50%
+precision 100.00% (10/10) recall 100.00% (10/10) F 100.00%
+precision 75.00% (3/4) recall 42.86% (3/7) F 54.55%
+precision 100.00% (7/7) recall 77.78% (7/9) F 87.50%
+precision 100.00% (3/3) recall 100.00% (3/3) F 100.00%
+precision 100.00% (11/11) recall 91.67% (11/12) F 95.65%
+TOTAL:
+precision 96.01% (938/977) recall 49.39% (927/1877) F 65.22%

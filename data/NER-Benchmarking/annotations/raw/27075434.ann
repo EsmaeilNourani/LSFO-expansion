@@ -1,0 +1,40 @@
+T1	Lifestyle_factor 13 24	carotenoids
+A1	Nutrition T1
+T2	Lifestyle_factor 345 356	carotenoids
+A2	Nutrition T2
+T3	Lifestyle_factor 848 859	carotenoids
+A3	Nutrition T3
+T4	Lifestyle_factor 929 940	carotenoids
+A4	Nutrition T4
+T5	Lifestyle_factor 29 40	tocopherols
+A5	Nutrition T5
+T6	Lifestyle_factor 358 369	tocopherols
+A6	Nutrition T6
+T7	Lifestyle_factor 864 875	tocopherols
+A7	Nutrition T7
+T8	Lifestyle_factor 945 956	tocopherols
+A8	Nutrition T8
+T9	Lifestyle_factor 57 74	baby-leaf lettuce
+A9	Nutrition T9
+T10	Lifestyle_factor 158 178	baby-leaf vegetables
+A10	Nutrition T10
+T11	Lifestyle_factor 267 277	daily diet
+A11	Nutrition T11
+T12	Lifestyle_factor 391 398	lettuce
+A12	Nutrition T12
+T13	Lifestyle_factor 427 445	salad rocket BLVs.
+A13	Nutrition T13
+T14	Lifestyle_factor 481 485	BLVs
+A14	Nutrition T14
+T15	Lifestyle_factor 989 1008	red romaine lettuce
+A15	Nutrition T15
+T16	Lifestyle_factor 79 91	salad rocket
+A16	Nutrition T16
+T17	Lifestyle_factor 180 184	BLVs
+A17	Nutrition T17
+T18	Lifestyle_factor 391 398;400 405	lettuce green
+T19	Lifestyle_factor 391 398;410 421	lettuce red romaine
+A18	Nutrition T18
+A19	Nutrition T19
+T20	Lifestyle_factor 1001 1008;979 984	lettuce green
+A20	Nutrition T20

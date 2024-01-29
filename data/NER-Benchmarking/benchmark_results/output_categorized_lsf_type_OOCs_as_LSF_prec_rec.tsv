@@ -1,0 +1,10 @@
+Lifestyle-factor branch	Precision	Recall	F
+Environmental exposures	85.71	18.1	29.89
+Nutrition	91.36	39.07	54.73
+Physical activities	96.12	44.3	60.65
+Non physical leisure time activities	100.0	44.55	61.64
+Mental health practices	97.44	49.37	65.53
+Socioeconomic factors	87.23	55.24	67.64
+Substance use	99.4	66.53	79.71
+Beauty and cleaning	85.48	77.94	81.54
+Sleep	98.06	82.11	89.38

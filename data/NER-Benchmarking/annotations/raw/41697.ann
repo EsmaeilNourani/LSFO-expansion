@@ -1,0 +1,39 @@
+T1	Lifestyle_factor 54 64	alcoholism
+A1	Drugs T1
+T3	Lifestyle_factor 422 441	caloric restriction
+A3	Nutrition T3
+T4	Lifestyle_factor 500 505	water
+A4	Nutrition T4
+T5	Lifestyle_factor 491 495	food
+A5	Nutrition T5
+T9	Lifestyle_factor 205 212	alcohol
+A10	Drugs T9
+T10	Lifestyle_factor 228 235	alcohol
+A12	Drugs T10
+T6	Lifestyle_factor 152 159	ethanol
+A6	Drugs T6
+T7	Lifestyle_factor 321 328	ethanol
+A7	Drugs T7
+#1	AnnotatorNotes T6	TODO: discuss
+#2	AnnotatorNotes T7	TODO: discuss
+T11	Lifestyle_factor 473 480	ethanol
+A11	Drugs T11
+#3	AnnotatorNotes T11	TODO: discuss
+T12	Lifestyle_factor 608 615	ethanol
+A13	Drugs T12
+#4	AnnotatorNotes T12	TODO: discuss
+T13	Lifestyle_factor 684 691	ethanol
+A14	Drugs T13
+#5	AnnotatorNotes T13	TODO: discuss
+T14	Lifestyle_factor 720 727	ethanol
+A15	Drugs T14
+#6	AnnotatorNotes T14	TODO: discuss
+T15	Lifestyle_factor 897 904	ethanol
+A16	Drugs T15
+#7	AnnotatorNotes T15	TODO: discuss
+T16	Lifestyle_factor 951 958	ethanol
+A17	Drugs T16
+#8	AnnotatorNotes T16	TODO: discuss
+T2	Lifestyle_factor 378 386	drinking
+A2	Nutrition T2
+T8	Out-of-scope 458 462	work

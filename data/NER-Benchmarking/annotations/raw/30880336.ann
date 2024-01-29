@@ -1,0 +1,35 @@
+T1	Lifestyle_factor 4 44	antioxidant alpha-lipoic acid attenuates
+A1	Nutrition T1
+T2	Lifestyle_factor 107 112	sleep
+A2	Sleep T2
+A3	LSF_out_of_context T2
+T3	Lifestyle_factor 253 258	sleep
+A4	Sleep T3
+A5	LSF_out_of_context T3
+T4	Lifestyle_factor 369 374	sleep
+A6	Sleep T4
+A7	LSF_out_of_context T4
+T5	Lifestyle_factor 890 902	regular diet
+A8	Nutrition T5
+T6	Lifestyle_factor 493 509	LA-enriched diet
+A9	Nutrition T6
+T7	Lifestyle_factor 304 321	alpha-lipoic acid
+A10	Nutrition T7
+T9	Lifestyle_factor 832 834	LA
+A12	Nutrition T9
+T10	Lifestyle_factor 1101 1103	LA
+A13	Nutrition T10
+T11	Lifestyle_factor 1146 1148	LA
+A14	Nutrition T11
+T12	Lifestyle_factor 1229 1231	LA
+A15	Nutrition T12
+T8	Lifestyle_factor 998 1000	LA
+A11	Nutrition T8
+T13	Out-of-scope 615 622	protein
+T14	Lifestyle_factor 662 664	LA
+A18	Nutrition T14
+T15	Lifestyle_factor 973 975	LA
+A19	Nutrition T15
+T16	Lifestyle_factor 323 325	LA
+A20	Nutrition T16
+T17	Out-of-scope 1168 1175	therapy

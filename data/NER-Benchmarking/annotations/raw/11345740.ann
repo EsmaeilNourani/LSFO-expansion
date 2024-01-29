@@ -1,0 +1,17 @@
+T1	Lifestyle_factor 56 79	agricultural wastewater
+A1	Environmental_exposures T1
+T2	Lifestyle_factor 899 922	agricultural wastewater
+A2	Environmental_exposures T2
+T3	Lifestyle_factor 204 210	Taiwan
+A3	Geographical_Feature T3
+T4	Lifestyle_factor 232 245	water quality
+A4	Environmental_exposures T4
+T5	Lifestyle_factor 704 717	water quality
+A5	Environmental_exposures T5
+T6	Lifestyle_factor 384 389	water
+A6	Nutrition T6
+A7	LSF_out_of_context T6
+T7	Lifestyle_factor 544 572	agricultural returning water
+A8	Environmental_exposures T7
+T8	Lifestyle_factor 177 184	Taoyuan
+A9	Geographical_Feature T8

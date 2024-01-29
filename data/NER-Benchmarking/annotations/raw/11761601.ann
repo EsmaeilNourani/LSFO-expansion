@@ -1,0 +1,45 @@
+T1	Lifestyle_factor 55 75	indoor VOC exposures
+A1	Environmental_exposures T1
+T2	Lifestyle_factor 138 155	ndoor air quality
+A2	Environmental_exposures T2
+T10	Lifestyle_factor 458 461	IAQ
+A10	Environmental_exposures T10
+T11	Lifestyle_factor 396 416	inhalation exposures
+A11	Environmental_exposures T11
+T12	Lifestyle_factor 771 792	"wet" emission source
+A12	Environmental_exposures T12
+T3	Lifestyle_factor 157 160	IAQ
+A3	Environmental_exposures T3
+T4	Lifestyle_factor 187 195	emission
+A4	Environmental_exposures T4
+T5	Lifestyle_factor 216 227	ventilation
+A5	Environmental_exposures T5
+T6	Lifestyle_factor 264 267	IAQ
+A6	Environmental_exposures T6
+A7	LSF_out_of_context T6
+#1	AnnotatorNotes T5	annotated as exposure protection
+T7	Lifestyle_factor 339 350	contaminant
+A8	Environmental_exposures T7
+T9	Lifestyle_factor 603 627	displacement ventilation
+A13	Environmental_exposures T9
+T13	Lifestyle_factor 634 652	mixing ventilation
+A14	Environmental_exposures T13
+T14	Lifestyle_factor 656 695	volatile organic compound (VOC) removal
+A15	Environmental_exposures T14
+#2	AnnotatorNotes T14	annotated as exposure protection
+#3	AnnotatorNotes T13	annotated as exposure protection
+#4	AnnotatorNotes T9	annotated as exposure protection
+T15	Lifestyle_factor 796 822	freshly painted wood stain
+A16	Environmental_exposures T15
+T16	Lifestyle_factor 883 895	gypsum board
+A17	Environmental_exposures T16
+T17	Lifestyle_factor 927 951	displacement ventilation
+A18	Environmental_exposures T17
+T18	Lifestyle_factor 1079 1090	ventilation
+A19	Environmental_exposures T18
+T19	Lifestyle_factor 1105 1129	displacement ventilation
+A20	Environmental_exposures T19
+T20	Lifestyle_factor 1146 1164	mixing ventilation
+A21	Environmental_exposures T20
+T21	Lifestyle_factor 1244 1248	VOCs
+A22	Environmental_exposures T21

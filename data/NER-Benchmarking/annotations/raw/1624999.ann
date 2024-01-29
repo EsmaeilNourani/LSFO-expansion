@@ -1,0 +1,28 @@
+T1	Lifestyle_factor 30 39	education
+A1	Socioeconomic_factors T1
+T2	Lifestyle_factor 238 247	education
+A2	Socioeconomic_factors T2
+T3	Lifestyle_factor 71 88	dental hygienists
+T4	Lifestyle_factor 154 171	dental hygienists
+T5	Lifestyle_factor 196 206	hygienists
+T6	Lifestyle_factor 528 536	dentists
+T7	Lifestyle_factor 736 753	dental hygienists
+T8	Lifestyle_factor 913 921	dentists
+T9	Lifestyle_factor 976 993	dental hygienists
+T10	Lifestyle_factor 1110 1124	dental hygiene
+A10	Beauty_and_Cleaning T10
+T11	Lifestyle_factor 1194 1211	dental hygienists
+A5	Occupations T3
+A4	Occupations T4
+A3	Occupations T5
+A6	Occupations T6
+A8	Occupations T8
+A9	Occupations T9
+A7	Occupations T7
+T12	Lifestyle_factor 1067 1074	running
+A12	Physical_activity T12
+A13	LSF_out_of_context T12
+A14	LSF_out_of_context T1
+A15	LSF_out_of_context T2
+A11	Occupations T11
+A16	LSF_out_of_context T10

@@ -1,0 +1,9 @@
+T1	Lifestyle_factor 535 546	orthodontic
+A1	LSF_out_of_context T1
+T2	Lifestyle_factor 583 594	Orthodontic
+A2	Beauty_and_Cleaning T2
+T3	Out-of-scope 292 298	Single
+A5	LSF_out_of_context T2
+A6	Beauty_and_Cleaning T1
+T4	Lifestyle_factor 569 571	UK
+A7	Geographical_Feature T4

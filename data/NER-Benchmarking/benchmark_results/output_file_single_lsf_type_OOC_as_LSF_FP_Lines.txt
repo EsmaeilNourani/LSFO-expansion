@@ -1,0 +1,39 @@
+11813678 FP: T10	Beauty_and_Cleaning 778 789	Oral health
+17266427 FP: T3	Socioeconomic_factors 1017 1028	educational
+9201744 FP: T3	Nutrition 96 107	nutritional
+14634166 FP: T2	Beauty_and_Cleaning 229 240	orthodontic
+14634166 FP: T1	Beauty_and_Cleaning 0 11	Orthodontic
+19723433 19723433 19723433 19723433 FP: T8	Nutrition 383 387	food
+19723433 FP: T6	Socioeconomic_factors 180 191	educational
+9777681 FP: T4	Socioeconomic_factors 409 415	single
+9777681 FP: T5	Socioeconomic_factors 669 675	single
+9777681 FP: T2	Socioeconomic_factors 19 25	Single
+31770466 31770466 31770466 31770466 31770466 31770466 31770466 FP: T8	Socioeconomic_factors 624 630	single
+31770466 FP: T7	Nutrition 556 560	acid
+32510685 FP: T1	Nutrition 160 165	fungi
+9602551 FP: T2	Physical_activity 1039 1048	traveling
+9602551 FP: T3	Physical_activity 1263 1270	driving
+9602551 FP: T1	Physical_activity 976 985	traveling
+3227224 FP: T2	Sleep 173 178	dream
+15789183 FP: T2	Socioeconomic_factors 232 236	City
+28116804 FP: T5	Sleep 498 505	bedtime
+16626805 FP: T6	Socioeconomic_factors 352 356	City
+16626805 FP: T4	Socioeconomic_factors 108 112	City
+16626805 FP: T2	Socioeconomic_factors 40 44	City
+32848077 FP: T12	Socioeconomic_factors 755 765	low-income
+28142298 FP: T6	Nutrition 424 435	Nutritional
+9470567 FP: T2	Beauty_and_Cleaning 510 525	oral healthcare
+11055166 FP: T3	Socioeconomic_factors 617 623	single
+21719896 FP: T7	Socioeconomic_factors 946 952	single
+27805877 27805877 27805877 27805877 FP: T4	Beauty_and_Cleaning 908 919	orthodontic
+24521749 FP: T1	Beauty_and_Cleaning 741 752	orthodontic
+1312238 FP: T7	Nutrition 609 620	nutritional
+22491891 FP: T11	Socioeconomic_factors 533 539	single
+11709596 FP: T1	Socioeconomic_factors 292 298	Single
+24158583 FP: T3	Socioeconomic_factors 1140 1146	Single
+23575456 FP: T7	Socioeconomic_factors 1042 1061	parenting practices
+23575456 FP: T2	Socioeconomic_factors 39 58	parenting practices
+688856 FP: T7	Nutrition 677 689	fluid intake
+688856 FP: T5	Nutrition 428 440	fluid intake
+23515164 FP: T4	Socioeconomic_factors 477 495	sexually assaulted
+9853208 9853208 FP: T4	Socioeconomic_factors 782 795	birth control

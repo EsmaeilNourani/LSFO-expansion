@@ -1,0 +1,53 @@
+T1	Lifestyle_factor 18 39	fermented soy product
+A1	Nutrition T1
+T2	Lifestyle_factor 59 64	kefir
+A2	Nutrition T2
+T3	Lifestyle_factor 170 191	fermented soy product
+A3	Nutrition T3
+T4	Lifestyle_factor 209 214	kefir
+A4	Nutrition T4
+T5	Lifestyle_factor 219 222	soy
+A5	Nutrition T5
+T6	Lifestyle_factor 224 227	oat
+A6	Nutrition T6
+T7	Lifestyle_factor 232 244	wheat fibers
+A7	Nutrition T7
+T8	Lifestyle_factor 365 372	Soymilk
+A8	Nutrition T8
+T9	Lifestyle_factor 374 377	soy
+A9	Nutrition T9
+T10	Lifestyle_factor 379 382	oat
+A10	Nutrition T10
+T11	Lifestyle_factor 387 398	wheat fiber
+A11	Nutrition T11
+T12	Lifestyle_factor 409 416	sucrose
+A12	Nutrition T12
+T13	Lifestyle_factor 530 539	flavoring
+A13	Nutrition T13
+T15	Lifestyle_factor 889 910	soy fermented product
+A15	Nutrition T15
+T16	Lifestyle_factor 919 928	soy fiber
+A16	Nutrition T16
+T14	Lifestyle_factor 840 849	soy fiber
+A14	Nutrition T14
+T17	Lifestyle_factor 590 595	kefir
+A17	Nutrition T17
+T18	Lifestyle_factor 421 439	anti-foaming agent
+A18	Nutrition T18
+T19	Lifestyle_factor 77 82	fiber
+A19	Nutrition T19
+T20	Lifestyle_factor 265 270	fiber
+A20	Nutrition T20
+T21	Lifestyle_factor 483 500	thermal treatment
+A21	Nutrition T21
+T22	Lifestyle_factor 502 509	cooling
+A22	Nutrition T22
+T23	Lifestyle_factor 541 553	Fermentation
+A23	Nutrition T23
+T24	Lifestyle_factor 275 282	product
+A24	Nutrition T24
+T25	Lifestyle_factor 640 648	products
+A25	Nutrition T25
+T26	Lifestyle_factor 787 804	fermented product
+A26	Nutrition T26
+T27	Out-of-scope 147 151	work

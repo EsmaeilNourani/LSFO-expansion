@@ -1,0 +1,58 @@
+T1	Lifestyle_factor 783 797	phytochemicals
+A1	Nutrition T1
+T2	Lifestyle_factor 166 199	Eastern Anatolia region of Turkey
+A2	Geographical_Feature T2
+T3	Lifestyle_factor 238 248	herbal tea
+A3	Nutrition T3
+T4	Lifestyle_factor 748 768	Flavonoid glycosides
+A4	Nutrition T4
+T5	Lifestyle_factor 1149 1162	leaf extracts
+A5	Nutrition T5
+T6	Lifestyle_factor 1194 1200	sugars
+A6	Nutrition T6
+T7	Lifestyle_factor 1029 1047	phenolic compounds
+A7	Nutrition T7
+T8	Lifestyle_factor 22 33	antioxidant
+A8	Nutrition T8
+T9	Lifestyle_factor 291 313	antioxidant capacities
+A9	Nutrition T9
+T10	Lifestyle_factor 529 551	antioxidant capacities
+A10	Nutrition T10
+T11	Lifestyle_factor 728 746	phenolic compounds
+A11	Nutrition T11
+T12	Lifestyle_factor 502 507	water
+A12	Nutrition T12
+A13	LSF_out_of_context T12
+T13	Lifestyle_factor 0 20	Phenolic composition
+A14	Nutrition T13
+T14	Lifestyle_factor 92 96	leaf
+A16	Nutrition T14
+T15	Lifestyle_factor 269 289	phenolic composition
+A17	Nutrition T15
+A15	LSF_out_of_context T8
+T16	Lifestyle_factor 394 398	leaf
+A18	Nutrition T16
+T17	Lifestyle_factor 813 818	rutin
+A19	Nutrition T17
+T18	Lifestyle_factor 855 864	phenolics
+A20	Nutrition T18
+T19	Lifestyle_factor 867 878;908 913	Chlorogenic acids
+A21	Nutrition T19
+T20	Lifestyle_factor 880 894;908 913	hydroxybenzoic acids
+A22	Nutrition T20
+T21	Lifestyle_factor 899 913	caftaric acids
+T22	Lifestyle_factor 935 942;967 972	caffeic acids
+A23	Nutrition T22
+T23	Lifestyle_factor 944 951;967 972	ferulic acids
+A24	Nutrition T23
+T24	Lifestyle_factor 956 972	rosmarinic acids
+A25	Nutrition T24
+T25	Lifestyle_factor 1205 1209	fats
+A26	Nutrition T25
+T26	Lifestyle_factor 481 488	ethanol
+A27	Drugs T26
+A28	LSF_out_of_context T26
+T27	Lifestyle_factor 465 470	plant
+A29	Nutrition T27
+A30	LSF_out_of_context T27
+A31	Nutrition T21

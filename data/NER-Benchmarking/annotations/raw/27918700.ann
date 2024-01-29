@@ -1,0 +1,64 @@
+T8	Lifestyle_factor 40 57	Physical Activity
+A8	Physical_activity T8
+T9	Lifestyle_factor 151 168	physical activity
+A9	Physical_activity T9
+T10	Lifestyle_factor 447 464	physical activity
+A10	Physical_activity T10
+T11	Lifestyle_factor 279 300	Low physical activity
+A11	Physical_activity T11
+T12	Lifestyle_factor 560 577	physical activity
+A12	Physical_activity T12
+T13	Lifestyle_factor 811 828	physical activity
+A13	Physical_activity T13
+T14	Lifestyle_factor 1144 1161	physical activity
+A14	Physical_activity T14
+T15	Lifestyle_factor 1344 1361	physical activity
+A15	Physical_activity T15
+T16	Lifestyle_factor 62 74	Sitting Time
+A16	Physical_activity T16
+T17	Lifestyle_factor 830 842	sitting time
+A17	Physical_activity T17
+T18	Lifestyle_factor 582 594	sitting time
+A18	Physical_activity T18
+T19	Lifestyle_factor 1163 1175	Sitting time
+A19	Physical_activity T19
+T20	Lifestyle_factor 78 84	Mexico
+T21	Lifestyle_factor 132 138	Mexico
+T22	Lifestyle_factor 517 523	Mexico
+T23	Lifestyle_factor 679 685	Mexico
+T24	Lifestyle_factor 1365 1371	Mexico
+T25	Lifestyle_factor 240 254	sedentary time
+A20	Physical_activity T25
+T26	Lifestyle_factor 706 715	Nutrition
+A21	Nutrition T26
+A22	LSF_out_of_context T26
+T29	Lifestyle_factor 895 915	socioeconomic status
+A25	Socioeconomic_factors T29
+A1	Geographical_Feature T20
+A27	Geographical_Feature T21
+A2	Geographical_Feature T22
+A3	Geographical_Feature T23
+T1	Lifestyle_factor 878 893	education level
+A23	Socioeconomic_factors T1
+A4	Geographical_Feature T24
+T2	Lifestyle_factor 399 409	urbanicity
+A5	Socioeconomic_factors T2
+T3	Lifestyle_factor 25 35	Urbanicity
+A6	Socioeconomic_factors T3
+T4	Lifestyle_factor 503 513	urbanicity
+A7	Socioeconomic_factors T4
+T5	Lifestyle_factor 847 857	urbanicity
+A24	Socioeconomic_factors T5
+T6	Lifestyle_factor 941 951	urbanicity
+A26	Socioeconomic_factors T6
+T7	Lifestyle_factor 968 978	urbanicity
+A28	Socioeconomic_factors T7
+T27	Lifestyle_factor 1065 1082	economic activity
+A29	Socioeconomic_factors T27
+T28	Lifestyle_factor 1219 1229	urbanicity
+A30	Socioeconomic_factors T28
+T30	Lifestyle_factor 1329 1339	urbanicity
+A31	Socioeconomic_factors T30
+A32	LSF_out_of_context T6
+A33	LSF_out_of_context T7
+A34	LSF_out_of_context T27

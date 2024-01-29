@@ -1,0 +1,12 @@
+T1	Lifestyle_factor 31 51	physical environment
+A1	Environmental_exposures T1
+T2	Lifestyle_factor 81 98	Physical activity
+A2	Physical_activity T2
+T3	Lifestyle_factor 221 223	PA
+A3	Physical_activity T3
+T4	Lifestyle_factor 329 331	PA
+A4	Physical_activity T4
+T5	Lifestyle_factor 284 305	physical environments
+A5	Environmental_exposures T5
+T6	Lifestyle_factor 100 102	PA
+A6	Physical_activity T6

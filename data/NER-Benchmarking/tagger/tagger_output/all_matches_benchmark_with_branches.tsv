@@ -1,0 +1,1000 @@
+9201751	1	1	26	33	amaranth	-20	Nutrition
+9201751	1	2	95	102	amaranth	-20	Nutrition
+9201751	1	4	389	396	amaranth	-20	Nutrition
+9201751	1	4	420	423	diet	-20	Nutrition
+9201751	1	4	420	423	diet	-20	Nutrition
+9201751	1	4	473	476	diet	-20	Nutrition
+9201751	1	4	473	476	diet	-20	Nutrition
+9201751	1	4	492	495	diet	-20	Nutrition
+9201751	1	4	492	495	diet	-20	Nutrition
+9201751	1	4	506	513	amaranth	-20	Nutrition
+9201751	1	4	515	525	wheat flour	-20	Nutrition
+9201751	1	4	553	560	amaranth	-20	Nutrition
+9201751	1	4	565	568	milk	-20	Nutrition
+9201751	1	5	610	617	amaranth	-20	Nutrition
+9201751	1	5	670	673	food	-20	Nutrition
+9201751	1	5	688	695	amaranth	-20	Nutrition
+9201751	1	5	717	720	food	-20	Nutrition
+9201751	1	5	733	740	amaranth	-20	Nutrition
+9201751	1	5	746	749	milk	-20	Nutrition
+9201751	1	5	771	774	food	-20	Nutrition
+24326981	1	1	16	26	antioxidant	-20	Nutrition
+24326981	1	1	28	35	vitamins	-20	Nutrition
+24326981	1	2	254	261	vitamins	-20	Nutrition
+24326981	1	3	419	427	vitamin E	-20	Nutrition
+24326981	1	3	444	452	vitamin C	-20	Nutrition
+24326981	1	4	554	557	food	-20	Nutrition
+24326981	1	5	700	710	Antioxidant	-20	Nutrition
+24326981	1	5	787	797	antioxidant	-20	Nutrition
+24326981	1	7	1011	1021	antioxidant	-20	Nutrition
+24326981	1	8	1228	1239	antioxidants	-20	Nutrition
+34273873	1	3	492	511	developing countries	-20	Socioeconomic_factors
+30032352	1	1	14	21	Gambling	-20	Non_physical_leisure_time_activities
+30032352	1	2	206	213	gambling	-20	Non_physical_leisure_time_activities
+28834459	1	1	92	108	Physical Activity	-20	Physical_activity
+28834459	1	3	330	339	workplaces	-20	Socioeconomic_factors
+28834459	1	8	774	782	education	-20	Socioeconomic_factors
+28834459	1	10	1022	1038	physical activity	-20	Physical_activity
+14634166	1	1	2	12	Orthodontic	-20	Beauty_and_Cleaning
+14634166	1	2	231	241	orthodontic	-20	Beauty_and_Cleaning
+14634166	1	6	669	679	orthodontic	-20	Beauty_and_Cleaning
+18820344	1	2	339	359	environmental factors	-20	Environmental_exposures
+18820344	1	5	711	727	physical activity	-20	Physical_activity
+18820344	1	6	782	791	exercising	-20	Physical_activity
+18820344	1	6	882	895	social support	-20	Socioeconomic_factors
+18820344	1	7	898	919	Low-intensity exercise	-20	Physical_activity
+18820344	1	7	1071	1084	social support	-20	Socioeconomic_factors
+18820344	1	8	1161	1166	income	-20	Socioeconomic_factors
+18820344	1	8	1180	1193	social support	-20	Socioeconomic_factors
+18820344	1	9	1253	1273	environmental factors	-20	Environmental_exposures
+20590434	1	1	2	14	Group therapy	-20	Mental_health_practices
+20590434	1	4	360	372	group therapy	-20	Mental_health_practices
+23725820	1	2	191	195	sleep	-20	Sleep
+23725820	1	4	478	495	social environment	-20	Socioeconomic_factors
+18451097	1	1	35	50	college students	-20	Socioeconomic_factors
+18451097	1	1	78	85	violence	-20	Socioeconomic_factors
+18451097	1	2	196	203	violence	-20	Socioeconomic_factors
+18451097	1	3	398	405	violence	-20	Socioeconomic_factors
+18451097	1	4	461	468	violence	-20	Socioeconomic_factors
+18451097	1	5	717	728	sexual abuse	-20	Socioeconomic_factors
+18451097	1	6	1037	1044	violence	-20	Socioeconomic_factors
+25461415	1	2	70	90	Arsenic contamination	-20	Environmental_exposures
+25461415	1	3	215	221	arsenic	-20	Environmental_exposures
+25461415	1	4	377	380	acid	-20	Nutrition
+25461415	1	5	470	473	acid	-20	Nutrition
+25461415	1	6	656	662	arsenic	-20	Environmental_exposures
+25461415	1	7	1073	1076	acid	-20	Nutrition
+25461415	1	7	1210	1219	wastewater	-20	Environmental_exposures
+7890451	1	6	950	968	group psychotherapy	-20	Mental_health_practices
+9201744	1	1	36	44	nutrition	-20	Nutrition
+9201744	1	1	73	81	nutrition	-20	Nutrition
+9201744	1	2	98	108	nutritional	-20	Nutrition
+9201744	1	2	130	133	food	-20	Nutrition
+9201744	1	9	955	965	nutritional	-20	Nutrition
+9201744	1	10	1013	1016	food	-20	Nutrition
+35641117	1	1	45	51	Tobacco	-20	Drugs
+35641117	1	1	76	82	tobacco	-20	Drugs
+35641117	1	2	137	145	cigarette	-20	Drugs
+35641117	1	2	219	239	high-income countries	-20	Socioeconomic_factors
+35641117	1	3	277	285	cigarette	-20	Drugs
+35641117	1	3	390	399	low-income	-20	Socioeconomic_factors
+35641117	1	3	405	417	middle-income	-20	Socioeconomic_factors
+35641117	1	4	497	506	cigarettes	-20	Drugs
+35641117	1	4	513	518	snacks	-20	Nutrition
+35641117	1	4	521	526	sweets	-20	Nutrition
+35641117	1	4	564	572	cigarette	-20	Drugs
+35641117	1	4	665	674	cigarettes	-20	Drugs
+35641117	1	4	692	697	single	-20	Socioeconomic_factors
+35641117	1	4	709	718	cigarettes	-20	Drugs
+35641117	1	5	824	830	tobacco	-20	Drugs
+35641117	1	5	876	885	cigarettes	-20	Drugs
+35641117	1	6	1028	1034	tobacco	-20	Drugs
+35641117	1	6	1175	1181	Tobacco	-20	Drugs
+35641117	1	6	1221	1227	tobacco	-20	Drugs
+35641117	1	6	1287	1292	single	-20	Socioeconomic_factors
+35641117	1	6	1294	1302	cigarette	-20	Drugs
+35641117	1	7	1413	1419	tobacco	-20	Drugs
+19723433	1	1	2	11	Toothpaste	-20	Beauty_and_Cleaning
+19723433	1	1	30	41	oral hygiene	-20	Beauty_and_Cleaning
+19723433	1	1	48	58	nutritional	-20	Nutrition
+19723433	1	1	60	68	education	-20	Socioeconomic_factors
+19723433	1	2	159	169	oral health	-20	Beauty_and_Cleaning
+19723433	1	2	182	192	educational	-20	Socioeconomic_factors
+19723433	1	3	366	377	oral hygiene	-20	Beauty_and_Cleaning
+19723433	1	3	385	388	food	-20	Nutrition
+19723433	1	4	471	480	toothpaste	-20	Beauty_and_Cleaning
+19723433	1	5	522	531	Toothpaste	-20	Beauty_and_Cleaning
+19723433	1	7	642	651	toothpaste	-20	Beauty_and_Cleaning
+19723433	1	11	1083	1091	beverages	-20	Nutrition
+19723433	1	12	1208	1213	fruits	-20	Nutrition
+19723433	1	12	1219	1228	vegetables	-20	Nutrition
+19723433	1	12	1319	1328	toothpaste	-20	Beauty_and_Cleaning
+11475763	1	1	12	23	oral hygiene	-20	Beauty_and_Cleaning
+11475763	1	5	732	743	oral hygiene	-20	Beauty_and_Cleaning
+11475763	1	9	1190	1198	education	-20	Socioeconomic_factors
+16120095	1	1	13	29	sleep deprivation	-20	Sleep
+16120095	1	2	50	66	Sleep deprivation	-20	Sleep
+16120095	1	3	175	188	sleep-deprived	-20	Sleep
+16120095	1	4	343	372	rapid eye-movement (REM) sleep	-20	Sleep
+16120095	1	5	527	531	punch	-20	Nutrition
+16120095	1	6	645	661	sleep deprivation	-20	Sleep
+16120095	1	7	681	689	REM sleep	-20	Sleep
+16120095	1	8	866	870	punch	-20	Nutrition
+18820347	1	1	7	23	physical activity	-20	Physical_activity
+18820347	1	1	88	94	walking	-20	Physical_activity
+18820347	1	2	135	151	physical activity	-20	Physical_activity
+18820347	1	3	341	347	walking	-20	Physical_activity
+41697	1	3	493	496	food	-20	Nutrition
+24233430	1	1	16	35	behavioral therapies	-20	Mental_health_practices
+24233430	1	1	54	61	gambling	-20	Non_physical_leisure_time_activities
+24233430	1	2	200	207	gambling	-20	Non_physical_leisure_time_activities
+24233430	1	4	459	466	gambling	-20	Non_physical_leisure_time_activities
+18579917	1	7	694	712	resistance exercise	-20	Physical_activity
+18579917	1	7	694	712	resistance exercise	-20	Physical_activity
+18579917	1	7	783	798	aerobic exercise	-20	Physical_activity
+32678068	1	1	48	79	High-Intensity Interval Training	-20	Physical_activity
+32678068	1	2	126	152	moderate-intensity exercise	-20	Physical_activity
+32678068	1	3	273	290	Exercise frequency	-20	Physical_activity
+32678068	1	3	423	454	high-intensity interval training	-20	Physical_activity
+32678068	1	3	457	460	HIIT	-20	Physical_activity
+32678068	1	4	515	518	HIIT	-20	Physical_activity
+32678068	1	5	595	598	HIIT	-20	Physical_activity
+32678068	1	8	1130	1133	HIIT	-20	Physical_activity
+32678068	1	9	1247	1250	HIIT	-20	Physical_activity
+17266427	1	2	760	778	group psychotherapy	-20	Mental_health_practices
+17266427	1	3	934	952	group psychotherapy	-20	Mental_health_practices
+17266427	1	3	1019	1029	educational	-20	Socioeconomic_factors
+11314115	1	1	2	6	Sugar	-20	Nutrition
+11314115	1	3	73	76	Food	-20	Nutrition
+11314115	1	3	178	182	sugar	-20	Nutrition
+11314115	1	5	464	469	sugars	-20	Nutrition
+11314115	1	5	475	482	starches	-20	Nutrition
+11314115	1	5	500	505	snacks	-20	Nutrition
+11314115	1	6	590	594	sugar	-20	Nutrition
+11314115	1	6	646	650	sugar	-20	Nutrition
+11314115	1	7	848	866	sugar-free products	-20	Nutrition
+11314115	1	8	996	1000	sugar	-20	Nutrition
+11314115	1	9	1206	1210	sugar	-20	Nutrition
+11314115	1	9	1262	1270	nutrition	-20	Nutrition
+17846454	1	1	33	52	physical environment	-20	Environmental_exposures
+17846454	1	2	83	99	Physical activity	-20	Physical_activity
+17846454	1	4	286	306	physical environments	-20	Environmental_exposures
+11813678	1	1	56	71	oral health care	-20	Beauty_and_Cleaning
+11813678	1	2	133	146	dental hygiene	-20	Beauty_and_Cleaning
+11813678	1	2	208	218	oral health	-20	Beauty_and_Cleaning
+11813678	1	3	298	309	oral hygiene	-20	Beauty_and_Cleaning
+11813678	1	3	346	359	dental hygiene	-20	Beauty_and_Cleaning
+11813678	1	4	426	441	oral health care	-20	Beauty_and_Cleaning
+11813678	1	4	447	455	education	-20	Socioeconomic_factors
+11813678	1	4	489	502	dental hygiene	-20	Beauty_and_Cleaning
+11813678	1	4	591	603	dental health	-20	Beauty_and_Cleaning
+11813678	1	5	780	790	Oral health	-20	Beauty_and_Cleaning
+11813678	1	5	810	823	dental hygiene	-20	Beauty_and_Cleaning
+32135452	1	1	2	6	Sleep	-20	Sleep
+32135452	1	2	157	161	sleep	-20	Sleep
+32135452	1	2	230	234	sleep	-20	Sleep
+32135452	1	5	614	623	sleep time	-20	Sleep
+32135452	1	5	626	630	sleep	-20	Sleep
+32135452	1	5	659	673	slow wave sleep	-20	Sleep
+32135452	1	5	676	699	rapid eye movement sleep	-20	Sleep
+32135452	1	5	752	756	sleep	-20	Sleep
+32135452	1	6	927	931	sleep	-20	Sleep
+32135452	1	6	947	951	sleep	-20	Sleep
+32135452	1	6	1003	1011	REM sleep	-20	Sleep
+32135452	1	7	1084	1096	sleep quality	-20	Sleep
+27595882	1	1	32	42	orthodontic	-20	Beauty_and_Cleaning
+27595882	1	3	276	286	orthodontic	-20	Beauty_and_Cleaning
+27595882	1	4	402	412	orthodontic	-20	Beauty_and_Cleaning
+27595882	1	5	453	464	orthodontics	-20	Beauty_and_Cleaning
+17514376	1	2	85	101	Pomegranate juice	-20	Nutrition
+17514376	1	2	125	135	antioxidant	-20	Nutrition
+17514376	1	7	809	819	antioxidant	-20	Nutrition
+31629360	1	1	41	53	Pet Ownership	-20	Non_physical_leisure_time_activities
+31629360	1	1	59	75	Physical Activity	-20	Physical_activity
+31629360	1	2	139	151	Pet ownership	-20	Non_physical_leisure_time_activities
+31629360	1	2	192	208	physical activity	-20	Physical_activity
+31629360	1	3	298	304	walking	-20	Physical_activity
+31629360	1	3	335	347	pet ownership	-20	Non_physical_leisure_time_activities
+31629360	1	4	432	444	pet ownership	-20	Non_physical_leisure_time_activities
+31629360	1	10	1045	1063	sedentary behaviors	-20	Physical_activity
+17625932	1	3	148	165	insufficient sleep	-20	Sleep
+17625932	1	3	233	237	sleep	-20	Sleep
+17625932	1	4	351	355	sleep	-20	Sleep
+17625932	1	5	478	482	sleep	-20	Sleep
+17625932	1	7	694	712	sleep fragmentation	-20	Sleep
+17625932	1	7	694	712	sleep fragmentation	-20	Sleep
+17625932	1	7	867	871	sleep	-20	Sleep
+17625932	1	8	1046	1050	sleep	-20	Sleep
+17625932	1	8	1256	1260	sleep	-20	Sleep
+18522972	1	1	6	12	tobacco	-20	Drugs
+18522972	1	2	68	74	tobacco	-20	Drugs
+18522972	1	2	147	153	tobacco	-20	Drugs
+18522972	1	2	176	182	tobacco	-20	Drugs
+18522972	1	3	236	242	tobacco	-20	Drugs
+18522972	1	3	289	295	tobacco	-20	Drugs
+18522972	1	3	417	423	tobacco	-20	Drugs
+18522972	1	4	448	454	tobacco	-20	Drugs
+18522972	1	4	556	562	tobacco	-20	Drugs
+18522972	1	4	623	629	tobacco	-20	Drugs
+24005946	1	1	43	54	orthodontics	-20	Beauty_and_Cleaning
+24005946	1	2	66	76	orthodontic	-20	Beauty_and_Cleaning
+24005946	1	4	544	555	orthodontics	-20	Beauty_and_Cleaning
+29401309	1	1	33	40	Nicotine	-20	Drugs
+29401309	1	1	52	61	Cigarettes	-20	Drugs
+29401309	1	2	90	93	Food	-20	Nutrition
+29401309	1	2	172	179	nicotine	-20	Drugs
+29401309	1	2	203	212	cigarettes	-20	Drugs
+29401309	1	3	275	283	cigarette	-20	Drugs
+29401309	1	3	292	299	nicotine	-20	Drugs
+29401309	1	4	349	356	nicotine	-20	Drugs
+29401309	1	5	601	608	nicotine	-20	Drugs
+29401309	1	5	626	632	tobacco	-20	Drugs
+29401309	1	8	972	979	nicotine	-20	Drugs
+29401309	1	8	1139	1146	nicotine	-20	Drugs
+11980101	1	1	2	9	Nicotine	-20	Drugs
+11980101	1	1	63	89	environmental tobacco smoke	-20	Environmental_exposures
+11980101	1	2	120	126	Tobacco	-20	Drugs
+11980101	1	2	147	153	smoking	-20	Drugs
+11980101	1	2	227	236	workplaces	-20	Socioeconomic_factors
+11980101	1	3	260	266	Tobacco	-20	Drugs
+11980101	1	4	382	408	environmental tobacco smoke	-20	Environmental_exposures
+11980101	1	4	411	413	ETS	-20	Environmental_exposures
+11980101	1	4	487	489	ETS	-20	Environmental_exposures
+11980101	1	5	569	571	ETS	-20	Environmental_exposures
+11980101	1	5	618	627	workplaces	-20	Socioeconomic_factors
+11980101	1	6	638	645	nicotine	-20	Drugs
+11980101	1	6	696	698	ETS	-20	Environmental_exposures
+11980101	1	7	764	771	nicotine	-20	Drugs
+11980101	1	9	1065	1067	ETS	-20	Environmental_exposures
+11980101	1	9	1104	1113	nightclubs	-20	Non_physical_leisure_time_activities
+11980101	1	10	1224	1233	nightclubs	-20	Non_physical_leisure_time_activities
+23252814	1	2	348	356	preschool	-20	Socioeconomic_factors
+23252814	1	5	1024	1032	preschool	-20	Socioeconomic_factors
+23252814	1	5	1037	1048	kindergarten	-20	Socioeconomic_factors
+24971489	1	1	41	53	contraception	-20	Socioeconomic_factors
+24971489	1	2	282	304	hormonal contraceptives	-20	Socioeconomic_factors
+24971489	1	6	1069	1081	contraceptive	-20	Socioeconomic_factors
+15789183	1	2	184	191	gambling	-20	Non_physical_leisure_time_activities
+15789183	1	3	234	237	City	-20	Socioeconomic_factors
+15789183	1	4	521	528	Gambling	-20	Non_physical_leisure_time_activities
+15789183	1	4	660	667	gambling	-20	Non_physical_leisure_time_activities
+10390945	1	2	226	238	group therapy	-20	Mental_health_practices
+18718882	1	1	30	54	intimate partner violence	-20	Socioeconomic_factors
+18718882	1	1	59	79	marital relationships	-20	Socioeconomic_factors
+18718882	1	2	192	216	intimate partner violence	-20	Socioeconomic_factors
+18718882	1	5	377	387	child abuse	-20	Socioeconomic_factors
+18718882	1	5	377	387	child abuse	-20	Socioeconomic_factors
+18718882	1	6	508	525	child sexual abuse	-20	Socioeconomic_factors
+18718882	1	6	591	602	sexual abuse	-20	Socioeconomic_factors
+18718882	1	9	957	964	violence	-20	Socioeconomic_factors
+28142298	1	1	2	9	Palm oil	-20	Nutrition
+28142298	1	2	52	60	Nutrition	-20	Nutrition
+28142298	1	3	105	112	palm oil	-20	Nutrition
+28142298	1	3	121	124	food	-20	Nutrition
+28142298	1	4	336	344	Nutrition	-20	Nutrition
+28142298	1	4	426	436	Nutritional	-20	Nutrition
+28142298	1	6	603	610	palm oil	-20	Nutrition
+28142298	1	6	645	665	saturated fatty acids	-20	Nutrition
+28142298	1	6	713	733	saturated fatty acids	-20	Nutrition
+28142298	1	6	770	777	palm oil	-20	Nutrition
+28142298	1	6	875	895	saturated fatty acids	-20	Nutrition
+28142298	1	6	959	962	diet	-20	Nutrition
+28142298	1	6	959	962	diet	-20	Nutrition
+28142298	1	6	999	1006	palm oil	-20	Nutrition
+10607166	1	5	159	163	sleep	-20	Sleep
+32848077	1	1	2	8	Tobacco	-20	Drugs
+32848077	1	1	54	74	middle-income country	-20	Socioeconomic_factors
+32848077	1	1	105	111	tobacco	-20	Drugs
+32848077	1	2	170	185	Household Budget	-20	Socioeconomic_factors
+32848077	1	2	268	277	cigarettes	-20	Drugs
+32848077	1	3	416	422	tobacco	-20	Drugs
+32848077	1	3	460	466	tobacco	-20	Drugs
+32848077	1	3	536	542	tobacco	-20	Drugs
+32848077	1	3	585	594	employment	-20	Socioeconomic_factors
+32848077	1	3	585	594	employment	-20	Socioeconomic_factors
+32848077	1	3	622	630	cigarette	-20	Drugs
+32848077	1	4	678	687	cigarettes	-20	Drugs
+32848077	1	4	757	766	low-income	-20	Socioeconomic_factors
+32848077	1	4	772	794	middle-income countries	-20	Socioeconomic_factors
+32848077	1	5	816	825	cigarettes	-20	Drugs
+32848077	1	5	869	875	tobacco	-20	Drugs
+32848077	1	5	924	932	cigarette	-20	Drugs
+32848077	1	5	1005	1014	cigarettes	-20	Drugs
+32848077	1	6	1103	1109	tobacco	-20	Drugs
+20472573	1	1	86	92	tobacco	-20	Drugs
+20472573	1	1	128	134	tobacco	-20	Drugs
+20472573	1	2	173	179	Tobacco	-20	Drugs
+20472573	1	3	289	295	tobacco	-20	Drugs
+20472573	1	3	387	393	tobacco	-20	Drugs
+20472573	1	3	413	419	tobacco	-20	Drugs
+20472573	1	4	566	572	tobacco	-20	Drugs
+20472573	1	5	844	850	tobacco	-20	Drugs
+20472573	1	5	897	903	tobacco	-20	Drugs
+20472573	1	5	1048	1054	tobacco	-20	Drugs
+16626805	1	1	24	27	diet	-20	Nutrition
+16626805	1	1	24	27	diet	-20	Nutrition
+16626805	1	1	42	45	City	-20	Socioeconomic_factors
+16626805	1	2	92	95	diet	-20	Nutrition
+16626805	1	2	92	95	diet	-20	Nutrition
+16626805	1	2	110	113	City	-20	Socioeconomic_factors
+16626805	1	2	241	244	food	-20	Nutrition
+16626805	1	3	354	357	City	-20	Socioeconomic_factors
+16758316	1	1	73	79	pumpkin	-20	Nutrition
+16758316	1	2	166	185	developing countries	-20	Socioeconomic_factors
+16758316	1	4	381	387	pumpkin	-20	Nutrition
+16758316	1	6	1047	1053	pumpkin	-20	Nutrition
+16758316	1	7	1132	1138	pumpkin	-20	Nutrition
+12766445	1	1	24	38	Casino Gambling	-20	Non_physical_leisure_time_activities
+12766445	1	2	57	64	Gambling	-20	Non_physical_leisure_time_activities
+12766445	1	2	90	96	pastime	-20	Non_physical_leisure_time_activities
+12766445	1	3	284	291	gambling	-20	Non_physical_leisure_time_activities
+12766445	1	3	343	350	gambling	-20	Non_physical_leisure_time_activities
+12766445	1	4	531	538	gambling	-20	Non_physical_leisure_time_activities
+12766445	1	5	608	615	gambling	-20	Non_physical_leisure_time_activities
+12766445	1	6	875	882	gambling	-20	Non_physical_leisure_time_activities
+12766445	1	7	1158	1165	gambling	-20	Non_physical_leisure_time_activities
+12766445	1	8	1280	1287	gambling	-20	Non_physical_leisure_time_activities
+10626618	1	1	30	57	cognitive behavioral therapy	-20	Mental_health_practices
+10626618	1	1	63	77	sexually abused	-20	Socioeconomic_factors
+10626618	1	2	328	342	sexually abused	-20	Socioeconomic_factors
+10626618	1	3	467	481	sexually abused	-20	Socioeconomic_factors
+28116804	1	2	155	162	sedative	-20	Drugs
+28116804	1	2	223	227	sleep	-20	Sleep
+28116804	1	3	372	376	sleep	-20	Sleep
+28116804	1	3	409	413	sleep	-20	Sleep
+28116804	1	4	500	506	bedtime	-20	Sleep
+28116804	1	8	954	958	sleep	-20	Sleep
+28116804	1	8	1012	1035	rapid eye movement sleep	-20	Sleep
+28116804	1	10	1138	1142	sleep	-20	Sleep
+34787341	1	1	34	47	social support	-20	Socioeconomic_factors
+34787341	1	4	371	384	social support	-20	Socioeconomic_factors
+34787341	1	6	775	788	social support	-20	Socioeconomic_factors
+34787341	1	7	1009	1022	social support	-20	Socioeconomic_factors
+34787341	1	8	1103	1116	social support	-20	Socioeconomic_factors
+18815990	1	3	642	659	student counseling	-20	Mental_health_practices
+11037688	1	1	10	21	orthodontics	-20	Beauty_and_Cleaning
+11037688	1	4	537	548	Orthodontics	-20	Beauty_and_Cleaning
+9602551	1	6	978	986	traveling	-20	Physical_activity
+9602551	1	7	1041	1049	traveling	-20	Physical_activity
+9602551	1	8	1265	1271	driving	-20	Physical_activity
+10607215	1	1	20	26	napping	-20	Sleep
+10607215	1	1	59	63	sleep	-20	Sleep
+10607215	1	2	134	140	napping	-20	Sleep
+10607215	1	2	149	158	work place	-20	Socioeconomic_factors
+10607215	1	4	321	325	sleep	-20	Sleep
+10607215	1	5	402	406	Sleep	-20	Sleep
+10607215	1	5	473	479	napping	-20	Sleep
+10607215	1	6	491	495	Sleep	-20	Sleep
+10607215	1	6	542	552	sleep stage	-20	Sleep
+10607215	1	6	630	640	wakefulness	-20	Sleep
+10607215	1	7	676	680	sleep	-20	Sleep
+10607215	1	8	903	909	napping	-20	Sleep
+32761416	1	4	471	483	Dietary fiber	-20	Nutrition
+32761416	1	7	945	957	dietary fiber	-20	Nutrition
+32216483	1	1	49	61	contraception	-20	Socioeconomic_factors
+32216483	1	2	251	263	contraception	-20	Socioeconomic_factors
+32216483	1	2	397	419	hormonal contraceptives	-20	Socioeconomic_factors
+32216483	1	3	593	605	contraceptive	-20	Socioeconomic_factors
+32216483	1	3	837	849	contraceptive	-20	Socioeconomic_factors
+32216483	1	4	880	892	Contraceptive	-20	Socioeconomic_factors
+32216483	1	5	956	968	contraceptive	-20	Socioeconomic_factors
+32216483	1	6	1050	1071	hormonal contraceptive	-20	Socioeconomic_factors
+1719829	1	1	15	27	psychotherapy	-20	Mental_health_practices
+1719829	1	2	103	115	psychotherapy	-20	Mental_health_practices
+1719829	1	6	559	571	psychotherapy	-20	Mental_health_practices
+1719829	1	6	629	641	psychotherapy	-20	Mental_health_practices
+1719829	1	7	820	832	psychotherapy	-20	Mental_health_practices
+32510685	1	2	162	166	fungi	-20	Nutrition
+32510685	1	5	664	684	environmental factors	-20	Environmental_exposures
+9777681	1	1	2	18	Strength training	-20	Physical_activity
+9777681	1	2	21	26	Single	-20	Socioeconomic_factors
+9777681	1	3	97	113	strength training	-20	Physical_activity
+9777681	1	5	411	416	single	-20	Socioeconomic_factors
+9777681	1	6	671	676	single	-20	Socioeconomic_factors
+28095088	1	1	56	72	Physical Activity	-20	Physical_activity
+28095088	1	2	224	240	physical activity	-20	Physical_activity
+9433053	1	2	88	98	orthodontic	-20	Beauty_and_Cleaning
+9433053	1	3	194	204	orthodontic	-20	Beauty_and_Cleaning
+9433053	1	11	1211	1221	orthodontic	-20	Beauty_and_Cleaning
+31770466	1	1	82	88	nitrate	-20	Nutrition
+31770466	1	1	90	97	aerosols	-20	Environmental_exposures
+31770466	1	2	239	245	nitrate	-20	Nutrition
+31770466	1	2	247	254	aerosols	-20	Environmental_exposures
+31770466	1	3	469	475	nitrate	-20	Nutrition
+31770466	1	3	477	484	aerosols	-20	Environmental_exposures
+31770466	1	3	558	561	acid	-20	Nutrition
+31770466	1	4	626	631	single	-20	Socioeconomic_factors
+31770466	1	4	642	648	aerosol	-20	Environmental_exposures
+31770466	1	4	771	777	nitrate	-20	Nutrition
+31770466	1	4	779	786	aerosols	-20	Environmental_exposures
+31770466	1	5	860	867	aerosols	-20	Environmental_exposures
+19919514	1	3	288	298	fat content	-20	Nutrition
+19919514	1	6	697	702	sweets	-20	Nutrition
+19919514	1	6	708	724	rice-based dishes	-20	Nutrition
+19919514	1	6	768	773	cheese	-20	Nutrition
+19919514	1	8	933	936	food	-20	Nutrition
+25409296	1	1	35	51	Physical Activity	-20	Physical_activity
+25409296	1	2	120	136	Physical activity	-20	Physical_activity
+30242044	1	6	989	994	salary	-20	Socioeconomic_factors
+30242044	1	7	1234	1240	tobacco	-20	Drugs
+24085399	1	2	242	248	walking	-20	Physical_activity
+24085399	1	5	597	603	walking	-20	Physical_activity
+24085399	1	7	1048	1054	walking	-20	Physical_activity
+19559544	1	2	179	184	opioid	-20	Drugs
+19559544	1	9	1137	1142	opioid	-20	Drugs
+19559544	1	9	1267	1272	opioid	-20	Drugs
+19559544	1	10	1410	1415	opioid	-20	Drugs
+3227224	1	1	79	83	sleep	-20	Sleep
+3227224	1	2	175	179	dream	-20	Sleep
+3227224	1	3	249	278	rapid eye movement (REM) sleep	-20	Sleep
+3227224	1	4	534	542	REM sleep	-20	Sleep
+15051238	1	1	47	67	occupational exposure	-20	Environmental_exposures
+15051238	1	2	155	159	radon	-20	Environmental_exposures
+26658900	1	1	12	20	olive oil	-20	Nutrition
+26658900	1	1	22	39	phenolic compounds	-20	Nutrition
+26658900	1	2	165	173	olive oil	-20	Nutrition
+26658900	1	3	453	462	olive oils	-20	Nutrition
+26658900	1	3	522	539	phenolic compounds	-20	Nutrition
+26658900	1	7	1075	1078	diet	-20	Nutrition
+26658900	1	7	1075	1078	diet	-20	Nutrition
+26658900	1	7	1086	1107	extra-virgin olive oil	-20	Nutrition
+26658900	1	7	1117	1134	phenolic compounds	-20	Nutrition
+1312237	1	1	97	100	food	-20	Nutrition
+32008175	1	1	15	34	Resistance Exercises	-20	Physical_activity
+32008175	1	2	84	102	Resistance training	-20	Physical_activity
+32008175	1	4	387	405	resistance exercise	-20	Physical_activity
+32008175	1	5	746	765	resistance exercises	-20	Physical_activity
+12510035	1	4	415	421	sibling	-20	Socioeconomic_factors
+19083041	1	2	293	296	food	-20	Nutrition
+19083041	1	3	396	399	food	-20	Nutrition
+19083041	1	8	1226	1234	beverages	-20	Nutrition
+14987872	1	1	52	61	human milk	-20	Nutrition
+14987872	1	2	89	98	human milk	-20	Nutrition
+14987872	1	2	119	122	milk	-20	Nutrition
+14987872	1	2	243	263	aromatic hydrocarbons	-20	Environmental_exposures
+27805877	1	1	66	76	orthodontic	-20	Beauty_and_Cleaning
+27805877	1	4	611	621	orthodontic	-20	Beauty_and_Cleaning
+27805877	1	5	759	769	orthodontic	-20	Beauty_and_Cleaning
+27805877	1	6	910	920	orthodontic	-20	Beauty_and_Cleaning
+16259425	1	1	18	28	air quality	-20	Environmental_exposures
+16259425	1	3	179	191	air pollution	-20	Environmental_exposures
+16259425	1	4	253	263	air quality	-20	Environmental_exposures
+16259425	1	4	295	311	residential areas	-20	Socioeconomic_factors
+16259425	1	5	325	342	Particulate matter	-20	Environmental_exposures
+16259425	1	5	462	470	pollution	-20	Environmental_exposures
+16259425	1	8	811	824	air pollutants	-20	Environmental_exposures
+16259425	1	8	914	924	air quality	-20	Environmental_exposures
+16259425	1	9	1096	1108	air pollution	-20	Environmental_exposures
+16259425	1	10	1194	1204	air quality	-20	Environmental_exposures
+34417336	1	1	33	36	food	-20	Nutrition
+34417336	1	1	50	66	smokeless tobacco	-20	Drugs
+34417336	1	2	155	158	food	-20	Nutrition
+34417336	1	2	225	239	chewing tobacco	-20	Drugs
+34417336	1	3	298	304	tobacco	-20	Drugs
+34417336	1	3	335	338	food	-20	Nutrition
+34417336	1	5	526	542	smokeless tobacco	-20	Drugs
+34417336	1	5	556	559	food	-20	Nutrition
+34417336	1	5	595	598	food	-20	Nutrition
+34417336	1	5	706	712	tobacco	-20	Drugs
+34417336	1	5	731	734	food	-20	Nutrition
+34417336	1	5	793	796	food	-20	Nutrition
+34417336	1	5	873	879	tobacco	-20	Drugs
+34417336	1	6	998	1001	food	-20	Nutrition
+34417336	1	6	1042	1058	smokeless tobacco	-20	Drugs
+34417336	1	6	1105	1111	tobacco	-20	Drugs
+27406317	1	1	23	26	acid	-20	Nutrition
+27406317	1	1	36	39	wine	-20	Nutrition
+27406317	1	1	49	60	anthocyanins	-20	Nutrition
+27406317	1	1	124	131	fructose	-20	Nutrition
+27406317	1	2	178	185	red wine	-20	Nutrition
+27406317	1	2	210	213	acid	-20	Nutrition
+27406317	1	2	239	246	red wine	-20	Nutrition
+27406317	1	2	347	354	fructose	-20	Nutrition
+27406317	1	3	406	416	anthocyanin	-20	Nutrition
+1393719	1	1	95	106	sexual abuse	-20	Socioeconomic_factors
+1393719	1	5	421	432	Sexual abuse	-20	Socioeconomic_factors
+30880336	1	1	6	16	antioxidant	-20	Nutrition
+30880336	1	1	31	34	acid	-20	Nutrition
+30880336	1	1	109	113	sleep	-20	Sleep
+30880336	1	2	255	259	sleep	-20	Sleep
+30880336	1	3	319	322	acid	-20	Nutrition
+30880336	1	3	371	375	sleep	-20	Sleep
+30880336	1	4	507	510	diet	-20	Nutrition
+30880336	1	4	507	510	diet	-20	Nutrition
+30880336	1	7	900	903	diet	-20	Nutrition
+30880336	1	7	900	903	diet	-20	Nutrition
+1624999	1	1	32	40	education	-20	Socioeconomic_factors
+1624999	1	2	240	248	education	-20	Socioeconomic_factors
+1624999	1	8	1069	1075	running	-20	Physical_activity
+1624999	1	8	1112	1125	dental hygiene	-20	Beauty_and_Cleaning
+11376919	1	2	290	302	substance use	-20	Drugs
+23178321	1	1	78	84	Smoking	-20	Drugs
+23178321	1	3	236	243	nicotine	-20	Drugs
+23178321	1	3	334	340	smoking	-20	Drugs
+23178321	1	4	459	465	Smoking	-20	Drugs
+23178321	1	5	611	627	smoking cessation	-20	Drugs
+23178321	1	6	710	726	smoking cessation	-20	Drugs
+23178321	1	8	878	884	Smoking	-20	Drugs
+23178321	1	10	1250	1256	smoking	-20	Drugs
+21719896	1	2	99	105	smoking	-20	Drugs
+21719896	1	2	115	124	cigarettes	-20	Drugs
+21719896	1	2	235	242	nicotine	-20	Drugs
+21719896	1	2	269	275	smoking	-20	Drugs
+21719896	1	5	792	808	smoking cessation	-20	Drugs
+21719896	1	5	835	849	substance abuse	-20	Drugs
+21719896	1	6	948	953	single	-20	Socioeconomic_factors
+21719896	1	6	1074	1083	cigarettes	-20	Drugs
+21719896	1	6	1088	1100	heavy smokers	-20	Drugs
+34515520	1	1	23	36	Sexual Assault	-20	Socioeconomic_factors
+34515520	1	2	124	137	sexual assault	-20	Socioeconomic_factors
+34515520	1	4	571	576	Reddit	-20	Non_physical_leisure_time_activities
+34515520	1	4	582	588	Twitter	-20	Non_physical_leisure_time_activities
+34515520	1	4	620	633	sexual assault	-20	Socioeconomic_factors
+34515520	1	5	808	821	sexual assault	-20	Socioeconomic_factors
+25078520	1	1	42	48	walking	-20	Physical_activity
+25078520	1	2	157	163	walking	-20	Physical_activity
+25078520	1	3	357	363	walking	-20	Physical_activity
+25078520	1	5	655	661	walking	-20	Physical_activity
+25078520	1	6	846	852	walking	-20	Physical_activity
+27146857	1	1	2	6	Sleep	-20	Sleep
+27146857	1	2	71	75	sleep	-20	Sleep
+27146857	1	7	837	849	Stage 2 sleep	-20	Sleep
+27146857	1	8	1009	1038	rapid eye movement (REM) sleep	-20	Sleep
+27146857	1	9	1184	1188	sleep	-20	Sleep
+12644605	1	1	34	44	orthodontic	-20	Beauty_and_Cleaning
+12644605	1	9	1062	1072	orthodontic	-20	Beauty_and_Cleaning
+31615971	1	2	111	127	physical activity	-20	Physical_activity
+33555216	1	1	13	32	intrauterine devices	-20	Socioeconomic_factors
+33555216	1	2	97	116	Intrauterine devices	-20	Socioeconomic_factors
+33555216	1	2	173	185	contraception	-20	Socioeconomic_factors
+33555216	1	3	256	258	IUD	-20	Socioeconomic_factors
+33555216	1	3	299	301	IUD	-20	Socioeconomic_factors
+33555216	1	5	548	550	IUD	-20	Socioeconomic_factors
+33555216	1	6	616	618	IUD	-20	Socioeconomic_factors
+33555216	1	9	987	989	IUD	-20	Socioeconomic_factors
+33555216	1	9	1073	1075	IUD	-20	Socioeconomic_factors
+22491891	1	1	31	38	nicotine	-20	Drugs
+22491891	1	1	40	46	tobacco	-20	Drugs
+22491891	1	1	48	64	cigarette smoking	-20	Drugs
+22491891	1	2	124	131	Nicotine	-20	Drugs
+22491891	1	2	203	209	tobacco	-20	Drugs
+22491891	1	2	211	220	cigarettes	-20	Drugs
+22491891	1	3	331	338	nicotine	-20	Drugs
+22491891	1	3	343	359	cigarette smoking	-20	Drugs
+22491891	1	4	503	510	nicotine	-20	Drugs
+22491891	1	4	518	527	cigarettes	-20	Drugs
+22491891	1	4	535	540	single	-20	Socioeconomic_factors
+22491891	1	6	664	670	Smoking	-20	Drugs
+22491891	1	6	692	701	cigarettes	-20	Drugs
+22491891	1	7	731	747	cigarette smoking	-20	Drugs
+22491891	1	7	806	822	cigarette smoking	-20	Drugs
+22491891	1	8	908	915	nicotine	-20	Drugs
+22491891	1	9	1009	1015	Smoking	-20	Drugs
+22491891	1	9	1023	1032	cigarettes	-20	Drugs
+22491891	1	9	1061	1067	smoking	-20	Drugs
+22491891	1	9	1073	1082	cigarettes	-20	Drugs
+22491891	1	10	1113	1119	tobacco	-20	Drugs
+22491891	1	10	1121	1127	smoking	-20	Drugs
+22491891	1	10	1165	1172	nicotine	-20	Drugs
+22491891	1	11	1211	1217	tobacco	-20	Drugs
+22491891	1	11	1219	1225	smoking	-20	Drugs
+22491891	1	12	1266	1273	Nicotine	-20	Drugs
+22491891	1	12	1310	1316	tobacco	-20	Drugs
+22491891	1	12	1318	1324	smoking	-20	Drugs
+31256713	1	2	297	309	psychotherapy	-20	Mental_health_practices
+31256713	1	3	614	626	psychotherapy	-20	Mental_health_practices
+20181995	1	1	28	44	physical activity	-20	Physical_activity
+20181995	1	2	191	207	physical activity	-20	Physical_activity
+20181995	1	5	510	516	walking	-20	Physical_activity
+20181995	1	6	647	653	walking	-20	Physical_activity
+20181995	1	7	848	854	walking	-20	Physical_activity
+20181995	1	8	963	969	walking	-20	Physical_activity
+1312238	1	2	161	171	other algae	-20	Nutrition
+1312238	1	3	257	264	amaranth	-20	Nutrition
+1312238	1	5	384	392	detergent	-20	Beauty_and_Cleaning
+1312238	1	6	411	414	acid	-20	Nutrition
+1312238	1	6	416	424	detergent	-20	Beauty_and_Cleaning
+1312238	1	6	463	470	amaranth	-20	Nutrition
+1312238	1	8	611	621	nutritional	-20	Nutrition
+1312238	1	8	651	663	dietary fiber	-20	Nutrition
+18988075	1	1	40	46	smoking	-20	Drugs
+18988075	1	3	403	409	smoking	-20	Drugs
+18988075	1	6	887	893	smoking	-20	Drugs
+18988075	1	7	1059	1065	smoking	-20	Drugs
+18988075	1	8	1184	1190	smoking	-20	Drugs
+20460552	1	1	38	45	violence	-20	Socioeconomic_factors
+20460552	1	2	122	129	violence	-20	Socioeconomic_factors
+20460552	1	3	259	273	family violence	-20	Socioeconomic_factors
+20460552	1	3	312	319	violence	-20	Socioeconomic_factors
+20460552	1	3	343	350	violence	-20	Socioeconomic_factors
+20460552	1	3	353	360	bullying	-20	Socioeconomic_factors
+20460552	1	3	366	380	dating violence	-20	Socioeconomic_factors
+20460552	1	4	499	512	public schools	-20	Socioeconomic_factors
+20460552	1	4	537	549	socioeconomic	-20	Socioeconomic_factors
+20460552	1	6	698	705	violence	-20	Socioeconomic_factors
+20460552	1	8	897	904	violence	-20	Socioeconomic_factors
+20460552	1	8	1028	1042	family violence	-20	Socioeconomic_factors
+20460552	1	8	1069	1076	violence	-20	Socioeconomic_factors
+19023830	1	1	69	76	nicotine	-20	Drugs
+19023830	1	2	148	155	nicotine	-20	Drugs
+19023830	1	2	284	300	smoking cessation	-20	Drugs
+19023830	1	4	678	684	smoking	-20	Drugs
+19023830	1	6	853	869	smoking cessation	-20	Drugs
+24521749	1	5	743	753	orthodontic	-20	Beauty_and_Cleaning
+11072454	1	1	7	13	smoking	-20	Drugs
+11072454	1	1	43	49	smoking	-20	Drugs
+11072454	1	2	82	88	smoking	-20	Drugs
+11072454	1	3	233	239	smoking	-20	Drugs
+11072454	1	3	281	287	smoking	-20	Drugs
+11072454	1	3	337	343	smoking	-20	Drugs
+11072454	1	4	377	383	smoking	-20	Drugs
+11072454	1	4	434	440	smoking	-20	Drugs
+11072454	1	5	508	514	smoking	-20	Drugs
+11072454	1	5	524	530	smoking	-20	Drugs
+11072454	1	6	642	648	smoking	-20	Drugs
+11072454	1	6	707	713	smoking	-20	Drugs
+11072454	1	6	735	745	high school	-20	Socioeconomic_factors
+11072454	1	7	770	780	high school	-20	Socioeconomic_factors
+11072454	1	7	838	844	smoking	-20	Drugs
+11072454	1	8	860	866	smoking	-20	Drugs
+11072454	1	8	918	924	smoking	-20	Drugs
+11072454	1	8	947	957	high school	-20	Socioeconomic_factors
+11072454	1	9	974	980	smoking	-20	Drugs
+11072454	1	9	1030	1036	smoking	-20	Drugs
+31821994	1	1	40	46	Walking	-20	Physical_activity
+31821994	1	2	170	176	walking	-20	Physical_activity
+31821994	1	5	445	451	walking	-20	Physical_activity
+31821994	1	5	490	499	retirement	-20	Socioeconomic_factors
+31821994	1	6	764	770	walking	-20	Physical_activity
+31821994	1	6	857	866	retirement	-20	Socioeconomic_factors
+31821994	1	7	1034	1043	retirement	-20	Socioeconomic_factors
+18236789	1	4	470	480	air quality	-20	Environmental_exposures
+1315432	1	9	734	744	wheat flour	-20	Nutrition
+1315432	1	11	937	943	calorie	-20	Nutrition
+8560138	1	1	56	60	sleep	-20	Sleep
+8560138	1	2	170	174	sleep	-20	Sleep
+8560138	1	3	265	269	sleep	-20	Sleep
+8560138	1	6	473	477	sleep	-20	Sleep
+8560138	1	8	734	738	sleep	-20	Sleep
+19458081	1	2	222	230	unmarried	-20	Socioeconomic_factors
+19458081	1	2	404	412	Nutrition	-20	Nutrition
+19458081	1	3	491	501	harassments	-20	Socioeconomic_factors
+19458081	1	4	583	593	harassments	-20	Socioeconomic_factors
+19458081	1	4	731	741	harassments	-20	Socioeconomic_factors
+19458081	1	5	774	782	education	-20	Socioeconomic_factors
+19458081	1	5	798	812	economic status	-20	Socioeconomic_factors
+19458081	1	7	994	1004	harassments	-20	Socioeconomic_factors
+9470567	1	3	425	433	education	-20	Socioeconomic_factors
+9470567	1	3	512	526	oral healthcare	-20	Beauty_and_Cleaning
+9470567	1	4	609	622	dental hygiene	-20	Beauty_and_Cleaning
+9470567	1	5	849	859	oral health	-20	Beauty_and_Cleaning
+9470567	1	7	1084	1094	oral health	-20	Beauty_and_Cleaning
+9470567	1	7	1105	1114	low-income	-20	Socioeconomic_factors
+12114469	1	6	828	838	orthodontic	-20	Beauty_and_Cleaning
+15560769	1	1	35	51	exposure to light	-20	Environmental_exposures
+15560769	1	1	57	72	night-time sleep	-20	Sleep
+15560769	1	2	152	168	exposure to light	-20	Environmental_exposures
+15560769	1	2	191	195	sleep	-20	Sleep
+15560769	1	3	441	445	sleep	-20	Sleep
+15560769	1	5	725	729	sleep	-20	Sleep
+15560769	1	6	819	823	sleep	-20	Sleep
+15560769	1	7	900	915	night-time sleep	-20	Sleep
+19856234	1	1	33	47	psychotherapies	-20	Mental_health_practices
+8714548	1	1	15	33	group psychotherapy	-20	Mental_health_practices
+8714548	1	3	229	241	psychotherapy	-20	Mental_health_practices
+8714548	1	5	1073	1091	group psychotherapy	-20	Mental_health_practices
+18815971	1	1	4	16	psychotherapy	-20	Mental_health_practices
+18815971	1	2	248	260	psychotherapy	-20	Mental_health_practices
+18815971	1	5	840	850	mindfulness	-20	Mental_health_practices
+18209234	1	1	8	14	walking	-20	Physical_activity
+18209234	1	2	187	203	physical activity	-20	Physical_activity
+18209234	1	7	931	947	physical activity	-20	Physical_activity
+18209234	1	8	1062	1078	physical activity	-20	Physical_activity
+6892288	1	4	387	397	child abuse	-20	Socioeconomic_factors
+6892288	1	4	387	397	child abuse	-20	Socioeconomic_factors
+6892288	1	4	467	477	Child Abuse	-20	Socioeconomic_factors
+6892288	1	4	467	477	Child Abuse	-20	Socioeconomic_factors
+20645220	1	2	114	126	psychotherapy	-20	Mental_health_practices
+28559087	1	6	703	707	sleep	-20	Sleep
+11055166	1	1	34	46	air pollution	-20	Environmental_exposures
+11055166	1	3	297	309	air pollution	-20	Environmental_exposures
+11055166	1	5	619	624	single	-20	Socioeconomic_factors
+11055166	1	6	723	732	urban area	-20	Socioeconomic_factors
+12688829	1	2	91	96	sports	-20	Physical_activity
+22200244	1	5	542	554	contraception	-20	Socioeconomic_factors
+22200244	1	9	1053	1065	contraception	-20	Socioeconomic_factors
+7313394	1	3	458	468	wakefulness	-20	Sleep
+7313394	1	3	507	511	sleep	-20	Sleep
+12676206	1	2	83	91	pollution	-20	Environmental_exposures
+12676206	1	4	474	484	rural areas	-20	Socioeconomic_factors
+27075434	1	1	15	25	carotenoids	-20	Nutrition
+27075434	1	1	69	75	lettuce	-20	Nutrition
+27075434	1	2	170	179	vegetables	-20	Nutrition
+27075434	1	2	275	278	diet	-20	Nutrition
+27075434	1	2	275	278	diet	-20	Nutrition
+27075434	1	3	347	357	carotenoids	-20	Nutrition
+27075434	1	3	393	399	lettuce	-20	Nutrition
+27075434	1	7	850	860	carotenoids	-20	Nutrition
+27075434	1	8	931	941	carotenoids	-20	Nutrition
+27075434	1	8	1003	1009	lettuce	-20	Nutrition
+7356583	1	2	200	212	illegal drugs	-20	Drugs
+7356583	1	3	285	290	Heroin	-20	Drugs
+7356583	1	3	296	298	LSD	-20	Drugs
+7356583	1	3	355	364	cigarettes	-20	Drugs
+7356583	1	4	462	473	amphetamines	-20	Drugs
+7356583	1	4	488	494	tobacco	-20	Drugs
+7356583	1	6	781	789	education	-20	Socioeconomic_factors
+688856	1	1	2	5	Food	-20	Nutrition
+688856	1	1	81	84	food	-20	Nutrition
+688856	1	2	149	152	food	-20	Nutrition
+688856	1	4	405	418	caloric intake	-20	Nutrition
+688856	1	4	430	441	fluid intake	-20	Nutrition
+688856	1	5	657	670	caloric intake	-20	Nutrition
+688856	1	5	679	690	fluid intake	-20	Nutrition
+688856	1	5	748	761	caloric intake	-20	Nutrition
+688856	1	6	908	915	calories	-20	Nutrition
+2776050	1	1	15	26	sexual abuse	-20	Socioeconomic_factors
+2776050	1	2	95	106	sexual abuse	-20	Socioeconomic_factors
+2776050	1	3	348	359	sexual abuse	-20	Socioeconomic_factors
+2776050	1	5	811	822	sexual abuse	-20	Socioeconomic_factors
+3780410	1	1	2	9	Religion	-20	Socioeconomic_factors
+3780410	1	1	33	43	alcohol use	-20	Nutrition
+3780410	1	2	80	87	religion	-20	Socioeconomic_factors
+3780410	1	2	173	180	religion	-20	Socioeconomic_factors
+3780410	1	2	186	204	alcohol consumption	-20	Nutrition
+3780410	1	2	275	285	alcohol use	-20	Nutrition
+9200889	1	1	2	12	Orthodontic	-20	Beauty_and_Cleaning
+9200889	1	3	212	222	orthodontic	-20	Beauty_and_Cleaning
+9200889	1	4	549	560	orthodontics	-20	Beauty_and_Cleaning
+9200889	1	5	776	786	orthodontic	-20	Beauty_and_Cleaning
+25047604	1	1	41	53	psychotherapy	-20	Mental_health_practices
+25047604	1	2	105	117	Psychotherapy	-20	Mental_health_practices
+25047604	1	3	208	220	Psychotherapy	-20	Mental_health_practices
+25047604	1	4	400	412	Psychotherapy	-20	Mental_health_practices
+25047604	1	8	1014	1026	psychotherapy	-20	Mental_health_practices
+15658217	1	2	186	203	polyvinyl chloride	-20	Nutrition
+15658217	1	2	206	208	PVC	-20	Nutrition
+15658217	1	3	431	443	air pollution	-20	Environmental_exposures
+15658217	1	5	580	582	PVC	-20	Nutrition
+32987320	1	1	13	21	vitamin D	-20	Nutrition
+32987320	1	1	35	39	sleep	-20	Sleep
+32987320	1	2	116	124	Vitamin D	-20	Nutrition
+32987320	1	3	215	223	vitamin D	-20	Nutrition
+32987320	1	3	291	299	vitamin D	-20	Nutrition
+32987320	1	3	346	350	sleep	-20	Sleep
+32987320	1	4	444	452	vitamin D	-20	Nutrition
+32987320	1	4	466	470	sleep	-20	Sleep
+32987320	1	5	552	556	sleep	-20	Sleep
+32987320	1	6	650	654	sleep	-20	Sleep
+32987320	1	7	753	761	vitamin D	-20	Nutrition
+15071147	1	1	88	98	Orthodontic	-20	Beauty_and_Cleaning
+15071147	1	2	169	179	orthodontic	-20	Beauty_and_Cleaning
+15071147	1	5	767	777	Orthodontic	-20	Beauty_and_Cleaning
+14991269	1	3	70	78	Nutrition	-20	Nutrition
+14991269	1	4	211	234	industrialised countries	-20	Socioeconomic_factors
+14991269	1	4	375	387	overnutrition	-20	Nutrition
+14991269	1	4	393	396	food	-20	Nutrition
+14991269	1	6	634	642	nutrition	-20	Nutrition
+14991269	1	6	648	658	nutritional	-20	Nutrition
+14991269	1	8	904	914	Nutritional	-20	Nutrition
+2639962	1	1	13	21	education	-20	Socioeconomic_factors
+2639962	1	2	149	162	dental hygiene	-20	Beauty_and_Cleaning
+2639962	1	2	326	334	education	-20	Socioeconomic_factors
+2639962	1	3	372	380	education	-20	Socioeconomic_factors
+2639962	1	3	556	564	education	-20	Socioeconomic_factors
+2639962	1	3	623	631	education	-20	Socioeconomic_factors
+2639962	1	4	685	693	education	-20	Socioeconomic_factors
+2639962	1	5	991	999	education	-20	Socioeconomic_factors
+2639962	1	6	1129	1137	education	-20	Socioeconomic_factors
+2639962	1	7	1335	1343	education	-20	Socioeconomic_factors
+9853208	1	1	20	32	contraceptive	-20	Socioeconomic_factors
+9853208	1	3	183	195	contraceptive	-20	Socioeconomic_factors
+9853208	1	6	668	681	contraceptives	-20	Socioeconomic_factors
+9853208	1	8	784	796	birth control	-20	Socioeconomic_factors
+6515247	1	1	28	32	sleep	-20	Sleep
+6515247	1	1	35	53	sleep fragmentation	-20	Sleep
+6515247	1	1	35	53	sleep fragmentation	-20	Sleep
+6515247	1	1	60	64	sleep	-20	Sleep
+6515247	1	2	121	125	sleep	-20	Sleep
+6515247	1	2	140	144	sleep	-20	Sleep
+6515247	1	2	187	191	sleep	-20	Sleep
+6515247	1	6	643	655	stage 1 sleep	-20	Sleep
+9678133	1	1	7	20	contraceptives	-20	Socioeconomic_factors
+9678133	1	2	184	197	contraceptives	-20	Socioeconomic_factors
+15309455	1	1	64	72	vitamin K	-20	Nutrition
+15309455	1	2	105	113	Vitamin K	-20	Nutrition
+15309455	1	3	221	229	vitamin K	-20	Nutrition
+15309455	1	4	350	358	vitamin K	-20	Nutrition
+15309455	1	6	681	689	vitamin K	-20	Nutrition
+15309455	1	6	795	803	vitamin K	-20	Nutrition
+15309455	1	6	827	835	vitamin K	-20	Nutrition
+27918700	1	1	42	58	Physical Activity	-20	Physical_activity
+27918700	1	2	153	169	physical activity	-20	Physical_activity
+27918700	1	2	285	301	physical activity	-20	Physical_activity
+27918700	1	2	449	465	physical activity	-20	Physical_activity
+27918700	1	3	562	578	physical activity	-20	Physical_activity
+27918700	1	4	708	716	Nutrition	-20	Nutrition
+27918700	1	4	813	829	physical activity	-20	Physical_activity
+27918700	1	4	880	894	education level	-20	Socioeconomic_factors
+27918700	1	4	897	916	socioeconomic status	-20	Socioeconomic_factors
+27918700	1	6	1146	1162	physical activity	-20	Physical_activity
+27918700	1	8	1346	1362	physical activity	-20	Physical_activity
+26394028	1	2	171	188	phenolic compounds	-20	Nutrition
+26394028	1	4	470	473	food	-20	Nutrition
+23515164	1	1	34	47	sexual assault	-20	Socioeconomic_factors
+23515164	1	2	159	172	sexual assault	-20	Socioeconomic_factors
+23515164	1	3	423	430	assaults	-20	Socioeconomic_factors
+23515164	1	3	479	496	sexually assaulted	-20	Socioeconomic_factors
+23515164	1	4	615	628	sexual assault	-20	Socioeconomic_factors
+23515164	1	5	828	843	drinking alcohol	-20	Nutrition
+23515164	1	8	1137	1150	sexual assault	-20	Socioeconomic_factors
+12817552	1	4	678	687	friendship	-20	Socioeconomic_factors
+12817552	1	6	908	920	psychotherapy	-20	Mental_health_practices
+25329006	1	4	402	417	meal replacement	-20	Nutrition
+25329006	1	4	419	427	beverages	-20	Nutrition
+24202545	1	1	24	34	antioxidant	-20	Nutrition
+24202545	1	3	240	249	herbal tea	-20	Nutrition
+24202545	1	4	293	303	antioxidant	-20	Nutrition
+24202545	1	5	531	541	antioxidant	-20	Nutrition
+24202545	1	6	730	747	phenolic compounds	-20	Nutrition
+24202545	1	7	750	758	Flavonoid	-20	Nutrition
+24202545	1	7	785	798	phytochemicals	-20	Nutrition
+24202545	1	9	1031	1048	phenolic compounds	-20	Nutrition
+24202545	1	10	1196	1201	sugars	-20	Nutrition
+24202545	1	10	1196	1201	sugars	-20	Nutrition
+33512698	1	1	6	37	High-Intensity Interval Training	-20	Physical_activity
+33512698	1	2	121	131	nutritional	-20	Nutrition
+33512698	1	3	214	219	single	-20	Socioeconomic_factors
+33512698	1	3	229	247	resistance exercise	-20	Physical_activity
+33512698	1	3	229	247	resistance exercise	-20	Physical_activity
+33512698	1	5	588	619	High-intensity interval training	-20	Physical_activity
+33512698	1	5	622	625	HIIT	-20	Physical_activity
+33512698	1	5	834	852	resistance exercise	-20	Physical_activity
+33512698	1	5	834	852	resistance exercise	-20	Physical_activity
+33512698	1	6	861	864	HIIT	-20	Physical_activity
+33512698	1	6	955	958	HIIT	-20	Physical_activity
+33512698	1	7	1160	1163	HIIT	-20	Physical_activity
+33512698	1	7	1232	1235	HIIT	-20	Physical_activity
+30484369	1	1	2	9	Bullying	-20	Socioeconomic_factors
+30484369	1	1	28	40	Victimization	-20	Socioeconomic_factors
+30484369	1	2	221	228	bullying	-20	Socioeconomic_factors
+30484369	1	2	230	242	victimization	-20	Socioeconomic_factors
+30484369	1	5	677	684	bullying	-20	Socioeconomic_factors
+30484369	1	5	690	702	victimization	-20	Socioeconomic_factors
+30484369	1	8	1281	1288	bullying	-20	Socioeconomic_factors
+21487131	1	1	15	31	physical activity	-20	Physical_activity
+21487131	1	2	198	214	physical activity	-20	Physical_activity
+21487131	1	2	227	256	leisure-time physical activity	-20	Physical_activity
+21487131	1	2	259	262	LTPA	-20	Physical_activity
+21487131	1	4	425	428	LTPA	-20	Physical_activity
+21487131	1	4	440	456	lifestyle factors	-20	1000000001
+21487131	1	7	595	598	LTPA	-20	Physical_activity
+21487131	1	9	827	830	LTPA	-20	Physical_activity
+21487131	1	9	873	876	LTPA	-20	Physical_activity
+21487131	1	10	996	999	LTPA	-20	Physical_activity
+21487131	1	10	1038	1041	LTPA	-20	Physical_activity
+21487131	1	11	1118	1121	LTPA	-20	Physical_activity
+15309450	1	1	2	12	Carotenoids	-20	Nutrition
+15309450	1	2	120	130	Carotenoids	-20	Nutrition
+15309450	1	2	146	159	micronutrients	-20	Nutrition
+15309450	1	2	174	177	diet	-20	Nutrition
+15309450	1	2	174	177	diet	-20	Nutrition
+15309450	1	3	261	271	antioxidant	-20	Nutrition
+15309450	1	3	284	294	carotenoids	-20	Nutrition
+15309450	1	5	578	588	Carotenoids	-20	Nutrition
+15309450	1	5	594	600	retinol	-20	Nutrition
+15309450	1	5	765	772	lycopene	-20	Nutrition
+15309450	1	7	887	896	carotenoid	-20	Nutrition
+15309450	1	7	902	908	retinol	-20	Nutrition
+15309450	1	7	1081	1093	beta-carotene	-20	Nutrition
+15309450	1	7	1098	1104	retinol	-20	Nutrition
+15309450	1	8	1264	1274	carotenoids	-20	Nutrition
+2776042	1	3	262	272	Child Abuse	-20	Socioeconomic_factors
+2776042	1	3	262	272	Child Abuse	-20	Socioeconomic_factors
+12531131	1	4	274	289	circadian rhythm	-20	Sleep
+12531131	1	4	349	353	sleep	-20	Sleep
+12531131	1	4	446	450	sleep	-20	Sleep
+12531131	1	5	578	582	sleep	-20	Sleep
+10541442	1	3	300	304	sleep	-20	Sleep
+10541442	1	7	920	935	circadian rhythm	-20	Sleep
+10541442	1	7	1015	1031	sleep deprivation	-20	Sleep
+18696219	1	2	115	122	gambling	-20	Non_physical_leisure_time_activities
+18696219	1	3	390	396	betting	-20	Non_physical_leisure_time_activities
+18696219	1	4	420	426	betting	-20	Non_physical_leisure_time_activities
+18696219	1	4	500	506	betting	-20	Non_physical_leisure_time_activities
+18696219	1	7	835	842	gambling	-20	Non_physical_leisure_time_activities
+18696219	1	7	907	914	gambling	-20	Non_physical_leisure_time_activities
+18696219	1	8	1011	1018	gambling	-20	Non_physical_leisure_time_activities
+11761601	1	2	139	156	indoor air quality	-20	Environmental_exposures
+11761601	1	2	159	161	IAQ	-20	Environmental_exposures
+11761601	1	3	266	268	IAQ	-20	Environmental_exposures
+11761601	1	4	460	462	IAQ	-20	Environmental_exposures
+24234780	1	2	150	157	gambling	-20	Non_physical_leisure_time_activities
+18605129	1	1	125	137	psychotherapy	-20	Mental_health_practices
+28034348	1	3	330	342	psychotherapy	-20	Mental_health_practices
+28034348	1	5	630	654	relationship satisfaction	-20	Socioeconomic_factors
+15333876	1	3	211	217	tobacco	-20	Drugs
+18584466	1	1	2	9	Nicotine	-20	Drugs
+18584466	1	2	141	148	nicotine	-20	Drugs
+18584466	1	2	211	217	smoking	-20	Drugs
+18584466	1	3	331	338	nicotine	-20	Drugs
+18584466	1	4	487	493	smoking	-20	Drugs
+18584466	1	5	593	600	nicotine	-20	Drugs
+18584466	1	6	690	697	Nicotine	-20	Drugs
+18584466	1	6	726	732	smoking	-20	Drugs
+18584466	1	7	907	914	nicotine	-20	Drugs
+18584466	1	8	1008	1015	Nicotine	-20	Drugs
+18584466	1	9	1116	1122	smoking	-20	Drugs
+23876105	1	1	61	65	kefir	-20	Nutrition
+23876105	1	2	211	215	kefir	-20	Nutrition
+23876105	1	4	411	417	sucrose	-20	Nutrition
+23876105	1	4	423	440	anti-foaming agent	-20	Nutrition
+23876105	1	4	532	540	flavoring	-20	Nutrition
+23876105	1	5	592	596	kefir	-20	Nutrition
+23113691	1	1	60	71	internet use	-20	Non_physical_leisure_time_activities
+23113691	1	2	260	270	sociability	-20	Socioeconomic_factors
+23113691	1	3	365	376	Internet use	-20	Non_physical_leisure_time_activities
+23113691	1	3	435	446	Internet use	-20	Non_physical_leisure_time_activities
+11345740	1	1	71	80	wastewater	-20	Environmental_exposures
+11345740	1	3	234	246	water quality	-20	Environmental_exposures
+11345740	1	6	706	718	water quality	-20	Environmental_exposures
+11345740	1	7	914	923	wastewater	-20	Environmental_exposures
+11705018	1	2	147	154	gambling	-20	Non_physical_leisure_time_activities
+11705018	1	3	289	296	gambling	-20	Non_physical_leisure_time_activities
+11705018	1	5	517	524	gambling	-20	Non_physical_leisure_time_activities
+11705018	1	5	565	572	gambling	-20	Non_physical_leisure_time_activities
+11705018	1	6	708	715	gambling	-20	Non_physical_leisure_time_activities
+11705018	1	7	805	812	gambling	-20	Non_physical_leisure_time_activities
+11705018	1	8	886	893	gambling	-20	Non_physical_leisure_time_activities
+11705018	1	8	964	971	gambling	-20	Non_physical_leisure_time_activities
+23575456	1	1	23	39	physical activity	-20	Physical_activity
+23575456	1	1	41	59	parenting practices	-20	Socioeconomic_factors
+23575456	1	1	104	120	physical activity	-20	Physical_activity
+23575456	1	2	259	275	physical activity	-20	Physical_activity
+23575456	1	2	325	341	physical activity	-20	Physical_activity
+23575456	1	5	705	721	physical activity	-20	Physical_activity
+23575456	1	8	1044	1062	parenting practices	-20	Socioeconomic_factors
+23575456	1	8	1112	1128	physical activity	-20	Physical_activity
+23575456	1	9	1349	1365	physical activity	-20	Physical_activity
+9406320	1	1	46	50	sleep	-20	Sleep
+9406320	1	2	281	285	sleep	-20	Sleep
+9406320	1	3	366	370	sleep	-20	Sleep
+9406320	1	3	480	492	sleep latency	-20	Sleep
+9406320	1	4	591	595	sleep	-20	Sleep
+9406320	1	4	636	648	sleep latency	-20	Sleep
+9406320	1	5	703	707	sleep	-20	Sleep
+18479844	1	2	101	106	wealth	-20	Socioeconomic_factors
+10389102	1	1	27	31	sleep	-20	Sleep
+10389102	1	2	130	134	Sleep	-20	Sleep
+10389102	1	3	441	456	sleep-wake cycle	-20	Sleep
+10389102	1	8	1029	1033	sleep	-20	Sleep
+10389102	1	9	1173	1177	sleep	-20	Sleep
+24158583	1	1	50	60	orthodontic	-20	Beauty_and_Cleaning
+24158583	1	3	310	320	orthodontic	-20	Beauty_and_Cleaning
+24158583	1	9	1142	1147	Single	-20	Socioeconomic_factors
+15388401	1	1	26	38	group therapy	-20	Mental_health_practices
+15388401	1	3	334	346	group therapy	-20	Mental_health_practices
+15388401	1	4	505	523	group psychotherapy	-20	Mental_health_practices
+15388401	1	5	552	564	group therapy	-20	Mental_health_practices
+15388401	1	6	715	727	group therapy	-20	Mental_health_practices
+28365427	1	1	20	31	maltreatment	-20	Socioeconomic_factors
+28365427	1	2	144	155	maltreatment	-20	Socioeconomic_factors
+28365427	1	3	267	278	maltreatment	-20	Socioeconomic_factors
+28365427	1	5	546	558	child welfare	-20	Socioeconomic_factors
+28365427	1	5	622	633	maltreatment	-20	Socioeconomic_factors
+28365427	1	6	667	678	maltreatment	-20	Socioeconomic_factors
+28365427	1	7	748	759	maltreatment	-20	Socioeconomic_factors
+28365427	1	8	887	895	unmarried	-20	Socioeconomic_factors
+28365427	1	10	1163	1174	maltreatment	-20	Socioeconomic_factors
+24313300	1	1	26	36	mindfulness	-20	Mental_health_practices
+24313300	1	2	295	305	mindfulness	-20	Mental_health_practices
+11709596	1	3	294	299	Single	-20	Socioeconomic_factors
+11709596	1	5	537	547	orthodontic	-20	Beauty_and_Cleaning
+11709596	1	6	585	595	Orthodontic	-20	Beauty_and_Cleaning
+28834509	1	1	26	42	Physical Activity	-20	Physical_activity
+28834509	1	1	50	62	Middle School	-20	Socioeconomic_factors
+28834509	1	2	197	213	physical activity	-20	Physical_activity
+28834509	1	3	277	293	physical activity	-20	Physical_activity
+28834509	1	5	623	648	vigorous physical activity	-20	Physical_activity
+28834509	1	6	809	821	middle school	-20	Socioeconomic_factors
+28834509	1	10	1144	1160	physical activity	-20	Physical_activity

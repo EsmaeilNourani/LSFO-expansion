@@ -1,0 +1,12 @@
+T1	Lifestyle_factor 21 42	Sexual Assault Online
+A1	Socioeconomic_factors T1
+T2	Lifestyle_factor 122 136	sexual assault
+A2	Socioeconomic_factors T2
+T3	Lifestyle_factor 569 575	Reddit
+A3	Non_physical_leisure_time_activities T3
+T4	Lifestyle_factor 580 587	Twitter
+A4	Non_physical_leisure_time_activities T4
+T5	Lifestyle_factor 618 632	sexual assault
+A5	Socioeconomic_factors T5
+T6	Lifestyle_factor 806 820	sexual assault
+A6	Socioeconomic_factors T6

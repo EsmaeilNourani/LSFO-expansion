@@ -1,0 +1,6 @@
+T1	Lifestyle_factor 54 70	psychotherapists
+T2	Lifestyle_factor 657 673	psychotherapists
+T3	Lifestyle_factor 574 600	psychotherapeutic practice
+A3	Mental_health_practices T3
+A1	Occupations T1
+A2	Occupations T2

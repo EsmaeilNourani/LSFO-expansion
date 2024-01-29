@@ -1,0 +1,21 @@
+T1	Lifestyle_factor 82 95	lottery games
+A1	Non_physical_leisure_time_activities T1
+T2	Lifestyle_factor 580 593	lottery games
+A2	Non_physical_leisure_time_activities T2
+T3	Lifestyle_factor 597 602	Chile
+T6	Lifestyle_factor 1041 1054	lottery games
+A6	Non_physical_leisure_time_activities T6
+T7	Lifestyle_factor 1140 1153	lottery games
+A7	Non_physical_leisure_time_activities T7
+A3	Geographical_Feature T3
+A5	LSF_out_of_context T2
+A8	LSF_out_of_context T1
+A9	LSF_out_of_context T6
+A4	LSF_out_of_context T7
+T4	Lifestyle_factor 1223 1230	playing
+A10	Non_physical_leisure_time_activities T4
+A11	LSF_out_of_context T4
+T5	Out-of-scope 683 691	products
+T8	Out-of-scope 548 556	products
+T9	Out-of-scope 726 733	product
+T10	Out-of-scope 842 847	light

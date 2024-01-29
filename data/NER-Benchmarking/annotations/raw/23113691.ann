@@ -1,0 +1,29 @@
+T2	Lifestyle_factor 58 70	internet use
+A2	Non_physical_leisure_time_activities T2
+T5	Lifestyle_factor 363 375	Internet use
+A6	Non_physical_leisure_time_activities T5
+T6	Lifestyle_factor 433 445	Internet use
+A7	Non_physical_leisure_time_activities T6
+T7	Out-of-scope 513 526	Internet user
+T8	Lifestyle_factor 587 611	sociodemographic factors
+A9	Socioeconomic_factors T8
+T9	Lifestyle_factor 659 676	Internet adoption
+A10	Non_physical_leisure_time_activities T9
+T11	Lifestyle_factor 888 898	nonworkers
+T4	Lifestyle_factor 861 883	skilled computer users
+A4	Occupations T4
+T1	Lifestyle_factor 0 8	Internet
+A1	Non_physical_leisure_time_activities T1
+A3	LSF_out_of_context T1
+T3	Lifestyle_factor 130 138	Internet
+A5	Non_physical_leisure_time_activities T3
+A11	LSF_out_of_context T3
+T10	Lifestyle_factor 258 269	sociability
+A12	Socioeconomic_factors T10
+A13	Occupations T11
+T12	Lifestyle_factor 1028 1032	work
+A15	Socioeconomic_factors T12
+T13	Lifestyle_factor 513 521	Internet
+A8	Non_physical_leisure_time_activities T13
+A14	LSF_out_of_context T13
+T14	Out-of-scope 399 407	activity

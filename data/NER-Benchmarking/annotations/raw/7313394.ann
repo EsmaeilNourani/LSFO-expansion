@@ -1,0 +1,6 @@
+T1	Lifestyle_factor 456 467	wakefulness
+A1	Sleep T1
+T2	Lifestyle_factor 505 510	sleep
+A2	Sleep T2
+T3	Out-of-scope 43 51	activity
+T4	Out-of-scope 236 244	activity

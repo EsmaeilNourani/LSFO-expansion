@@ -1,0 +1,41 @@
+T7	Lifestyle_factor 132 143	absenteeism
+A5	Socioeconomic_factors T7
+T8	Lifestyle_factor 145 172	poorer academic performance
+A6	Socioeconomic_factors T8
+T1	Lifestyle_factor 42 46	U.S.
+A1	Geographical_Feature T1
+T2	Lifestyle_factor 287 291	U.S.
+A2	Geographical_Feature T2
+T3	Lifestyle_factor 358 361	CO2
+A3	Environmental_exposures T3
+A4	LSF_out_of_context T3
+T4	Lifestyle_factor 949 952	IAQ
+A7	Environmental_exposures T4
+T5	Lifestyle_factor 1354 1357	IAQ
+A8	Environmental_exposures T5
+T6	Lifestyle_factor 0 11	Ventilation
+A9	Environmental_exposures T6
+T9	Lifestyle_factor 71 82	ventilation
+A10	Environmental_exposures T9
+T10	Lifestyle_factor 605 615	air change
+A11	Environmental_exposures T10
+T11	Lifestyle_factor 710 721	ventilation
+A12	Environmental_exposures T11
+T12	Lifestyle_factor 995 1006	ventilators
+A13	Environmental_exposures T12
+T14	Lifestyle_factor 1338 1349	ventilation
+A15	Environmental_exposures T14
+T13	Lifestyle_factor 98 105	schools
+A14	Socioeconomic_factors T13
+T15	Lifestyle_factor 47 53	school
+A16	Socioeconomic_factors T15
+T16	Lifestyle_factor 292 299	schools
+A17	Socioeconomic_factors T16
+T17	Lifestyle_factor 593 599	school
+A18	Socioeconomic_factors T17
+T18	Lifestyle_factor 763 769	school
+A19	Socioeconomic_factors T18
+T19	Lifestyle_factor 972 979	schools
+A20	Socioeconomic_factors T19
+T20	Lifestyle_factor 1038 1045	schools
+A21	Socioeconomic_factors T20

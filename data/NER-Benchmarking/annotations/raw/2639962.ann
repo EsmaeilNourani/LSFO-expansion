@@ -1,0 +1,51 @@
+T1	Lifestyle_factor 66 83	dental hygienists
+A1	Occupations T1
+T2	Lifestyle_factor 726 743	dental hygienists
+A2	Occupations T2
+T3	Lifestyle_factor 479 496	dental hygienists
+A3	Occupations T3
+T4	Lifestyle_factor 1042 1059	dental hygienists
+A4	Occupations T4
+T5	Lifestyle_factor 1236 1253	Dental hygienists
+A5	Occupations T5
+T6	Lifestyle_factor 102 115	United States
+A6	Geographical_Feature T6
+T7	Lifestyle_factor 147 161	dental hygiene
+A7	Beauty_and_Cleaning T7
+T8	Lifestyle_factor 902 918	dental hygienist
+A8	Occupations T8
+T9	Lifestyle_factor 1065 1073	dentists
+A9	Occupations T9
+T10	Lifestyle_factor 1077 1094	dental assistants
+A10	Occupations T10
+T11	Lifestyle_factor 924 940	dental assistant
+A11	Occupations T11
+T12	Lifestyle_factor 11 20	education
+A12	Socioeconomic_factors T12
+A13	LSF_out_of_context T12
+T13	Lifestyle_factor 324 333	education
+A14	Socioeconomic_factors T13
+A15	LSF_out_of_context T13
+T14	Lifestyle_factor 370 379	education
+A16	Socioeconomic_factors T14
+A17	LSF_out_of_context T14
+T15	Lifestyle_factor 621 630	education
+A18	Socioeconomic_factors T15
+A19	LSF_out_of_context T15
+T16	Lifestyle_factor 683 692	education
+A20	Socioeconomic_factors T16
+A21	LSF_out_of_context T16
+T17	Lifestyle_factor 1333 1342	education
+A22	Socioeconomic_factors T17
+A23	LSF_out_of_context T17
+T18	Lifestyle_factor 989 998	education
+A24	Socioeconomic_factors T18
+A25	LSF_out_of_context T18
+T19	Lifestyle_factor 1127 1136	education
+A26	Socioeconomic_factors T19
+A27	LSF_out_of_context T19
+T20	Lifestyle_factor 554 563	education
+A28	Socioeconomic_factors T20
+A29	LSF_out_of_context T20
+T21	Lifestyle_factor 893 900	dentist
+A30	Occupations T21

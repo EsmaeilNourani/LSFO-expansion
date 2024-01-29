@@ -1,0 +1,57 @@
+T1	Lifestyle_factor 68 89	Arsenic contamination
+A1	Environmental_exposures T1
+T2	Lifestyle_factor 93 104	groundwater
+A2	Environmental_exposures T2
+T3	Lifestyle_factor 213 220	arsenic
+A3	Environmental_exposures T3
+T5	Lifestyle_factor 307 323	organoarsenicals
+A5	Environmental_exposures T5
+T6	Lifestyle_factor 419 435	Organoarsenicals
+A6	Environmental_exposures T6
+T7	Lifestyle_factor 551 567	organoarsenicals
+T8	Lifestyle_factor 844 860	organoarsenicals
+A7	Environmental_exposures T8
+A8	Environmental_exposures T7
+T9	Lifestyle_factor 699 715	organoarsenicals
+A9	Environmental_exposures T9
+T12	Lifestyle_factor 646 661	organic arsenic
+A10	Environmental_exposures T12
+T13	Lifestyle_factor 1061 1075	arsanilic acid
+A11	Environmental_exposures T13
+T16	Lifestyle_factor 1077 1087	carbarsone
+A14	Environmental_exposures T16
+T18	Lifestyle_factor 1093 1102	nitarsone
+A16	Environmental_exposures T18
+T21	Lifestyle_factor 1256 1283	organoarsenical-laden waste
+A19	Environmental_exposures T21
+T4	Lifestyle_factor 269 285	organoarsenicals
+A4	Environmental_exposures T4
+T11	Lifestyle_factor 0 16	Organoarsenicals
+A13	Environmental_exposures T11
+T14	Lifestyle_factor 1195 1218	agricultural wastewater
+A15	Environmental_exposures T14
+T15	Out-of-scope 337 345	employed
+T17	Lifestyle_factor 20 27	poultry
+A20	Nutrition T17
+A21	LSF_out_of_context T17
+T22	Lifestyle_factor 365 379	arsanilic acid
+A26	Environmental_exposures T22
+T23	Lifestyle_factor 381 391	carbarsone
+A27	Environmental_exposures T23
+T24	Lifestyle_factor 393 402	nitarsone
+A28	Environmental_exposures T24
+T25	Lifestyle_factor 408 417	roxarsone
+A29	Environmental_exposures T25
+T26	Lifestyle_factor 454 472	phenylarsonic acid
+A30	Environmental_exposures T26
+T27	Lifestyle_factor 575 582	poultry
+A31	Nutrition T27
+A32	LSF_out_of_context T27
+T28	Lifestyle_factor 992 1007	organoarsenical
+A33	Environmental_exposures T28
+T29	Lifestyle_factor 1223 1238	solid treatment
+A34	Environmental_exposures T29
+T30	Out-of-scope 1144 1152	products
+T10	Lifestyle_factor 349 363	feed additives
+A12	Environmental_exposures T10
+T19	Out-of-scope 1020 1028	products

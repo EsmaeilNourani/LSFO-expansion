@@ -1,0 +1,10 @@
+T1	LSF_out_of_context 25 30	sleep
+T2	LSF_out_of_context 128 138	Sleep-wake
+T4	Sleep 439 455	sleep-wake cycle
+T5	Sleep 555 563	sleeping
+T3	Sleep 1164 1187	normal sleep regulation
+T6	Sleep 1027 1044	sleep disturbance
+T7	Out-of-scope 645 652	protein
+T8	Sleep 568 574	waking
+T9	Sleep 1069 1087	daytime sleepiness
+T10	Out-of-scope 1152 1160	products

@@ -1,0 +1,14 @@
+T1	Lifestyle_factor 78 94	cyber aggression
+T2	Lifestyle_factor 141 157	cyber aggression
+T3	Lifestyle_factor 768 784	cyber aggression
+T4	Lifestyle_factor 1088 1104	cyber aggression
+T5	Lifestyle_factor 516 532	cyber aggression
+A1	Socioeconomic_factors T1
+A2	Socioeconomic_factors T2
+A3	Socioeconomic_factors T5
+A4	Socioeconomic_factors T3
+A6	Socioeconomic_factors T4
+T6	Lifestyle_factor 958 974	cyber aggression
+A5	Socioeconomic_factors T6
+T7	Lifestyle_factor 264 274	aggression
+A7	Socioeconomic_factors T7

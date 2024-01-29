@@ -1,0 +1,44 @@
+T1	Lifestyle_factor 14 29	color additives
+T3	Lifestyle_factor 79 89	ishikurage
+T4	Lifestyle_factor 127 137	ishikurage
+T5	Lifestyle_factor 186 196	Ishikurage
+T6	Lifestyle_factor 340 350	ishikurage
+T7	Lifestyle_factor 587 597	ishikurage
+T8	Lifestyle_factor 550 560	ishikurage
+T9	Lifestyle_factor 649 662	dietary fiber
+A3	Nutrition T9
+T14	Lifestyle_factor 461 469	amaranth
+A4	Nutrition T14
+T17	Lifestyle_factor 255 263	amaranth
+A7	Nutrition T17
+A5	Nutrition T7
+A8	Nutrition T8
+T2	Lifestyle_factor 409 429	acid detergent fiber
+A9	Nutrition T2
+T12	Lifestyle_factor 512 515	ADF
+A10	Nutrition T12
+T10	Lifestyle_factor 374 397	neutral detergent fiber
+A6	Nutrition T10
+A11	Nutrition T6
+A1	Nutrition T1
+A12	Nutrition T3
+A13	Nutrition T4
+A14	Nutrition T5
+T11	Lifestyle_factor 53 58	water
+A15	Nutrition T11
+A16	LSF_out_of_context T11
+T15	Lifestyle_factor 318 323	water
+A17	Nutrition T15
+A18	LSF_out_of_context T15
+T16	Lifestyle_factor 62 77	blue-green alga
+T18	Lifestyle_factor 159 170	other algae
+A19	Nutrition T18
+T19	Lifestyle_factor 201 214	suizenji nori
+A20	Nutrition T19
+T20	Lifestyle_factor 445 449	alga
+A21	Nutrition T20
+T21	Lifestyle_factor 399 402	NDF
+A22	Nutrition T21
+T22	Lifestyle_factor 431 434	ADF
+A23	Nutrition T22
+A2	Nutrition T16
