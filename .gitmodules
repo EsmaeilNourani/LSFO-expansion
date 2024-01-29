@@ -1,5 +1,5 @@
 [submodule "S1000"]
-	path = S1000
+	path = S1000_Transformer_NER
 	url = https://github.com/EsmaeilNourani/S1000-transformer-ner.git
 [submodule "LSFC"]
 	path = LSFC
