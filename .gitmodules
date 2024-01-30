@@ -1,6 +1,6 @@
 [submodule "S1000_Transformer_NER"]
 	path = S1000_Transformer_NER
-	url = cd 
+	url = https://github.com/EsmaeilNourani/S1000-transformer-ner.git
 	branch = LSF-NER  # Specify the correct branch here
 [submodule "LSFC"]
 	path = LSFC
