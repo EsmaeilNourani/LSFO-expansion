@@ -70,7 +70,7 @@ from Bio import Entrez
 
 
 Entrez.email = 'esmaeil.nourani@gmail.com'
-Entrez.api_key='92520137b872c6c0a9f8b64d214e68bf1f08'  # api_key Personal API key from NCBI. If not set, only 3 queries per second are allowed. 10 queries per seconds otherwise with a valid API key.
+Entrez.api_key=''  # api_key Personal API key from NCBI. If not set, only 3 queries per second are allowed. 10 queries per seconds otherwise with a valid API key.
 
 
 def pre_process(LSF_term):
@@ -133,7 +133,7 @@ def get_pmids(LSF_term,count=100,field='title'):
 
     processed_name=LSF_term.replace(' ','+')
     Entrez.email = 'esmaeil.nourani@gmail.com'
-    Entrez.api_key='92520137b872c6c0a9f8b64d214e68bf1f08'  # api_key Personal API key from NCBI. If not set, only 3 queries per second are allowed. 10 queries per seconds otherwise with a valid API key.
+    Entrez.api_key=''  # api_key Personal API key from NCBI. If not set, only 3 queries per second are allowed. 10 queries per seconds otherwise with a valid API key.
 
     handle = Entrez.esearch(db="pubmed", retmax=count, term=processed_name,field=field,sort='Relevance')  # search within artcile titles and return at most 100 artcil titles
     record = Entrez.read(handle)   
@@ -163,7 +163,7 @@ def get_title(LSF_term,count=100,field='title'):
     
    
     Entrez.email = 'esmaeil.nourani@gmail.com'
-    Entrez.api_key='92520137b872c6c0a9f8b64d214e68bf1f08'  # api_key Personal API key from NCBI. If not set, only 3 queries per second are allowed. 10 queries per seconds otherwise with a valid API key.
+    Entrez.api_key=''  # api_key Personal API key from NCBI. If not set, only 3 queries per second are allowed. 10 queries per seconds otherwise with a valid API key.
 
     pmid_list,total_hit_count=get_pmids(LSF_term,count=count,field=field)
 
@@ -221,7 +221,7 @@ def get_docs(LSF_terms,count=100,field='title',returned_field='title'):
     
 
     Entrez.email = 'esmaeil.nourani@gmail.com'
-    Entrez.api_key='92520137b872c6c0a9f8b64d214e68bf1f08'  # api_key Personal API key from NCBI. If not set, only 3 queries per second are allowed. 10 queries per seconds otherwise with a valid API key.
+    Entrez.api_key=''  # api_key Personal API key from NCBI. If not set, only 3 queries per second are allowed. 10 queries per seconds otherwise with a valid API key.
 
 
     docs=[]
@@ -299,7 +299,7 @@ def get_docs_new(LSF_terms,count=100,field='title',returned_field='title'):
     
 
     Entrez.email = 'esmaeil.nourani@gmail.com'
-    Entrez.api_key='92520137b872c6c0a9f8b64d214e68bf1f08'  # api_key Personal API key from NCBI. If not set, only 3 queries per second are allowed. 10 queries per seconds otherwise with a valid API key.
+    Entrez.api_key=''  # api_key Personal API key from NCBI. If not set, only 3 queries per second are allowed. 10 queries per seconds otherwise with a valid API key.
 
 
     docs=[]
@@ -377,7 +377,7 @@ def get_sentences(LSF_terms,count):
     sentence_tokenizer=nltk.data.load('tokenizers/punkt/english.pickle')
 
     Entrez.email = 'esmaeil.nourani@gmail.com'
-    Entrez.api_key='92520137b872c6c0a9f8b64d214e68bf1f08'  # api_key Personal API key from NCBI. If not set, only 3 queries per second are allowed. 10 queries per seconds otherwise with a valid API key.
+    Entrez.api_key=''  # api_key Personal API key from NCBI. If not set, only 3 queries per second are allowed. 10 queries per seconds otherwise with a valid API key.
 
 
     docs=[]
@@ -489,7 +489,7 @@ def get_match_counts(LSF_terms):
     """
  
     Entrez.email = 'esmaeil.nourani@gmail.com'
-    Entrez.api_key='92520137b872c6c0a9f8b64d214e68bf1f08'  # api_key Personal API key from NCBI. If not set, only 3 queries per second are allowed. 10 queries per seconds otherwise with a valid API key.
+    Entrez.api_key=''  # api_key Personal API key from NCBI. If not set, only 3 queries per second are allowed. 10 queries per seconds otherwise with a valid API key.
 
     match_counts=[]
     for i,name in tqdm(enumerate(LSF_terms)):
@@ -550,7 +550,7 @@ def get_sentences_separated(LSF_terms,count):
     sentence_tokenizer=nltk.data.load('tokenizers/punkt/english.pickle')
 
     Entrez.email = 'esmaeil.nourani@gmail.com'
-    Entrez.api_key='92520137b872c6c0a9f8b64d214e68bf1f08'  # api_key Personal API key from NCBI. If not set, only 3 queries per second are allowed. 10 queries per seconds otherwise with a valid API key.
+    Entrez.api_key=''  # api_key Personal API key from NCBI. If not set, only 3 queries per second are allowed. 10 queries per seconds otherwise with a valid API key.
 
 
     docs=[]
@@ -690,7 +690,7 @@ def get_abstract_sentences_candidates(df_candidates,count):
     sentence_tokenizer=nltk.data.load('tokenizers/punkt/english.pickle')
 
     Entrez.email = 'esmaeil.nourani@gmail.com'
-    Entrez.api_key='92520137b872c6c0a9f8b64d214e68bf1f08'  # api_key Personal API key from NCBI. If not set, only 3 queries per second are allowed. 10 queries per seconds otherwise with a valid API key.
+    Entrez.api_key=''  # api_key Personal API key from NCBI. If not set, only 3 queries per second are allowed. 10 queries per seconds otherwise with a valid API key.
 
 
     docs=[]
