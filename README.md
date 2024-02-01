@@ -18,6 +18,5 @@ Associated Zenodo page for files: [Zenodo - LSFC-expansion](https://zenodo.org/r
 ### Installation and Setup
 To clone this repository along with its submodules, use the following command:
 ```bash
-git clone --recurse-submodules [Your_Main_Repository_URL]
+git clone --recurse-submodules [https://github.com/EsmaeilNourani/LSFC-expansion.git]
 cd LSFC-expansion
-# Additional setup instructions if needed
