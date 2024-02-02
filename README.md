@@ -10,7 +10,7 @@ Associated Zenodo page for files: [Zenodo - LSFC-expansion](https://zenodo.org/r
 ### Submodules
 
 #### LSFC
-[LSFC](https://github.com/EsmaeilNourani/Lifestyle-factors-classification) - This repository contains the actual LSFC. Lifestyle-factors classification (LSFC) is a multilevel hierarchical structure that begins with main lifestyle categories at the top level and extends to specific subcategories and low-level concepts.
+[LSFC](https://github.com/EsmaeilNourani/Lifestyle-factors-classification) - This repository contains the LSFC. Lifestyle-factors classification (LSFC) is a multilevel hierarchical structure that begins with main lifestyle categories at the top level and extends to specific subcategories and low-level concepts.
 
 #### S1000_Transformer_NER
 [S1000_Transformer_NER](https://github.com/EsmaeilNourani/S1000-transformer-ner) - This repository is a fork of the S1000-transformer-ner project. It has been minorly adapted for specific use in training as a Named Entity Recognition (NER) system focused on the detection of Lifestyle factors.
@@ -19,4 +19,3 @@ Associated Zenodo page for files: [Zenodo - LSFC-expansion](https://zenodo.org/r
 To clone this repository along with its submodules, use the following command:
 ```bash
 git clone --recurse-submodules [https://github.com/EsmaeilNourani/LSFC-expansion.git]
-cd LSFC-expansion
