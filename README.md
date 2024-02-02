@@ -15,7 +15,7 @@ Associated Zenodo page for files: [Zenodo - LSFC-expansion](https://zenodo.org/r
 #### S1000_Transformer_NER
 [S1000_Transformer_NER](https://github.com/EsmaeilNourani/S1000-transformer-ner) - This repository is a fork of the S1000-transformer-ner project. It has been minorly adapted for specific use in training as a Named Entity Recognition (NER) system focused on the detection of Lifestyle factors.
 
-### Installation and Setup
+## Installation and Setup
 To clone this repository along with its submodules, use the following command:
 
 ```
@@ -23,7 +23,7 @@ git clone --recurse-submodules [https://github.com/EsmaeilNourani/LSFC-expansion
 ```
 
 
-## Environment setup:
+### Environment setup:
 This code is tested with Python 3.9 installed with conda and the packages from requirements.txt installed in that environment. Running setup.sh will download the pretrained transformer model and install the needed packages. 
 
 Quickstart
