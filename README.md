@@ -32,7 +32,8 @@ conda create -n lsf-env python=3.9
 conda activate lsf-env
 pip install -r requirements.txt
 ./setup.sh
-./S1000_Transformer_NER/scripts/run-ner.sh
+cd S1000_Transformer_NER
+./scripts/run-ner.sh
 ```
 These create enviroment, installs required packages, runs training on hyperparameters set in run-ner.sh and saves the trained model.
 
