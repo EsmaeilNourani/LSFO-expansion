@@ -10,7 +10,6 @@ spacy==3.2.4
 scispacy==0.5.0
 https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.0/en_core_sci_sm-0.5.0.tar.gz
 
-annotation==0.0.0
 annoy==1.17.0
 biopython==1.79
 matplotlib==3.5.1
