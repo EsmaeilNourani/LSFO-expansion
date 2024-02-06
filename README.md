@@ -26,6 +26,8 @@ git clone --recurse-submodules https://github.com/EsmaeilNourani/LSFC-expansion.
 ### Environment setup:
 This code is tested with Python 3.9 installed with conda and the packages from requirements.txt installed in that environment. Running setup.sh will download the pretrained transformer model and install the needed packages. 
 
+###### NER model training:
+
 Quickstart
 ```
 conda create -n lsf-env python=3.9
@@ -37,5 +39,12 @@ cd S1000_Transformer_NER
 ```
 These create enviroment, installs required packages, runs training on hyperparameters set in run-ner.sh and saves the trained model.
 
+###### Tagging documents using the trained NER model:
+Update run-bio-tagger.sh to point the input files and trained model in the previous step:
+```
+cd S1000_Transformer_Tagger
+./scripts/run-bio-tagger.sh
+```
 
-Note: There are some packages (spacy, scispacy) defined in requirements.txt and test data in tagger fomrat that are not needed for running the model training, but are used with the accompanying repo [S1000-transformer-tagger](https://github.com/jouniluoma/S1000-transformer-tagger) meant for tagging documents with the trained model and reproducing the results
+
+Note: There are some packages (spacy, scispacy) defined in requirements.txt and test data in tagger fomrat that are not needed for running the model training, but are used with the accompanying repo [S1000-transformer-tagger](https://github.com/jouniluoma/S1000-transformer-tagger) meant for tagging documents with the trained model and reproducing the results. So it's required to setup the environment again for the Transformer-tagger
