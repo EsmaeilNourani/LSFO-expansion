@@ -40,7 +40,7 @@ cd S1000_Transformer_NER
 These create enviroment, installs required packages, runs training on hyperparameters set in run-ner.sh and saves the trained model.
 
 ###### Tagging documents using the trained NER model:
-Update run-bio-tagger.sh to point the input files and trained model in the previous step:
+Update run-bio-tagger.sh to point the input files and trained model in the previous step and then run the script:
 ```
 cd S1000_Transformer_Tagger
 ./scripts/run-bio-tagger.sh
