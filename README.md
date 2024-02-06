@@ -17,7 +17,7 @@ This page [Zenodo - LSFC-expansion](https://zenodo.org/records/10450308) contain
     * Fine-tuned Transformer-NER model 
  
 * Large-scale runs
-    * Input documents for the large-scale runs (PubMed (as of August 2023) and PMC (as of April 2022))
+    * Input documents for the large-scale runs 36.1 million PubMed abstracts (as of August 2023) and 4.5 million articles from the PMC open access subset (as of April 2022) 
     * Large-scale runs outputs (matched LSFs) from both Tagger and Transformer-based NER (detected over 300 million Lifestyle-factors)
 
 
