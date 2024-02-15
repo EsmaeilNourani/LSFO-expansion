@@ -1,4 +1,5 @@
-## Lifestyle factors in the biomedical literature: comprehensive resources for named entity recognition
+## Lifestyle factors in the biomedical literature: 
+### comprehensive resources for named entity recognition
 
 
 ### Overview
