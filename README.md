@@ -1,4 +1,4 @@
-# LSFC-expansion
+# LSFC 
 
 ## Lifestyle factors in the biomedical literature: comprehensive resources for named entity recognition
 
