@@ -1,8 +1,7 @@
 ## Lifestyle factors in the biomedical literature: 
 ### comprehensive resources for named entity recognition
 
-
-In this work, we present a novel Lifestyle Factor Classification (LSFC), featuring a diverse hierarchical classification of LSFs, serving the development of a dictionary-based NER system that facilitates the recognition and normalization of matched LSF concepts. Additionally, an annotated corpus for LSFs is introduced, enabling the deep learning-based training and evaluation of a transformer-based NER system for LSF detection. Both NER systems were used to detect LSFs in PubMed and PMC Open Access articles, resulting in the identification of over 300 million LSF instances in the biomedical literature.
+We introduce novel resources to address the challenge of recognizing  Lifestyle Factors(LSFs) within biomedical text. We present dictionary-based NER and transformer-based NER systems, both demonstrating promising performance in identifying LSFs. We present a novel Lifestyle Factor Classification (LSFC), featuring a diverse hierarchical classification of LSFs. Additionally, an annotated corpus for LSFs is introduced, enabling the training and evaluation of a transformer-based NER system for LSF detection. Both NER systems were used to detect LSFs in more than 36 Millions PubMed asbtracts and 4.5 Millions PMC Open Access articles, resulting in the identification of over 300 million LSF instances in the biomedical literature.
 
 ### Associated Zenodo page for files
 This page [Zenodo - LSFC-expansion](https://zenodo.org/records/10450308) contains the following set of files:
