@@ -1,10 +1,10 @@
 ## Lifestyle factors in the biomedical literature: 
 ### comprehensive resources for named entity recognition
 
-We introduce novel resources to address the challenge of recognizing  Lifestyle Factors(LSFs) within biomedical text. We present dictionary-based NER and transformer-based NER systems, both demonstrating promising performance in identifying LSFs. We present a novel Lifestyle Factor Classification (LSFC), featuring a diverse hierarchical classification of LSFs. Additionally, an annotated corpus for LSFs is introduced, enabling the training and evaluation of a transformer-based NER system for LSF detection. Both NER systems were used to detect LSFs in more than 36 Millions PubMed asbtracts and 4.5 Millions PMC Open Access articles, resulting in the identification of over 300 million LSF instances in the biomedical literature.
+We introduce novel resources to address the challenge of recognizing  Lifestyle Factors(LSFs) within biomedical text. We present dictionary-based NER and transformer-based NER systems, both demonstrating promising performance in identifying LSFs. We present a novel Lifestyle Factor Ontology (LSFO), featuring a diverse hierarchical classification of LSFs. Additionally, an annotated corpus for LSFs is introduced, enabling the training and evaluation of a transformer-based NER system for LSF detection. Both NER systems were used to detect LSFs in more than 36 Millions PubMed asbtracts and 4.5 Millions PMC Open Access articles, resulting in the identification of over 300 million LSF instances in the biomedical literature.
 
 ### Associated Zenodo page for files
-This page [Zenodo - LSFC-expansion](https://zenodo.org/records/10450308) contains the following set of files:
+This page [Zenodo - LSFO-expansion](https://zenodo.org/records/10450308) contains the following set of files:
 * Tagger dictionary files
 * Lifestyle Factors text corpus
     * Annotated 200 abstracts 
@@ -23,8 +23,8 @@ This page [Zenodo - LSFC-expansion](https://zenodo.org/records/10450308) contain
 
 ### Submodules
 
-#### LSFC
-[LSFC](https://github.com/EsmaeilNourani/Lifestyle-factors-classification) - This repository contains the LSFC. Lifestyle-factors classification (LSFC) is a multilevel hierarchical structure that begins with main lifestyle categories at the top level and extends to specific subcategories and low-level concepts.
+#### LSFO
+[LSFO](https://github.com/EsmaeilNourani/Lifestyle-factors-classification) - This repository contains the LSFO. Lifestyle-factors classification (LSFO) is a multilevel hierarchical structure that begins with main lifestyle categories at the top level and extends to specific subcategories and low-level concepts.
 
 #### S1000_Transformer_NER
 [S1000_Transformer_NER](https://github.com/EsmaeilNourani/S1000-transformer-ner) - This repository is a fork of the S1000-transformer-ner project. It has been minorly adapted for specific use in training as a Named Entity Recognition (NER) system focused on the detection of Lifestyle factors.
@@ -33,7 +33,7 @@ This page [Zenodo - LSFC-expansion](https://zenodo.org/records/10450308) contain
 To clone this repository along with its submodules, use the following command:
 
 ```
-git clone --recurse-submodules https://github.com/EsmaeilNourani/LSFC-expansion.git
+git clone --recurse-submodules https://github.com/EsmaeilNourani/LSFO-expansion.git
 ```
 
 
